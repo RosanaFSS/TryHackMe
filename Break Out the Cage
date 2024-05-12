@@ -1,3 +1,12 @@
-Break Out The Cage
+# Break Out The Cage
 TryHackMe CTF Room
+
+Port scanning
+
+IP = Target IP
+nmap -sV -sC -v $IP -oN initial.nmap
+
+Outcome = 21 ftp (running anonymous login), 22 ssh (open), 80 http (open, running a website)
+
+---------
 
