@@ -1,4 +1,2 @@
 # TryHackMe
-### My accomplishments at TryHackMe!
-
-"https://tryhackme.com/p/Rosana
+### My accomplishments at TryHackMe |  https://tryhackme.com/p/Rosana
