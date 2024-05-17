@@ -1,2 +1,2 @@
-### TryHackMe
-## My accomplishments at TryHackMe!
+# TryHackMe
+### My accomplishments at TryHackMe!
