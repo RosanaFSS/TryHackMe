@@ -1,7 +1,7 @@
 # TryHackMe
-### I share my accomplishments at TryHackMe within
-# Here with my personal account since January 2023 |  https://tryhackme.com/p/Rosana
-# And here participating of WiCyS SANS Security Training Scholarship - Tier 2 | https://tryhackme.com/r/p/CyberRosana
+### I share my accomplishments at TryHackMe
+#### Here with my personal account since January 2023 |  https://tryhackme.com/p/Rosana
+#### and here participating of WiCyS SANS Security Training Scholarship - Tier 2 | https://tryhackme.com/r/p/CyberRosana
 
 
 
