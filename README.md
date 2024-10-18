@@ -2,11 +2,11 @@
 <br>
 
 
-### I share my accomplishments on [TryHackMe](https://tryhackme.com/):
+### I share my accomplishments on [TryHackMe](https://tryhackme.com/) through two key engagements:
 <br>
 
-- #### [here](https://tryhackme.com/p/Rosana) with my personal account since January 2023
-- #### and [here](https://tryhackme.com/r/p/CyberRosana) participating in WiCyS SANS Security Training Scholarship - Tier 2
+- #### The first [here](https://tryhackme.com/p/Rosana) with my personal account, active since January 2023.
+- #### The second involves my participation in the WiCyS SANS Security Training Scholarship - Tier 2 program, [here](https://tryhackme.com/r/p/CyberRosana) 
 
 
 
