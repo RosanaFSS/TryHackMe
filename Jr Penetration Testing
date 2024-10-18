@@ -1,25 +1,11 @@
-Welcome to the TryHackMe Junior Penetration Testing learning path! 
+elcome to the TryHackMe Junior Penetration Testing learning path! 
 Here you'll find links to various topics and resources to enhance your learning journey.
 
 [Introduction to Cyber Security]()
-- Introduction to Pentesting
-- Introduction to Web Hacking
-- Burp Suite
-- Network Security
-- Vulnerability Research
-- Metasploit
-- Privilege Escalation
-
-
-Welcome to the Learning Path page! Here you'll find links to various topics and resources to enhance your learning journey.
-
-## Topics
-
-1. [Basics of Networking](Basics_of_Networking.md)
-2. [Introduction to Cybersecurity](Intro_to_Cybersecurity.md)
-3. [Linux Fundamentals](Linux_Fundamentals.md)
-4. [Web Application Security](Web_App_Security.md)
-5. [Digital Forensics](Digital_Forensics.md)
-6. [Advanced Penetration Testing](Advanced_Penetration_Testing.md)
-7. [Cloud Security](Cloud_Security.md)
-
+[Introduction to Pentesting]()
+[ntroduction to Web Hacking]()
+[Burp Suite]()
+[Network Security]()
+[Vulnerability Research]()
+[Metasploit]()
+[Privilege Escalation]()
