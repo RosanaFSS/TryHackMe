@@ -7,5 +7,5 @@ Here you'll find links to various topics and resources to enhance your learning 
 [Burp Suite]()<br>
 [Network Security]()<br>
 [Vulnerability Research]()<br>
-[Metasploit]()
-[Privilege Escalation]()
+[Metasploit]()<br>
+[Privilege Escalation]()<br>
