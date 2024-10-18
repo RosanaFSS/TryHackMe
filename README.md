@@ -5,8 +5,8 @@
 
 
 
-| Assignment         | Description                | When?     | Hands-on |
-| :------------------: | :------------------------- | :-------- | --------: | 
+| Assignment                                  | Description                | When?     | Hands-on |
+| :-----------------------------------------: | :------------------------- | :-------- | --------: | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" width="120" height="120"> | Introduction to<br>**Cyber Security** learning path | September 19, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" width="120" height="120"> | **Pre Security** learning path | October 5, 2024 | 2 | 
 |  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" width="120" height="120"> | **Web Fundamentals** Learning Path | October 17, 2024 | 2 | 
