@@ -2,7 +2,7 @@
 <br>
 
 
-### I share my accomplishments on [TryHackMe](https://tryhackme.com/) through two key engagements:
+### I share my accomplishments on [TryHackMe](https://tryhackme.com/) through engagements:
 <br>
 
 - #### The first [here](https://tryhackme.com/p/Rosana) with my personal account, active since January 2023.
