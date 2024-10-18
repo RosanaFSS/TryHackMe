@@ -2,10 +2,10 @@
 Here you'll find links to various topics and resources to enhance your learning journey.
 
 [Introduction to Cyber Security]()<br>
-[Introduction to Pentesting]()
-[ntroduction to Web Hacking]()
-[Burp Suite]()
-[Network Security]()
-[Vulnerability Research]()
+[Introduction to Pentesting]()<br>
+[ntroduction to Web Hacking]()<br>
+[Burp Suite]()<br>
+[Network Security]()<br>
+[Vulnerability Research]()<br>
 [Metasploit]()
 [Privilege Escalation]()
