@@ -13,7 +13,7 @@
 
 | Assignment                                  | Description                | When?     | Hands-on |
 | :-----------------------------------------: | :------------------------- | :-------- | --------: | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:400px;"/> | Introduction to<br>**Cyber Security** Learning Path | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:400px;"/> | **Pre Security** Learning Path | October 5, 2024 | 2 | 
-|  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:400px;"/> | **Web Fundamentals** Learning Path | October 17, 2024 | 2 | 
-|  <img src="" style="width:400px;"/> | **Junior Pen Tester** Learning Path | in progress | 2 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | October 5, 2024 | 2 | 
+|  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | October 17, 2024 | 2 | 
+|  <img src="" style="width:280px;"/> | **Junior Pen Tester** Learning Path | in progress | 2 | 
