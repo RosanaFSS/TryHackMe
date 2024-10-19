@@ -30,12 +30,22 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 
 ![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)<br>
 
->> <code>nmap -sCV -sT -Pn -v 10.10.30.6</code><br>
+>> <code>nmap -sCV -sT -Pn -v 10.10.30.67</code><br>
 
 ![image](https://github.com/user-attachments/assets/0c391498-4259-43af-9a86-26b4a6dd0c16)
 
 
 <p><br></p>
+
+<p>I accessed the target IP in port 80 and I did not find anything interesting.</p>
+
+![image](https://github.com/user-attachments/assets/7d9feb1f-49b4-436c-8c2d-85791831fcb5)
+
+<p>Then I proceeded accessing target IP in port 8080 and I found a login form.</p>
+
+![image](https://github.com/user-attachments/assets/db02187c-6d20-4c0e-875f-8f6067772087)
+
+
 
 > 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
 >> <strong>admin:admin</strong><br><br>
