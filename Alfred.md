@@ -18,9 +18,9 @@ Please note that this machine <strong>does not respond to ping</strong> (ICMP) a
 In the foloowing link you´ll find more information about Nishang.https://github.com/samratashok/nishang<br>
 And in tis other link we will find more abour reverse shell scripts. https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1</p>
 
-> 1.1 - <em>How many ports are open? (TCP only)?</em><br>
+<p>> 1.1 - <em>How many ports are open? (TCP only)?</em><br>
 >> <strong>Get-New</strong>
-<br><br>
+</p>
 
 > 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
 >> <strong>Get-New</strong>
