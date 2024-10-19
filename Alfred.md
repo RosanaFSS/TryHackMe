@@ -21,7 +21,7 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 > 1.1 - <em>How many ports are open? (TCP only)?</em><br>
 >> <strong>Get-New</strong>
 
-<p></p>
+<p><br></p>
 
 > 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
 >> <strong>Get-New</strong>
