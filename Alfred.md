@@ -25,7 +25,7 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 
 > 1.1 - <em>How many ports are open? (TCP only)?</em><br>
 >> <strong>3</strong><br><br>
->> Performing Nmap I identified 3 ports open: 80, 3389, and 8080.<br>
+>> Performing Nmap I identified 3 ports open: 80/http, 3389/ssl, and 8080/http.<br>
 >> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
 
 ![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)
