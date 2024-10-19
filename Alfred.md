@@ -27,7 +27,6 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 
 > 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
 >> <strong>Get-New</strong>
-<br><br>
 
 <p><br></p>
 
@@ -43,10 +42,9 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 
 > 1.4 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
 >> <strong>____</strong>
-<br><br>
 
 <p><br></p></em><br>
->> <strong>Get-New</strong>
+>> <strong>_____</strong>
 <br><br>
 
 <p><br></p>
