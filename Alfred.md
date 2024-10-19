@@ -75,8 +75,9 @@ This should spawn a meterpreter shell for you!</p>
 
 <p><h2>Task 3 - Privilege Escalation</h2>
 Now that we have initial access, let's use token impersonation to gain system access.<br><br>
-Windows uses tokens to ensure that accounts have the right privileges to carry out particular actions. Account tokens are assigned to an account when users log in or are authenticated. This is usually done by LSASS.exe(think of this as an authentication process).<br><br>
-This access token consists of:</p>
+Windows uses tokens to ensure that accounts have the right privileges to carry out particular actions. Account tokens are assigned to an account when users log in or are authenticated. This is usually done by LSASS.exe(think of this as an authentication process).</p><br><br>
+
+This access token consists of:<br>
 - User SIDs(security identifier)<br>
 - Group SIDs<br>
 - Privileges<br>
@@ -107,5 +108,44 @@ The privileges of an account(which are either given to the account when created 
 - SeDebugPrivilege<br><br>
 
 There's more reading here.  (inserit LINK)<br><br>
+
+<p><br></p>
+
+> 3.1 - <em>View all the privileges using whoami /priv</em><br>
+>> <strong>No answer needed</strong>
+
+<p><br></p>
+
+<p>You can see that two privileges(SeDebugPrivilege, SeImpersonatePrivilege) are enabled. Let's use the incognito module that will allow us to exploit this vulnerability.</p>
+
+<p><br></p>
+
+> 3.2 - <em>Enter: load incognito to load the incognito module in Metasploit. Please note that you may need to use the use incognito command if the previous command doesn't work. Also, ensure that your Metasploit is up to date.</em><br>
+>> <strong>No answer needed</strong>
+
+<p><br></p>
+
+<p>To check which tokens are available, enter the list_tokens -g. We can see that the BUILTIN\Administrators token is available.</p>
+
+<p><br></p>
+
+> 3.3 - <em>Use the impersonate_token "BUILTIN\Administrators" command to impersonate the Administrators' token. What is the output when you run the getuid command?</em><br>
+>> <strong>_______</strong>
+
+<p><br></p>
+
+<p>Even though you have a higher privileged token, you may not have the permissions of a privileged user (this is due to the way Windows handles permissions - it uses the Primary Token of the process and not the impersonated token to determine what the process can or cannot do).</p>
+
+<p><br></p>
+
+> 3.4 - <em>Ensure that you migrate to a process with correct permissions (the above question's answer). The safest process to pick is the services.exe process. First, use the ps command to view processes and find the PID of the services.exe process. Migrate to this process using the command migrate PID-OF-PROCESS</em><br>
+>> <strong>_______</strong>
+
+<p><br></p>
+
+> 3.5 - <em>Read the root.txt file located at C:\Windows\System32\config</em><br>
+>> <strong>_______</strong>
+
+<p><br></p>
 
 
