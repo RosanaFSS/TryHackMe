@@ -15,8 +15,8 @@ In this room, we'll learn how to exploit a common misconfiguration on a widely u
 Since this is a Windows application, we'll be using <strong>Nishang</strong> to gain initial access. The repository contains a useful set of scripts for initial access, enumeration and privilege escalation. In this case, we'll be using the <strong>reverse shell scripts</strong>.<br><br>
 Please note that this machine <strong>does not respond to ping</strong> (ICMP) and may take a few minutes to boot up.
 
-In the foloowing link you´ll find more information about Nishang.https://github.com/samratashok/nishang
-And in tis other link we will find more abour reverse shell scripts. https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1
+In the foloowing link you´ll find more information about Nishang.https://github.com/samratashok/nishang<br>
+And in tis other link we will find more abour reverse shell scripts. https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1</p>
 
 > <em>How many ports are open? (TCP only)?</em><br>
 >> <strong>Get-New</strong><br>
