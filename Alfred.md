@@ -1,7 +1,7 @@
 <p><h3> Welcome to the <em>TryHackMe</em></h3>
 <h1>Offensive Pentesting learning path> Advanced Exploitation</h1>
 <h2>Alfred</h2>
-#### Learn the basics of Powershell and Powershell Scripting
+Exploit Jenkins to gain an initial shell, then escalate your privileges by exploiting Windows authentication token.
 <br>
 
 ![image](https://github.com/user-attachments/assets/06f2d3fc-73ad-4821-bd01-3606a87ae1f2)
