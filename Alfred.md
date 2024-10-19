@@ -28,7 +28,9 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 >> Performing Nmap I identified 3 ports open: 80/http, 3389/ssl, and 8080/http.<br>
 >> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
 
-![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)
+![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)<br>
+![image](https://github.com/user-attachments/assets/0c391498-4259-43af-9a86-26b4a6dd0c16)
+
 
 <p><br></p>
 
