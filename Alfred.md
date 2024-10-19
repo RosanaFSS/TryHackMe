@@ -7,7 +7,8 @@ October 19, 2024<br><br>
 Type: Easy<br>
 Link: https://tryhackme.com/r/room/alfred</p><br>
 
-![image](https://github.com/user-attachments/assets/89ba97a4-d79a-4c6d-8c86-dab1becb8e05)
+![image](https://github.com/user-attachments/assets/98d40464-d228-45b7-81cd-2f7881ef1cd3)
+
 
 
 <p><h2>Task 1 - Initial Access</h2>
