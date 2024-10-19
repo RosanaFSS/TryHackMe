@@ -11,6 +11,9 @@ Link: https://tryhackme.com/r/room/alfred</p><br>
 
 
 <p><h2>Task 1 - Initial Access</h2>
+
+![image](https://github.com/user-attachments/assets/d7beaef3-c7f9-40af-87a2-4c8d7c35ef0d)
+
 In this room, we'll learn how to exploit a common misconfiguration on a widely used automation server(Jenkins - This tool is used to create continuous integration/continuous development pipelines that allow developers to automatically deploy their code once they made changes to it). After which, we'll use an interesting privilege escalation method to get full system access. <br><br>
 Since this is a Windows application, we'll be using <strong>Nishang</strong> to gain initial access. The repository contains a useful set of scripts for initial access, enumeration and privilege escalation. In this case, we'll be using the <strong>reverse shell scripts</strong>.<br><br>
 Please note that this machine <strong>does not respond to ping</strong> (ICMP) and may take a few minutes to boot up.
