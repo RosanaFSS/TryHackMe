@@ -52,6 +52,16 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 <p> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1".<br>
 Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 
+<p></p>
+
+> 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
+>> <strong>admin:admin</strong><br><br>
+>> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1". Since in this room there is this ****:****, I tried admin:admin.<br>
+
+![image](https://github.com/user-attachments/assets/40a8d242-cbe5-46f5-a3de-8d7241376751)
+
+<p><br></p>
+
 ![image](https://github.com/user-attachments/assets/711c3b4f-8877-4014-9f6e-0cbe192c1e06)
 
 <p>I decided to explore the <em>Project</em> section.</p>
@@ -61,19 +71,6 @@ Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 <p>Next I clicked on <em>Configre</em>.</p>
 
 ![image](https://github.com/user-attachments/assets/822a6e46-066c-4762-8770-d494a86626b9)
-
-
-
-
-<p></p>
-
-
-
-> 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
->> <strong>admin:admin</strong><br><br>
->> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1". Since in this room there is this ****:****, I tried admin:admin.<br>
-
-![image](https://github.com/user-attachments/assets/40a8d242-cbe5-46f5-a3de-8d7241376751)
 
 <p><br></p>
 
