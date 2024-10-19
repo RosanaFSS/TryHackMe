@@ -24,12 +24,17 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 <p><br></p>
 
 > 1.1 - <em>How many ports are open? (TCP only)?</em><br>
->> <strong>_______</strong>
+>> <strong>3</strong><br><br>
+>> Performing Nmap we identified three ports open: 80, 3389, and 8080.
+>> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
+![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)
+
 
 <p><br></p>
 
-> 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
->> <strong>________</strong>
+> 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br><br>
+>> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1". Since in this room there is this ****:****, I tried admin:admin. 
+>> <strong>admin:admin</strong>
 
 <p><br></p>
 
