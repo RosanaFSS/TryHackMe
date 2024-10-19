@@ -84,9 +84,9 @@ This access token consists of:</p>
 <p>Amongst other things. More detailed information can be found here.<br><br>
 
 There are two types of access tokens:<br>
-
 - Primary access tokens: those associated with a user account that are generated on log on<br>
 - Impersonation tokens: these allow a particular process(or thread in a process) to gain access to resources using the token of another (user/client) process <br><br>
+
 For an impersonation token, there are different levels:<br>
 - SecurityAnonymous: current user/client cannot impersonate another user/client<br>
 - SecurityIdentification: current user/client can get the identity and privileges of a client but cannot impersonate the client<br>
