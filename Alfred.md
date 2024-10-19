@@ -64,6 +64,8 @@ Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 
 <p><br></p>
 
+<p>So after employing admin:admin credentials I got here.</p>
+
 ![image](https://github.com/user-attachments/assets/711c3b4f-8877-4014-9f6e-0cbe192c1e06)
 
 <p>I decided to explore the <em>Project</em> section.</p><br>
