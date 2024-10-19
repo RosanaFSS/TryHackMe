@@ -1,4 +1,4 @@
-<p><h3> Welcome to the *TryHackMe*</h3><br>
+<p><h3> Welcome to the <em>TryHackMe</em>em></h3><br>
 # Offensive Pentesting learning path! 
 # Offensive Pentesting learning path> Extra Credit >
 ## Hacking with PowerShell
