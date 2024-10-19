@@ -45,6 +45,17 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 
 ![image](https://github.com/user-attachments/assets/db02187c-6d20-4c0e-875f-8f6067772087)
 
+<p>I tried admin:admin.</p>
+
+![image](https://github.com/user-attachments/assets/db908e1a-4096-4e7a-8ceb-2c798c0867d4)
+
+<p> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1". Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
+
+![image](https://github.com/user-attachments/assets/711c3b4f-8877-4014-9f6e-0cbe192c1e06)
+
+
+<p></p>
+
 
 
 > 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
