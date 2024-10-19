@@ -30,12 +30,13 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 
 ![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)
 
-
 <p><br></p>
 
-> 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br><br>
->> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1". Since in this room there is this ****:****, I tried admin:admin. 
->> <strong>admin:admin</strong>
+> 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
+>> <strong>admin:admin</strong><br><br>
+>> "The Jenkins default username is admin. Reference = https://answers.microsoft.com/en-us/windows/forum/all/i-am-not-able-to-find-user-account-credentials/9b451233-0f79-422d-9c13-20aa6e2831f1". Since in this room there is this ****:****, I tried admin:admin.<br>
+
+![image](https://github.com/user-attachments/assets/40a8d242-cbe5-46f5-a3de-8d7241376751)
 
 <p><br></p>
 
