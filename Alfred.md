@@ -58,6 +58,11 @@ Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 
 ![image](https://github.com/user-attachments/assets/410de7cc-bf99-4915-b904-6b22ba5128a3)
 
+<p>Next I clicked on <em>Configre</em>.</p>
+
+![image](https://github.com/user-attachments/assets/822a6e46-066c-4762-8770-d494a86626b9)
+
+
 
 
 <p></p>
