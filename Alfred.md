@@ -83,16 +83,53 @@ Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 <p><br></p>
 
 <p><strong>You first need to download the Powershell script and make it available for the server to download. You can do this by creating an http server with python: <code>python3 -m http.server</code></strong></p>
-
 <p><br></p>
+![image](https://github.com/user-attachments/assets/30e9d533-5414-46d8-8fcd-56a88a3ca6c5)
+<p><br></p>
+>> <code>wget https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1</code>
+<p><br></p>
+![image](https://github.com/user-attachments/assets/4bfa593a-5b61-4a81-b9a8-72b3892da57a)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/a83e48e6-c2c7-41b0-8b64-e4726066d52f)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/6cbc1495-da11-4738-b2f5-c119b17af57b)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/7cc2d756-ea43-4068-b5f6-77a73779b2c3)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/dc9e733e-b885-471f-b346-327c489d8c11)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/ce8573a5-14d4-4ba0-ab33-5894b7e30561)
+<p><br></p>
+<p>After clicking <em>Build Now</em>, Build #3 is created, and available in <em>Build History</em>.</p>
+<p><br></p>
+![image](https://github.com/user-attachments/assets/6f205086-cff3-497c-89e4-b263fd3efb35)
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/5c109160-a2db-45fa-ba9b-030920dcf7f6)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/b6df0b15-3104-4020-b78c-df7ee3888f49)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/f065059a-498b-4f36-8ff2-410468e63f56)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/b66e40ff-823e-4907-9fd2-bc5aa4785a1b)
+<p><br></p>
+![image](https://github.com/user-attachments/assets/e1c34d79-c2f7-491b-954d-e7bfd2bc0b29)
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/75daf0fb-2ee2-48b5-a9a5-2aebed47c098)
+
+
+![image](https://github.com/user-attachments/assets/56ec077c-ea5f-427f-a75d-4167a479a730)
 
 > 1.3 - <br>
 >> <strong>No answer needed</strong>
 
 <p><br></p>
 
-> 1.4 - <em>What is the username and password for the login panel? (in the format username:password)</em><br>
->> <strong>____</strong>
+> 1.4 - <em>What is the user.txt flag? </em><br>
+>> <strong>79007a09481963edf2e1321abd9ae2a0</strong>
+
+![image](https://github.com/user-attachments/assets/d12e0d34-d555-4afc-bd1e-33a5fd1feffd)
 
 <p><br></p>
 
@@ -118,6 +155,11 @@ This step uses the Metasploit handler to receive the incoming connection from yo
 This should spawn a meterpreter shell for you!</p>
 
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/96599c2e-c0c5-4f8c-af6d-49892287c40d)
+
+
+
 
 > 2.1 - <em>What is the final size of the exe payload that you generated?</em><br>
 >> <strong>_______</strong>
