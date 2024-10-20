@@ -129,8 +129,37 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 ![image](https://github.com/user-attachments/assets/ccde1a0d-9b15-48b7-8dd4-46a91d6a9aa0)
 
 <p>Note that we can use <code>-F</code> to enable fast mode and decrease the number of scanned ports from 1000 to 100 most common ports.<br><br>
+<p><br></p>
 
-It is worth mentioning that the <code>-r</code> option can also be added to scan the ports in consecutive order instead of random order. This option is useful when testing whether ports open in a consistent manner, for instance, when a target boots up. </p>
+> 4.1 - <em>Launch the VM. Open the AttackBox and execute <code>nmap -sT 10.10.240.191</code> via the terminal. A new service has been installed on this VM since our last scan. Which port number was closed in the scan above but is now open on this target VM?</em><br>
+>> <strong>RST</strong><br>
+<p><br></p>
+
+> 4.2 - <em>What is Nmap’s guess about the newly installed service?</em><br>
+>> <strong>SYN</strong><br>
+<p><br></p>
+
+<h2>Task 5 - TCP SYN Scan</h2>
+
+<p>Unprivileged users are limited to connect scan. However, the default scan mode is SYN scan, and it requires a privileged (root or sudoer) user to run it. SYN scan does not need to complete the TCP 3-way handshake; instead, it tears down the connection once it receives a response from the server. Because we didn’t establish a TCP connection, this decreases the chances of the scan being logged. We can select this scan type by using the <code>-sS</code> option. The figure below shows how the TCP SYN scan works without completing the TCP 3-way handshake.</p>
+
+
+<p>The following screenshot from Wireshark shows a TCP SYN scan. The behaviour in the case of closed TCP ports is similar to that of the TCP connect scan.</p>
+
+<p> To better see the difference between the two scans, consider the following screenshot. In the upper half of the following figure, we can see a TCP connect scan <code>-sT</code> traffic. Any open TCP port will require Nmap to complete the TCP 3-way handshake before closing the connection. In the lower half of the following figure, we see how a SYN scan <code>-sS</code> does not need to complete the TCP 3-way handshake; instead, Nmap sends an RST packet once a SYN/ACK packet is received.</p>
+
+<p>TCP SYN scan is the default scan mode when running Nmap as a privileged user, running as root or using sudo, and it is a very reliable choice. It has successfully discovered the open ports you found earlier with the TCP connect scan, yet no TCP connection was fully established with the target.</p>
+<p><br></p>
+
+> 5.1 - <em>Launch the VM. Some new server software has been installed since the last time we scanned it. On the AttackBox, use the terminal to execute <code>nmap -sS 10.10.240.191</code>. What is the new open port?</em><br>
+>> <strong>RST</strong><br>
+<p><br></p>
+
+> 5.2 - <em>What is Nmap’s guess of the service name?</em><br>
+>> <strong>SYN</strong><br>
+<p><br></p>
+
+<h2>Task 6 - UDP Scan</h2>
 
 
 
