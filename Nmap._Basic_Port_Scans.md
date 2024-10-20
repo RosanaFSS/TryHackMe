@@ -173,7 +173,7 @@ Imagem
 <p><br></p>
 
 > 5.2 - <em>What is Nmap’s guess of the service name?</em><br>
->> <strong>irc/strong><br>
+>> <strong>irc</strong><br>
 <p><br></p>
 
 <h2>Task 6 - UDP Scan</h2>
@@ -201,7 +201,7 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 > 6.1 - <em>Launch the VM. On the AttackBox, use the terminal to execute <code>nmap -sU -F -v 10.10.240.191</code>. A new service has been installed since the last scan. What is the UDP port that is now open?</em><br>
 >> <strong>53</strong><br>
 
-![image](https://github.com/user-attachments/assets/4bf8187d-ea55-4465-988c-16db3c6db99d)
+(((inserir imagem))))
 <p></p>
 
 > 6.2 - <em>What is the service name according to Nmap?</em><br>
@@ -210,6 +210,14 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 
 <h2>Task 7 - Fine-Tuning Scope and Performance</h2>
 
+<p>You can specify the ports you want to scan instead of the default 1000 ports. Specifying the ports is intuitive by now. Let’s see some examples:.<br>
+<ul style="list-style-type:square;">
+  <li>port list: <code>-p22,80,443</code>c will scan ports 22, 80 and 443.</li>
+  <li>port range: <code>-p1-1023</code> will scan all ports between 1 and 1023 inclusive, while <code>-p20-25</code> will scan ports between 20 and 25 inclusive.</li>
+</ul><br>
+You can request the scan of all ports by using <code>-p-</code>, which will scan all 65535 ports. If you want to scan the most common 100 ports, add <code>-F</code>. Using <code>--top-ports 10</code>code> will check the ten most common ports.<br><br>
+
+You can control the scan timing using <code>-T<0-5></code>. <code>-T0</code> is the slowest (paranoid), while <code>-T5</code> is the fastest. According to Nmap manual page, there are six templates:
 
 
 
