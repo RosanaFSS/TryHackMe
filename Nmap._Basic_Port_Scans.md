@@ -135,7 +135,7 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 >> <strong>110</strong><br>
 
 ![image](https://github.com/user-attachments/assets/4bf8187d-ea55-4465-988c-16db3c6db99d)
-<p><br></p>
+<p></p>
 
 > 4.2 - <em>What is Nmap’s guess about the newly installed service?</em><br>
 >> <strong>pop3</strong><br>
