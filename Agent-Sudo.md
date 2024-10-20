@@ -2,16 +2,17 @@
 <h1>Learn</h1>
 <h2>Agent Sudo</h2>
 <p>You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.</p>
-<p>October 20, 2024<br></p>
+<p>October 21, 2024<br></p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/e78f69eb-2323-47d4-9684-7b478c5d8041" width="150px" height="150px"/>
 </div>
 <br>
 
-![image](https://github.com/user-attachments/assets/91b404c1-6b40-4ab0-91d2-7bcdc88a6623)
+![image](https://github.com/user-attachments/assets/85de77d1-55cb-403c-aa9d-e86ca373f287)
 
-<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. TryHackMe classified this CTF as Easy. It´s key part of my 166-day-streak. Let´s get started!!<br><br>
+
+<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. TryHackMe classified this CTF as Easy. It´s key part of my 167-day-streak. Let´s get started!!<br><br>
 Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/agentsudoctf)">Agent Sudo</a></p>
 
 <h2>Task 1 - Author note</h2>
@@ -206,6 +207,12 @@ b03d975e8c92a7c04146cfa7a5a313c7
 <p><code>sudo scp james@<target ip>:Alien_autospy.jpg ~/</code></p>
 
 ![image](https://github.com/user-attachments/assets/ab2ed312-51c7-48ce-9c66-420a79c98f1b)
+
+
+
+
+![image](https://github.com/user-attachments/assets/7518fac4-6481-4d10-b8a7-4db7434e8f53)
+
 
 
 
