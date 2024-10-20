@@ -206,7 +206,7 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 
 <p><br></p>
 
-> 6.1 - <em>Launch the VM. On the AttackBox, use the terminal to execute <code>nmap -sU -F -v 10.10.240.191</code>. A new service has been installed since the last scan. What is the UDP port that is now open?</em><br>
+> 6.1 - <em> Launch the VM. On the AttackBox, use the terminal to execute <code> nmap -sU -F -v 10.10.240.191 </code>. A new service has been installed since the last scan. What is the UDP port that is now open? </em><br>
 >> <strong>53</strong><br>
 
 ![image](https://github.com/user-attachments/assets/a3937acb-180d-4b4c-be2f-6aeb934ccbcf)
@@ -215,7 +215,7 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 
 ![image](https://github.com/user-attachments/assets/6028afda-83a2-499c-9302-1f76520b876a)
 
-<p>Then I run the following command line instead <code>sudo nmap -sU 10.10.240.191. Also did not find port 52 open.<br>
+<p>Then I run the following command line instead <code> sudo nmap -sU 10.10.240.191</code>. Also did not find port 52 open.<br>
 And then I run nmap again as following .. guess what?  Also did not find port 53 open.</p>
 
 ![image](https://github.com/user-attachments/assets/5a2ace35-c1f1-4709-a183-4c375ee04a1e)
