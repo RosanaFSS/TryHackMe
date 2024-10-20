@@ -36,11 +36,10 @@ Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02
 </ol>
 
 <p>Moreover, we discuss the different options to specify the ports, the scan rate, and the number of parallel probes.</p>
-<p><br></p>
 
 > 1.1 - <em>Launch the AttackBox by using the Start AttackBox button. You will launch different types of scans against the target VM to gain a solid knowledge of Nmap basic scan types.</em><br>
 >> <strong>No answer needed</strong><br>
-<p>M/p>
+<p><br></p>
 
 <h2>Task 2 - TCP and UDP ports</h2>
 
