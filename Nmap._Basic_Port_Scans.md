@@ -13,10 +13,10 @@ Link: https://tryhackme.com/r/room/nmap02</p>
 
 <p>This room is the second in the Nmap series (part of the <em>Introduction to Network Security module</em>).<br>
 <ol type="1. ">
-    <li>Nmap Live Host Discovery</li>
-    <li>Nmap Basic Port Scans</li>
-    <li>Nmap Advanced Port Scans</li>
-    <li>Nmap Post Port Scans</li>
+    <li>[Nmap Live Host Discovery]()</li>
+    <li>[Nmap Basic Port Scans]()</li>
+    <li>[Nmap Advanced Port Scans]()</li>
+    <li>[Nmap Post Port Scans]()</li>
 </ol></p>
 <p>In the previous room, we focused on discovering online systems. So far, we have covered three steps of a Nmap scan:<br>
 <ol type="1. ">
