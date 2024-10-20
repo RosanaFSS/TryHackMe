@@ -114,8 +114,28 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
 
 ![image](https://github.com/user-attachments/assets/9ed50528-3498-448a-a17a-6adaeb20ecce)
 
-<p>It is important to note that <strong><em>if you are not a privileged user (root or sudoer), a TCP connect scan is the only possible option to discover open TCP ports</em></strong>.<br>
+<p>It is important to note that <strong><em>if you are not a privileged user (root or sudoer), a TCP connect scan is the only possible option to discover open TCP ports</em></strong>.<br><br>
+    
 In the following Wireshark packet capture window, we see Nmap sending TCP packets with SYN flag set to various ports, 256, 443, 143, and so on. By default, Nmap will attempt to connect to the 1000 most common ports. A closed TCP port responds to a SYN packet with RST/ACK to indicate that it is not open. This pattern will repeat for all the closed ports as we attempt to initiate a TCP 3-way handshake with them.</p>
+
+![image](https://github.com/user-attachments/assets/21973052-6dea-4cc9-af96-17d51a346a4f)
+
+<p>We notice that port 143 is open, so it replied with a SYN/ACK, and Nmap completed the 3-way handshake by sending an ACK. The figure below shows all the packets exchanged between our Nmap host and the target system’s port 143. The first three packets are the TCP 3-way handshake being completed. Then, the fourth packet tears it down with an RST/ACK packet.</p>
+
+![image](https://github.com/user-attachments/assets/f0070c1f-1a50-48e1-a49d-229f1f1d2798)
+
+<p>To illustrate the <code>-sT</code> (TCP connect scan), the following command example returned a detailed list of the open ports.<br></p>
+
+![image](https://github.com/user-attachments/assets/ccde1a0d-9b15-48b7-8dd4-46a91d6a9aa0)
+
+<p>Note that we can use <code>-F</code> to enable fast mode and decrease the number of scanned ports from 1000 to 100 most common ports.<br><br>
+
+It is worth mentioning that the <code>-r</code> option can also be added to scan the ports in consecutive order instead of random order. This option is useful when testing whether ports open in a consistent manner, for instance, when a target boots up. </p>
+
+
+
+
+
 
 
 
