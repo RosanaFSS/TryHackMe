@@ -280,13 +280,9 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 
 > 8.1 - <em>Ensure you have taken note of all the scan options covered in this room. It is time to learn more advanced port scanning techniques by joining the <a href="https://tryhackme.com/r/room/nmap03">Nmap Advanced Port Scans</a> room.</em><br>
 >> <strong>No answer needed</strong><br>
-<p><br></p>
+<p></p>
 
-<h2>Room completed</h2>
+<h2>Room Completed</h2>
 
 ![image](https://github.com/user-attachments/assets/9cc99fac-c925-4564-936b-ed231feb9a18)
-
-
-
-
 
