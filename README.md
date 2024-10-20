@@ -28,3 +28,12 @@
 46,350 points <br>
 351 rooms completed <br>
 41 badges</p>
+
+
+<p>October 20, 2024 20:30 h<br>
+1,825 all time worldwide - 880 monthly worldwide<br>
+   34 all time Brazil    -    12 montlhy Brazil (278 points)<br>
+
+46,620 points <br>
+352 rooms completed <br>
+41 badges</p>
