@@ -5,7 +5,7 @@
 <p>October 20, 2024<br></p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1" width="100px" height="100px" />
+    <img src="https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1" width="200px" height="200px"/>
 </div>
 <br>
 
