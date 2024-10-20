@@ -4,15 +4,14 @@
 <p>Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work.</p>
 <p>October 20, 2024<br></p>
 
-![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
-
-<p><br></p>
-
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1" width="100px" height="100px" />
 </div>
+<br>
 
+![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
 
+<p><br></p>
 <p>Type: Easy<br>
 Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a>
 <p><br></p>
