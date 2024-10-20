@@ -6,7 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
 
-<center> <img src="https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1" alt="what image shows" height=300" width="300"> </center>
+<p style="text-align:center;">
+<img src="https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1" alt="THM room" height=300" width="300"> </p>
 
 
 
