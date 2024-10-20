@@ -54,12 +54,35 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
 <p></p>
 <p>However, in practical situations, we need to consider the impact of firewalls. For instance, a port might be open, but a firewall might be blocking the packets. Therefore, Nmap considers the following <strong>six states</strong>:</p>
 <ol type="1. ">
-  <li><strong><em>Open</em></strong>: indicates that a service is listening on the specified port.</li>
-  <li><strong><em>Closed</em></strong>: indicates that no service is listening on the specified port, although the port is accessible. By accessible, we mean that it is reachable and is not blocked by a firewall or other security appliances/programs.</li>
+  <li><strong><em>Open</em></strong>:         indicates that a service is listening on the specified port.</li>
+  <li><strong><em>Closed</em></strong>:       indicates that no service is listening on the specified port, although the port is accessible. By accessible, we mean that it is reachable and is not blocked by a firewall or other security appliances/programs.</li>
+  <li><strong><em>Filtered</em></strong>:     means that Nmap cannot determine if the port is open or closed because the port is not accessible. This state is usually due to a firewall preventing Nmap from reaching that port. Nmap’s packets may be blocked from reaching the port; alternatively, the responses are blocked from reaching Nmap’s host.</li>
+  <li><strong><em>Unfiltered</em></strong>:    means that Nmap cannot determine if the port is open or closed, although the port is accessible. This state is encountered when using an ACK scan <code>-sA</code>.</li>
+  <li><strong><em>Open|Filtered</em></strong>: means that Nmap cannot determine whether the port is open or filtered.</li>
+  <li><strong><em>Closed|Filtered</em></strong>: means that Nmap cannot decide whether a port is closed or filtered.</li>
 </ol>
 <p><br></p>
 
+> 2.1 - <em>Which service uses UDP port 53 by default?.</em><br>
+>> <strong>DNS</strong><br>
+<p><br></p>
 
+> 2.2 - <em>Which service uses TCP port 22 by default?</em><br>
+>> <strong>SSH</strong><br>
+<p><br></p>
+
+> 2.3 - <em>How many port states does Nmap consider?</em><br>
+>> <strong>6</strong><br>
+<p><br></p>
+
+> 2.4 - <em>Which port state is the most interesting to discover as a pentester?</em><br>
+>> <strong>Open</strong><br>
+<p><br></p>
+
+
+<h2>Task 3 - TCP Flags</h2>
+
+<p>Nmap supports different types of TCP port scans. To understand the difference between these port scans, we need to review the TCP header. The TCP header is the first 24 bytes of a TCP segment. The following figure shows the TCP header as defined in <a href="https://datatracker.ietf.org/doc/html/rfc793.html">RFC 793</a>. This figure looks sophisticated at first; however, it is pretty simple to understand. In the first row, we have the source TCP port number and the destination port number. We can see that the port number is allocated 16 bits (2 bytes). In the second and third rows, we have the sequence number and the acknowledgement number. Each row has 32 bits (4 bytes) allocated, with six rows total, making up 24 bytes.<br>
 
 >> Performing Nmap I identified 3 ports open: 80/http, 3389/ssl, and 8080/http.<br>
 >> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
