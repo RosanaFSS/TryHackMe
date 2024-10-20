@@ -164,11 +164,7 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 > 5.1 - <em>Launch the VM. Some new server software has been installed since the last time we scanned it. On the AttackBox, use the terminal to execute <code>nmap -sS 10.10.240.191</code>. What is the new open port?</em><br>
 >> <strong>6667</strong><br>
 
-![image](https://github.com/user-attachments/assets/eb45549e-8749-4c04-b1ee-38b9c5b0ddd0)
-
-<br>
-
-Imagem
+(((Imagem)))
 
 <p><br></p>
 
