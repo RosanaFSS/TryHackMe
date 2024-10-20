@@ -8,7 +8,7 @@
 
 <p>Type: Easy<br>
 Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a>
-<p></p>
+<p><br></p>
 
 <h2>Task 1 - Introduction</h2>
 
