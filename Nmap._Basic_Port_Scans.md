@@ -11,7 +11,7 @@ Link: https://tryhackme.com/r/room/nmap02</p><br>
 
 <h2>Task 1 - Introduction</h2>
 
-<p>This room is the second in the Nmap series (part of the Introduction to Network Security module).<br>
+<p>This room is the second in the Nmap series (part of the <em>Introduction to Network Security module</em>).<br>
 <ol type="1. ">
     <li>Nmap Live Host Discovery</li>
     <li>Nmap Basic Port Scans</li>
