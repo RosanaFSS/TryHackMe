@@ -4,7 +4,11 @@
 <p>Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work.</p>
 <p>October 20, 2024<br></p>
 
-![image](https://github.com/user-attachments/assets/4ef64337-781b-4c57-83cc-bb94140b8d5c)
+![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
+
+![image](https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1)
+
+
 
 <p>Type: Easy<br>
 Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a>
@@ -164,12 +168,15 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 > 5.1 - <em>Launch the VM. Some new server software has been installed since the last time we scanned it. On the AttackBox, use the terminal to execute <code>nmap -sS 10.10.240.191</code>. What is the new open port?</em><br>
 >> <strong>6667</strong><br>
 
-I could not find 6667 port open.  As new ports open I found 993 and 995.
+<p>I could not find 6667 port open.  As new ports open I found 993 and 995.</p>
 
 ![image](https://github.com/user-attachments/assets/76efded2-ff62-4986-8764-09c4debab5d8)
 
 ![image](https://github.com/user-attachments/assets/67faf5bc-2eac-455d-8723-01c103b1a3ee)
 
+<p>I scanned ports 1000 until 10000, and also did not fing 6667 port open.</p>
+
+![image](https://github.com/user-attachments/assets/b6a722b3-258b-40b9-b565-ead53d6f779d)
 
 <p><br></p>
 
@@ -204,14 +211,14 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 
 ![image](https://github.com/user-attachments/assets/a3937acb-180d-4b4c-be2f-6aeb934ccbcf)
 
-I run twice and did not discover 53 port open.<br>
+<p>I run twice and did not discover 53 port open.</p>
 
 ![image](https://github.com/user-attachments/assets/6028afda-83a2-499c-9302-1f76520b876a)
 
-Then I run the following command line instead <code>sudo nmap -sU 10.10.240.191</code>.<br>
+<p>Then I run the following command line instead <code>sudo nmap -sU 10.10.240.191. Also did not find port 52 open.<br>
+And then I run nmap again as following .. guess what?  Also did not find port 53 open.</p>
 
-(inserir imagem)
-
+![image](https://github.com/user-attachments/assets/5a2ace35-c1f1-4709-a183-4c375ee04a1e)
 
 <p></p>
 
@@ -275,7 +282,9 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 >> <strong>No answer needed</strong><br>
 <p><br></p>
 
+<h2>Room completed</h2>
 
+![image](https://github.com/user-attachments/assets/9cc99fac-c925-4564-936b-ed231feb9a18)
 
 
 
