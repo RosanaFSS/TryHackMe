@@ -178,7 +178,7 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 
 ![image](https://github.com/user-attachments/assets/b6a722b3-258b-40b9-b565-ead53d6f779d)
 
-<p><br></p>
+<br>
 
 > 5.2 - <em>What is Nmap’s guess of the service name?</em><br>
 >> <strong>irc</strong><br>
