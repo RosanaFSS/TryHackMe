@@ -18,7 +18,7 @@ Link: https://tryhackme.com/r/room/nmap02</p><br>
     <li>Nmap Advanced Port Scans</li>
     <li>Nmap Post Port Scans</li>
 </ol></p>
-<p>In the previous room, we focused on discovering online systems. So far, we have covered three steps of a Nmap scan:<br?
+<p>In the previous room, we focused on discovering online systems. So far, we have covered three steps of a Nmap scan:<br>
 <ol type="1. ">
   <li>Enumerate targets</li>
   <li>Discover live hosts</li>
