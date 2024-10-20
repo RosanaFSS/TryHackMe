@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ea22e77d-fc2f-4f8a-867c-d6bb9fa08b53)<p><h3> Welcome to the <em>TryHackMe</em></h3>
 <h1>Jr Penetration Tester learning path> Network Security</h1>
-<h2>Nmaps Basic Port Scans</h2>
+<h2>Nmap Basic Port Scans</h2>
 <p>Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work.</p>
 <p>October 20, 2024<br></p>
 
