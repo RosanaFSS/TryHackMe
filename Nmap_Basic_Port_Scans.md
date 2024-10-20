@@ -11,8 +11,9 @@
 
 ![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
 
-<p>Type: Easy<br>
-Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a><br></p>
+<p>Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a><br>
+Hey there, fellow lifelong learner! I´m <a href="https://tryhackme.com/r/p/CyberRosana">Rosana</a>, and I’m genuinely excited to join you on this adventure. This room is classified as Easy, and the estimated completion time is 120 minutes.<br><br>
+It´s key part of my 20-day-streak in WiCyS SANS Security Training Tier 2 program. Let´s get started!!</p>
 
 <h2>Task 1 - Introduction</h2>
 
@@ -271,6 +272,9 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 >> <strong>No answer needed</strong><br>
 
 <h2>Room Completed</h2>
+
+<p>Keep earning, keep growing!<br>
+<a href="[https://tryhackme.com/r/p/CyberRosana](https://www.linkedin.com/in/rosanafssantos/)">Rosana</a></p>
 
 ![image](https://github.com/user-attachments/assets/9cc99fac-c925-4564-936b-ed231feb9a18)
 
