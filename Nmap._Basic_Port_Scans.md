@@ -138,7 +138,7 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 <p></p>
 
 > 4.2 - <em>What is Nmap’s guess about the newly installed service?</em><br>
->> <strong>pop3</strong><br>
+>> <strong>POP3</strong><br>
 <p><br></p>
 
 <h2>Task 5 - TCP SYN Scan</h2>
