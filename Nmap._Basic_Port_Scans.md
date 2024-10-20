@@ -6,32 +6,62 @@
 October 20, 2024<br><br>
 Type: Easy<br>
 Link: https://tryhackme.com/r/room/nmap02</p><br>
-Estimated time to solve: 120 mon
 
-![image](https://github.com/user-attachments/assets/98d40464-d228-45b7-81cd-2f7881ef1cd3)
+![image](https://github.com/user-attachments/assets/4ef64337-781b-4c57-83cc-bb94140b8d5c)
 
+<h2>Task 1 - Introduction</h2>
 
+<p>This room is the second in the Nmap series (part of the Introduction to Network Security module).</p
+<ul style="list-style-type:square">
+    <li>Nmap Live Host Discovery</li>
+    <li>Nmap Basic Port Scans</li>
+    <li>Nmap Advanced Port Scans</li>
+    <li>Nmap Post Port Scans</li>
+</ul>
+<p>In the previous room, we focused on discovering online systems. So far, we have covered three steps of a Nmap scan:</p>
+<ol type="1. ">
+  <li>Enumerate targets</li>
+  <li>Discover live hosts</li>
+  <li>Reverse-DNS lookup</li>
+</ol>
 
-<p><h2>Task 1 - Initial Access</h2>
+![image](https://github.com/user-attachments/assets/320e3fd4-3334-4107-b771-7db4dc694c61)
 
-![image](https://github.com/user-attachments/assets/d7beaef3-c7f9-40af-87a2-4c8d7c35ef0d)
+<p>The next step would be checking which ports are open and listening and which ports are closed. Therefore, in this room and the next one, we focus on port scanning and the different types of port scans used by <strong>nmap</strong>. This room explains:</p>
+<ol type="1. ">
+  <li>TCP connect port scan</li>
+  <li>TCP SYN port scan</li>
+  <li>UDP por scan</li>
+</ol>
 
-In this room, we'll learn how to exploit a common misconfiguration on a widely used automation server(Jenkins - This tool is used to create continuous integration/continuous development pipelines that allow developers to automatically deploy their code once they made changes to it). After which, we'll use an interesting privilege escalation method to get full system access. <br><br>
-Since this is a Windows application, we'll be using <strong>Nishang</strong> to gain initial access. The repository contains a useful set of scripts for initial access, enumeration and privilege escalation. In this case, we'll be using the <strong>reverse shell scripts</strong>.<br><br>
-Please note that this machine <strong>does not respond to ping</strong> (ICMP) and may take a few minutes to boot up.
-
-In the following link you´ll find more information about Nishang.https://github.com/samratashok/nishang<br>
-And in tis other link we will find more abour reverse shell scripts. https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1</p>
-
+<p>Moreover, we discuss the different options to specify the ports, the scan rate, and the number of parallel probes.</p>
 <p><br></p>
 
-> 1.1 - <em>How many ports are open? (TCP only)?</em><br>
->> <strong>3</strong><br><br>
+> 1.1 - <em>Launch the AttackBox by using the Start AttackBox button. You will launch different types of scans against the target VM to gain a solid knowledge of Nmap basic scan types.</em><br>
+>> <strong>No answer needed</strong><br><br>
+<p><br></p>
+
+<h2>Task 2 - TCP and UDP ports</h2>
+
+<p>In the same sense that an IP address specifies a host on a network among many others, <strong>a TCP port or UDP port is used to identify a network service running on that host</strong>.<br><br>
+
+A server provides the network service, and it adheres to a specific network protocol. Examples include providing time, responding to DNS queries, and serving web pages. A port is usually linked to a service using that specific port number. For instance, an HTTP server would bind to TCP port 80 by default; moreover, if the HTTP server supports SSL/TLS, it would listen on TCP port 443. (TCP ports 80 and 443 are the default ports for HTTP and HTTPS; however, the webserver administrator might choose other port numbers if necessary.) Furthermore, no more than one service can listen on any TCP or UDP port (on the same IP address).<br><br>
+At the risk of oversimplification, <strong>we can classify ports in two states</strong>:</p>
+<ol type="1. ">
+  <li>Open port indicates that there is some service listening on that port.</li>
+  <li>Closed port indicates that there is no service listening on that port.</li>
+</ol>
+<p><br></p>
+<p>However, in practical situations, we need to consider the impact of firewalls. For instance, a port might be open, but a firewall might be blocking the packets. Therefore, Nmap considers the following <strong>six states</strong>:</p>
+<ol type="1. ">
+  <li><strong>Open</strong>: indicates that a service is listening on the specified port.</li>
+  <li><strong>Closed</strong>: indicates that no service is listening on the specified port, although the port is accessible. By accessible, we mean that it is reachable and is not blocked by a firewall or other security appliances/programs.</li>
+</ol>
+<p><br></p>
+
+
+
 >> Performing Nmap I identified 3 ports open: 80/http, 3389/ssl, and 8080/http.<br>
 >> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
 
-![image](https://github.com/user-attachments/assets/b73da9a5-0b5e-4f75-9a58-ce2df7996060)<br>
 
->> <code>nmap -sCV -sT -Pn -v 10.10.30.67</code><br>
-
-![image](https://github.com/user-attachments/assets/0c391498-4259-43af-9a86-26b4a6dd0c16)
