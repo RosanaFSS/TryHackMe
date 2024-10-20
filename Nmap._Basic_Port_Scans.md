@@ -217,7 +217,15 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 </ul><br>
 You can request the scan of all ports by using <code>-p-</code>, which will scan all 65535 ports. If you want to scan the most common 100 ports, add <code>-F</code>. Using <code>--top-ports 10</code>code> will check the ten most common ports.<br><br>
 
-You can control the scan timing using <code>-T<0-5></code>. <code>-T0</code> is the slowest (paranoid), while <code>-T5</code> is the fastest. According to Nmap manual page, there are six templates:
+You can control the scan timing using <code>-T<0-5></code>. <code>-T0</code> is the slowest (paranoid), while <code>-T5</code> is the fastest. According to Nmap manual page, there are six templates:<br>
+<ul style="list-style-type:square;">
+  <li>paranoid (0)</li>
+  <li>sneaky (1)</li>
+  <li>polite (2)</li>
+  <li>normal (3)</li>
+      <li>polite (2)</li>
+  <li>normal (3)</li>
+</ul><br>
 
 
 
