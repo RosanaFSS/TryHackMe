@@ -5,7 +5,7 @@
 <br>
 October 20, 2024<br><br>
 Type: Easy<br>
-Link: https://tryhackme.com/r/room/nmap02</p><br>
+Link: https://tryhackme.com/r/room/nmap02</p>
 
 ![image](https://github.com/user-attachments/assets/4ef64337-781b-4c57-83cc-bb94140b8d5c)
 
