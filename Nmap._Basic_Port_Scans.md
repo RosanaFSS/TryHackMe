@@ -82,7 +82,22 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
 
 <h2>Task 3 - TCP Flags</h2>
 
-<p>Nmap supports different types of TCP port scans. To understand the difference between these port scans, we need to review the TCP header. The TCP header is the first 24 bytes of a TCP segment. The following figure shows the TCP header as defined in <a href="https://datatracker.ietf.org/doc/html/rfc793.html">RFC 793</a>. This figure looks sophisticated at first; however, it is pretty simple to understand. In the first row, we have the source TCP port number and the destination port number. We can see that the port number is allocated 16 bits (2 bytes). In the second and third rows, we have the sequence number and the acknowledgement number. Each row has 32 bits (4 bytes) allocated, with six rows total, making up 24 bytes.<br>
+<p>Nmap supports different types of TCP port scans. To understand the difference between these port scans, we need to review the TCP header. The TCP header is the first 24 bytes of a TCP segment. The following figure shows the TCP header as defined in <a href="https://datatracker.ietf.org/doc/html/rfc793.html">RFC 793</a>. This figure looks sophisticated at first; however, it is pretty simple to understand. In the first row, we have the source TCP port number and the destination port number. We can see that the port number is allocated 16 bits (2 bytes). In the second and third rows, we have the sequence number and the acknowledgement number. Each row has 32 bits (4 bytes) allocated, with six rows total, making up 24 bytes.</p>
+
+![image](https://github.com/user-attachments/assets/0a33593e-e232-432d-8a38-00ec8ac6978e)
+
+<p>In particular, we need to focus on the flags that Nmap can set or unset. We have highlighted the TCP flags in red. Setting a flag bit means setting its value to 1. From left to right, the TCP header flags are:</p>
+<ol type="1. ">
+  <li><strong><em>URG</em></strong>:        Urgent flag indicates that the urgent pointer filed is significant. The urgent pointer indicates that the incoming data is urgent, and that a TCP segment with the URG flag set is processed immediately without consideration of having to wait on previously sent TCP segments.</li>
+  <li><strong><em>ACK</em></strong>:       Acknowledgement flag indicates that the acknowledgement number is significant. It is used to acknowledge the receipt of a TCP segment.</li>
+  <li><strong><em>PSH</em></strong>:      Push flag asking TCP to pass the data to the application promptly.</li>
+  <li><strong><em>RST</em></strong>:    Reset flag is used to reset the connection. Another device, such as a firewall, might send it to tear a TCP connection. This flag is also used when data is sent to a host and there is no service on the receiving end to answer.</li>
+  <li><strong><em>SYN</em></strong>: Synchronize flag is used to initiate a TCP 3-way handshake and synchronize sequence numbers with the other host. The sequence number should be set randomly during TCP connection establishment.</li>
+  <li><strong><em>FIN</em></strong>: The sender has no more data to send.</li>
+</ol>
+<p><br></p>
+
+
 
 >> Performing Nmap I identified 3 ports open: 80/http, 3389/ssl, and 8080/http.<br>
 >> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
