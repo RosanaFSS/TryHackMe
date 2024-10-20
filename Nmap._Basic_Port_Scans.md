@@ -197,7 +197,17 @@ The following figure shows that if we send a UDP packet to an open UDP port, we 
 > 6.1 - <em>Launch the VM. On the AttackBox, use the terminal to execute <code>nmap -sU -F -v 10.10.240.191</code>. A new service has been installed since the last scan. What is the UDP port that is now open?</em><br>
 >> <strong>53</strong><br>
 
-(((inserir imagem))))
+![image](https://github.com/user-attachments/assets/a3937acb-180d-4b4c-be2f-6aeb934ccbcf)
+
+I run twice and did not discover 53 port open.<br>
+
+![image](https://github.com/user-attachments/assets/6028afda-83a2-499c-9302-1f76520b876a)
+
+Then I run the following command line instead <code>sudo nmap -sU 10.10.240.191</code>.<br>
+
+(inserir imagem)
+
+
 <p></p>
 
 > 6.2 - <em>What is the service name according to Nmap?</em><br>
@@ -222,6 +232,29 @@ You can control the scan timing using <code>-T<0-5></code>. <code>-T0</code> is 
       <li>polite (2)</li>
   <li>normal (3)</li>
 </ul><br>
+<p> To avoid IDS alerts, you might consider <code>-T0</code> or <code>-T1</code>. For instance, <code>-T0</code> scans one port at a time and waits 5 minutes between sending each probe, so you can guess how long scanning one target would take to finish. If you don’t specify any timing, Nmap uses normal <code>-T3</code>. Note that <code>-T5</code> is the most aggressive in terms of speed; however, this can affect the accuracy of the scan results due to the increased likelihood of packet loss. Note that <code>-T4</code> is often used during CTFs and when learning to scan on practice targets, whereas -T1 is often used during real engagements where stealth is more important.<br><br>
+
+Alternatively, you can choose to control the packet rate using <code>--min-rate <number></code> and <code>--max-rate <number></code>. For example, <code>--max-rate 10</code> or <code>--max-rate=10</code> ensures that your scanner is not sending more than ten packets per second.<br><br>
+
+Moreover, you can control probing parallelization using <code>--min-parallelism <numprobes></code> and <code>--max-parallelism <numprobes></code>. Nmap probes the targets to discover which hosts are live and which ports are open; probing parallelization specifies the number of such probes that can be run in parallel. For instance, <code>--min-parallelism=512</code> pushes Nmap to maintain at least 512 probes in parallel; these 512 probes are related to host discovery and open ports.</p>
+<p><br></p>
+
+> 7.1 - <em>What is the option to scan all the TCP ports between 5000 and 5500?</em><br>
+>> <strong>-p-5000-5500</strong><br>
+
+<p><br></p>
+
+> 7.2 - <em>How can you ensure that Nmap will run at least 64 probes in parallel?</em><br>
+>> <strong>--min-parallelism=64</strong><br>
+
+<p><br></p>
+
+> 7.3 - <em>What option would you add to make Nmap very slow and paranoid?</em><br>
+>> <strong>-T0</strong><br>
+<p><br></p>
+
+
+<h2>Task 8 - Summary</h2>
 
 
 
@@ -229,11 +262,5 @@ You can control the scan timing using <code>-T<0-5></code>. <code>-T0</code> is 
 
 
 
-
-
-
-
->> Performing Nmap I identified 3 ports open: 80/http, 3389/ssl, and 8080/http.<br>
->> <code>nmap -Pn -sC -sV -sS -p- -T4 10.10.30.67</code><br>
 
 
