@@ -11,7 +11,7 @@
 
 ![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
 
-<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. TryHackMe classified this room as Easy, and the estimated completion time in 120 minutes. It´s key part of my 20-day-streak in <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training</a> Stage 2 Program. Let´s get started!!<br><br>
+<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. TryHackMe classified this room as Easy, and the estimated completion time in 120 minutes. It´s key part of my 22-day-streak in <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training</a> Stage 2 Program. Let´s get started!!<br><br>
 Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a></p>
 
 <h2>Task 1 - Introduction</h2>
