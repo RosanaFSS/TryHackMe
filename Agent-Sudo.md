@@ -47,6 +47,21 @@ If you are stuck inside the black hole, post on the forum or ask in the TryHackM
 
 ![image](https://github.com/user-attachments/assets/24157b66-2e18-4f31-8a99-b02c72423b87)
 
+
+-----
+
+![image](https://github.com/user-attachments/assets/44ea2993-a978-4630-96ff-ddf2dd417319)
+
+![image](https://github.com/user-attachments/assets/a71644c1-a923-4e81-9de5-9ae63c717b38)
+
+![image](https://github.com/user-attachments/assets/8b5e3c9a-3eec-4e10-872a-3334c15effb3)
+
+![image](https://github.com/user-attachments/assets/1b7e090c-2b71-4886-95f3-d36eb6c1f72b)
+
+
+
+
+
 chris<br>
 crystal
 
@@ -194,6 +209,35 @@ b03d975e8c92a7c04146cfa7a5a313c7
 
 
 
+![image](https://github.com/user-attachments/assets/f39f629d-c1ca-4831-b72b-d9ed1a4d5580)
+
+![image](https://github.com/user-attachments/assets/e717e0a5-c8cf-49f7-a5cd-c74977b2dd77)
+
+![image](https://github.com/user-attachments/assets/de4dc09e-c181-437a-ae55-94ad4d1b5885)
+
+![image](https://github.com/user-attachments/assets/9d38d7d9-66da-4070-a019-e3664f0582b2)
+
+![image](https://github.com/user-attachments/assets/c3fdf1f3-3145-4329-aa82-879732ae342a)
+
+![image](https://github.com/user-attachments/assets/873ea0ea-ea34-4b3f-b389-f0aed795e9c3)
+
+![image](https://github.com/user-attachments/assets/794ffd1f-1027-4662-b549-133c941a405c)
+
+![image](https://github.com/user-attachments/assets/de0d68e6-0f24-45e6-8d0b-60ba09b640ad)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/97a30231-95c8-4a62-9cb6-d96f3a9339fe)
 
 
 
