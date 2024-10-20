@@ -220,11 +220,9 @@ And then I run nmap again as following .. guess what?  Also did not find port 53
 
 ![image](https://github.com/user-attachments/assets/5a2ace35-c1f1-4709-a183-4c375ee04a1e)
 
-<p></p>
-
 > 6.2 - <em>What is the service name according to Nmap?</em><br>
 >> <strong>domain</strong><br>
-<p><br></p>
+<p></p>
 
 <h2>Task 7 - Fine-Tuning Scope and Performance</h2>
 
@@ -253,18 +251,14 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 
 > 7.1 - <em>What is the option to scan all the TCP ports between 5000 and 5500?</em><br>
 >> <strong>-p-5000-5500</strong><br>
-
-<p><br></p>
+<p></p>
 
 > 7.2 - <em>How can you ensure that Nmap will run at least 64 probes in parallel?</em><br>
 >> <strong>--min-parallelism=64</strong><br>
-
-<p><br></p>
+<p></p>
 
 > 7.3 - <em>What option would you add to make Nmap very slow and paranoid?</em><br>
->> <strong>-T0</strong><br>
-<p><br></p>
-
+>> <strong>-T0</strong><br><p></p>
 
 <h2>Task 8 - Summary</h2>
 
