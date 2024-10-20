@@ -29,6 +29,131 @@ If you are stuck inside the black hole, post on the forum or ask in the TryHackM
 <p>Enumerate the machine and get all the important information.</p>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/d546fa08-249c-4ed0-a4f9-334345317574)
+
+![image](https://github.com/user-attachments/assets/ee588800-45e4-4284-9fbe-750bfc2f242e)
+
+![image](https://github.com/user-attachments/assets/b4293f1d-28db-4ca8-b39c-513437299700)
+
+![image](https://github.com/user-attachments/assets/95ed8ed9-f97a-4e47-9fa7-cc16b5a258d4)
+
+![image](https://github.com/user-attachments/assets/9d512800-b9a7-4bd2-be45-311c6538a19b)
+
+![image](https://github.com/user-attachments/assets/62c1ac57-7b62-4a7d-8c82-7fcfedb2248c)
+
+![image](https://github.com/user-attachments/assets/9b37b066-0628-40cc-be7c-0ecba764696e)
+
+![image](https://github.com/user-attachments/assets/15f6cdf6-8569-43fa-808e-8451892b3624)
+
+![image](https://github.com/user-attachments/assets/24157b66-2e18-4f31-8a99-b02c72423b87)
+
+chris<br>
+crystal
+
+![image](https://github.com/user-attachments/assets/590adc6f-f46c-4f18-ae43-c33c1df46ae4)
+
+<p> FTP and downloaded 3 files </P>
+
+![image](https://github.com/user-attachments/assets/213047eb-243a-4861-ba40-9c55027b2cef)
+
+![image](https://github.com/user-attachments/assets/ecedcbd4-53a0-4f64-9d09-f8574637ca9c)
+
+
+<p> To_agentJ.txt  content.</p>
+
+![image](https://github.com/user-attachments/assets/63ade370-a69f-4891-99cb-efb5f95bb75b)
+
+<p> exiftool cutie.png</p>
+
+![image](https://github.com/user-attachments/assets/122d1496-9fcf-444a-bfe2-3da61f605a06)
+
+<p>using <code>binwalk</code> I did not find anything juicy in <code>cute-alien.jpg</code>.</p>
+
+![image](https://github.com/user-attachments/assets/29d8701a-f5a4-43a2-bf70-48fcf5397d6c)
+
+<p>When using <code>binwalk</code> to <code>cutie.png</code>, I found something interesting: reference to <code>To_agentR.txt</code> </p>
+
+<p> So here I found a hidden zip file hidden in the image, which hides a txt file called To_agentR.txt.</p>
+
+<p>Let´s extract the file by running the same command, together with the -e flag.</p>
+
+<code>binwalk -e cutie.png</code>
+
+![image](https://github.com/user-attachments/assets/3d62e27d-620a-490d-89a5-f55acd2ac63e)
+
+![image](https://github.com/user-attachments/assets/81f70c5f-76b9-4926-ac21-10f06b72b240)
+
+![image](https://github.com/user-attachments/assets/80b844a8-a05a-472d-b9d7-72a1c597c727)
+
+![image](https://github.com/user-attachments/assets/174b7857-ff82-41a7-9e2b-519980cf0a31)
+
+![image](https://github.com/user-attachments/assets/e2dce9c8-aef8-40cd-8b59-3f55216019f4)
+
+![image](https://github.com/user-attachments/assets/be553b6a-8c59-4b00-8df2-1551ac9b30a3)
+
+<p>I used Decoder feature of Burp Suite, and found somthing interesting.</p>
+
+![image](https://github.com/user-attachments/assets/6fd90439-07c4-459c-ac33-ed6a9aaec5be)
+
+
+![image](https://github.com/user-attachments/assets/12af0b68-e68d-4775-b87b-9a609e3d991f)
+
+![image](https://github.com/user-attachments/assets/e65a71a6-5837-492c-868d-4f9dffd0f819)
+
+![image](https://github.com/user-attachments/assets/cee7616a-dc5b-4a00-bbda-253f6945684e)
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4c35e570-94bd-4c2f-8334-7beaf09b7468)
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/0d3f990c-19ec-4085-85bb-354894d66b1a)
+
+<p>As it wa mentioned about <code>Trailer data after PNG IEND chunk</code>, i decided to dump the file to hex format by using <code>xxd</code>.</p>
+
+
+<code>xxd cutie.png</code>
+
+![image](https://github.com/user-attachments/assets/6b7674fe-5c8d-49be-8516-5967954cec70)
+
+
+
+<h2>Task 4 - Capture the user flag</h2>
+
+<p>You know the drill.<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > 2.1 - <em>How many ports are open?.</em><br>
 >> <strong>3</strong><br>
 <p><br></p>
@@ -43,4 +168,13 @@ If you are stuck inside the black hole, post on the forum or ask in the TryHackM
 
 
 <h2>Task 3 - TCP Flags</h2>
+
+> 3.1 - <em>What is the user flag?</em><br>
+>> <strong>No answer needed</strong><br>
+<p></p>
+
+> 3.2 - <em>What is the incident of the photo called?</em><br>
+>> <strong>No answer needed</strong><br>
+<p><br></p>
+
 
