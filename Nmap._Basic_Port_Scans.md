@@ -162,16 +162,57 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 <p><br></p>
 
 > 5.1 - <em>Launch the VM. Some new server software has been installed since the last time we scanned it. On the AttackBox, use the terminal to execute <code>nmap -sS 10.10.240.191</code>. What is the new open port?</em><br>
->> <strong>RST</strong><br>
+>> <strong>6667</strong><br>
 
 ![image](https://github.com/user-attachments/assets/eb45549e-8749-4c04-b1ee-38b9c5b0ddd0)
+
+<br>
+
+Imagem
+
 <p><br></p>
 
 > 5.2 - <em>What is Nmap’s guess of the service name?</em><br>
->> <strong>SYN</strong><br>
+>> <strong>irc/strong><br>
 <p><br></p>
 
 <h2>Task 6 - UDP Scan</h2>
+
+<p>UDP is a connectionless protocol, and hence it does not require any handshake for connection establishment. We cannot guarantee that a service listening on a UDP port would respond to our packets. However, if a UDP packet is sent to a closed port, an ICMP port unreachable error (type 3, code 3) is returned. You can select UDP scan using the <code>-sU</code> option; moreover, you can combine it with another TCP scan.<br><br>
+
+The following figure shows that if we send a UDP packet to an open UDP port, we cannot expect any reply in return. Therefore, sending a UDP packet to an open port won’t tell us anything..</p>
+
+![image](https://github.com/user-attachments/assets/229abe82-a7b3-46d1-8e0b-c83a9fc197f8)
+
+<p>However, as shown in the figure below, we expect to get an ICMP packet of type 3, destination unreachable, and code 3, port unreachable. In other words, the UDP ports that don’t generate any response are the ones that Nmap will state as open.</p>
+
+![image](https://github.com/user-attachments/assets/e63cb762-90d2-451e-8c25-e8a4ecfe9768)
+
+<p>In the Wireshark capture below, we can see that every closed port will generate an ICMP packet destination unreachable (port unreachable).</p>
+
+![image](https://github.com/user-attachments/assets/d5f22b64-1324-4942-b1b8-62e17f475482)
+
+<p>Launching a UDP scan against this Linux server proved valuable, and indeed, we learned that port 111 is open. On the other hand, Nmap cannot determine whether UDP port 68 is open or filtered.</p>
+
+![image](https://github.com/user-attachments/assets/02221774-eec5-42c9-b455-5c4f20b17375)
+
+<p><br></p>
+
+> 6.1 - <em>Launch the VM. On the AttackBox, use the terminal to execute <code>nmap -sU -F -v 10.10.240.191</code>. A new service has been installed since the last scan. What is the UDP port that is now open?</em><br>
+>> <strong>53</strong><br>
+
+![image](https://github.com/user-attachments/assets/4bf8187d-ea55-4465-988c-16db3c6db99d)
+<p></p>
+
+> 6.2 - <em>What is the service name according to Nmap?</em><br>
+>> <strong>domain</strong><br>
+<p><br></p>
+
+<h2>Task 7 - Fine-Tuning Scope and Performance</h2>
+
+
+
+
 
 
 
