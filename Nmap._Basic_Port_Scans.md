@@ -39,8 +39,8 @@ Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02
 <p><br></p>
 
 > 1.1 - <em>Launch the AttackBox by using the Start AttackBox button. You will launch different types of scans against the target VM to gain a solid knowledge of Nmap basic scan types.</em><br>
->> <strong>No answer needed</strong><br><br>
-<p><br></p>
+>> <strong>No answer needed</strong><br>
+<p>M/p>
 
 <h2>Task 2 - TCP and UDP ports</h2>
 
