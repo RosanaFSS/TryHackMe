@@ -11,10 +11,8 @@
 
 ![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
 
-<p><br></p>
 <p>Type: Easy<br>
-Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a>
-<p><br></p>
+Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a><br></p>
 
 <h2>Task 1 - Introduction</h2>
 
