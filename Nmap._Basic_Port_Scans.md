@@ -24,7 +24,7 @@ Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02
   <li>Enumerate targets</li>
   <li>Discover live hosts</li>
   <li>Reverse-DNS lookup</li>
-</ol><br></p>
+</ol></p>
 
 ![image](https://github.com/user-attachments/assets/320e3fd4-3334-4107-b771-7db4dc694c61)
 
