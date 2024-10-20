@@ -17,13 +17,13 @@ Link: https://tryhackme.com/r/room/nmap02</p>
     <li>Nmap Basic Port Scans</li>
     <li>Nmap Advanced Port Scans</li>
     <li>Nmap Post Port Scans</li>
-</ol><br></p>
+</ol></p>
 <p>In the previous room, we focused on discovering online systems. So far, we have covered three steps of a Nmap scan:<br>
 <ol type="1. ">
   <li>Enumerate targets</li>
   <li>Discover live hosts</li>
   <li>Reverse-DNS lookup</li>
-</ol></p>
+</ol><br></p>
 
 ![image](https://github.com/user-attachments/assets/320e3fd4-3334-4107-b771-7db4dc694c61)
 
