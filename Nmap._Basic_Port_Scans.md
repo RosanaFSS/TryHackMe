@@ -1,4 +1,4 @@
-<p><h3> Welcome to the <em>TryHackMe</em></h3>
+![image](https://github.com/user-attachments/assets/ea22e77d-fc2f-4f8a-867c-d6bb9fa08b53)<p><h3> Welcome to the <em>TryHackMe</em></h3>
 <h1>Jr Penetration Tester learning path> Network Security</h1>
 <h2>Nmaps Basic Port Scans</h2>
 <p>Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work.</p>
@@ -145,16 +145,26 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 
 <p>Unprivileged users are limited to connect scan. However, the default scan mode is SYN scan, and it requires a privileged (root or sudoer) user to run it. SYN scan does not need to complete the TCP 3-way handshake; instead, it tears down the connection once it receives a response from the server. Because we didn’t establish a TCP connection, this decreases the chances of the scan being logged. We can select this scan type by using the <code>-sS</code> option. The figure below shows how the TCP SYN scan works without completing the TCP 3-way handshake.</p>
 
+![image](https://github.com/user-attachments/assets/11843f51-c1b7-4f78-9a9e-fc88ebc1ef68)
 
 <p>The following screenshot from Wireshark shows a TCP SYN scan. The behaviour in the case of closed TCP ports is similar to that of the TCP connect scan.</p>
 
+![image](https://github.com/user-attachments/assets/ca374b12-5fbc-4d91-9794-5f086d623b9a)
+
 <p> To better see the difference between the two scans, consider the following screenshot. In the upper half of the following figure, we can see a TCP connect scan <code>-sT</code> traffic. Any open TCP port will require Nmap to complete the TCP 3-way handshake before closing the connection. In the lower half of the following figure, we see how a SYN scan <code>-sS</code> does not need to complete the TCP 3-way handshake; instead, Nmap sends an RST packet once a SYN/ACK packet is received.</p>
 
+![image](https://github.com/user-attachments/assets/12c08cf6-6c60-4493-94ae-469679dc0795)
+
 <p>TCP SYN scan is the default scan mode when running Nmap as a privileged user, running as root or using sudo, and it is a very reliable choice. It has successfully discovered the open ports you found earlier with the TCP connect scan, yet no TCP connection was fully established with the target.</p>
+
+![image](https://github.com/user-attachments/assets/24345f09-0474-461b-b941-228af0eeda43)
+
 <p><br></p>
 
 > 5.1 - <em>Launch the VM. Some new server software has been installed since the last time we scanned it. On the AttackBox, use the terminal to execute <code>nmap -sS 10.10.240.191</code>. What is the new open port?</em><br>
 >> <strong>RST</strong><br>
+
+![image](https://github.com/user-attachments/assets/eb45549e-8749-4c04-b1ee-38b9c5b0ddd0)
 <p><br></p>
 
 > 5.2 - <em>What is Nmap’s guess of the service name?</em><br>
