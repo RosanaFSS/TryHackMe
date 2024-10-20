@@ -256,7 +256,19 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 
 <h2>Task 8 - Summary</h2>
 
+<p>This room covered three types of scans.</p>
 
+![image](https://github.com/user-attachments/assets/61254dac-fded-40fa-b68a-6d09757c16e8)
+
+<p>These scan types should get you started discovering running TCP and UDP services on a target host.</p>
+
+![image](https://github.com/user-attachments/assets/94de1145-0023-4382-9a3e-a9bf941ed8af)
+
+<p></p>
+
+> 8.1 - <em>Ensure you have taken note of all the scan options covered in this room. It is time to learn more advanced port scanning techniques by joining the <a href="https://tryhackme.com/r/room/nmap03">Nmap Advanced Port Scans</a> room.</em><br>
+>> <strong>No answer needed</strong><br>
+<p><br></p>
 
 
 
