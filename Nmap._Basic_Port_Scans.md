@@ -48,8 +48,8 @@ Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02
 A server provides the network service, and it adheres to a specific network protocol. Examples include providing time, responding to DNS queries, and serving web pages. A port is usually linked to a service using that specific port number. For instance, an HTTP server would bind to TCP port 80 by default; moreover, if the HTTP server supports SSL/TLS, it would listen on TCP port 443. (TCP ports 80 and 443 are the default ports for HTTP and HTTPS; however, the webserver administrator might choose other port numbers if necessary.) Furthermore, no more than one service can listen on any TCP or UDP port (on the same IP address).<br><br>
 At the risk of oversimplification, <strong>we can classify ports in two states</strong>:</p>
 <ol type="1. ">
-  <li>Open port indicates that there is some service listening on that port.</li>
-  <li>Closed port indicates that there is no service listening on that port.</li>
+  <li><strong>Open port</strong> indicates that <strong>there is some service listening on that port</strong>.</li>
+  <li><strong>Closed port</strong> indicates that <strong>there is NO service listening on that port</strong>.</li>
 </ol>
 <p><br></p>
 <p>However, in practical situations, we need to consider the impact of firewalls. For instance, a port might be open, but a firewall might be blocking the packets. Therefore, Nmap considers the following <strong>six states</strong>:</p>
