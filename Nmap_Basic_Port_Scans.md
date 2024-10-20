@@ -6,9 +6,12 @@
 
 ![image](https://github.com/user-attachments/assets/119bac7c-5666-4044-a539-528b6ddaea64)
 
-<div style="text-align: center;">
+<p><br></p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/5a8a95a4-4200-467c-a50f-546d8b2481b1" width="100px" height="100px" />
 </div>
+
 
 <p>Type: Easy<br>
 Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a>
