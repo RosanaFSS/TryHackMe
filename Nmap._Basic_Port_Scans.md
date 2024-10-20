@@ -65,19 +65,19 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
 
 > 2.1 - <em>Which service uses UDP port 53 by default?.</em><br>
 >> <strong>DNS</strong><br>
-<p><br></p>
+<p></p>
 
 > 2.2 - <em>Which service uses TCP port 22 by default?</em><br>
 >> <strong>SSH</strong><br>
-<p><br></p>
+<p></p>
 
 > 2.3 - <em>How many port states does Nmap consider?</em><br>
 >> <strong>6</strong><br>
-<p><br></p>
+<p></p>
 
 > 2.4 - <em>Which port state is the most interesting to discover as a pentester?</em><br>
 >> <strong>Open</strong><br>
-<p><br></p>
+<p></p>
 
 
 <h2>Task 3 - TCP Flags</h2>
