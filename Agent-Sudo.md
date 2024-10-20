@@ -178,3 +178,24 @@ crystal
 <p><br></p>
 
 
+james
+
+hackerrules!
+
+![image](https://github.com/user-attachments/assets/56a797ad-3358-45f8-b39a-840d6b072e46)
+
+![image](https://github.com/user-attachments/assets/8f563418-92b8-4a1f-b3ce-83565b2091f2)
+
+b03d975e8c92a7c04146cfa7a5a313c7
+
+<p><code>sudo scp james@<target ip>:Alien_autospy.jpg ~/</code></p>
+
+![image](https://github.com/user-attachments/assets/ab2ed312-51c7-48ce-9c66-420a79c98f1b)
+
+
+
+
+
+
+
+
