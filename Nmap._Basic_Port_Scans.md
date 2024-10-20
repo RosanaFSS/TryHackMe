@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/4ef64337-781b-4c57-83cc-bb94140b8d5c)
 
 <p>Type: Easy<br>
-Link: https://tryhackme.com/r/room/nmap02</p>
+Access this TryHackMe Room clicking ... <a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a>
 
 <h2>Task 1 - Introduction</h2>
 
