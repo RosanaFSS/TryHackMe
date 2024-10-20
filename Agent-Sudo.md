@@ -26,5 +26,21 @@ If you are stuck inside the black hole, post on the forum or ask in the TryHackM
 
 <h2>Task 2 - Enumerate</h2>
 
-<p>Enumerate the machine and get all the important information.</p>p
+<p>Enumerate the machine and get all the important information.</p>
+<p><br></p>
+
+> 2.1 - <em>How many ports are open?.</em><br>
+>> <strong>3</strong><br>
+<p><br></p>
+
+> 2.2 - <em>How you redirect yourself to a secret page?</em><br>
+>> <strong>user-agent</strong><br>
+<p><br></p>
+
+> 2.3 - <em>What is the agent name?</em><br>
+>> <strong>chris</strong><br>
+<p><br></p>
+
+
+<h2>Task 3 - TCP Flags</h2>
 
