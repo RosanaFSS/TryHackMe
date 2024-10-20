@@ -61,7 +61,7 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
   <li><strong><em>Open|Filtered</em></strong>: means that Nmap cannot determine whether the port is open or filtered.</li>
   <li><strong><em>Closed|Filtered</em></strong>: means that Nmap cannot decide whether a port is closed or filtered.</li>
 </ol>
-<p></p>
+<p><br></p>
 
 > 2.1 - <em>Which service uses UDP port 53 by default?.</em><br>
 >> <strong>DNS</strong><br>
@@ -95,6 +95,26 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
   <li><strong><em>FIN</em></strong>: The sender has no more data to send.</li>
 </ol>
 <p><br></p>
+
+> 3.1 - <em>What 3 letters represent the Reset flag?.</em><br>
+>> <strong>RST</strong><br>
+<p><br></p>
+
+> 3.2 - <em>Which flag needs to be set when you initiate a TCP connection (first packet of TCP 3-way handshake)?</em><br>
+>> <strong>SYN</strong><br>
+<p><br></p>
+
+<h2>Task 4 - TCP Connect Scan</h2>
+
+<p>TCP connect scan works by completing the TCP 3-way handshake. In standard TCP connection establishment, the client sends a TCP packet with SYN flag set, and the server responds with SYN/ACK if the port is open; finally, the client completes the 3-way handshake by sending an ACK.</p>
+
+![image](https://github.com/user-attachments/assets/e20af675-05d4-408d-a288-aef5f3371d71)
+
+<p>We are interested in learning whether the TCP port is open, not establishing a TCP connection. Hence the connection is torn as soon as its state is confirmed by sending a RST/ACK. You can choose to run TCP connect scan using <code>-sT</code>.</p>
+
+![image](https://github.com/user-attachments/assets/9ed50528-3498-448a-a17a-6adaeb20ecce)
+
+<p>It is important to note that <strong><em>if you are not a privileged user (root or sudoer), a TCP connect scan is the only possible option to discover open TCP ports</em></strong>.<br> In the following Wireshark packet capture window, we see Nmap sending TCP packets with SYN flag set to various ports, 256, 443, 143, and so on. By default, Nmap will attempt to connect to the 1000 most common ports. A closed TCP port responds to a SYN packet with RST/ACK to indicate that it is not open. This pattern will repeat for all the closed ports as we attempt to initiate a TCP 3-way handshake with them.</p>
 
 
 
