@@ -14,9 +14,9 @@ Link: https://tryhackme.com/r/room/nmap02</p>
 <p>This room is the second in the Nmap series (part of the <em>Introduction to Network Security module</em>).<br>
 <ol type="1. ">
     <li><a href="https://tryhackme.com/r/room/nmap01">Nmap Live Host Discover</a></li>
-    <li>[Nmap Basic Port Scans](https://tryhackme.com/r/room/nmap02)</li>
-    <li>[Nmap Advanced Port Scans](https://tryhackme.com/r/room/nmap03)</li>
-    <li>[Nmap Post Port Scans](https://tryhackme.com/r/room/nmap04)</li>
+    <li><a href="https://tryhackme.com/r/room/nmap02">Nmap Basic Port Scans</a></li>
+    <li><a href="https://tryhackme.com/r/room/nmap03">Nmap Advanced Port Scans</a></li>
+    <li><a href="https://tryhackme.com/r/room/nmap04">Nmap Post Port Scans</a>)</li>
 </ol></p>
 <p>In the previous room, we focused on discovering online systems. So far, we have covered three steps of a Nmap scan:<br>
 <ol type="1. ">
