@@ -222,7 +222,6 @@ And then I run nmap again as following .. guess what?  Also did not find port 53
 
 > 6.2 - <em>What is the service name according to Nmap?</em><br>
 >> <strong>domain</strong><br>
-<p></p>
 
 <h2>Task 7 - Fine-Tuning Scope and Performance</h2>
 
@@ -247,18 +246,15 @@ You can control the scan timing using <code>-T<0-5></code>. <code>-T0</code> is 
 Alternatively, you can choose to control the packet rate using <code>--min-rate <number></code> and <code>--max-rate <number></code>. For example, <code>--max-rate 10</code> or <code>--max-rate=10</code> ensures that your scanner is not sending more than ten packets per second.<br><br>
 
 Moreover, you can control probing parallelization using <code>--min-parallelism <numprobes></code> and <code>--max-parallelism <numprobes></code>. Nmap probes the targets to discover which hosts are live and which ports are open; probing parallelization specifies the number of such probes that can be run in parallel. For instance, <code>--min-parallelism=512</code> pushes Nmap to maintain at least 512 probes in parallel; these 512 probes are related to host discovery and open ports.</p>
-<p><br></p>
 
 > 7.1 - <em>What is the option to scan all the TCP ports between 5000 and 5500?</em><br>
 >> <strong>-p-5000-5500</strong><br>
-<p></p>
 
 > 7.2 - <em>How can you ensure that Nmap will run at least 64 probes in parallel?</em><br>
 >> <strong>--min-parallelism=64</strong><br>
-<p></p>
 
 > 7.3 - <em>What option would you add to make Nmap very slow and paranoid?</em><br>
->> <strong>-T0</strong><br><p></p>
+>> <strong>-T0</strong><br>
 
 <h2>Task 8 - Summary</h2>
 
@@ -270,11 +266,9 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 
 ![image](https://github.com/user-attachments/assets/94de1145-0023-4382-9a3e-a9bf941ed8af)
 
-<p></p>
 
 > 8.1 - <em>Ensure you have taken note of all the scan options covered in this room. It is time to learn more advanced port scanning techniques by joining the <a href="https://tryhackme.com/r/room/nmap03">Nmap Advanced Port Scans</a> room.</em><br>
 >> <strong>No answer needed</strong><br>
-<p></p>
 
 <h2>Room Completed</h2>
 
