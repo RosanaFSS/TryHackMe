@@ -272,8 +272,9 @@ Moreover, you can control probing parallelization using <code>--min-parallelism 
 
 <h2>Room Completed</h2>
 
-<p>Keep earning, keep growing!<br>
-<a href="[https://tryhackme.com/r/p/CyberRosana](https://www.linkedin.com/in/rosanafssantos/)">Rosana</a></p>
+<p>Keep learning, keep growing!<br>
+    
+<a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a></p>
 
 ![image](https://github.com/user-attachments/assets/9cc99fac-c925-4564-936b-ed231feb9a18)
 
