@@ -61,24 +61,19 @@ At the risk of oversimplification, <strong>we can classify ports in two states</
   <li><strong><em>Open|Filtered</em></strong>: means that Nmap cannot determine whether the port is open or filtered.</li>
   <li><strong><em>Closed|Filtered</em></strong>: means that Nmap cannot decide whether a port is closed or filtered.</li>
 </ol>
-<p><br></p>
-
+<p><br><br></p>
 > 2.1 - <em>Which service uses UDP port 53 by default?.</em><br>
 >> <strong>DNS</strong><br>
-<p></p>
-
+<p><br></p>
 > 2.2 - <em>Which service uses TCP port 22 by default?</em><br>
 >> <strong>SSH</strong><br>
-<p></p>
-
+<p><br></p>
 > 2.3 - <em>How many port states does Nmap consider?</em><br>
 >> <strong>6</strong><br>
-<p></p>
-
+<p><br></p>
 > 2.4 - <em>Which port state is the most interesting to discover as a pentester?</em><br>
 >> <strong>Open</strong><br>
-<p></p>
-
+<p><br></p>
 
 <h2>Task 3 - TCP Flags</h2>
 
