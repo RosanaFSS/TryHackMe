@@ -19,3 +19,12 @@
 |  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | October 17, 2024 | 2 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | October 5, 2024 | 2 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | September 19, 2024 | 3 | 
+
+
+<p>October 19, 2024<br>
+1,850 all time worldwide - 1,152 monthly worldwide<br>
+   35 all time Brazil    -    15 montlhy Brazil (278 points)<br>
+
+46,350 points <br>
+351 rooms completed <br>
+41 badges</p>
