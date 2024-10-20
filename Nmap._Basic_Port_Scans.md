@@ -132,11 +132,14 @@ In the following Wireshark packet capture window, we see Nmap sending TCP packet
 <p><br></p>
 
 > 4.1 - <em>Launch the VM. Open the AttackBox and execute <code>nmap -sT 10.10.240.191</code> via the terminal. A new service has been installed on this VM since our last scan. Which port number was closed in the scan above but is now open on this target VM?</em><br>
->> <strong>RST</strong><br>
+>> <strong>110</strong><br>
+
+![image](https://github.com/user-attachments/assets/4bf8187d-ea55-4465-988c-16db3c6db99d)
+
 <p><br></p>
 
 > 4.2 - <em>What is Nmap’s guess about the newly installed service?</em><br>
->> <strong>SYN</strong><br>
+>> <strong>pop3</strong><br>
 <p><br></p>
 
 <h2>Task 5 - TCP SYN Scan</h2>
