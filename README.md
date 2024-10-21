@@ -37,3 +37,14 @@
 46,620 points <br>
 352 rooms completed <br>
 41 badges</p>
+
+<p>October 20, 2024 21:50 h<br> 167-day-streak
+1,796 all time worldwide - 615 monthly worldwide<br>
+   34 all time Brazil    -    9 montlhy Brazil (404 points)<br>
+
+46,890 points <br>
+353 rooms completed <br>
+41 badges</p>
+
+![image](https://github.com/user-attachments/assets/821b15e7-5262-4658-a2a9-24fb1de0f14d)
+
