@@ -16,7 +16,7 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Cyber Defense** Learning Path | October 5, 2024 | 2 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Jr Penetration Tester** Learning Path | September 19, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Security Engineer** Learning Path | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **SOC Level 1** Learning Path | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1** Learning Path | June 8, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Pre Security** Learning Path | September 19, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Intro to **Cyber Security** Learning Path | September 19, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Complete Beginner** Learning Path | September 19, 2024 | 3 | 
