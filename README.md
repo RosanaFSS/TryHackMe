@@ -23,8 +23,10 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
 
+<br>
+<h2>The second involves my participation in the QiCys SANS Security Training Scholarship, Stage 2.</h2>
 
-- #### The second involves my participation in the [WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/) - Stage 2 program, [here](https://tryhackme.com/r/p/CyberRosana).
+[WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/) - Stage 2 program, [here](https://tryhackme.com/r/p/CyberRosana).
 <br>
 <br>
 
