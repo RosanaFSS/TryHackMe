@@ -1,9 +1,6 @@
 <h1>TryHackMe</h1>
-<br>
 
-
-### I share my accomplishments on [TryHackMe](https://tryhackme.com/) through 2 engagements:
-<br>
+<p> I share my accomplishments on [TryHackMe](https://tryhackme.com/) through 2 engagements: </p>
 
 <h2>The first with my personal account, active since January 2023.</h2>
 <p>[here](https://tryhackme.com/p/Rosana)</p>
