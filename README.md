@@ -12,14 +12,14 @@
 |  &#x1F6A7;  &#x1F6A7; | **Red Teaming** | in progress, 53% | 2 | 
 |  &#x1F6A7;  &#x1F6A7; | **DevSecOps** | in progress, 53% | 2 | 
 |  &#x1F6A7;  &#x1F6A7; | **Offensive Pentesting** | in progress, 50% | 2 | 
-|  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **SOC Level 2** Learning Path | October 17, 2024 | 2 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Cyber Defense** Learning Path | October 5, 2024 | 2 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Jr Penetration Tester** Learning Path | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Security Engineer** Learning Path | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1** Learning Path | June 8, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Pre Security** Learning Path | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Intro to **Cyber Security** Learning Path | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Complete Beginner** Learning Path | September 19, 2024 | 3 | 
+|  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **SOC Level 2** | October 17, 2024 | 2 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Cyber Defense** | October 5, 2024 | 2 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Jr Penetration Tester** | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Security Engineer** | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1** | June 8, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Pre Security** | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Intro to **Cyber Security** | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Complete Beginner** | September 19, 2024 | 3 | 
 
 
 - #### The second involves my participation in the [WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/) - Stage 2 program, [here](https://tryhackme.com/r/p/CyberRosana).
