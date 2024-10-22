@@ -7,13 +7,13 @@
 
 - #### The first [here](https://tryhackme.com/p/Rosana) with my personal account, active since January 2023.
   
-| Assignment                                  | Description                | When?     | Hands-on |
+| Assignment                                  | Learning Path                | When?     | Hands-on |
 | :-----------------------------------------: | :------------------------- | :-------- | --------: | 
-|   &#x1F6A7; &#x1F6A7; | **CompTIA Pentest+** Learning Path | in progress, 96% | 2 | 
-|  &#x1F6A7;  &#x1F6A7; | **Cyber Security 101** Learning Path | in progress, 57% | 2 |
-|  &#x1F6A7;  &#x1F6A7; | **Red Teaming** Learning Path | in progress, 53% | 2 | 
-|  &#x1F6A7;  &#x1F6A7; | **DevSecOps** Learning Path | in progress, 53% | 2 | 
-|  &#x1F6A7;  &#x1F6A7; | **Offensive Pentesting** Learning Path | in progress, 50% | 2 | 
+|   &#x1F6A7; &#x1F6A7; | **CompTIA Pentest+** | in progress, 96% | 2 | 
+|  &#x1F6A7;  &#x1F6A7; | **Cyber Security 101** | in progress, 57% | 2 |
+|  &#x1F6A7;  &#x1F6A7; | **Red Teaming** | in progress, 53% | 2 | 
+|  &#x1F6A7;  &#x1F6A7; | **DevSecOps** | in progress, 53% | 2 | 
+|  &#x1F6A7;  &#x1F6A7; | **Offensive Pentesting** | in progress, 50% | 2 | 
 |  <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **SOC Level 2** Learning Path | October 17, 2024 | 2 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Cyber Defense** Learning Path | October 5, 2024 | 2 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Jr Penetration Tester** Learning Path | September 19, 2024 | 3 | 
