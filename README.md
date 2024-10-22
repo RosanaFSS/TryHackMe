@@ -5,7 +5,8 @@
 ### I share my accomplishments on [TryHackMe](https://tryhackme.com/) through 2 engagements:
 <br>
 
-<h2>The first [here](https://tryhackme.com/p/Rosana) with my personal account, active since January 2023.</h2>
+<h2>The first with my personal account, active since January 2023.</h2>
+<p>[here](https://tryhackme.com/p/Rosana)</p>
   
 | Certificate                                  | Learning Path                | Completion date     | Hands-on QTY |
 | :-----------------------------------------: | :------------------------- | :-------- | --------: | 
