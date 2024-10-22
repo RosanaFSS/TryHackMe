@@ -13,7 +13,7 @@
 |  &#x1F6A7;  &#x1F6A7; | **DevSecOps** | in progress, 53% | 2 | 
 |  &#x1F6A7;  &#x1F6A7; | **Offensive Pentesting** | in progress, 50% | 2 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **SOC Level 2** | October 17, 2024 | 2 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Cyber Defense** | October 5, 2024 | 2 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:280px;"/> | **Cyber Defense** | July 17, 2024 | 34 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Jr Penetration Tester** | September 19, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Security Engineer** | September 19, 2024 | 3 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1** | June 8, 2024 | 3 | 
