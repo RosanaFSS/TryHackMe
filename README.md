@@ -26,7 +26,9 @@
 <br>
 <h2>The second involves my participation in the QiCys SANS Security Training Scholarship, Stage 2.</h2>
 
-[WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/) - Stage 2 program, [here](https://tryhackme.com/r/p/CyberRosana).
+<p>[WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/)<br>
+Stage 2 program,<br>
+[here](https://tryhackme.com/r/p/CyberRosana).</p>
 <br>
 <br>
 
