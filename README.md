@@ -20,7 +20,7 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Pre Security** | May 18, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:280px;"/> | **Web Fundamentals** | September 19, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Intro to **Cyber Security** | September 19, 2024 | 3 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Complete Beginner** | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner** | August 27, 2024 | 34 | 
 
 
 - #### The second involves my participation in the [WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/) - Stage 2 program, [here](https://tryhackme.com/r/p/CyberRosana).
