@@ -12,9 +12,9 @@
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | in progress, 53% |  | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | in progress, 53% |  | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | in progress, 50% |  | 28 |  
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard         | July 3, 2024 | 48 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:280px;"/> | **Cyber Defense**           | Intermediate | July 17, 2024 | 34 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Jr Penetration Tester**   | September 19, 2024 | 3 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:280px;"/> | **Cyber Defense**           | Intermediate  | July 17, 2024 | 34 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FNRB2IJUKM.png" style="width:280px;"/> | **Jr Penetration Tester**   | Intermediate  |October 7, 2024 | 38 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JLMV6TMUAF.png" style="width:280px;"/> | **Security Engineer**       | Easy          | September 5, 2024 | 31 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1**             | Easy          | June 8, 2024 | 71 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Pre Security**            | Easy          | May 18, 2024 | 18 | 
