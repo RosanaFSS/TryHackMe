@@ -19,7 +19,7 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1**             | Easy          | June 8, 2024 | 71 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | **Pre Security**            | Easy          | May 18, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:280px;"/> | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May9, 2024 | 8 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
 
 
