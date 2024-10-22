@@ -7,7 +7,7 @@
 
 - #### The first [here](https://tryhackme.com/p/Rosana) with my personal account, active since January 2023.
   
-| Assignment                                  | Learning Path                | When?     | Hands-on |
+| Certificate                                  | Learning Path                | Completion date     | Hands-on QTY |
 | :-----------------------------------------: | :------------------------- | :-------- | --------: | 
 |   &#x1F6A7; &#x1F6A7; | **CompTIA Pentest+** | in progress, 96% | 2 | 
 |  &#x1F6A7;  &#x1F6A7; | **Cyber Security 101** | in progress, 57% | 2 |
