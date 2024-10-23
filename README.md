@@ -21,33 +21,17 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | September 19, 2024 | 3 | 
 
 
-<p>October 19, 2024<br>
-1,850 all time worldwide - 1,152 monthly worldwide<br>
-   35 all time Brazil    -    15 montlhy Brazil (278 points)<br>
+<p>October 23, 2024<br> 170-day-streak
+1,656 all time worldwide - 205 monthly worldwide<br>
+   34 all time Brazil    -    4 montlhy Brazil (404 points)<br>
 
-46,350 points <br>
-351 rooms completed <br>
-41 badges</p>
+48,482 points <br>
+366 rooms completed <br>
+42 badges</p>
 
 
-<p>October 20, 2024 20:30 h<br>
-1,825 all time worldwide - 880 monthly worldwide<br>
-   34 all time Brazil    -    12 montlhy Brazil (278 points)<br>
+![image](https://github.com/user-attachments/assets/261abade-42ad-4f53-a551-c2a410554184)
+![image](https://github.com/user-attachments/assets/47a8cb34-317a-44a5-be96-5858f8c77695)
 
-46,620 points <br>
-352 rooms completed <br>
-41 badges</p>
-
-<p>October 20, 2024 21:50 h<br> 167-day-streak
-1,796 all time worldwide - 615 monthly worldwide<br>
-   34 all time Brazil    -    9 montlhy Brazil (404 points)<br>
-
-46,890 points <br>
-353 rooms completed <br>
-41 badges</p>
-
-![image](https://github.com/user-attachments/assets/821b15e7-5262-4658-a2a9-24fb1de0f14d)
-
-![image](https://github.com/user-attachments/assets/84001aef-ea8f-499e-9e8a-2e5740c3cadb)
 
 
