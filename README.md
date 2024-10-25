@@ -21,6 +21,10 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | September 19, 2024 | 3 | 
 
 
+| Date                | Streak   | All Time WorlWide | All Time Brazil   | Monthly WorlWide | Monthly Brazil   |
+| :-----------------: | :------- | :---------------- | :---------------- | :--------------- | :--------------- |
+| October 23, 2024    | 170      |            1,656ª |               34ª |              34ª |              13ª |
+
 <p>October 23, 2024<br> 170-day-streak
 1,656 all time worldwide - 205 monthly worldwide<br>
    34 all time Brazil    -    4 montlhy Brazil (404 points)<br>
