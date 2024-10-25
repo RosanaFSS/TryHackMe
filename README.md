@@ -21,14 +21,13 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | September 19, 2024 | 3 | 
 
 
-| Date              | Streak   | All Time     | All Time     | Mnthly      | monthly    | Poins   | Rooms     |
-| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------ | :-------- |
-|                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     | Points  | Completed |
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Poitns   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
 | October 25, 2024  | 172      |       1,6321 |          34ª |        205ª |        13ª | 49,002  |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482  |       366 |
 
 
-366 rooms completed <br>
 42 badges</p>
 
 
