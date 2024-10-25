@@ -40,9 +40,9 @@ Stage 2 program,<br>
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
 
+<p></p>
 
-
-| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Poimts   | Rooms     |
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
