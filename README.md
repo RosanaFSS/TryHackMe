@@ -4,7 +4,7 @@
 <br>
 <h2>The first with my personal account, active since January 2023.</h2>
 
-<h3> <a href="https://tryhackme.com/p/Rosana">Here</a></h3>
+<h3> Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplihsments in TryHackMe.</h3>
   
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
@@ -41,8 +41,8 @@
 WiCys SANS Security Training Scholarship, Stage 2.</h2>
 
 
-<h3><a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a></h3>
-<h2></h2><a href="https://tryhackme.com/r/p/CyberRosana">here</a></h2>
+<h3>Click here to know more about <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a></h3>
+<h2></h2>Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplhisments in TryHackMe.</h2>
 <br>
 <p><br></p>
 
