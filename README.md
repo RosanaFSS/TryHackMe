@@ -4,7 +4,7 @@
 
 <h2>The first with my personal account, active since January 2023.<br>
 
-Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplhisments in TryHackMe.</h2>
+Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
   
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
