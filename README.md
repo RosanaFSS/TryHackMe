@@ -32,6 +32,7 @@
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 
+<p><br></p>
 
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
@@ -55,6 +56,12 @@ Stage 2 program,<br>
 
 <p><br></p>
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
+| October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
+
+
+<p><br></p>
+
 ![image](https://github.com/user-attachments/assets/b8fa1ea5-b831-45e9-b53c-4573f6c3bf1c)
-
-
