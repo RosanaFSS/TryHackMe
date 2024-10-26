@@ -36,7 +36,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
-<center> Oi </center
+<p><center> Oi </center></p>
 
 <br>
 <h2>The second involves my participation in the<br>
