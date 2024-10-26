@@ -36,6 +36,9 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
+![image](https://github.com/user-attachments/assets/a793d507-8fba-47c5-8a07-961076863939)
+
+
 
 <p align="center">
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcybersecurity-best-practices-banking-financial-lahiru-livera-29bpc&psig=AOvVaw3YKXeAmVlTJ_80CDuCBfBv&ust=1730001720227000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDlh4CVq4kDFQAAAAAdAAAAABAE&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
