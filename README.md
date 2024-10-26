@@ -36,7 +36,9 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
-
+<p align="center">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
 
 <br>
 <h2>The second involves my participation in the<br>
