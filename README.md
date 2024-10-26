@@ -37,7 +37,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2F&psig=AOvVaw2CoA8ljy1b1ODSEFJhHJFZ&ust=1730001326804000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiX9K-Tq4kDFQAAAAAdAAAAABAE" width="100" height="100" border="10"/>
+<img src="![image](https://github.com/user-attachments/assets/80fe1e05-34f7-49dc-866d-64a714702694)
+" width="300" height="300" border="10"/>
 </p>
 
 <br>
