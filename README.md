@@ -41,8 +41,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 WiCys SANS Security Training Scholarship, Stage 2.</h2>
 
 
-<h3>Click here to know more about <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a></h3>
-<h2></h2>Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplhisments in TryHackMe.</h2>
+<h3>Click here to know more about <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a><br>
+Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplhisments in TryHackMe.</h3>
 <br>
 <p><br></p>
 
