@@ -9,7 +9,7 @@
 | Certificate                                 | Learning Path                | Level            | Completion date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         |  | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       |  | in progress, 79% | 55 |
+|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       |  | in progress, 84% | 55 |
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              |  | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                |  | in progress, 53% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     |  | in progress, 50% | 28 |  
@@ -22,6 +22,18 @@
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:280px;"/> | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
+
+<p><br>/p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
+| October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
+| October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
+| October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
+
+
+![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
 <br>
 <h2>The second involves my participation in the WiCys SANS Security Training Scholarship, Stage 2.</h2>
@@ -36,18 +48,13 @@ Stage 2 program,<br>
 
 | Certificate                                 | Learning Path                | Level            | Completion date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 60% | 38 | 
+| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 80% | 38 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
 
 <p><br>/p>
 
-| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
-| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
-|                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
-| October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
-| October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
+![image](https://github.com/user-attachments/assets/b8fa1ea5-b831-45e9-b53c-4573f6c3bf1c)
 
 
-![image](https://github.com/user-attachments/assets/a63f8753-a066-49f5-b152-54e03b9de8df)
