@@ -37,11 +37,13 @@
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
 <br>
-<h2>The second involves my participation in the WiCys SANS Security Training Scholarship, Stage 2.</h2>
+<h2>The second involves my participation in the<br>
+WiCys SANS Security Training Scholarship, Stage 2.</h2>
 
-<p>[WiCyS SANS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/)<br>
+
+<h3><a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship</a></h3>
 Stage 2 program,<br>
-[here](https://tryhackme.com/r/p/CyberRosana).</p>
+<a href="https://tryhackme.com/r/p/CyberRosana">here</a>
 <br>
 <br>
 <p><br></p>
