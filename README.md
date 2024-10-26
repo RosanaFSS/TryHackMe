@@ -1,10 +1,10 @@
 <h1>TryHackMe</h1>
 <br>
-<p><h2> I share my accomplishments on [TryHackMe](https://tryhackme.com/) through 2 engagements: </h2></p>
+<p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2></p>
 <br>
 <h2>The first with my personal account, active since January 2023.</h2>
 
-<p>[here](https://tryhackme.com/p/Rosana)</p>
+<p> <a href="https://tryhackme.com/p/Rosana">Here</a></p>
   
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
