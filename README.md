@@ -38,10 +38,9 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/0c4e9e1a-0acb-40dd-be3f-a1a73d45f46d)
-" width="300" height="300" border="10"/>
-</p>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcybersecurity-best-practices-banking-financial-lahiru-livera-29bpc&psig=AOvVaw3YKXeAmVlTJ_80CDuCBfBv&ust=1730001720227000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDlh4CVq4kDFQAAAAAdAAAAABAE&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p
+  
 <br>
 <h2>The second involves my participation in the<br>
 WiCys SANS Security Training Scholarship, Stage 2.</h2>
