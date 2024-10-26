@@ -36,6 +36,10 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
+<center>
+    <div style="text-align: left">...</div>
+</center>
+
 <!DOCTYPE html>
 <html>
 <body>
