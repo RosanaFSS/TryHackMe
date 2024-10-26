@@ -42,7 +42,7 @@ WiCys SANS Security Training Scholarship, Stage 2.</h2>
 
 
 <h3>Click here to know more about <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a><br>
-Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplhisments in TryHackMe.</h3>
+Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <br>
 <p><br></p>
 
