@@ -41,10 +41,8 @@
 WiCys SANS Security Training Scholarship, Stage 2.</h2>
 
 
-<h3><a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship</a></h3>
-Stage 2 program,<br>
-<a href="https://tryhackme.com/r/p/CyberRosana">here</a>
-<br>
+<h3><a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a></h3>
+<h2></h2><a href="https://tryhackme.com/r/p/CyberRosana">here</a></h2>
 <br>
 <p><br></p>
 
