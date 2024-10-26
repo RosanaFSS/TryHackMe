@@ -36,15 +36,16 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
 
-<html>
- <head>
- </head>
- <body>
-    <center>
-      <p>This text is in center.</p>
-    </center>
- </body>
-</html>
+try <p style="text-align: center;">Text</p>
+
+or at the top of your html you can declare:
+
+<style type="text/css">
+.center { text-align: center; }
+</style>
+then later just apply the class:
+
+<p class="center">Text</p>
 
 <br>
 <h2>The second involves my participation in the<br>
