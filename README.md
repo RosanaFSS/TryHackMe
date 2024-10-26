@@ -1,6 +1,6 @@
 <h1>TryHackMe</h1>
 <br>
-<p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2><br>
+<p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2>
 
 <h2>The first with my personal account, active since January 2023.<br>
 
