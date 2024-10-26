@@ -34,7 +34,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/651d9503-0d96-4646-ac2f-3742f276acc1)
+![image](https://github.com/user-attachments/assets/e05be014-a418-433c-ac29-a1bb2e16bd85)
+
 
 
 ![image](https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21)
