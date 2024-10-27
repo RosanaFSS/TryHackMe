@@ -9,7 +9,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 88% | 55 |
+|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 89% | 55 |
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 53% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
@@ -28,13 +28,14 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
-| October 27, 2024  | 174      |       1,590ª |          33ª |        567ª |        11ª | 49,482   |       380 |
+| October 27, 2024  | 174      |       1,583ª |          33ª |        544ª |        11ª | 49,546   |       381 |
 | October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/525d00f5-4aa0-4770-a039-b1cd60f0cca2)
+![image](https://github.com/user-attachments/assets/d54f0eb2-f06a-459d-95db-7d01139703c0)
+
 
 
 ![image](https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21)
