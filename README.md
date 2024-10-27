@@ -29,6 +29,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
 | October 26, 2024  | 173      |       1,604ª |          33ª |        520ª |        13ª | 49,258   |       376 |
+| October 26, 2024  | 173      |       1,604ª |          33ª |        520ª |        13ª | 49,258   |       376 |
 | October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
@@ -54,7 +55,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 | &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 80% | 38 | 
-| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 62% | 55 | 
+| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 79% | 55 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
@@ -64,6 +65,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
+| October 27, 2024  | 29       |      65,512ª |       1,133ª |        901ª |        19ª |    8,046 |        94 |
 | October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
 
 
