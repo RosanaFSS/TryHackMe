@@ -9,7 +9,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 84% | 55 |
+|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 87% | 55 |
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 53% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
@@ -34,8 +34,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/e05be014-a418-433c-ac29-a1bb2e16bd85)
-
+![image](https://github.com/user-attachments/assets/06eeac76-0eac-489c-b2ec-11f87ad2fc5d)
 
 
 ![image](https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21)
