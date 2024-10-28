@@ -9,7 +9,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 89% | 55 |
+|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 93% | 55 |
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 53% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
@@ -28,15 +28,14 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
-| October 27, 2024  | 174      |       1,580ª |          33ª |        646ª |        11ª | 49,618   |       381 |
+| October 27, 2024  | 174      |       1,565ª |          33ª |        376ª |        10ª | 49,762   |       382 |
 | October 27, 2024  | 174      |       1,578ª |          33ª |        525ª |        10ª | 49,618   |       381 |
 | October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/8eef681a-f1a5-4d9d-b2d8-6c1c89735f1b)
-
+![image](https://github.com/user-attachments/assets/c65169dc-6603-49bf-9ecb-7d6e62007848)
 
 
 
