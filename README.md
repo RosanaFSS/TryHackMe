@@ -55,8 +55,8 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 82% | 38 | 
-| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 79% | 55 | 
+| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 84% | 38 | 
+| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 73% | 55 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
@@ -66,12 +66,11 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
+| October 28, 2024  | 30       |      58,906ª |       1,056ª |      1,036ª |        19ª |    9,422 |        97 |
 | October 27, 2024  | 29       |      61,928ª |       1,121ª |        901ª |        21ª |    9,086 |        95 |
-| October 27, 2024  | 29       |      65,512ª |       1,133ª |        901ª |        19ª |    9,022 |        94 |
 | October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
 
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/53ce94b2-a361-4142-9a18-4736c667e5c6)
-
+![image](https://github.com/user-attachments/assets/503a2177-3f21-4fca-8e43-7b7edc655ea1)
