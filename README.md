@@ -8,7 +8,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
   
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 98% | 55 |
+|  &#x1F6A7;  &#x1F6A7;                       | **Cyber Security 101**       | Easy | in progress, 99% | 55 |
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 53% | 18 | 
@@ -28,6 +28,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
+| October 28, 2024  | 175      |       1,548ª |          33ª |        146ª |         2ª | 50,082   |       385 |
 | October 28, 2024  | 175      |       1,549ª |          33ª |        146ª |         2ª | 50,066   |       384 |
 | October 27, 2024  | 174      |       1,578ª |          33ª |        525ª |        10ª | 49,618   |       381 |
 | October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
@@ -35,7 +36,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/d851bc23-5a02-4541-9cfe-041247e9112c)
+![image](https://github.com/user-attachments/assets/d09cba87-7f51-4bb5-b040-cac082da7ec3)
 
 ![image](https://github.com/user-attachments/assets/124ffd11-cc80-45e4-8f90-7b209556f0df)
 
