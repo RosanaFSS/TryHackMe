@@ -15,9 +15,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 </p>
 
 <p>Summary</p>
-[Task 1](task-1-deploy-and-get-hacking)
+[Go to my mark(#task1)
 
-<h2 <a name="task-1-deploy-and-get-hacking">Task 1. Deploy and get hacking</a></h2>
+<h2 <a name="task1">Task 1. Deploy and get hacking</a> </h2>
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
