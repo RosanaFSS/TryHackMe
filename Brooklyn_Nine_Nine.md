@@ -9,6 +9,9 @@ $$\textcolor{orange}{Brooklyn \ Nine \ Nine}$$
 
 <p align="center">$ \textcolor{yellow}{\textsf{Brooklyn Nine Nine}} $</p>
 
+$$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
