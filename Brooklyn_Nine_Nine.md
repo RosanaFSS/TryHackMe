@@ -1,9 +1,7 @@
 <h1>Learn > CTF ></h1>
 <h2>Brooklyn Nine Nine</h2>
-<p align="center">his room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
+<p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
 <br>
-
-<p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p><br>
 <p align="center">October 30, 2024</p>
 <br>
 
