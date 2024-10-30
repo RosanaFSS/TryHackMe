@@ -146,6 +146,17 @@ ee11cbb19052e40b07aac0ca060c23ee
 </code></pre>
 
 
+<pre><code>
+$ sudo -l
+Matching Defaults entries for jake on brookly_nine_nine:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
+
+User jake may run the following commands on brookly_nine_nine:
+    (ALL) NOPASSWD: /usr/bin/less
+</code></pre>
+
+
+
 
 
 
