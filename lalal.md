@@ -111,15 +111,17 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 
 > 2.1. <em>What is flag 1?</em><br><a id='2.1'></a>
 >> <code><strong>THM{L0L_WH0_US3S_M3T4}</strong></code><br>
-<p><br></p>
+<p></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/b60d8668-295c-429f-8cf4-35d44f3c0590"> </p>
+<br>
 
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
 >> <code><strong>THM{G!T_G00D}</strong></code><br>
-<p><br></p>
+<p></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/categories/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/ea5eeb4a-1b7f-4b5f-8f24-6cd64e57ca54"> </p>
+<br>
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
 >> <code><strong>____________</strong></code><br>
@@ -127,9 +129,10 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 
 > 2.4. <em>What is flag 4?</em><br><a id='2.4'></a>
 >> <code><strong>THM{AN0TH3R_M3TA}</strong></code><br>
-<p><br></p>
+<p></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-to-our-it-department/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/7132f4ca-e857-4039-a324-dd0809495fd8"> </p>
+<br>
 
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
