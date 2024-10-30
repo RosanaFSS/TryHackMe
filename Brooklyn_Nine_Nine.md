@@ -1,3 +1,7 @@
+October 30, 2024  
+Learn > CTF
+
+
 <h6 align="left">October 30, 2024 </h6>
 <h6 align="left">Learn > CTF </h6>
 <h1 align="center">
