@@ -1,5 +1,7 @@
 October 30, 2024  
-<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. It´s key part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak. Access this free TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.  Let´s get started!!</p>
+<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. It´s key part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak. Access this free TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p>
+
+Let´s get started!!
 Learn > CTF
 
 
