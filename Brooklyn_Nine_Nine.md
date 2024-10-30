@@ -12,13 +12,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
   <img height="160px" src="https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214">
 </p>
 
-<p></p>Summary</p>
-
-[Task 1.](#1)
-
-[Task 1.1.](#1.1) 
-
-[Task 1.2.](#1.2)   
+<p></p>Summary</p> [Task 1.](#1)  [Task 1.1.](#1.1)  [Task 1.2.](#1.2)   
 
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
