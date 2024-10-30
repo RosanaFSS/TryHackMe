@@ -65,6 +65,22 @@ Please give the box up to 5 minutes to boot and configure.</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+> 2.1. <em>What is flag 1?</em><br><a id='2.1'></a>
+>> <code><strong>No answer needed</strong></code><br>
+<p><br></p>
+
+> 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 2.4. <em>What is flag 4?</em><br><a id='2.4'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
 
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
