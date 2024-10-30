@@ -30,7 +30,7 @@ https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
-| October 29, 2024  | 176      |       1,526ª |          32ª |        123ª |         2ª | 50,342   |       386 |
+| October 29, 2024  | 176      |       1,524ª |          32ª |        126ª |         3ª | 50,398   |       387 |
 | October 29, 2024  | 176      |       1,528ª |          32ª |        121ª |         2ª | 50,302   |       385 |
 | October 28, 2024  | 175      |       1,549ª |          33ª |        146ª |         2ª | 50,066   |       384 |
 | October 27, 2024  | 174      |       1,578ª |          33ª |        525ª |        10ª | 49,618   |       381 |
