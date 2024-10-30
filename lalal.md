@@ -26,6 +26,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <p align="center">In this room, you don't need to brute force any login page. Just your preferred browser and Remote Desktop.</p>
 <p align="center">Please give the box up to 5 minutes to boot and configure.</p>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>Let's run nmap and check what ports are open.</em><br><a id='1.1'></a>
 >> <code><strong>No answer needed</strong></code><br>
@@ -60,12 +61,15 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <p><br></p>
 
 <h2>Task 2. Spot the flags<a id='2'></a></h2>
+<p>Our beloved admin left some flags behind that we require to gather before we proceed to the next task.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the text below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 
 
