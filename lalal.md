@@ -33,6 +33,7 @@ Please give the box up to 5 minutes to boot and configure.</p>
 <p>There are two ports open: 80/http and 3389/ms-wbt-server</p>
 <pre><code>$ nmap -sS -sV -A [Target]
 
+
 Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 20:53 GMT
 Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
 Host is up (0.020s latency).
