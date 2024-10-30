@@ -11,20 +11,21 @@ October 30, 2024
 
 ![image](https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214)
 
-<p>Let´s get started!!<br>
-Learn > CTF</p>
+<p>Learn > CTF<br>
+Let´s get started!!</p>
 
 
-<h2>Task 1 - Deploy and get hacking</h2>
+
+<h2>Task 1. Deploy and get hacking</h2>
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
-> 1.1 - <em>User flag</em><br>
+> 1.1. <em>User flag</em><br>
 >> <strong>ee11cbb19052e40b07aac0ca060c23ee</strong><br>
 <p><br></p>
 
 
-> 1.2 - <em>Root flag</em><br>
+> 1.2. <em>Root flag</em><br>
 >> <strong>63a9f0ea7bb98050796b649e85481845</strong><br>
 <p><br></p>
 
