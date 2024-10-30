@@ -1,4 +1,4 @@
-<p align="leftr">October 30, 2024</p>
+<p align="right">October 30, 2024</p>
 <h1 align="center">
   $$\textcolor{white}{\textnormal{Learn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCTF}}$$
 </h1>
