@@ -71,11 +71,9 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p><br></p>
 
 > 1.4. <em>What is a possible password in one of the pages web crawlers check for?</em><br><a id='1.4'></a>
->> <code><strong>____________</strong></code><br>
-<p><br></p>
-
+>> <code><strong>UmbracoIsTheBest!</strong></code><br>
+<p></p>
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/38936281-2570-4296-a009-cb5667601a6c"> </p>
-
 
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/fcfe477e-d708-4b32-81a8-8b97995ed33a"> </p>
 
