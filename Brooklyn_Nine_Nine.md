@@ -1,5 +1,5 @@
 <h1>Learn > CTF ></h1>
-<h2 align="center">Brooklyn Nine Nine</h2>
+<h2 align="center" style="color: yellow;">Brooklyn Nine Nine</h2>
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
 <p align="center">October 30, 2024</p>
 <br>
