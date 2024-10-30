@@ -14,9 +14,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
   <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
 </p>
 
-# Header
-
-[Task 1. Deploy and get hacking](#task1)
+<p>Summary</p>
+[Task 1](#task-1-deploy-and-get-hacking)
 
 <h2 id="task-1-deploy-and-get-hacking">
      Task 1. Deploy and get hacking
