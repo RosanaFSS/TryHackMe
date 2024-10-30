@@ -6,18 +6,15 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
   $$\textcolor{#FF69B4}{\textnormal{🔒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brooklyn Nine Nine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔓}}$$
 </h1>
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p>
 
 ![image](https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="200px" height="200px"/>
+  <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
 </p>
 
 [Task 1.](#task1)
-
-Let´s get started!!<br><br>
-Learn > CTF<br>
-Access this 🆓 TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p>
 
 <h2> Task 1. Deploy and get hacking</h2>
 
