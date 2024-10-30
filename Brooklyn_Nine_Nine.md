@@ -3,7 +3,7 @@
   $$\textcolor{white}{\textnormal{Learn  >  CTF}}$$
 </h1>
 <h1 align="center">
-  $$\textcolor{orange}{\textnormal{♡     Brooklyn \ Nine \ Nine ♡}}$$
+  $$\textcolor{orange}{\textnormal{♡&nbsp&nbsp&nbsp&nbsp&nbspBrooklyn \ Nine \ Nine ♡}}$$
 </h1>
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
 
