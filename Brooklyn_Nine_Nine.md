@@ -246,9 +246,7 @@ Here is the flag: 63a9f0ea7bb98050796b649e85481845
 Enjoy!!
 </code></pre>
 
-
-<h2>Room Complete</h2>
-<br>
+<h2>CTF Complete</h2>
 <p>Keep learning, keep growing!<br>
 
 ![image](https://github.com/user-attachments/assets/5dbc0388-726d-403f-b607-9b99e7e002f6)
