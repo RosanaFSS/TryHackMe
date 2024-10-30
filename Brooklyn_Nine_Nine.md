@@ -1,5 +1,5 @@
 <h1 align="center">
-  $$\textcolor{white}{\textnormal{Learn > \ CTF}}$$
+  $$\textcolor{white}{\textnormal{Learn  >  CTF}}$$
 </h1>
 <h1 align="center">
   $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
