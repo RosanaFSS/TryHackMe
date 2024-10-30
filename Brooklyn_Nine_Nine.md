@@ -6,8 +6,7 @@
 
 
 
-<tr height="60px">
-        <td align="center">$ \textcolor{yellow}{\textsf{Brooklyn Nine Nine}} $</td>
+<p align="center">$ \textcolor{yellow}{\textsf{Brooklyn Nine Nine}} $</p>
 
 
 <p align="center">
