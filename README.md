@@ -58,7 +58,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 90% | 38 | 
+| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 92% | 38 | 
 | &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 90% | 55 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
@@ -69,6 +69,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| October 30, 2024  | 32       |      54,621ª |         972ª |      1,129ª |        21ª |    9,934 |        103|
 | October 29, 2024  | 30       |      54,661ª |         972ª |      1,093ª |        20ª |    9,934 |        103|
 | October 28, 2024  | 30       |      57,857ª |       1,056ª |      1,037ª |        21ª |    9,542 |        98 |
 | October 27, 2024  | 29       |      61,928ª |       1,121ª |        901ª |        21ª |    9,086 |        95 |
@@ -77,6 +78,5 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/2dd04a8d-1a2e-404a-9e5f-07548cce5e2d)
-
+![image](https://github.com/user-attachments/assets/c67dd680-a3ca-4471-b31b-c805f287c48c)
 
