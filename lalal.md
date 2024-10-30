@@ -32,7 +32,7 @@ Please give the box up to 5 minutes to boot and configure.</p>
 >> <code><strong>No answer needed</strong></code><br><br>
 <p>There are two ports open: 80/http and 3389/ms-wbt-server</p>
 <pre><code>$ nmap -sS -sV -A [Target]
-
+.
 Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 20:53 GMT
 Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
 Host is up (0.020s latency).
@@ -52,21 +52,21 @@ Aggressive OS guesses: AVtech Room Alert 26W environmental monitor (87%)
 No exact OS matches for host (test conditions non-ideal).
 Network Distance: 1 hop
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
-
+.
 TRACEROUTE
 HOP RTT      ADDRESS
 1   19.74 ms ip-[Target].eu-west-1.compute.internal ([Target])
-
+.
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
-</code></pre><br>
+</code></pre>
 
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>80</strong></code><br>
 <p><br></p>
 
 > 1.3. <em>What port is for remote desktop service?</em><br><a id='1.3'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>3389</strong></code><br>
 <p><br></p>
 
 > 1.4. <em>What is a possible password in one of the pages web crawlers check for?</em><br><a id='1.4'></a>
