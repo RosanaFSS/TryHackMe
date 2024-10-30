@@ -145,6 +145,77 @@ MAF{atbe_max_vtxltk}</p>
 ![image](https://github.com/user-attachments/assets/4b310718-7316-482c-a871-3fa6f8f6ef8e)
 
 
+<h2>Task 14 - An exclusive!</h2>
+<p>Exclusive strings for everyone!<br>
+
+S1: 44585d6b2368737c65252166234f20626d<br>
+S2: 1010101010101010101010101010101010</p>
+ 
+> 14.1 - <em>Did you crack it? Feed me now!</em><br>
+>> <strong>THM{3xclu51v3_0r}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/98da036e-c2fd-40bc-8662-0b0adb1b1a04)
+
+<h2>Task 15 - Binary walk</h2>
+<p>Please exfiltrate my file :)</p>
+ 
+> 15.1 - <em>Flag! Flag! Flag!</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+<h2>Task 16 - Darkness</h2>
+<p>There is something lurking in the dark.</p>
+ 
+> 16.1 - <em>What does the flag said?</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+<h2>Task 17 - A sounding QR</h2>
+<p>How good is your listening skill?</p>
+<p>P/S: The flag formatted as THM{Listened Flag}, the flag should be in All CAPS</p>
+ 
+> 17.1 - <em>What does the bot said?</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+<h2>Task 18 - A sounding QR</h2>
+<p>Sometimes we need a 'machine' to dig the past<br>
+
+Targetted website: https://www.embeddedhacker.com/<br>
+Targetted time: 2 January 2020</p>
+ 
+> 18.1 - <em>Did you found my past?</em><br>
+>> <strong>THM{ch3ck_th3_h4ckb4ck} </strong><br>
+<p><br></p>
+
+
+![image](https://github.com/user-attachments/assets/4090988c-09a5-4f3f-a6ae-a1dd4f21e220)
+
+![image](https://github.com/user-attachments/assets/47bab9cb-dc72-4622-8aca-e1bb351b2bae)
+
+<h2>Task 19 - Uncrackable!</h2>
+<p>Can you solve the following? By the way, I lost the key. Sorry >.<<br>
+
+MYKAHODTQ{RVG_YVGGK_FAL_WXF}<br>
+
+Flag format: TRYHACKME{FLAG IN ALL CAP}</p>
+
+Targetted website: https://www.embeddedhacker.com/<br>
+Targetted time: 2 January 2020</p>
+ 
+> 19.1 - <em>The deciphered text</em><br>
+>> <strong>TRYHACKME{YOU_FOUND_THE_KEY}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/5b3b1e1f-0820-469f-ac6f-883879b9adbc)
+
+![image](https://github.com/user-attachments/assets/ec39bad0-c313-41b1-8a57-9e81695c11f3)
+
+
+
+
+
 
 
 
