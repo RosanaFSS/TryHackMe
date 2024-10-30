@@ -14,7 +14,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 
 <p></p>Summary</p>
 
-[Task 1.](#1)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Task 1.1.](#1.1)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Task 1.2.](#1.2)   
+[Deploy and get hacking](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp; [User flag](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Root flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
 
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
@@ -246,12 +246,12 @@ Here is the flag: 63a9f0ea7bb98050796b649e85481845
 Enjoy!!
 </code></pre>
 
-<h2>CTF Complete</h2>
+<h2>Room Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
 ![image](https://github.com/user-attachments/assets/5dbc0388-726d-403f-b607-9b99e7e002f6)
 
-<h2>My journey</h2>
+<h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
 ![image](https://github.com/user-attachments/assets/ed1be3a6-b455-45da-90c2-b0f71092546d)
