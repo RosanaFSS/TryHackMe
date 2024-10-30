@@ -30,7 +30,12 @@ Please give the box up to 5 minutes to boot and configure.</p>
 <br>
 > 1.1. <em>Let's run nmap and check what ports are open.</em><br><a id='1.1'></a>
 >> <code><strong>No answer needed</strong></code><br>
-<p><br></p>
+<p></p>
+<pre><code>
+Lorem Ypsum
+</code></pre>
+
+
 
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
 >> <code><strong>____________</strong></code><br>
