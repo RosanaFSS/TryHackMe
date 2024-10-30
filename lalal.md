@@ -153,7 +153,7 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 /SEARCH               (Status: 200) [Size: 3414]
 /http%3A%2F%2Fwww     (Status: 400) [Size: 3420]
 ...
-</code></pre><br>
+</code></pre>
 
 <h4 align="left"> $$\textcolor{white}{\textnormal{Then I started researching by /archive.}}$$ </h4>
 <h4 align="left"> $$\textcolor{#4575d6}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
@@ -166,7 +166,7 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 
 > 1.8. <em>Can we find the email address of the administrator?</em><br><a id='1.8'></a>
 >> <code><strong>SD@anthem.com</strong></code><br>
-<p><br></p>
+<p></p>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
 <h4 align="left"> $$\textcolor{white}{\textnormal{Since Jane Doe´s email is JD@anthem.com I guessed that Solomon Grundy´s email is SG@anthem.com.  It worked!}}$$ </h4>
 
