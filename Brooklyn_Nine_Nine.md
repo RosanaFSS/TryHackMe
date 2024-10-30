@@ -14,9 +14,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
   <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
 </p>
 
-[Task 1.](#task1)
+# Header
+[Task 1. Deploy and get hacking](#task1)
 
-<h2> Task 1. Deploy and get hacking</h2>
+<h2> Task 1. Deploy and get hacking </h2>
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
