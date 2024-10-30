@@ -22,9 +22,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <br>
 <p align="center">This task involves you, paying attention to details and finding the 'keys to the castle'.<br>
 This room is designed for beginners, however, everyone is welcomed to try it out!<br>
-<p align="center">Enjoy the Anthem.</p>
-<p align="center">In this room, you don't need to brute force any login page. Just your preferred browser and Remote Desktop.</p>
-<p align="center">Please give the box up to 5 minutes to boot and configure.</p>
+Enjoy the Anthem.<br>
+In this room, you don't need to brute force any login page. Just your preferred browser and Remote Desktop.<br>
+Please give the box up to 5 minutes to boot and configure.</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
