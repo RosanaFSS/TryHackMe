@@ -67,8 +67,11 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p><br></p>
 
 <p align="center">
-  <img height="400px" hspace="20" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807">
+  <img height="300px" hspace="20" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807">
+  <img height="300px" hspace="20" src="https://github.com/user-attachments/assets/fcfe477e-d708-4b32-81a8-8b97995ed33a">
+  
 </p>
+
 
 
 > 1.3. <em>What port is for remote desktop service?</em><br><a id='1.3'></a>
@@ -108,6 +111,9 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356)
+
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
 >> <code><strong>____________</strong></code><br>
