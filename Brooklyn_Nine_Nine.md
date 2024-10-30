@@ -12,7 +12,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
   <img height="160px" src="https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214">
 </p>
 
-<p></p>Summary</p>
+<p align="center">Summary</p>
 
 [Deploy and get hacking](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User flag](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
 
