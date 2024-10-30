@@ -67,7 +67,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p><br></p>
 
 <p align="center">
-  <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807">
+  <img height="400px" hspace="20" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807">
 </p>
 
 
