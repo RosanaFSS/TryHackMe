@@ -237,10 +237,9 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 > 1.8. <em>Can we find the email address of the administrator?</em><br><a id='1.8'></a>
 >> <code><strong>SD@anthem.com</strong></code><br>
 <p></p>
+<h4>Since Jane Doe´s email is JD@anthem.com I guessed that Solomon Grundy´s email is SG@anthem.com.  It worked!</h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
-<h4 align="left"> $$\textcolor{white}{\textnormal{Since Jane Doe´s email is JD@anthem.com I guessed that Solomon Grundy´s email is SG@anthem.com.  It worked!}}$$ </h4>
 <br>
-
 
 <h2>Task 2. Spot the flags<a id='2'></a></h2>
 <p>Our beloved admin left some flags behind that we require to gather before we proceed to the next task.</p>
