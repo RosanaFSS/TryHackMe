@@ -52,14 +52,14 @@ Aggressive OS guesses: AVtech Room Alert 26W environmental monitor (87%)
 No exact OS matches for host (test conditions non-ideal).
 Network Distance: 1 hop
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
-.
+
 TRACEROUTE
 HOP RTT      ADDRESS
 1   19.74 ms ip-[Target].eu-west-1.compute.internal ([Target])
-.
+
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
-</code></pre>
+</code></pre><br>
 
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
 >> <code><strong>80</strong></code><br>
