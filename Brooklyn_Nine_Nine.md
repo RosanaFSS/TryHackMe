@@ -254,9 +254,8 @@ Enjoy!!
 ![image](https://github.com/user-attachments/assets/5dbc0388-726d-403f-b607-9b99e7e002f6)
 
 <h2>My journey</h2>
-<br>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
+
 ![image](https://github.com/user-attachments/assets/ed1be3a6-b455-45da-90c2-b0f71092546d)
 
-<p></p>
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
