@@ -10,7 +10,8 @@
 <br>
 
 
-![image](https://github.com/user-attachments/assets/ce4a0e52-ba12-48e0-9377-29b1724763e7)
+![image](https://github.com/user-attachments/assets/0822a5b1-9aed-4961-9bbb-6c7b125a086e)
+
 
 
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
@@ -274,6 +275,13 @@ msf6 exploit(unix/webapp/bolt_authenticated_rce) >
 
 
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/12659e70-0803-4cd3-b9a5-b4eb1505a062)
+
+![image](https://github.com/user-attachments/assets/6e2f5452-5cd4-450b-8442-8097379945c0)
 
 
 
