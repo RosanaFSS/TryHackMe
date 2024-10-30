@@ -18,21 +18,20 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 
 [Task 1.](#1)   
 [Task 1.1.](#1.1)   
+[Task 1.2.](#1.2)   
 
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
 
-<h2> Task 1. Deploy and get hacking<a id='1'></a> </h2>
+<h2>Task 1. Deploy and get hacking<a id='1'></a></h2>
 
 > 1.1. <em>User flag</em><br><a id='1.1'></a>
-
-> 1.1. <em>User flag</em><br>
 >> <strong>ee11cbb19052e40b07aac0ca060c23ee</strong><br>
 <p><br></p>
 
 
-> 1.2. <em>Root flag</em><br>
+> 1.2. <em>Root flag</em><br><a id='1.2'></a>
 >> <strong>63a9f0ea7bb98050796b649e85481845</strong><br>
 <p><br></p>
 
