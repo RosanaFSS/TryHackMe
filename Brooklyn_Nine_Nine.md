@@ -23,6 +23,13 @@ Learn > CTF
 >> <strong>ee11cbb19052e40b07aac0ca060c23ee</strong><br>
 <p><br></p>
 
+<div style="border: 2px solid lightblue; border-radius: 10px; padding: 10px; background: linear-gradient(to right, lightblue, white);">
+    <p style="font-family: Arial, sans-serif; text-align: center; color: darkblue; font-size: 16px;">
+        Your Customized Text Here
+    </p>
+</div>
+
+
 > 1.2 - <em>Root flag</em><br>
 >> <strong>63a9f0ea7bb98050796b649e85481845</strong><br>
 <p><br></p>
