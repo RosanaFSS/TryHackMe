@@ -8,8 +8,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <p align="center">Exploit a Windows machine in this beginner level challenge.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/anthem">Anthem</a>.</p><br>
 <p align="center">
-  <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520">
-  <img height="160px" src="https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214">
+  <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/3341c357-cc46-4547-ad4d-2eda43e5a114">
+  <img height="160px" src="https://github.com/user-attachments/assets/7a56d2ff-2477-4574-a13b-4e40a4fb849c">
 </p>
 
 <p align="center">Summary</p>
