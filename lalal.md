@@ -82,17 +82,16 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 1.6. <em>What is the domain of the website?</em><br><a id='1.6'></a>
 >> <code><strong>anthem.com</strong></code><br>
 <p></p>
+
+> 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
+>> <code><strong>Solomon Grundy</strong></code><br>
+<p></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807"> </p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-to-our-it-department/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/97651592-0142-4d65-ba48-77e54579ed1c"> </p>
-
-
-
-
-> 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
->> <code><strong>____________</strong></code><br>
-<p></p>
+<h4 align="left"> $$\textcolor{white}{\textnormal{Googling the poem, I found Solomon Grundy as its author.}}$$ </h4>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/f6d62594-e056-41e8-a20f-972e6e437bbc"> </p>
 
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
 
