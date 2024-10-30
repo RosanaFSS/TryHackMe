@@ -262,10 +262,11 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 <br>
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>THM{L0L_WH0_D15}</strong></code><br>
 <p><br></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/authors/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/ce7b3313-7d54-48c1-99d6-6e1586c15b88"> </p>
+<h4>We did not even need to access /authors/.  It was just take a glimpse in our second nmap and the answer was there.</h4>
 <br>
 
 > 2.4. <em>What is flag 4?</em><br><a id='2.4'></a>
