@@ -23,11 +23,34 @@ Learn > CTF
 >> <strong>ee11cbb19052e40b07aac0ca060c23ee</strong><br>
 <p><br></p>
 
-<div style="border: 2px solid lightblue; border-radius: 10px; padding: 10px; background: linear-gradient(to right, lightblue, white);">
-    <p style="font-family: Arial, sans-serif; text-align: center; color: darkblue; font-size: 16px;">
-        Your Customized Text Here
-    </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .light-ray-box {
+            border: 2px solid lightblue;
+            border-radius: 10px;
+            padding: 20px;
+            background: linear-gradient(to right, lightblue, white);
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: darkblue;
+            font-size: 18px;
+            box-shadow: 0 4px 20px rgba(173, 216, 230, 0.6);
+        }
+    </style>
+</head>
+<body>
+
+<div class="light-ray-box">
+    Your Customized Text Here
 </div>
+
+</body>
+</html>
+
 
 
 > 1.2 - <em>Root flag</em><br>
