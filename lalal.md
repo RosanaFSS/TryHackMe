@@ -73,7 +73,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 1.4. <em>What is a possible password in one of the pages web crawlers check for?</em><br><a id='1.4'></a>
 >> <code><strong>UmbracoIsTheBest!</strong></code><br>
 <p></p>
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/38936281-2570-4296-a009-cb5667601a6c"> </p>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/38936281-2570-4296-a009-cb5667601a6c"> </p>
 
 > 1.5. <em>What CMS is the website using?</em><br><a id='1.5'></a>
 >> <code><strong>____________</strong></code><br>
@@ -94,7 +94,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 >> <code><strong>____________</strong></code><br>
 <p></p>
 
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
 
 
 <p><br></p>
@@ -112,12 +112,12 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 2.1. <em>What is flag 1?</em><br><a id='2.1'></a>
 >> <code><strong>THM{L0L_WH0_US3S_M3T4}</strong></code><br>
 <p><br></p>
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/b60d8668-295c-429f-8cf4-35d44f3c0590"> </p>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/b60d8668-295c-429f-8cf4-35d44f3c0590"> </p>
 
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
 >> <code><strong>THM{G!T_G00D}</strong></code><br>
 <p><br></p>
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356"> </p>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356"> </p>
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
 >> <code><strong>____________</strong></code><br>
@@ -126,7 +126,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 2.4. <em>What is flag 4?</em><br><a id='2.4'></a>
 >> <code><strong>THM{AN0TH3R_M3TA}</strong></code><br>
 <p><br></p>
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/7132f4ca-e857-4039-a324-dd0809495fd8"> </p>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/7132f4ca-e857-4039-a324-dd0809495fd8"> </p>
 
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
