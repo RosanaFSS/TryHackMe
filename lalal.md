@@ -281,19 +281,19 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
-> 3.1. <em>What is flag 1?</em><br><a id='3.1'></a>
+> 3.1. <em>Let's figure out the username and password to log in to the box.(The box is not on a domain)</em><br><a id='3.1'></a>
 >> <code><strong>No answer needed</strong></code><br>
 <p><br></p>
 
-> 3.2. <em>What is flag 2?</em><br><a id='3.2'></a>
+> 3.2. <em>Gain initial access to the machine, what is the contents of user.txt?</em><br><a id='3.2'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
 
-> 3.3. <em>What is flag 3?</em><br><a id='3.3'></a>
+> 3.3. <em>Can we spot the admin password?</em><br><a id='3.3'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
 
-> 3.4. <em>What is flag 4?</em><br><a id='3.4'></a>
+> 3.4. <em>Escalate your privileges to root, what is the contents of root.txt?</em><br><a id='3.4'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
 
