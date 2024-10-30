@@ -84,7 +84,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807"> </p>
-<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-tou-our-it-department/}}$$ </h4>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-to-our-it-department/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/97651592-0142-4d65-ba48-77e54579ed1c"> </p>
 
 
@@ -118,7 +118,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
 >> <code><strong>THM{G!T_G00D}</strong></code><br>
 <p><br></p>
-<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-tou-our-it-department/}}$$ </h4>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-to-our-it-department/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356"> </p>
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
