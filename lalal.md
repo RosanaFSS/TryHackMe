@@ -88,6 +88,9 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 
 > 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
 >> <code><strong>____________</strong></code><br>
+
+![image](https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2)
+
 <p><br></p>
 
 > 1.8. <em>Can we find find the email address of the administrator?</em><br><a id='1.8'></a>
