@@ -15,11 +15,13 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 </p>
 
 <p>Summary</p>
-# 1.1 [Header](#1.1)
+
+# 1.1 [Header](#1.1)   
 
 ## <a name="task1">Task 1. Deploy and get hacking</a>
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
+
 
 # 1.1 Header<a id='1.1'></a>
 
