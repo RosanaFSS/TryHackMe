@@ -96,10 +96,10 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p><br></p>
 
 > 1.8. <em>Can we find find the email address of the administrator?</em><br><a id='1.8'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>SD@anthem.com</strong></code><br>
 <p><br></p>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
-<h4 align="left"> $$\textcolor{white}{\textnormal{Since Jane ´s email is }}$$ </h4>
+<h4 align="left"> $$\textcolor{white}{\textnormal{Since Jane Doe´s email is JD@anthem.com I guessed that Solomon Grundy´s email is SG@anthem.com.  It worked!}}$$ </h4>
 
 
 <h2>Task 2. Spot the flags<a id='2'></a></h2>
