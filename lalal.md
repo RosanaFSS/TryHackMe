@@ -87,6 +87,81 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
 >> <code><strong>Solomon Grundy</strong></code><br>
 <p></p>
+<h4 align="left"> $$\textcolor{white}{\textnormal{I run gobuster for directory enumeration.}}$$ </h4>
+<pre><code>$gobuster dir -u http://10.10.160.6 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.160.6
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+search               (Status: 200) [Size: 3414]
+/blog                 (Status: 200) [Size: 5389]
+/sitemap              (Status: 200) [Size: 1035]
+/rss                  (Status: 200) [Size: 1869]
+/archive              (Status: 301) [Size: 123] [--> /blog/]
+/categories           (Status: 200) [Size: 3536]
+/authors              (Status: 200) [Size: 4110]
+/Search               (Status: 200) [Size: 3464]
+/tags                 (Status: 200) [Size: 3589]
+/install              (Status: 302) [Size: 126] [--> /umbraco/]
+/RSS                  (Status: 200) [Size: 1869]
+/Blog                 (Status: 200) [Size: 5389]
+/Archive              (Status: 301) [Size: 123] [--> /blog/]
+/SiteMap              (Status: 200) [Size: 1035]
+/siteMap              (Status: 200) [Size: 1035]
+/INSTALL              (Status: 302) [Size: 126] [--> /umbraco/]
+/Sitemap              (Status: 200) [Size: 1035]
+/1073                 (Status: 200) [Size: 5389]
+/Rss                  (Status: 200) [Size: 1869]
+/Categories           (Status: 200) [Size: 3536]
+/1074                 (Status: 301) [Size: 123] [--> /blog/]
+/*checkout*           (Status: 400) [Size: 3420]
+/1078                 (Status: 200) [Size: 6192]
+Progress: 7777 / 220561 (3.53%)[ERROR] Get "http://10.10.160.6/1481": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/maryland": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/rhel": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/Website": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/Clothing": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 7782 / 220561 (3.53%)[ERROR] Get "http://10.10.160.6/new-york": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/nebraska": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/problem": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 7785 / 220561 (3.53%)[ERROR] Get "http://10.10.160.6/tennessee": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/nyt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+/Authors              (Status: 200) [Size: 4110]
+/1075                 (Status: 200) [Size: 4110]
+/1079                 (Status: 200) [Size: 6252]
+/1076                 (Status: 500) [Size: 3420]
+/Install              (Status: 302) [Size: 126] [--> /umbraco/]
+/*docroot*            (Status: 400) [Size: 3420]
+/AUTHORS              (Status: 200) [Size: 4110]
+/*                    (Status: 400) [Size: 3420]
+Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://10.10.160.6/con": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+/SEARCH               (Status: 200) [Size: 3414]
+/http%3A%2F%2Fwww     (Status: 400) [Size: 3420]
+Progress: 26262 / 220561 (11.91%)[ERROR] Get "http://10.10.160.6/search-marketing": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/6682": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 26264 / 220561 (11.91%)[ERROR] Get "http://10.10.160.6/tienda": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/ktegels": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 26266 / 220561 (11.91%)[ERROR] Get "http://10.10.160.6/top_arrow": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/soporte": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/virusscanner": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 26269 / 220561 (11.91%)[ERROR] Get "http://10.10.160.6/adfree": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 26270 / 220561 (11.91%)[ERROR] Get "http://10.10.160.6/6673": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR] Get "http://10.10.160.6/eight": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 28579 / 220561 (12.96
+... 
+</code></pre><br>
+
+<h4 align="left"> $$\textcolor{white}{\textnormal{Then I started researching by /archive.}}$$ </h4>
 <h4 align="left"> $$\textcolor{#4575d6}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807"> </p>
 <h4 align="left"> $$\textcolor{#4575d6}{\textnormal{/archive/a-cheers-to-our-it-department/}}$$ </h4>
