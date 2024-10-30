@@ -3,10 +3,10 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brooklyn Nine Nine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}$$
+  $$\textcolor{#3bd62d}{\textnormal{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anthem &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}$$
 </h1>
-<p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p><br>
+<p align="center">Exploit a Windows machine in this beginner level challenge.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/anthem">Anthem</a>.</p><br>
 <p align="center">
   <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520">
   <img height="160px" src="https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214">
@@ -14,22 +14,62 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 
 <p align="center">Summary</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Deploy and get hacking](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User flag](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website Analysis](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User flag](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
+
+
+<h2>Task 1. Website Analysis<a id='1'></a></h2>
 
 <br>
-<p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
+<p align="center">This task involves you, paying attention to details and finding the 'keys to the castle'.</p>
+<p align="center">This room is designed for beginners, however, everyone is welcomed to try it out!</p>
+<p align="center">Enjoy the Anthem.</p>
+<p align="center">In this room, you don't need to brute force any login page. Just your preferred browser and Remote Desktop.</p>
+<p align="center">Please give the box up to 5 minutes to boot and configure.</p>
 
 
-<h2>Task 1. Deploy and get hacking<a id='1'></a></h2>
-
-> 1.1. <em>User flag</em><br><a id='1.1'></a>
->> <strong>ee11cbb19052e40b07aac0ca060c23ee</strong><br>
+> 1.1. <em>Let's run nmap and check what ports are open.</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code><br>
 <p><br></p>
 
-
-> 1.2. <em>Root flag</em><br><a id='1.2'></a>
->> <strong>63a9f0ea7bb98050796b649e85481845</strong><br>
+> 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
+>> <code><strong>____________</strong></code><br>
 <p><br></p>
+
+> 1.3. <em>What port is for remote desktop service?</em><br><a id='1.3'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 1.4. <em>What is a possible password in one of the pages web crawlers check for?</em><br><a id='1.4'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 1.5. <em>What CMS is the website using?</em><br><a id='1.5'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 1.6. <em>What is the domain of the website?</em><br><a id='1.6'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+> 1.8. <em>Can we find find the email address of the administrator?</em><br><a id='1.8'></a>
+>> <code><strong>____________</strong></code><br>
+<p><br></p>
+
+<h2>Task 2. Spot the flags<a id='2'></a></h2>
+
+
+<h2>Task 3. Final stage<a id='3'></a></h2>
+<p>Let's get into the box using the intel we gathered.</p>
+
+<p>Answer the questions below</p>
+
+<h4 align="left">
+  $$\textcolor{#3bd62d}{\textnormal{Answer the questions below}}$$
+</h4>
 
 
 <pre><code>
