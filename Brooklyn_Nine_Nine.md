@@ -1,6 +1,6 @@
 October 30, 2024  
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s key part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak. Access this 🆓 TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p>
+It´s key part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.
 
 <h1 align="center">
   $$\textcolor{#FF69B4}{\textnormal{🔒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brooklyn Nine Nine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔓}}$$
@@ -13,7 +13,8 @@ It´s key part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak. Access th
 ![image](https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214)
 
 <p>Learn > CTF<br>
-Let´s get started!!</p>
+Let´s get started!!<br><br>
+Access this 🆓 TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p>
 
 
 
