@@ -63,7 +63,8 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 </code></pre><br>
 
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
->> <code><strong>80</strong></code><br><br>
+>> <code><strong>80</strong></code>
+<p></p>
 
 > 1.3. <em>What port is for remote desktop service?</em><br><a id='1.3'></a>
 >> <code><strong>3389</strong></code><br>
