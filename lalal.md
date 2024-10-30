@@ -76,8 +76,10 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/38936281-2570-4296-a009-cb5667601a6c"> </p>
 
 > 1.5. <em>What CMS is the website using?</em><br><a id='1.5'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>Umbraco</strong></code><br>
 <p><br></p>
+<h4 align="left"> $$\textcolor{white}{\textnormal{Googling Umbraco I learned that it is an open-source management system(CMS) platform for publishing content on the World Wide Web and intraned.}}$$ </h4>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/08db55f3-3579-4b17-a790-b3fbb858bb94"> </p>
 
 > 1.6. <em>What is the domain of the website?</em><br><a id='1.6'></a>
 >> <code><strong>anthem.com</strong></code><br>
