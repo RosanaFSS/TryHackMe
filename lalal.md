@@ -29,7 +29,7 @@ Please give the box up to 5 minutes to boot and configure.</p>
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 > 1.1. <em>Let's run nmap and check what ports are open.</em><br><a id='1.1'></a>
->> <code><strong>No answer needed</strong></code><br>
+>> <code><strong>No answer needed</strong></code><br><br>
 <pre><code>
 Lorem Ypsum
 </code></pre>
