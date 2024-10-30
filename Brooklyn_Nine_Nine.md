@@ -3,16 +3,10 @@
   $$\textcolor{white}{\textnormal{Learn  >  CTF}}$$
 </h1>
 <h1 align="center">
-  $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine 💚}}$$
+  $$\textcolor{orange}{\textnormal{🔹     Brooklyn \ Nine \ Nine 🔹}}$$
 </h1>
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
 
-
-- texto em vermelho
-+ texto em verde
-! texto em laranja
-# texto em cinza
-@@ texto em roxo (e negrito)@@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="250px" height="250px"/>
