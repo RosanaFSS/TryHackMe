@@ -82,8 +82,13 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 1.6. <em>What is the domain of the website?</em><br><a id='1.6'></a>
 >> <code><strong>anthem.com</strong></code><br>
 <p></p>
-<h3 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/we-are-hiring/}}$$ </h3>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807"> </p>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-tou-our-it-department/}}$$ </h4>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/97651592-0142-4d65-ba48-77e54579ed1c"> </p>
+
+
+
 
 > 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
 >> <code><strong>____________</strong></code><br>
@@ -109,20 +114,18 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p><br></p>
 
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>THM{G!T_G00D}</strong></code><br>
 <p><br></p>
-
-![image](https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356)
-
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356"> </p>
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
 
 > 2.4. <em>What is flag 4?</em><br><a id='2.4'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>THM{AN0TH3R_M3TA}</strong></code><br>
 <p><br></p>
-
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/7132f4ca-e857-4039-a324-dd0809495fd8"> </p>
 
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
