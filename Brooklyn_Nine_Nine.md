@@ -1,4 +1,6 @@
-<h1>Learn > CTF ></h1>
+<h1 align="center">
+  $$\textcolor{orange}{\textnormal{Learn > \ CTF}}$$
+</h1>
 <h1 align="center">
   $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
 </h1>
