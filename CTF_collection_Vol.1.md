@@ -212,6 +212,27 @@ Targetted time: 2 January 2020</p>
 
 ![image](https://github.com/user-attachments/assets/ec39bad0-c313-41b1-8a57-9e81695c11f3)
 
+<h2>Task 20 - Small bases</h2>
+<p>Decode the following text.<br>
+
+581695969015253365094191591547859387620042736036246486373595515576333693</p
+ 
+>20.1 - <em>What is the flag?</em><br>
+>> <strong>THM{17_ju57_4n_0rd1n4ry_b4535}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/418a5032-bc57-4ac9-9933-78860fcb1d30)
+
+![image](https://github.com/user-attachments/assets/86102595-40d0-4181-b0e3-72c928b10ef2)
+
+<h2>Task 21 - Read the packet</h2>
+<p>Decode the following text.<br>
+
+581695969015253365094191591547859387620042736036246486373595515576333693</p
+ 
+>20.1 - <em>What is the flag?</em><br>
+>> <strong>THM{17_ju57_4n_0rd1n4ry_b4535}</strong><br>
+<p><br></p>
 
 
 
