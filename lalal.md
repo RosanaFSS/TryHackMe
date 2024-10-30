@@ -112,11 +112,13 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 2.1. <em>What is flag 1?</em><br><a id='2.1'></a>
 >> <code><strong>THM{L0L_WH0_US3S_M3T4}</strong></code><br>
 <p><br></p>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/we-are-hiring/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/b60d8668-295c-429f-8cf4-35d44f3c0590"> </p>
 
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
 >> <code><strong>THM{G!T_G00D}</strong></code><br>
 <p><br></p>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/archive/a-cheers-tou-our-it-department/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/9c6939e0-8129-4a21-a979-55e349ca7356"> </p>
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
