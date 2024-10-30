@@ -62,6 +62,76 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 </code></pre><br>
 
+<p>I wanted for details so I run a specific type of nmap</p>
+<pre><code>$ nmap -Pn --script vuln [Target]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 23:05 GMT
+Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
+Host is up (0.015s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+| _ http-aspnet-debug: ERROR: Script execution failed (use -d to debug)
+|   http-csrf: 
+|   Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=ip-[Target].eu-west-1.compute.internal
+|     Found the following possible CSRF vulnerabilities: 
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal:80/
+|     Form id: 
+|     Form action: /search
+|      
+|     Path: http://ip-[Target].eu-west-1.compute.internal/
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/archive/a-cheers-to-our-it-department/
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/search
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/archive/we-are-hiring/
+|     Form id: 
+|     Form action: /search
+|      
+|     Path: http://ip-[Target].eu-west-1.compute.internal/categories
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/tags
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/authors/jane-doe/
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/rss/{link}
+|     Form id: 
+|     Form action: /search
+|     
+|     Path: http://ip-[Target].eu-west-1.compute.internal/authors/jane-doe/THM{L0L_WH0_D15}
+|     Form id: 
+|     Form action: /search
+| _ http-dombased-xss: Couldn't find any DOM based XSS.
+| http-enum: 
+|   /blog/: Blog
+|   /rss/: RSS or Atom feed
+|   /robots.txt: Robots file
+|   /categories/viewcategory.aspx: MS Sharepoint
+|   /categories/allcategories.aspx: MS Sharepoint
+|   /authors/: Potentially interesting folder
+|_  /search/: Potentially interesting folder
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+3389/tcp open  ms-wbt-server
+|_sslv2-drown: 
+MAC Address: 02:27:A8:B9:66:9F (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 683.64 seconds
+</code></pre><br>
+
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
 >> <code><strong>80</strong></code>
 <p><br></p>
