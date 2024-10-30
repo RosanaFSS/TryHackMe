@@ -1,3 +1,4 @@
+<p align="center">October 30, 2024</p>
 <h1 align="center">
   $$\textcolor{white}{\textnormal{Learn  >  CTF}}$$
 </h1>
@@ -5,10 +6,6 @@
   $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
 </h1>
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
-<p align="center">October 30, 2024</p>
-
-
-
 
 
 <p align="center">
