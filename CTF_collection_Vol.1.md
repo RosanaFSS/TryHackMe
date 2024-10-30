@@ -18,6 +18,65 @@ Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/ctfcol
 
 <h2>Task 1 - Introduction</h2>
 
-> 1.1 - <em>I have successfully started the attached VM.</em><br>
+<p>Just another random CTF room created by me. Well, the main objective of the room is to test your CTF skills. For your information, vol.1 consists of 20 tasks and all the challenges are extremely easy. Stay calm and Capture the flag. :)<br>
+
+Note: All the challenges flag are formatted as THM{flag}, unless stated otherwise</p>
+
+> 1.1 - <em>High five!</em><br>
 >> <strong>No answer needed</strong><br>
 <p><br></p>
+
+<h2>Task 2 - What does the base said?</h2>
+
+<p>Can you decode the following?
+
+VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
+
+> 2.1 - <em>Feed me the flag!</em><br>
+>> <strong>THM{ju57_d3c0d3_7h3_b453}</strong><br>
+<p><br></p>
+
+<h2>Task 3 - Meta meta</h2>
+<p>Meta! meta! meta! meta...................................</p>
+    
+> 3.1 - <em>I'm hungry, I need the flag.</em><br>
+>> <strong>THM{3x1f_0r_3x17}</strong><br>
+<p><br></p>
+
+
+<h2>Task 4 - Mon, are we going to be okay?</h2>
+<p>Something is hiding. That's all you need to know.</p>
+    
+> 4.1 - <em>It is sad. Feed me the flag.</em><br>
+>> <strong>THM{500n3r_0r_l473r_17_15_0ur_7urn}</strong><br>
+<p><br></p>
+
+<h2>Task 5 - Mon, are we going to be okay?</h2>
+<p>Huh, where is the flag? THM{wh173.</p>
+    
+> 5.1 - <em>Did you find the flag?</em><br>
+>> <strong>THM{wh173_fl46}</strong><br>
+<p><br></p>
+
+
+<h2>Task 6 - QRrrrr</h2>
+<p>Such technology is quite reliable..</p>
+    
+> 6.1 - <em>More flag please!</em><br>
+>> <strong>THM{qr_m4k3_l1f3_345y}</strong><br>
+<p><br></p>
+
+
+<h2>Task 7 - Reverse it or read it?/h2>
+<p>Both works, it's all up to you.</p>
+    
+> 7.1 - <em>Found the flag?</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+
+
+
+
+
+
