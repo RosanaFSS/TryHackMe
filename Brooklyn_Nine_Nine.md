@@ -18,7 +18,7 @@ Access this 🆓 TryHackMe Room clicking <a href="https://tryhackme.com/r/room/b
 
 [create an anchor](#head-2)
 
-[create and anchor](#task1)
+[Task 1](#task1)
 
 <h2> Task 1. Deploy and get hacking</h2>
 
