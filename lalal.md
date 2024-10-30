@@ -66,6 +66,11 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 >> <code><strong>80</strong></code>
 <p><br></p>
 
+<p align="center">
+  <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807">
+</p>
+
+
 > 1.3. <em>What port is for remote desktop service?</em><br><a id='1.3'></a>
 >> <code><strong>3389</strong></code><br>
 <p><br></p>
