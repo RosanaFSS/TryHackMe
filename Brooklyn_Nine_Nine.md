@@ -18,7 +18,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 
 [Task 1. Deploy and get hacking](#task1)
 
-<h2> id="task-1-deploy-and-get-hacking">
+<h2 id="task-1-deploy-and-get-hacking">
      Task 1. Deploy and get hacking
 </h2>
 
