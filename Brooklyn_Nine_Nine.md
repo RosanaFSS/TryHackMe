@@ -4,15 +4,8 @@
 <p align="center">October 30, 2024</p>
 <br>
 
-$$\textcolor{orange}{Brooklyn \ Nine \ Nine}$$
-
-
-<p align="center">$ \textcolor{yellow}{\textsf{Brooklyn Nine Nine}} $</p>
-
-$$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
-
 <p align="center">
-    $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
+    <span style="color: orange; font-size: 2em;">Brooklyn Nine Nine</span>
 </p>
 
 
