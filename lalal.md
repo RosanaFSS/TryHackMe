@@ -30,8 +30,35 @@ Please give the box up to 5 minutes to boot and configure.</p>
 <br>
 > 1.1. <em>Let's run nmap and check what ports are open.</em><br><a id='1.1'></a>
 >> <code><strong>No answer needed</strong></code><br><br>
-<pre><code>
-Lorem Ypsum
+<p>There are two ports open: 80/http and 3389/ms-wbt-server</p>
+<pre><code>$ nmap -sS -sV -A [Target]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 20:53 GMT
+Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
+Host is up (0.020s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| ssl-cert: Subject: commonName=WIN-LU09299160F
+| Not valid before: 2024-10-29T20:21:13
+|_Not valid after:  2025-04-30T20:21:13
+|_ssl-date: 2024-10-30T20:54:17+00:00; 0s from scanner time.
+MAC Address: 02:27:A8:B9:66:9F (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized
+Running (JUST GUESSING): AVtech embedded (87%)
+Aggressive OS guesses: AVtech Room Alert 26W environmental monitor (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   19.74 ms ip-[Target].eu-west-1.compute.internal ([Target])
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 </code></pre><br>
 
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
