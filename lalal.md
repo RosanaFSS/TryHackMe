@@ -110,8 +110,9 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <br>
 
 > 2.1. <em>What is flag 1?</em><br><a id='2.1'></a>
->> <code><strong>No answer needed</strong></code><br>
+>> <code><strong>THM{L0L_WH0_US3S_M3T4}</strong></code><br>
 <p><br></p>
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/b60d8668-295c-429f-8cf4-35d44f3c0590"> </p>
 
 > 2.2. <em>What is flag 2?</em><br><a id='2.2'></a>
 >> <code><strong>THM{G!T_G00D}</strong></code><br>
