@@ -196,6 +196,8 @@ fi
 
 <pre><code>
 $ jake@brookly_nine_nine:~$ sudo less /etc/profile
+# whoami
+root
 # pwd
 /home/jake
 # cd /
