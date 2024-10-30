@@ -65,7 +65,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
 
-<h3 align="left"> $$\textcolor{#f50a16}{\textnormal{Answer the questions below}}$$</h3>
+<h3 align="left"> $$\textcolor{#f50a16}{\textnormal{Answer the questions below}}$$</h3> --------------------------
 
 
 <pre><code>
