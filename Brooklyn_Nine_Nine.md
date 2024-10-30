@@ -5,6 +5,23 @@
 <br>
 
 
+<table border="10">
+    <col style="width:10%">
+    <col style="width:30%">
+    <col style="width:45%">
+    <thead>
+    <tr height="80px">
+        <th><strong>Title</strong></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr height="60px">
+        <td align="center">$ \textcolor{yellow}{\textsf{Brooklyn Nine Nine}} $</td>
+    </tr>
+    </tbody>
+</table>
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
 </p>
