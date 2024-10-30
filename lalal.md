@@ -67,9 +67,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 
 <p>Answer the questions below</p>
 
-<h4 align="left">
-  $$\textcolor{#3bd62d}{\textnormal{Answer the questions below}}$$
-</h4>
+<h4 align="left"> $$\textcolor{#f50a16}{\textnormal{Answer the questions below}}$$ </h4>
 
 
 <pre><code>
