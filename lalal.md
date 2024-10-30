@@ -32,9 +32,7 @@ Please give the box up to 5 minutes to boot and configure.</p>
 >> <code><strong>No answer needed</strong></code><br><br>
 <pre><code>
 Lorem Ypsum
-</code></pre>
-
-
+</code></pre><br>
 
 > 1.2. <em>What port is for the web server?</em><br><a id='1.2'></a>
 >> <code><strong>____________</strong></code><br>
