@@ -93,15 +93,14 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/97651592-0142-4d65-ba48-77e54579ed1c"> </p>
 <h4 align="left"> $$\textcolor{white}{\textnormal{Googling the poem, I found Solomon Grundy as its author.}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/f6d62594-e056-41e8-a20f-972e6e437bbc"> </p>
-
-<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
-
-
 <p><br></p>
 
 > 1.8. <em>Can we find find the email address of the administrator?</em><br><a id='1.8'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
+<h4 align="left"> $$\textcolor{white}{\textnormal{Since Jane ´s email is }}$$ </h4>
+
 
 <h2>Task 2. Spot the flags<a id='2'></a></h2>
 <p>Our beloved admin left some flags behind that we require to gather before we proceed to the next task.</p>
