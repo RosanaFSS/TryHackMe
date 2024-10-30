@@ -95,7 +95,7 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/f6d62594-e056-41e8-a20f-972e6e437bbc"> </p>
 <p><br></p>
 
-> 1.8. <em>Can we find find the email address of the administrator?</em><br><a id='1.8'></a>
+> 1.8. <em>Can we find the email address of the administrator?</em><br><a id='1.8'></a>
 >> <code><strong>SD@anthem.com</strong></code><br>
 <p><br></p>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/3e41245f-36d5-4b12-a02f-311654a07ab2"> </p>
@@ -125,6 +125,9 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
+<h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/authors/}}$$ </h4>
+<p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/ce7b3313-7d54-48c1-99d6-6e1586c15b88"> </p>
+<br>
 
 > 2.4. <em>What is flag 4?</em><br><a id='2.4'></a>
 >> <code><strong>THM{AN0TH3R_M3TA}</strong></code><br>
