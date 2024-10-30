@@ -16,11 +16,9 @@ Let´s get started!!<br><br>
 Learn > CTF<br>
 Access this 🆓 TryHackMe Room clicking <a href="https://tryhackme.com/r/room/brooklynninenine">Brooklyn Nine Nine</a>.</p>
 
-[create an anchor](#head-2)
-
 [Task 1](#task1)
 
-<h2> Task 1. Deploy and get hacking</h2>
+<h2> [Task 1](#task1). Deploy and get hacking</h2>
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
