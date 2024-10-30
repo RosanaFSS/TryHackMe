@@ -3,10 +3,9 @@
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
 <p align="center">October 30, 2024</p>
 <br>
-
-<p align="center">
-    <span style="color: orange; font-size: 2em;">Brooklyn Nine Nine</span>
-</p>
+<h2 align="center">
+  $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
+</h2>
 
 
 
