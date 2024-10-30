@@ -5,21 +5,9 @@
 <br>
 
 
-<table border="10">
-    <col style="width:10%">
-    <col style="width:30%">
-    <col style="width:45%">
-    <thead>
-    <tr height="80px">
-        <th><strong>Title</strong></th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr height="60px">
+
+<tr height="60px">
         <td align="center">$ \textcolor{yellow}{\textsf{Brooklyn Nine Nine}} $</td>
-    </tr>
-    </tbody>
-</table>
 
 
 <p align="center">
