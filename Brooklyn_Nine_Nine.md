@@ -3,10 +3,9 @@
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p><br>
 <p>October 30, 2024<br></p><br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
-</div>
-<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcd7cff2-8cb9-4327-9031-4b386f8eb520" width="150px" height="150px"/>
+</p>
 
 ![image](https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214)
 
