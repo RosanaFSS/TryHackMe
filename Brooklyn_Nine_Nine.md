@@ -18,7 +18,9 @@ Access this 🆓 TryHackMe Room clicking <a href="https://tryhackme.com/r/room/b
 
 [create an anchor](#head-2)
 
-<h2>[Task 1. Deploy and get hacking](#head-2)</h2>
+[create and anchor](#task1)
+
+<h2> Task 1. Deploy and get hacking</h2>
 
 <p>This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
