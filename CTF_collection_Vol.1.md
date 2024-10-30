@@ -51,7 +51,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 >> <strong>THM{500n3r_0r_l473r_17_15_0ur_7urn}</strong><br>
 <p><br></p>
 
-<h2>Task 5 - Mon, are we going to be okay?</h2>
+<h2>Task 5 - Erm......Magick?</h2>
 <p>Huh, where is the flag? THM{wh173.</p>
     
 > 5.1 - <em>Did you find the flag?</em><br>
@@ -73,6 +73,80 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 > 7.1 - <em>Found the flag?</em><br>
 >> <strong>______</strong><br>
 <p><br></p>
+
+<h2>Task 8 - Another decoding stuff/h2>
+<p>Can you decode it?<br>
+
+3agrSy1CewF9v8ukcSkPSYm3oKUoByUpKG4L</p>
+    
+> 8.1 - <em>Oh, Oh, Did you get it?</em><br>
+>> <strong>THM{17_h45_l3553r_l3773r5}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/76864723-4bc0-48ee-8ddf-1db836a9f0da)
+
+<h2>Task 9 - Left or right/h2>
+<p>Left, right, left, right... Rot 13 is too mainstream. Solve this<br>
+
+MAF{atbe_max_vtxltk}</p>
+    
+> 9.1 - <em>What did you get?</em><br>
+>> <strong>THM{hail_the_caesar}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/e3a7bc4e-be27-49eb-b833-f882939e6c8e)
+
+<h2>Task 10 - Make a coment/h2>
+<p>No downloadable file, no ciphered or encoded text. Huh .......</p>
+    
+> 10.1 - <em>I'm hungry now... I need the flag</em><br>
+>> <strong>THM{4lw4y5_ch3ck_7h3_c0m3mn7}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/239c4f1a-ff00-4be2-b446-3e2808796bb5)
+
+<h2>Task 11 - Can you fix it?/h2>
+<p>I accidentally messed up with this PNG file. Can you help me fix it? Thanks, ^^</p>
+    
+> 11.1 - <em>What is the content?</em><br>
+>> <strong>___________________________</strong><br>
+<p><br></p>
+
+
+<h2>Task 12 - Read it</h2>
+<p>Some hidden flag inside Tryhackme social account.</p>
+    
+> 12.1 - <em>Did you found the hidden flag?</em><br>
+>> <strong>THM{50c14l_4cc0un7_15_p4r7_0f_051n7}</strong><br>
+<p><br></p>
+
+
+![image](https://github.com/user-attachments/assets/0ddab326-32c0-452d-9401-762c51c54c1b)
+
+
+<p>SlVTVCBPTkUgTU9SRSBTVEVQICEhISEhISEhIApzaXRlOiJyZWRkaXQuY29tIiBpbnRleHQ6IlRITSIgaW50aXRsZToidHJ5aGFja21l</p>
+
+![image](https://github.com/user-attachments/assets/eb18c860-4f7f-4461-932a-23a9b0867178)
+
+![image](https://github.com/user-attachments/assets/1c6ec18d-0e52-4537-bda3-39a59eb84020)
+
+![image](https://github.com/user-attachments/assets/0c7f386b-7f0c-4370-8079-19ad44c7a073)
+
+
+<h2>Task 13 - Spin my head</h2>
+<p>What is this?<br>
+
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++++++++++++.------------.+++++.>+++++++++++++++++++++++.<<++++++++++++++++++.>>-------------------.---------.++++++++++++++.++++++++++++.<++++++++++++++++++.+++++++++.<+++.+.>----.>++++.</p>
+    
+> 13.1 - <em>Did you found the hidden flag?</em><br>
+>> <strong>THM{0h_my_h34d}</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/4b310718-7316-482c-a871-3fa6f8f6ef8e)
+
+
+
+
 
 
 
