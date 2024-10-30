@@ -8,8 +8,7 @@
 </div>
 <br>
 
-![image](https://github.com/user-attachments/assets/2f447e53-fc91-4006-8b39-0c90c8428a4f)
-
+![image](https://github.com/user-attachments/assets/db9bca4f-008c-4959-a5b0-3aa2a37e4214)
 
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s key part of my <strong><em>177</em></strong>-day-streak.<br>Let´s get started!!<br><br>
