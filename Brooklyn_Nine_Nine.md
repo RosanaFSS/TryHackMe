@@ -1,6 +1,6 @@
 <p align="center">October 30, 2024</p>
 <h1 align="center">
-  $$\textcolor{white}{\textnormal{Learn&nbsp&nbsp&nbsp>&nbsp&nbsp&nbspCTF}}$$
+  $$\textcolor{white}{\textnormal{Learn&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCTF}}$$
 </h1>
 <h1 align="center">
   $$\textcolor{orange}{\textnormal{💎&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBrooklyn \ Nine \ Nine&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp💎}}$$
