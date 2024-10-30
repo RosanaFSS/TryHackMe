@@ -1,8 +1,8 @@
 <h1>Learn > CTF ></h1>
 
-<p align="center">
-    <strong><font color="orange" size="6">Brooklyn Nine Nine</font></strong>
-</p>
+<h2 align="center">
+  $$\textcolor{orange}{\textnormal{Brooklyn \ Nine \ Nine}}$$
+</h2>
 
 
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.</p>
