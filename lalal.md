@@ -77,8 +77,6 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/38936281-2570-4296-a009-cb5667601a6c"> </p>
 
 
-<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807"> </p>
-<br>
 <p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/fcfe477e-d708-4b32-81a8-8b97995ed33a"> </p>
 
 > 1.5. <em>What CMS is the website using?</em><br><a id='1.5'></a>
@@ -86,8 +84,10 @@ Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 <p><br></p>
 
 > 1.6. <em>What is the domain of the website?</em><br><a id='1.6'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>anthem.com</strong></code><br>
 <p><br></p>
+
+<p align="center"> <img width="700px" src="https://github.com/user-attachments/assets/8af5b827-cabc-473a-bb03-9088c43fd807"> </p>
 
 > 1.7. <em>What's the name of the Administrator?</em><br><a id='1.7'></a>
 >> <code><strong>____________</strong></code><br>
