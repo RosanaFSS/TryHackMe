@@ -62,7 +62,7 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 115.65 seconds
 </code></pre><br>
 
-<p>I wanted for details so I run a specific type of nmap</p>
+<p>I wanted more details so I run a specific type of nmap, a very valuable one.</p>
 <pre><code>$ nmap -Pn --script vuln [Target]
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 23:05 GMT
