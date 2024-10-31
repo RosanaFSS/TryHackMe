@@ -285,9 +285,7 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 <h2>Task 3. Final stage<a id='3'></a></h2>
 <p>Let's get into the box using the intel we gathered.</p>
 <br>
-<h4>Port 3389 is used to acess Windows remotely through Rrmote Desktop Protocol (RDP).</h4>
-<br>
-
+<h4>Port 3389 is used to access Windows remotely through Rrmote Desktop Protocol (RDP).</h4>
 
 <pre><code>$gobuster dir -u http://[Target] -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
 </code></pre>
