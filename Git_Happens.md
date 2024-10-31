@@ -39,11 +39,11 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 <h2>Room Complete<a id='4'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-![image](https://github.com/user-attachments/assets/b87ba565-47ee-4919-a81f-7db32ff5b56e)
+
 
 <h2>My Journey<a id='5'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-![image](https://github.com/user-attachments/assets/2bcd9e83-e381-438e-ade2-d7a9c0fe5e9c)
+
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
