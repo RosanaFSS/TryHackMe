@@ -24,6 +24,35 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
+
+<p>I started with nmap enumeration.</p>
+
+-sC: run all the default scripts.
+-sV: Find the version of services running on the target.
+-T4: Aggressive scan to provide faster results.
+
+
+<pre><code># sudo nmap -sC -sV -T4 [Target]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-31 22:37 GMT
+Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
+Host is up (0.0010s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.14.0 (Ubuntu)
+| http-git: 
+|   [Target]:80/.git/
+|     Git repository found!
+|_    Repository description: Unnamed repository; edit this file 'description' to name the...
+|_http-server-header: nginx/1.14.0 (Ubuntu)
+|_http-title: Super Awesome Site!
+MAC Address: 02:90:A7:6B:80:09 (Unknown)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
+</code></pre><br>
+
 > 1.1. <em>Find the Super Secret Password.</em><br><a id='1.1'></a>
 >> <code><strong>____</strong></code><br><br>
 
