@@ -28,7 +28,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
-|                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
 | October 31, 2024  | 177      |       1,469ª |          32ª |         92ª |         2ª | 51,148   |       389 |
 | October 30, 2024  | 177      |       1,500ª |          32ª |        106ª |         2ª | 50,728   |       388 |
 | October 29, 2024  | 176      |       1,528ª |          32ª |        121ª |         2ª | 50,302   |       385 |
