@@ -40,7 +40,8 @@ https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/b757e549-92d6-48c4-9f68-18b5e631da72)
+![image](https://github.com/user-attachments/assets/8d5feaec-785c-45ca-b039-c43815e5ec55)
+
 
 ![image](https://github.com/user-attachments/assets/68f9fec7-7346-46be-8ed8-a1735e393444)
 
