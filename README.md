@@ -71,6 +71,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| October 31, 2024  | 33       |      51,336ª |         914ª |      1,265ª |        25ª |   10,386 |        103|
 | October 30, 2024  | 32       |      54,621ª |         972ª |      1,129ª |        21ª |    9,934 |        103|
 | October 29, 2024  | 30       |      54,661ª |         972ª |      1,093ª |        20ª |    9,934 |        103|
 | October 28, 2024  | 30       |      57,857ª |       1,056ª |      1,037ª |        21ª |    9,542 |        98 |
@@ -80,5 +81,6 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/c67dd680-a3ca-4471-b31b-c805f287c48c)
+![image](https://github.com/user-attachments/assets/400ef088-bf12-4621-9d70-94d4c324ae5e)
+
 
