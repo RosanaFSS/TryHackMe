@@ -57,9 +57,6 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <br>
 <p><br></p>
 
-https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png
-
-
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 | &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 96%  | 55 | 
