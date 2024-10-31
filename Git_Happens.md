@@ -60,9 +60,46 @@ Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
 
 <p>This login page do not provide data entry.</p>
 
-<p>Accessing [Target]<code>:80/.git/</code> we will find some folders exposed in <code>git directory</code>.</p>
+<p>Accessing [Target]<code>:80/.git/</code> we will find some folders exposed in <code>.git directory</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/127315d6-15ca-4452-9507-1ef5a56cae7c)
+
+<p>After a bit of research I learned that gitdumper.sh is adequate for this study case.</p>
+
+![image](https://github.com/user-attachments/assets/b2e6e3f6-a0d9-47aa-9938-fa161f529bce)
+
+<pre><code># sudo nmap -sC -sV -T4 [Target]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-31 22:37 GMT
+Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
+Host is up (0.0010s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.14.0 (Ubuntu)
+| http-git: 
+|   [Target]:80/.git/
+|     Git repository found!
+|_    Repository description: Unnamed repository; edit this file 'description' to name the...
+|_http-server-header: nginx/1.14.0 (Ubuntu)
+|_http-title: Super Awesome Site!
+MAC Address: 02:90:A7:6B:80:09 (Unknown)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
+</code></pre><br>
+
+<p>........</p>
+
+<pre><code># root@ip-[Attack]:/GitHappens# git clone https://github.com/internetwache/GitTools/
+Cloning into 'GitTools'...
+remote: Enumerating objects: 242, done.
+remote: Counting objects: 100% (33/33), done.
+remote: Compressing objects: 100% (23/23), done.
+remote: Total 242 (delta 9), reused 27 (delta 7), pack-reused 209 (from 1)
+Receiving objects: 100% (242/242), 56.46 KiB | 2.57 MiB/s, done.
+Resolving deltas: 100% (88/88), done.
+</code></pre><br>
 
 
 
