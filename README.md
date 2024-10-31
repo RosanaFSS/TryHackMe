@@ -57,11 +57,13 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <br>
 <p><br></p>
 
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png
+
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| &#x1F6A7; &#x1F6A7; | **Jr Penetration Tester**   | Intermediate  | in progress, 96% | 38 | 
-| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 90% | 55 | 
+| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | October 31, 2024 | 55 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png" style="width:280px;"/> | **Jr Penetration Tester**   | Intermediate  | in progress, 96% | 38 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
@@ -71,9 +73,9 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| October 31, 2024  | 33       |      51,336ª |         914ª |      1,265ª |        25ª |   10,386 |        103|
-| October 30, 2024  | 32       |      54,621ª |         972ª |      1,129ª |        21ª |    9,934 |        103|
-| October 29, 2024  | 30       |      54,661ª |         972ª |      1,093ª |        20ª |    9,934 |        103|
+| October 31, 2024  | 33       |      50,289ª |         900ª |      1,382ª |        27ª |   10,538 |       105 |
+| October 30, 2024  | 32       |      54,621ª |         972ª |      1,129ª |        21ª |    9,934 |       103 |
+| October 29, 2024  | 30       |      54,661ª |         972ª |      1,093ª |        20ª |    9,934 |       103 |
 | October 28, 2024  | 30       |      57,857ª |       1,056ª |      1,037ª |        21ª |    9,542 |        98 |
 | October 27, 2024  | 29       |      61,928ª |       1,121ª |        901ª |        21ª |    9,086 |        95 |
 | October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
@@ -81,6 +83,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/400ef088-bf12-4621-9d70-94d4c324ae5e)
+![image](https://github.com/user-attachments/assets/380bedb9-3d09-4c12-ac4f-a079f2450914)
+
+
+![image](https://github.com/user-attachments/assets/66b5d127-ce39-4821-a99f-ce5bac15587e)
+
 
 
