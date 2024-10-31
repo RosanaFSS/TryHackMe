@@ -9,12 +9,12 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/githappens">Git Happens</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/cd2de457-e1bb-4619-96e1-4cd7d0173d0b">
-  <img height="150px" src="https://github.com/user-attachments/assets/9be20102-0d60-4dfa-85eb-44f93b1e4abd">
+  <img height="150px" src="[https://github.com/user-attachments/assets/9be20102-0d60-4dfa-85eb-44f93b1e4abd](https://github.com/user-attachments/assets/39848468-ba8e-439b-a21f-17762d65940a)">
 </p>
 
 <p align="center">Summary</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Capture the flag](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#5)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Walkthrough](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Super Secret Passwprd](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;[Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
 
 
 <h2>Task 1. Capture the flag<a id='1'></a></h2>
@@ -242,39 +242,6 @@ index 0000000..e38d9df
 +    <title>Super Awesome Site!</title>
 +    <link rel="stylesheet" href="/css/style.css">
 ...
-+            />
-+          </svg>
-+        </label>
-+        <input
-+          id="username"
-+          name="username"
-+          class="lf--input"
-+          placeholder="Username"
-+          type="text"
-+        />
-+      </div>
-+      <div class="flex-row">
-+        <label class="lf--label" for="password">
-+          <svg x="0px" y="0px" width="15px" height="5px">
-+            <g>
-+              <path
-+                fill="#B1B7C4"
-:
-+                d="M6,2L6,2c0-1.1-1-2-2.1-2H2.1C1,0,0,0.9,0,2.1v0.8C0,4.1,1,5,2.1,5h1.7C5,5,6,4.1,6,2.9V3h5v1h1V3h1v2h1V3h1 V2H6z M5.1,2.9c0,0.7-0.6,1.2-1.3,1.2H2.1c-0.7,0-1.3-0.6-1.3-1.2V2.1c0-0.7,0.6-1.2,1.3-1.2h1.7c0.7,0,1.3,0.6,1.3,1.2V2.9z"
-+              />
-+            </g>
-+          </svg>
-+        </label>
-+        <input
-+          id="password"
-+          name="password"
-+          class="lf--input"
-+          placeholder="Password"
-+          type="password"
-+        />
-+      </div>
-+      <input class='lf--submit' type="button" value="LOGIN" onclick="login()" />
-+    </form>
 +
 +   
 +
@@ -300,53 +267,18 @@ index 0000000..e38d9df
 +  </body>
 +</html>
 (END)
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
 </code></pre><br>
-
-<p>........</p>
-
-
 
 > 1.1. <em>Find the Super Secret Password.</em><br><a id='1.1'></a>
->> <code><strong>____</strong></code><br><br>
+>> <code><strong>Th1s_1s_4_L0ng_4nd_S3cur3_P4ssw0rd!____</strong></code><br><br>
 
 
-
-<pre><code>$ 
-
-
-</code></pre><br>
-
-
-
-<h2>Room Complete<a id='4'></a></h2>
+<h2>Room Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-
-
-<h2>My Journey<a id='5'></a></h2>
+<h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-
+![image](https://github.com/user-attachments/assets/c856d2a2-e606-45ed-9c82-297f5498d80d)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
