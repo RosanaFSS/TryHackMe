@@ -19,11 +19,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <h2>Task 1. Capture the flag<a id='1'></a></h2>
 
-<br>
 <p>Can you find the password to the application?</p>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
-<br>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
 <p>I started with nmap enumeration.</p>
 
