@@ -60,6 +60,11 @@ Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
 
 <p>This login page do not provide data entry.</p>
 
+<p>Accessing [Target]<code>[Target]:80/.git/</code> we will find some folders exposed in <code>git directory</code>.</p>
+
+![image](https://github.com/user-attachments/assets/127315d6-15ca-4452-9507-1ef5a56cae7c)
+
+
 
 > 1.1. <em>Find the Super Secret Password.</em><br><a id='1.1'></a>
 >> <code><strong>____</strong></code><br><br>
