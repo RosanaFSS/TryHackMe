@@ -6,8 +6,7 @@
 
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
 
-https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
-  
+ 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
