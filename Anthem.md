@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/anthem">Anthem</a>.</p><br>
 <p align="center">
   <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/3341c357-cc46-4547-ad4d-2eda43e5a114">
-  <img height="160px" src="https://github.com/user-attachments/assets/7a56d2ff-2477-4574-a13b-4e40a4fb849c">
+  <img height="160px" src="https://github.com/user-attachments/assets/7af381a4-a33e-4514-bb47-24ebc8b31290">
 </p>
 
 <p align="center">Summary</p>
@@ -327,33 +327,45 @@ WARNING: Remote desktop does not support colour depth 24; falling back to 16
 
 ![image](https://github.com/user-attachments/assets/6bfa1f5d-42b4-461c-9dcf-4d94638fe513)
 
+<br>
+
 > 3.3. <em>Can we spot the admin password?</em><br><a id='3.3'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>ChangeMeBaby1MoreTime</strong></code><br>
+
+![image](https://github.com/user-attachments/assets/40336db5-c60a-45f3-86d2-d27c6d44b074)
+
+![image](https://github.com/user-attachments/assets/a1bb828c-98b4-4fa8-aa74-57214f8563ef)
+
+![image](https://github.com/user-attachments/assets/b3158b9e-f984-4ffe-a5c4-c0680c1b2518)
+
+![image](https://github.com/user-attachments/assets/dd7da222-652c-48a0-8fe7-85d6c7ef6f74)
+
+![image](https://github.com/user-attachments/assets/5892086c-1257-46e1-a246-a81408719054)
+
+![image](https://github.com/user-attachments/assets/f2bc822f-8073-4df6-9a1b-60d4c457e78a)
+
+![image](https://github.com/user-attachments/assets/9ef2ac45-b106-4cc7-8812-ccbed711c793)
+
+
 <p><br></p>
 
 > 3.4. <em>Escalate your privileges to root, what is the contents of root.txt?</em><br><a id='3.4'></a>
->> <code><strong>____________</strong></code><br>
+>> <code><strong>THM{Y0U_4R3_1337}</strong></code><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/f60c3810-a945-4992-83af-a8849467f441)
 
-
-
-
-<pre><code>
-Lorem Ypsum
-</code></pre>
-
+![image](https://github.com/user-attachments/assets/ef9fd12d-b5bf-4050-aafb-82dab938f7cf)
 
 
 <h2>Room Complete<a id='4'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-
-
+![image](https://github.com/user-attachments/assets/b87ba565-47ee-4919-a81f-7db32ff5b56e)
 
 <h2>My Journey<a id='5'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-
+![image](https://github.com/user-attachments/assets/2bcd9e83-e381-438e-ade2-d7a9c0fe5e9c)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
