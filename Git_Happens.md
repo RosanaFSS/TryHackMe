@@ -23,7 +23,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
-<p>I started with nmap enumeration.</p>
+<p>I started enumerating with nmap.</p>
 
 <ul style="list-style-type:square">
     <li><code>-sC</code>: run all the default scripts.</li>
