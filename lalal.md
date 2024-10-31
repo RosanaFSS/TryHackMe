@@ -153,6 +153,12 @@ Nmap done: 1 IP address (1 host up) scanned in 683.64 seconds
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/08db55f3-3579-4b17-a790-b3fbb858bb94"> </p>
 <br>
 
+<h4>Decided to run another gobuster now that I now about Umbraco.</h4>
+<pre><code>
+Lorem Ypsum
+</code></pre>
+
+
 > 1.6. <em>What is the domain of the website?</em><br><a id='1.6'></a>
 >> <code><strong>anthem.com</strong></code><br>
 <p></p>
@@ -263,7 +269,7 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 
 > 2.3. <em>What is flag 3?</em><br><a id='2.3'></a>
 >> <code><strong>THM{L0L_WH0_D15}</strong></code><br>
-<p><br></p>
+<p></p>
 <h4 align="left"> $$\textcolor{#0cf0dd}{\textnormal{/authors/}}$$ </h4>
 <p align="left"> <img width="700px" src="https://github.com/user-attachments/assets/ce7b3313-7d54-48c1-99d6-6e1586c15b88"> </p>
 <h4>We did not even need to access /authors/.  It was just take a glimpse in our second nmap and the answer was there.</h4>
@@ -280,13 +286,28 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 <p>Let's get into the box using the intel we gathered.</p>
 <br>
 <h4>Port 3389 is used to acess Windows remotely through Rrmote Desktop Protocol (RDP).</h4>
+<br>
+
+
+<pre><code>$gobuster dir -u http://[Target] -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+</code></pre>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
+<pre><code>$ cat /etc/hosts
+...
+[Target]     anthem.thm
+...
+</code></pre>
+
 > 3.1. <em>Let's figure out the username and password to log in to the box.(The box is not on a domain)</em><br><a id='3.1'></a>
 >> <code><strong>No answer needed</strong></code><br>
-<p><br></p>
+<p></p>
+
+<h4>Using the credentials we discovered in Task 2, I got here ...</h4>
+
+![image](https://github.com/user-attachments/assets/905df27e-9382-4186-93f4-8adf557b7915)
 
 > 3.2. <em>Gain initial access to the machine, what is the contents of user.txt?</em><br><a id='3.2'></a>
 >> <code><strong>____________</strong></code><br>
