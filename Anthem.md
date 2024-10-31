@@ -309,6 +309,18 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 
 ![image](https://github.com/user-attachments/assets/905df27e-9382-4186-93f4-8adf557b7915)
 
+
+<pre><code>$ apt-get install rdesktop
+</code></pre>
+
+<pre><code>$ rdesktop -u SG -p UmbracoIsTheBest! 10.10.201.104
+Autoselected keyboard map en-gb
+ERROR: CredSSP: Initialize failed, do you have correct kerberos tgt initialized ?
+Connection established using SSL.
+WARNING: Remote desktop does not support colour depth 24; falling back to 16
+</code></pre>
+
+
 > 3.2. <em>Gain initial access to the machine, what is the contents of user.txt?</em><br><a id='3.2'></a>
 >> <code><strong>____________</strong></code><br>
 <p><br></p>
