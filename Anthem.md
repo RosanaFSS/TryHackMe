@@ -305,10 +305,15 @@ Progress: 18058 / 220561 (8.19%)[ERROR] Get "http://[Target]/con": context deadl
 >> <code><strong>No answer needed</strong></code><br>
 <p></p>
 
+> 3.2. <em>Gain initial access to the machine, what is the contents of user.txt?</em><br><a id='3.2'></a>
+>> <code><strong>THM{N00T_NO0T}</strong></code><br>
+<p><br></p>
+
 <h4>Using the credentials we discovered in Task 2, I got here ...</h4>
 
 ![image](https://github.com/user-attachments/assets/905df27e-9382-4186-93f4-8adf557b7915)
 
+<h4>But ir was useless.  So I decided to use <code>rdesktop</code></h4>
 
 <pre><code>$ apt-get install rdesktop
 </code></pre>
@@ -320,10 +325,9 @@ Connection established using SSL.
 WARNING: Remote desktop does not support colour depth 24; falling back to 16
 </code></pre>
 
+![image](https://github.com/user-attachments/assets/b6e50e97-7cfe-43d6-9527-c4a438965403)
 
-> 3.2. <em>Gain initial access to the machine, what is the contents of user.txt?</em><br><a id='3.2'></a>
->> <code><strong>____________</strong></code><br>
-<p><br></p>
+![image](https://github.com/user-attachments/assets/6bfa1f5d-42b4-461c-9dcf-4d94638fe513)
 
 > 3.3. <em>Can we spot the admin password?</em><br><a id='3.3'></a>
 >> <code><strong>____________</strong></code><br>
