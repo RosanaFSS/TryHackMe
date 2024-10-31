@@ -62,8 +62,8 @@ https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | October 31, 2024 | 55 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png" style="width:280px;"/> | **Jr Penetration Tester**   | Intermediate  | in progress, 96% | 38 | 
+| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 96%  | 55 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png" style="width:280px;"/> | **Jr Penetration Tester**   | Intermediate  | October 31, 2024 | 38 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
