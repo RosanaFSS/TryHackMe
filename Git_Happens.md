@@ -27,10 +27,11 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <p>I started with nmap enumeration.</p>
 
--sC: run all the default scripts.
--sV: Find the version of services running on the target.
--T4: Aggressive scan to provide faster results.
-
+<ul style="list-style-type:square">
+    <li><code>-sC</code>: run all the default scripts.</li>
+    <li><code>-sV</code>: Find the version of services running on the target.</li>
+    <li><code>-T4</code>: Aggressive scan to provide faster results.</li>
+</ul></p>
 
 <pre><code># sudo nmap -sC -sV -T4 [Target]
 
