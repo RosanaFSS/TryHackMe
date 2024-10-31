@@ -52,11 +52,13 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
 </code></pre><br>
 
-<p>Port 80 is open!</p>
+<p>The port scan shows that the http service is running on <code>port 80</code> and a git repository can be accessed through <code>[Target]:80/.git/</code>!</p>
 <br>
-<p>Then I accessed the webpage.</p>
+<p>Accessing [Target] we will find this ....</p>
 
 ![image](https://github.com/user-attachments/assets/f5f8f176-500a-46dc-af0e-2a3f5a99437c)
+
+<p>This login page do not provide data entry.</p>
 
 
 > 1.1. <em>Find the Super Secret Password.</em><br><a id='1.1'></a>
