@@ -52,6 +52,13 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
 </code></pre><br>
 
+<p>Port 80 is open!</p>
+<br>
+<p>Then I accessed the webpage.</p>
+
+![image](https://github.com/user-attachments/assets/f5f8f176-500a-46dc-af0e-2a3f5a99437c)
+
+
 > 1.1. <em>Find the Super Secret Password.</em><br><a id='1.1'></a>
 >> <code><strong>____</strong></code><br><br>
 
