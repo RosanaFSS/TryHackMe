@@ -30,7 +30,7 @@ https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WordlWide   | Brazil     |          | Completed |
-| October 30, 2024  | 177      |       1,468ª |          31ª |         91ª |         2ª | 51,148   |       389 |
+| October 31, 2024  | 177      |       1,469ª |          32ª |         92ª |         2ª | 51,148   |       389 |
 | October 30, 2024  | 177      |       1,500ª |          32ª |        106ª |         2ª | 50,728   |       388 |
 | October 29, 2024  | 176      |       1,528ª |          32ª |        121ª |         2ª | 50,302   |       385 |
 | October 28, 2024  | 175      |       1,549ª |          33ª |        146ª |         2ª | 50,066   |       384 |
@@ -40,10 +40,10 @@ https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/8d5feaec-785c-45ca-b039-c43815e5ec55)
+![image](https://github.com/user-attachments/assets/4bb22e43-cc52-4fa8-9f10-54e5cd1d11a7)
 
 
-![image](https://github.com/user-attachments/assets/68f9fec7-7346-46be-8ed8-a1735e393444)
+![image](https://github.com/user-attachments/assets/3f655f8d-2514-48cb-8f4d-ef212e943a8a)
 
 ![image](https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21)
   
