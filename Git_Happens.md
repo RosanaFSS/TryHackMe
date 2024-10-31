@@ -52,7 +52,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
 </code></pre><br>
 
-<p>The port scan shows that the http service is running on <code>port 80</code> and a git repository can be accessed through <code>[Target]:80/.git/</code>!</p>
+<p>The port scan shows that the http service is running on <code>port 80</code> and a git repository can be accessed through [Target]<code>:80/.git/</code>!</p>
 <br>
 <p>Accessing [Target] we will find this ....</p>
 
@@ -60,7 +60,7 @@ Nmap done: 1 IP address (1 host up) scanned in 8.80 seconds
 
 <p>This login page do not provide data entry.</p>
 
-<p>Accessing [Target]<code>[Target]:80/.git/</code> we will find some folders exposed in <code>git directory</code>.</p>
+<p>Accessing [Target]<code>:80/.git/</code> we will find some folders exposed in <code>git directory</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/127315d6-15ca-4452-9507-1ef5a56cae7c)
 
