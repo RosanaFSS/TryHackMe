@@ -56,9 +56,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <br>
 <p><br></p>
 
+
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
-| &#x1F6A7; &#x1F6A7; | **Cyber Security 101** (BONUS) | Easy  | in progress, 96%  | 55 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UIH9FXN6VH.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | November 01, 2024 | 55 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HMFE4ESXWR.png" style="width:280px;"/> | **Jr Penetration Tester**   | Intermediate  | October 31, 2024 | 38 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLADXNEMGJ.png" style="width:280px;"/> | **Web Fundamentals** Learning Path | Easy | October 17, 2024 | 26 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
@@ -69,7 +70,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 01, 2024 | 34       |      49,387ª |         878ª |      1,262ª |        24ª |   10,658 |       106 |
+| November 01, 2024 | 34       |      46,641ª |         834ª |        151ª |         4ª |   11,066 |       110 |
 | October 31, 2024  | 33       |      50,289ª |         900ª |      1,382ª |        27ª |   10,538 |       105 |
 | October 30, 2024  | 32       |      54,621ª |         972ª |      1,129ª |        21ª |    9,934 |       103 |
 | October 29, 2024  | 30       |      54,661ª |         972ª |      1,093ª |        20ª |    9,934 |       103 |
@@ -80,14 +81,6 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/7787e816-58b0-4969-bb49-cd1885838c78)
+![image](https://github.com/user-attachments/assets/d8c1b315-ae30-48b9-9268-4ead14b99bcb)
 
-
-![image](https://github.com/user-attachments/assets/dea6f59d-5815-4f9e-8ab7-d3ca47644cdd)
-
-
-
-![image](https://github.com/user-attachments/assets/66b5d127-ce39-4821-a99f-ce5bac15587e)
-
-
-
+![image](https://github.com/user-attachments/assets/7abc46f7-e612-4823-8cf4-2b292fd96d12)
