@@ -33,7 +33,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <br>
 
-<h2>Task 2. What is Containeerisation<a id='2'></a></h2>
+<h2>Task 2. What is Containerisation<a id='2'></a></h2>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
