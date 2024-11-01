@@ -191,15 +191,14 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
   $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
 </h2>
 
-![image](https://github.com/user-attachments/assets/d5831a31-f115-4b3b-9cea-44567e8ce9b8)
-
-![image](https://github.com/user-attachments/assets/7f8fb4a9-fd19-41eb-84fe-473aee0fab33)
-
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+![image](https://github.com/user-attachments/assets/d5831a31-f115-4b3b-9cea-44567e8ce9b8)
+
 > 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
-> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
->> <code><strong>______</strong></code><br><br>
+>> <code><strong>842-029-5701</strong></code><br><br>
+
+![image](https://github.com/user-attachments/assets/7f8fb4a9-fd19-41eb-84fe-473aee0fab33)
 
 
 <p> As <code>Gayle Bev</code>, <code>Settings</code> page is available!</p>
