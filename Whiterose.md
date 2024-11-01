@@ -172,7 +172,7 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 ![image](https://github.com/user-attachments/assets/62dd2cca-a09d-4586-9bb1-e7e16a545a4a)
 
 <br>
-<p>See this interesting detail here ...</p>
+<p>See this interesting detail here which is <code>/?c=1</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/5d37b435-81db-4af9-b44c-f56e8dca0f71)
 
@@ -182,17 +182,12 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 ![image](https://github.com/user-attachments/assets/45fb4b80-6779-4388-8e9e-8003e7ab52bc)
 
 <br>
-<p>So I tried <code>c=8000</code>, and te output was ...</p>
+<p>So I tried <code>c=8000</code>, found a password <code>Gayle Bev: Of course! My password is 'p~]P@5!6;rs558:q'</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/1092eb35-1d9a-4924-b5f4-208c3786850e)
 
 <br>
-<p>Now I tried <code>c=9000</code>, and te output was ...</p>
 
-![image](https://github.com/user-attachments/assets/bf6f77d3-62fb-48a3-873f-fc7f4d3f51df)
-
-<br>
-<p>And we found a password <code>Gayle Bev: Of course! My password is 'p~]P@5!6;rs558:q'</code></p>
 
 
 
