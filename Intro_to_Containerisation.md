@@ -115,7 +115,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 <h2>My Journey<a id='9'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-![image](https://github.com/user-attachments/assets/02ff2922-6122-4568-b4b1-852b863fae99)
-
+![image](https://github.com/user-attachments/assets/802e4cf5-cd15-4bd0-9e9b-984127f0799e)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
