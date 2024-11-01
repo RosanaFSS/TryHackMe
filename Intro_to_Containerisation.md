@@ -1,0 +1,114 @@
+<p align="center">October 31, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="https://tryhackme.com/r/p/Rosana">TryHackMe</a>.</p>
+
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git Happens &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}$$
+</h1>
+<p align="center">Learn about the technologies and benefits of containerisation.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/introtocontainerisation">Intro to Containerisation</a>.</p><br>
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/6347914f-d784-4112-bd75-48bf50dbb2bd">
+  <img height="150px" src="https://github.com/user-attachments/assets/c0916051-ea2a-46fc-8e2d-fdc9dfb90bf7">
+</p>
+
+<p align="center">Summary</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Walkthrough](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Super Secret Password](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
+
+
+<h2>Task 1. Introduction<a id='1'></a></h2>
+
+![image](https://github.com/user-attachments/assets/19aaef64-cf5c-4f8e-bca4-a9483129bef1)
+
+<p>This room is the first of a series explaining the popular technology of containerisation.</p>
+
+
+<p>With that said, complete the question below and progress on to the next task!</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 1.1. <em>Complete this question and progress on to the next task.</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<h2>Task 2. What is Containeerisation<a id='2'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 2.1. <em>What is the name of the kernel feature that allows for processes to use resources of the Operating System without being able to interact with other processes? </em><br><a id='2.1'></a>
+>> <code><strong>namspace</strong></code>
+
+> 2.2. <em>In a <strong>normal</strong> configuration, can other containers interact with each other? (yay/nay)</em><br><a id='2.1'></a>
+>> <code><strong>nay</strong></code>
+
+<br>
+
+<h2>Task 3. Introducing Docker<a id='3'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 3.1. <em>What does an application become when it is published using Docker? Format: An xxxxx (fill in the x's)</em><br><a id='3.1'></a>
+>> <code><strong>An image</strong></code>
+
+> 3.2. <em>What is the abbreviation of the programming syntax language that Docker uses?</em><br><a id='3.2'></a>
+>> <code><strong>YAML</strong></code>
+
+<br>
+
+<h2>Task 4. The History of Docker<a id='4'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 4.1. <em>In what year was Docker originally created?</em><br><a id='4.1'></a>
+>> <code><strong>2013</strong></code>
+
+> 4.2. <em>Where was Docker first showcased?</em><br><a id='4.2'></a>
+>> <code><strong>PyCon</strong></code>
+
+> 4.3. <em>What version of Unix had the first concepts of containerisation?</em><br><a id='4.3'></a>
+>> <code><strong>V7</strong></code>
+
+<br>
+
+<h2>Task 5. The Benefits & Features of Docker<a id='5'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 5.1. <em>Read me!</em><br><a id='5.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<h2>Task 6. How does Containerisation Work?<a id='6'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 6.1. <em>What command can we use to view a list of running processes?</em><br><a id='6.1'></a>
+>> <code><strong>ps aux</strong></code>
+
+<br>
+
+<h2>Task 7. Practical<a id='7'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 7.1. <em>Containerise the applications in the static site. What is the flag? </em><br><a id='6.1'></a>
+>> <code><strong>THM{APPLICATION_SHIPPED}</strong></code>
+
+![image](https://github.com/user-attachments/assets/bf26eb92-7c52-4b13-b29c-1ea0c6cca3dc)
+
+
+<h2>Room Complete<a id='8'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+![image](https://github.com/user-attachments/assets/37b1e8ca-94fe-4703-b877-ae4b1760e163)
+
+<h2>My Journey<a id='9'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+![image](https://github.com/user-attachments/assets/02ff2922-6122-4568-b4b1-852b863fae99)
+
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
