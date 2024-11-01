@@ -126,7 +126,7 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Credential = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
 </h2>
@@ -187,6 +187,13 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 ![image](https://github.com/user-attachments/assets/1092eb35-1d9a-4924-b5f4-208c3786850e)
 
 <br>
+<h2 align="left">
+  $$\textcolor{#e691c9}{\textbf{Credential = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{Credential = Gayle Bev:'p~]P@5!6;rs558:q'}}$$<br>
+</h2>
+
 
 
 
