@@ -24,7 +24,7 @@ Go ahead and start the machine, <strong>it may take a few minutes to fully start
 And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code></p>
 <br><br>
 
-<h2 align="center"> $$\textcolor{}{\textbf{Olivia Cortez:olivi8}}$$</h2>
+<h2 align="center"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$</h2>
 
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
 
