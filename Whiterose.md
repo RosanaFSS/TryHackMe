@@ -76,7 +76,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 <p>Running nmap I found ports 22/ssh and 80/http open.</p>
 
 <h2 align="center">
-  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$
+  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{ports}}$$
 </h2>
 <br>
