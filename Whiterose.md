@@ -73,8 +73,8 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textnormal{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Credentials &nbsp;&nbsp;&nbsp;&nbsp; = &nbsp;&nbsp;&nbsp;&nbsp; Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textnormal{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open Ports &nbsp;&nbsp;&nbsp;&nbsp; = &nbsp;&nbsp;&nbsp;&nbsp; 22 and 80}}$$
+  $$\textcolor{#e691c9}{\textnormal{Credentials = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textnormal{Open Ports = 22 and 80}}$$
 </h2>
 
 <p>Then I added [Target] and its domain main to <code>/etc/hosts</code></p>
