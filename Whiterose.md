@@ -24,14 +24,13 @@ Go ahead and start the machine, <strong>it may take a few minutes to fully start
 And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code></p>
 <br><br>
 
-<h2 align="center"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$</h2>
-
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 > 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
 >> <code><strong>______</strong></code><br><br>
 
+<h2 align="center"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$</h2>
 
 <pre><code>$ nmap -sC -sV -Pn -A [Target]
 
@@ -81,7 +80,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 
 <h2 align="center">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{open ports: 22 and 80}}$$
+  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$
 </h2>
 <br>
 <p>As a next step I tried to open [Target] in the web browser. I was redirected to <code>cyprusbank.thm</code>, National Bank of Cyprus and the following message:<code>We are currntly under maintenance, than you for your patience.</code></p>
@@ -95,7 +94,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 
 <h2 align="center">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{open ports: 22 and 80}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$
   $$\textcolor{#e691c9}{\textbf{directories: }}$$<br>
 </h2>
 
@@ -136,7 +135,8 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 </code></pre><br> sudo /etc/hosts
 
 
-
+> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
+>> <code><strong>______</strong></code><br><br>
 
 <p>Take things a step further and compromise the machine.</p>
 
