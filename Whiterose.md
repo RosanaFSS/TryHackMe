@@ -75,8 +75,10 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 
 <p>Running nmap I found ports 22/ssh and 80/http open.</p>
 
-<h2 align="center"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$
-align="center"> $$\textcolor{#e691c9}{\textbf{ports}}$$</h2>
+<h2 align="center">
+  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$
+  $$\textcolor{#e691c9}{\textbf{ports}}$$
+</h2>
 <br>
 <p>As a next step I tried to open [Target] in the web browser.  And what happeneded is that it redirects us to <code>cyprusbank.thm</code> and appears a message <code>Hmm. We´re having trouble finding that site.</code></p>
 <p>So I added [Target] to <code>/etc/hosts</code></p>
