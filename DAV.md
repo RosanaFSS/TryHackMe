@@ -21,4 +21,29 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <p>Read user.txt and root.txt</p>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 1.1. <em>user.txt</em><br><a id='1.1'></a>
+>> <code><strong>_____</strong></code>
+
+<br>
+
+> 1.2. <em>root.txt</em><br><a id='1.2'></a>
+>> <code><strong>_____</strong></code>
+
+<br>
+
+
+<h2>Room Complete<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+
+
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+
+
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
