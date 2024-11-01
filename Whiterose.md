@@ -30,6 +30,8 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 
 <h2 align="center"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$</h2>
 
+<p>Running Nmap I found ports 22/ssh and 80/http open.</p>
+
 <pre><code>$ nmap -sC -sV -Pn -A [Target]
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-01 20:03 GMT
@@ -70,21 +72,18 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds 
 </code></pre><br>
 
-<p>Running nmap I found ports 22/ssh and 80/http open.</p>
-
-<p>SI added [Target] to <code>/etc/hosts</code></p>
-
-![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
-
 <h2 align="center">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$
 </h2>
+
+<p>The I added [Target] to <code>/etc/hosts</code></p>
+
+![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
+
 <br>
 <p>As a next step I tried to open [Target] in the web browser. I was redirected to <code>cyprusbank.thm</code>, National Bank of Cyprus and the following message:<code>We are currntly under maintenance, than you for your patience.</code></p>
-
 <br>
-
 
 ![image](https://github.com/user-attachments/assets/dd53b8d0-a07d-47f4-88f3-4067eb50636c)
 
