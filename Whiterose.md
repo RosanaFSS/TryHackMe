@@ -28,7 +28,7 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3><br>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 > 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
 >> <code><strong>______</strong></code><br><br>
 
