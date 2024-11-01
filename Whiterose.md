@@ -77,7 +77,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 
 <h2 align="center">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{open ports: 22 & 80}}$$
+  $$\textcolor{#e691c9}{\textbf{open ports: 22 and 80}}$$
 </h2>
 <br>
 <p>As a next step I tried to open [Target] in the web browser.  And what happeneded is that it redirects us to <code>cyprusbank.thm</code> and appears a message <code>Hmm. We´re having trouble finding that site.</code></p>
@@ -95,7 +95,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 
 <h2 align="center">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{open ports: 22 & 80}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{open ports: 22 and 80}}$$<br>
   $$\textcolor{#e691c9}{\textbf{directories: }}$$<br>
 </h2>
 
