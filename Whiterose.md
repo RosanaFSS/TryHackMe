@@ -125,6 +125,12 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 :: Progress: [114532/114532] :: Job [1/1] :: 10460 req/sec :: Duration: [0:00:15] :: Errors: 0 :: 
 </code></pre><br>
 
+<h2 align="left">
+  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  admin.cyprusbank.thm}}$$<br>
+</h2>
+
 <p>Then I added another domain name <code>admin.cyprusbank.thm</code> pointing to our [Target], in <code>/etc/hosts</code></p>
 
 ![image](https://github.com/user-attachments/assets/7e01abc3-998d-453a-95ba-40e7b8b0e4c7)
