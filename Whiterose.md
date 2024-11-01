@@ -75,16 +75,16 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 
 <p>Running nmap I found ports 22/ssh and 80/http open.</p>
 
+<p>SI added [Target] to <code>/etc/hosts</code></p>
+
+![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
+
 <h2 align="center">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{open ports: 22 and 80}}$$
 </h2>
 <br>
-<p>As a next step I tried to open [Target] in the web browser.  And what happeneded is that it redirects us to <code>cyprusbank.thm</code> and appears a message <code>Hmm. We´re having trouble finding that site.</code></p>
-<p>So I added [Target] to <code>/etc/hosts</code></p>
-
-
-![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
+<p>As a next step I tried to open [Target] in the web browser. I was redirected to <code>cyprusbank.thm</code>, National Bank of Cyprus and the following message:<code>We are currntly under maintenance, than you for your patience.</code></p>
 
 <br>
 
