@@ -28,7 +28,7 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 > 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
 
-<h2 align="left"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$</h2>
+<h2 align="left"> $$\textcolor{#e691c9}{\textbf{Credentials = Olivia Cortez:olivi8}}$$</h2>
 
 <p>Running Nmap I found ports 22/ssh and 80/http open.</p>
 
@@ -73,8 +73,8 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$
+  $$\textcolor{#e691c9}{\textbf{Credentials &nbsp;&nbsp; = &nbsp;&nbsp; Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Open Ports &nbsp;&nbsp; = 22 and 80}}$$
 </h2>
 
 <p>Then I added [Target] and its domain main to <code>/etc/hosts</code></p>
