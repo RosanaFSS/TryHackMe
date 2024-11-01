@@ -38,7 +38,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 2.1. <em>What is the name of the kernel feature that allows for processes to use resources of the Operating System without being able to interact with other processes? </em><br><a id='2.1'></a>
->> <code><strong>namspace</strong></code>
+>> <code><strong>namespace</strong></code>
 
 > 2.2. <em>In a <strong>normal</strong> configuration, can other containers interact with each other? (yay/nay)</em><br><a id='2.1'></a>
 >> <code><strong>nay</strong></code>
