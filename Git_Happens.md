@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/githappens">Git Happens</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/cd2de457-e1bb-4619-96e1-4cd7d0173d0b">
-  <img height="150px" src="https://github.com/user-attachments/assets/fc2c36fc-0f44-42c3-a5a0-0427c5330589">
+  <img height="150px" src="https://github.com/user-attachments/assets/f086c6a1-74ff-4564-ba91-39adfcabed0f">
 </p>
 
 <p align="center">Summary</p>
