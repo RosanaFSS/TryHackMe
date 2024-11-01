@@ -22,7 +22,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{179}}$$-day-streak in  <a href="h
 <p>This challenge is based on the Mr. Robot episode "409 Conflict". Contains spoilers!<br>
 Go ahead and start the machine, <strong>it may take a few minutes to fully start up</strong>.<br>
 And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code></p>
-<br><br>
 
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
 
