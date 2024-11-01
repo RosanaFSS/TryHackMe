@@ -40,6 +40,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 > 2.1. <em>What is the name of the kernel feature that allows for processes to use resources of the Operating System without being able to interact with other processes? </em><br><a id='2.1'></a>
 >> <code><strong>namespace</strong></code>
 
+<br>
 > 2.2. <em>In a <strong>normal</strong> configuration, can other containers interact with each other? (yay/nay)</em><br><a id='2.1'></a>
 >> <code><strong>nay</strong></code>
 
@@ -51,6 +52,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 > 3.1. <em>What does an application become when it is published using Docker? Format: An xxxxx (fill in the x's)</em><br><a id='3.1'></a>
 >> <code><strong>An image</strong></code>
+
+<br>
 
 > 3.2. <em>What is the abbreviation of the programming syntax language that Docker uses?</em><br><a id='3.2'></a>
 >> <code><strong>YAML</strong></code>
@@ -64,8 +67,12 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 > 4.1. <em>In what year was Docker originally created?</em><br><a id='4.1'></a>
 >> <code><strong>2013</strong></code>
 
+<br>
+
 > 4.2. <em>Where was Docker first showcased?</em><br><a id='4.2'></a>
 >> <code><strong>PyCon</strong></code>
+
+<br>
 
 > 4.3. <em>What version of Unix had the first concepts of containerisation?</em><br><a id='4.3'></a>
 >> <code><strong>V7</strong></code>
