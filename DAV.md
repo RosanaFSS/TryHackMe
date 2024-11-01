@@ -69,6 +69,38 @@ NSE: Script scanning 2 hosts.
 NSE: Starting runlevel 1 (of 3) scan.
 </code></pre><br>
 
+![image](https://github.com/user-attachments/assets/e88ec0d9-ffdb-4f01-8727-d19ebc90d8bf)
+
+<pre><code># root@ip-[Attack]: dirb http://[Target]
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Fri Nov  1 01:38:01 2024
+URL_BASE: http://[Target]/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612                                                          
+
+---- Scanning URL: http://[Target]/ ----
++ http://[Target]/index.html (CODE:200|SIZE:11321)                                                               
++ http://[Target]/server-status (CODE:403|SIZE:301)                                                              
++ http://[Target]/webdav (CODE:401|SIZE:460)                                                                     
+                                                                                                                      
+-----------------
+END_TIME: Fri Nov  1 01:38:06 2024
+DOWNLOADED: 4612 - FOUND: 3
+
+</code></pre><br>
+
+![image](https://github.com/user-attachments/assets/cb7bc450-34ee-466e-be50-bdea7c84cf4c)
+
+
+
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>user.txt</em><br><a id='1.1'></a>
