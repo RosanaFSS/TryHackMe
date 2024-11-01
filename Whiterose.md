@@ -28,7 +28,6 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 > 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
->> <code><strong>______</strong></code><br><br>
 
 <h2 align="center"> $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$</h2>
 
