@@ -33,11 +33,11 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 >> <code><strong>______</strong></code><br><br>
 
 
-<pre><code>$ nmap -Pn 10.10.89.82 -A
+<pre><code>$ nmap -sC -sV -Pn -A [Target]
 
-Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-31 04:47 GMT
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-01 20:03 GMT
 Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
-Host is up (0.0056s latency).
+Host is up (0.00043s latency).
 Not shown: 998 closed ports
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)
@@ -48,17 +48,29 @@ PORT   STATE SERVICE VERSION
 80/tcp open  http    nginx 1.14.0 (Ubuntu)
 |_http-server-header: nginx/1.14.0 (Ubuntu)
 |_http-title: Site doesn't have a title (text/html).
-...
+MAC Address: 02:6B:C9:F5:90:8F (Unknown)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.60%E=4%D=11/1%OT=22%CT=1%CU=39567%PV=Y%DS=1%DC=D%G=Y%M=026BC9%T
+OS:M=6725341B%P=x86_64-pc-linux-gnu)SEQ(SP=105%GCD=1%ISR=10C%TI=Z%CI=Z%TS=A
+OS:)OPS(O1=M2301ST11NW7%O2=M2301ST11NW7%O3=M2301NNT11NW7%O4=M2301ST11NW7%O5
+OS:=M2301ST11NW7%O6=M2301ST11)WIN(W1=F4B3%W2=F4B3%W3=F4B3%W4=F4B3%W5=F4B3%W
+OS:6=F4B3)ECN(R=Y%DF=Y%T=40%W=F507%O=M2301NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S
+OS:=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%R
+OS:D=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=
+OS:0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U
+OS:1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DF
+OS:I=N%T=40%CD=S)
 
 Network Distance: 1 hop
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 TRACEROUTE
 HOP RTT     ADDRESS
-1   5.63 ms ip-[Target].eu-west-1.compute.internal ([Target])
+1   0.43 ms ip-[Target].eu-west-1.compute.internal ([Target])
 
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 25.08 seconds
+Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds 
 </code></pre><br>
 
 <p>Take things a step further and compromise the machine.</p>
