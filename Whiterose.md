@@ -128,7 +128,7 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 <h2 align="left">
   $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
 </h2>
 
 <p>Then I added another domain name <code>admin.cyprusbank.thm</code> pointing to our [Target], in <code>/etc/hosts</code></p>
