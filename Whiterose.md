@@ -28,7 +28,7 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 > 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
 
-<h2 align="left"> $$\textcolor{#e691c9}{\textbf{Credentials = Olivia Cortez:olivi8}}$$</h2>
+<h2 align="left"> $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$</h2>
 
 <p>Running Nmap I found ports 22/ssh and 80/http open.</p>
 
@@ -73,7 +73,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textnormal{Credentials = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textnormal{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textnormal{Open Ports = 22 and 80}}$$
 </h2>
 
@@ -87,7 +87,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 ![image](https://github.com/user-attachments/assets/dd53b8d0-a07d-47f4-88f3-4067eb50636c)
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Domain = cyprusbank.thm}}$$<br>
 </h2>
@@ -126,7 +126,7 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
 </h2>
@@ -188,10 +188,10 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 <br>
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
-  $$\textcolor{#e691c9}{\textbf{Credential = Gayle Bev:'p~]P@5!6;rs558:q'}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:'p~]P@5!6;rs558:q'}}$$<br>
 </h2>
 
 
