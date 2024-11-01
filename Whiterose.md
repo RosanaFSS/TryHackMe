@@ -311,10 +311,11 @@ root@cyprusbank:~#
 <h2>Room Complete<a id='4'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-
+![image](https://github.com/user-attachments/assets/13091be2-d78d-451c-9b2a-ca1c3a29ddea)
 
 <h2>My Journey<a id='5'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
+![image](https://github.com/user-attachments/assets/fcd33702-2f63-42e9-8f17-d9a774aa9bbd)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
