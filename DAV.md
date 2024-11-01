@@ -21,6 +21,54 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{178}}$$-day-streak in  <a href="h
 
 <p>Read user.txt and root.txt</p>
 
+<pre><code># root@ip-[Attack]:~# rustscan -a [Target] --ulimit 5000 -- -vvv -sV -sC [Target]
+.----. .-. .-. .----..---.  .----. .---.   .--.  .-. .-.
+| {}  }| { } |{ {__ {_   _}{ {__  /  ___} / {} \ |  `| |
+| .-. \| {_} |.-._} } | |  .-._} }\     }/  /\  \| |\  |
+`-' `-'`-----'`----'  `-'  `----'  `---' `-'  `-'`-' `-'
+The Modern Day Port Scanner.
+________________________________________
+: https://discord.gg/GFrQsGy           :
+: https://github.com/RustScan/RustScan :
+ --------------------------------------
+Real hackers hack time \u231b
+
+[~] The config file is expected to be at "/home/rustscan/.rustscan.toml"
+[~] Automatically increasing ulimit value to 5000.
+Open [Target]:80
+[~] Starting Script(s)
+[>] Script to be run Some("nmap -vvv -p {{port}} {{ip}}")
+
+[~] Starting Nmap 7.80 ( https://nmap.org ) at 2024-11-01 01:31 UTC
+NSE: Loaded 151 scripts for scanning.
+NSE: Script Pre-scanning.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 01:31
+Completed NSE at 01:31, 0.00s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 01:31
+Completed NSE at 01:31, 0.00s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 01:31
+Completed NSE at 01:31, 0.00s elapsed
+Initiating Ping Scan at 01:31
+Scanning 2 hosts [2 ports/host]
+Completed Ping Scan at 01:31, 0.00s elapsed (2 total hosts)
+Initiating Parallel DNS resolution of 2 hosts. at 01:31
+Completed Parallel DNS resolution of 2 hosts. at 01:31, 0.00s elapsed
+DNS resolution of 2 IPs took 0.00s. Mode: Async [#: 1, OK: 2, NX: 0, DR: 0, SF: 0, TR: 2, CN: 0]
+Initiating Connect Scan at 01:31
+Scanning 2 hosts [1 port/host]
+Discovered open port 80/tcp on [Target]
+Discovered open port 80/tcp on [Target]
+Completed Connect Scan at 01:31, 0.00s elapsed (2 total ports)
+Initiating Service scan at 01:31
+Scanning 2 services on 2 hosts
+Completed Service scan at 01:31, 6.04s elapsed (2 services on 2 hosts)
+NSE: Script scanning 2 hosts.
+NSE: Starting runlevel 1 (of 3) scan.
+</code></pre><br>
+
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>user.txt</em><br><a id='1.1'></a>
