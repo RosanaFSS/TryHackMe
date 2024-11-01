@@ -77,7 +77,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$
 </h2>
 
-<p>Then I added [Target] ehich is to <code>/etc/hosts</code></p>
+<p>Then I added [Target] and its domain main to <code>/etc/hosts</code></p>
 
 ![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
 
@@ -91,6 +91,8 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
   $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
   $$\textcolor{#e691c9}{\textbf{Domain = cyprusbank.thm}}$$<br>
 </h2>
+
+<p>Continuing reconnaissance I used <code>fuff</code> for directory enumeration.</p>
 
 <pre><code>$ ffuf -H "HOST: FUZZ.cyprusbank.thm" -u http://cyprusbank.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-110000.txt -fw 1
 
@@ -122,6 +124,28 @@ WWW                     [Status: 200, Size: 252, Words: 19, Lines: 9]
 ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 :: Progress: [114532/114532] :: Job [1/1] :: 10460 req/sec :: Duration: [0:00:15] :: Errors: 0 :: 
 </code></pre><br>
+
+<p>Then I added another domain name <code>admin.cyprusbank.thm</code> pointing to our [Target], in <code>/etc/hosts</code></p>
+
+![image](https://github.com/user-attachments/assets/7e01abc3-998d-453a-95ba-40e7b8b0e4c7)
+
+<p>I accessed <code>admin.cyprusbank.thm</code> with the web browser and got a login page as an output.</p>
+
+![image](https://github.com/user-attachments/assets/39c16145-02df-4b25-bb2c-6445d0d75be8)
+
+<p>Typed the credentials provided before.</p>
+
+![image](https://github.com/user-attachments/assets/5f5cd22b-3857-4ad2-bd0f-330cf85b8943)
+
+<p>And landed in <code>Admin Panel</code> with details such as <code>Recent payments</code>, <code>Accounts</code> and <code>Status</code> containing <code>Total Balance</code>, <code>Total Payments</code> and <code>Total accounts</code>.</p>
+
+![image](https://github.com/user-attachments/assets/3eb858f5-eae4-4f4d-95d3-986d5da00e12)
+
+
+
+
+
+
 
 
 <pre><code>$ nmap -sC -sV -Pn -A [Target]
