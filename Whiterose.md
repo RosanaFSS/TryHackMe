@@ -73,6 +73,61 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds 
 </code></pre><br>
 
+<p>Running nmap I found ports 22/ssh and 80/http open.</p>
+<br>
+<p>As a next step I tried to open [Target] in the web browser.  And what happeneded is that it redirects us to <code>cyprusbank.thm</code> and appears a message <code>Hmm. We´re having trouble finding that site.</code></p>
+<p>So I added [Target] to <code>/etc/hosts</code></p>
+
+
+![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/dd53b8d0-a07d-47f4-88f3-4067eb50636c)
+
+<br>
+
+
+<pre><code>$ ffuf -H "HOST: FUZZ.cyprusbank.thm" -u http://cyprusbank.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-110000.txt -fw 1
+
+        /'___\  /'___\           /'___\       
+       /\ \__/ /\ \__/  __  __  /\ \__/       
+       \ \ ,__\\ \ ,__\/\ \/\ \ \ \ ,__\      
+        \ \ \_/ \ \ \_/\ \ \_\ \ \ \ \_/      
+         \ \_\   \ \_\  \ \____/  \ \_\       
+          \/_/    \/_/   \/___/    \/_/       
+
+       v1.3.1
+________________________________________________
+
+ :: Method           : GET
+ :: URL              : http://cyprusbank.thm
+ :: Wordlist         : FUZZ: /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-110000.txt
+ :: Header           : Host: FUZZ.cyprusbank.thm
+ :: Follow redirects : false
+ :: Calibration      : false
+ :: Timeout          : 10
+ :: Threads          : 40
+ :: Matcher          : Response status: 200,204,301,302,307,401,403,405
+ :: Filter           : Response words: 1
+________________________________________________
+
+www                     [Status: 200, Size: 252, Words: 19, Lines: 9]
+admin                   [Status: 302, Size: 28, Words: 4, Lines: 1]
+WWW                     [Status: 200, Size: 252, Words: 19, Lines: 9]
+ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
+:: Progress: [114532/114532] :: Job [1/1] :: 10460 req/sec :: Duration: [0:00:15] :: Errors: 0 :: 
+</code></pre><br>
+
+
+<pre><code>$ nmap -sC -sV -Pn -A [Target]
+
+</code></pre><br> sudo /etc/hosts
+
+
+
+
 <p>Take things a step further and compromise the machine.</p>
 
 > 1.2. <em>What is the user.txt flag?</em><br><a id='1.2'></a>
