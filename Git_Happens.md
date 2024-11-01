@@ -276,9 +276,12 @@ index 0000000..e38d9df
 <h2>Room Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
+![image](https://github.com/user-attachments/assets/c856d2a2-e606-45ed-9c82-297f5498d80d)
+
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-![image](https://github.com/user-attachments/assets/c856d2a2-e606-45ed-9c82-297f5498d80d)
+![image](https://github.com/user-attachments/assets/02ff2922-6122-4568-b4b1-852b863fae99)
+
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
