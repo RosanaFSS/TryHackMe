@@ -23,7 +23,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{179}}$$-day-streak in  <a href="h
 Go ahead and start the machine, <strong>it may take a few minutes to fully start up</strong>.<br>
 And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code></p>
 <br><br>
-<h2 align="center"><code>Olivia Cortez:olivi8</code></h2>
+<h2 align="center"><strong><code>Olivia Cortez:olivi8</code></strong></h2>
 
 
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
