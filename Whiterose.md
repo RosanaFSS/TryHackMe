@@ -147,20 +147,33 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 
 ![image](https://github.com/user-attachments/assets/3eb858f5-eae4-4f4d-95d3-986d5da00e12)
 
-
+<br>
 <p>Besides <code>Admin Panel</code>code>, there are other visualizetions, such as <code>Search ...</code></p>
 
 ![image](https://github.com/user-attachments/assets/e11df07d-1403-449b-bbc7-16442f4309e0)
 
-
+<br>
 <p><code>Settings</code>, which I don´t have permission to view.</p>
 
 ![image](https://github.com/user-attachments/assets/ac4a1491-88ef-4637-ab3b-b323ffb281d3)
 
-
+<br>
 <p><code>Message</code> and <code>Logout</code>.  Note that <code>Message</code> provides the option to <code>Enter a message</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/27f38ac7-ce17-4fba-adb6-e890b1013b50)
+
+
+<pre><code>root@[Attack]:~# python3 -m http.server 1337
+Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
+</code></pre><br>
+
+<p><code>I tried <code>Hey!</code> and it came as an output.</code>.</p>
+![image](https://github.com/user-attachments/assets/62dd2cca-a09d-4586-9bb1-e7e16a545a4a)
+
+<p><code>See this interesting detail here.</code>.</p>
+![image](https://github.com/user-attachments/assets/5d37b435-81db-4af9-b44c-f56e8dca0f71)
+
+<p><code>So I tried <code>c=1</code>code>.</p>
 
 
 
