@@ -25,9 +25,6 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
-> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
-
 <h2 align="left"> $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$</h2>
 
 <p>Running Nmap I found ports 22/ssh and 80/http open.</p>
@@ -198,6 +195,13 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 ![image](https://github.com/user-attachments/assets/7f8fb4a9-fd19-41eb-84fe-473aee0fab33)
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
+> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
+>> <code><strong>______</strong></code><br><br>
+
+
 <p> As <code>Gayle Bev</code>, <code>Settings</code> page is available!</p>
 
 ![image](https://github.com/user-attachments/assets/6c8670f9-3ebd-4137-af11-df9334fa9a89)
@@ -302,12 +306,6 @@ root@cyprusbank:~#
 > 1.3. <em>What is the root.txt flag?</em><br><a id='1.3'></a>
 >> <code><strong>THM{4nd_uR_p4ck4g3s}</strong></code><br>
 <p><br></p>
-
-
-
-> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
->> <code><strong>______</strong></code><br><br>
-
 
 
 <h2>Room Complete<a id='4'></a></h2>
