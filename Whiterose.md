@@ -24,7 +24,7 @@ Go ahead and start the machine, <strong>it may take a few minutes to fully start
 And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code></p>
 <br><br>
 
-<h2 align="center"> $$\textcolor{#3bd62d}{\textnormal{<strong>Olivia Cortez:olivi8</strong>}}$$</h2>
+<h2 align="center"> $$\textcolor{#3bd62d}{\textbf{Olivia Cortez:olivi8}}$$</h2>
 <h2 align="center"><strong><code>Olivia Cortez:olivi8</code></strong></h2>
 
 
