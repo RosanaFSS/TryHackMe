@@ -82,7 +82,7 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 ![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
 
 <br>
-<p>As a next step I tried to open [Target] in the web browser. I was redirected to <code>cyprusbank.thm</code>, National Bank of Cyprus and the following message:<code>We are currntly under maintenance, than you for your patience.</code></p>
+<p>As a next step I tried to open [Target] in the web browser. I was redirected to <code>cyprusbank.thm</code>, National Bank of Cyprus and the following message: <code>We are currently under maintenance, than you for your patience</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/dd53b8d0-a07d-47f4-88f3-4067eb50636c)
 
