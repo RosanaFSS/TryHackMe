@@ -267,10 +267,10 @@ index 0000000..e38d9df
 +  </body>
 +</html>
 (END)
-</code></pre><br>
+</code></pre>
 
 > 1.1. <em>Find the Super Secret Password.</em><br><a id='1.1'></a>
->> <code><strong>Th1s_1s_4_L0ng_4nd_S3cur3_P4ssw0rd!____</strong></code><br><br>
+>> <code><strong>Th1s_1s_4_L0ng_4nd_S3cur3_P4ssw0rd!____</strong></code><br><br><br>
 
 
 <h2>Room Complete<a id='2'></a></h2>
