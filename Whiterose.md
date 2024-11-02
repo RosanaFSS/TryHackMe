@@ -68,7 +68,7 @@ HOP RTT     ADDRESS
 
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds 
-</code></pre><br>
+</code></pre>
 
 <h2 align="left">
   $$\textcolor{#eefc2b}{\textnormal{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
@@ -127,7 +127,7 @@ admin                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 WWW                     [Status: 200, Size: 252, Words: 19, Lines: 9]
 ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 :: Progress: [114532/114532] :: Job [1/1] :: 10460 req/sec :: Duration: [0:00:15] :: Errors: 0 :: 
-</code></pre><br>
+</code></pre>
 
 <h2 align="left">
   $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
@@ -233,7 +233,6 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 ![image](https://github.com/user-attachments/assets/f02a71cc-199a-4406-80b6-75b81c2d1476)
 
-<br>
 <h2 align="left">
   $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#eefc2b}{\textbf{Open Ports = 22 and 80}}$$ <br>
