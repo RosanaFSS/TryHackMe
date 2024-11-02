@@ -13,7 +13,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{179}}$$-day-streak in  <a href="h
   <img height="150px" src="https://github.com/user-attachments/assets/301b2628-904c-45b1-b111-a0bf6b9747c4">
 </p>
 
-<p align="center">Summary</p>
+<h2><p align="center">Summary<a id='0'></a></h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Welcome!](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,7 +26,7 @@ And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code
 
 ![image](https://github.com/user-attachments/assets/11555e82-c3a7-4fa2-a9ee-07718afb0599)
 
-<h2 align="left"> $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$</h2>
+<h2 align="left"> $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$</h2>
 
 <p>Running Nmap I found ports 22/ssh and 80/http open.</p>
 
