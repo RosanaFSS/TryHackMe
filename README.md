@@ -20,7 +20,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 }
 </style>
 
-<div align="center">
+<div align="center" font-size="9px">
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
