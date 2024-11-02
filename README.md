@@ -14,8 +14,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 <p align="center">October 31, 2024 - 2nd in Brazil Monthly Ranking<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
 
-<div align="center" width="30%">
-
+<div align="center">
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
@@ -37,6 +36,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 </div>
 <p></p>
 
+<div align="center">
+
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
@@ -51,6 +52,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
+
+</div>
 
 <p><br></p>
 
@@ -73,6 +76,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <p align="center">My assignements comppleted<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/0d25e2d9-6778-4819-a8ed-3bde5e725d9d"> </p>
 
+<div align="center">
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
@@ -82,7 +86,11 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1GBA9ROYFI.png" style="width:280px;"/> | **Pre Security** Learning Path | Easy | October 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FBOHY0UAVD.png" style="width:280px;"/> | Introduction to<br>**Cyber Security** Learning Path | Easy | September 19, 2024 | 8 | 
 
+</div>
+
 <p><br></p>
+
+<div align="center">
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
@@ -95,3 +103,4 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | October 28, 2024  | 30       |      57,857ª |       1,056ª |      1,037ª |        21ª |    9,542 |        98 |
 | October 27, 2024  | 29       |      61,928ª |       1,121ª |        901ª |        21ª |    9,086 |        95 |
 | October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
+</div>
