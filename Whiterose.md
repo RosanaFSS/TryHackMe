@@ -199,6 +199,7 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 &nbsp;&nbsp; [Summary](#0) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Welcome!](#1)&nbsp;&nbsp;▪️&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;▪️&nbsp;&nbsp; [User Flag](#1.2) &&nbsp;&nbsp;▪️&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;▪️&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/d5831a31-f115-4b3b-9cea-44567e8ce9b8)
 
 <p>Using Gayle´s credentials we can visualize phone number, different from when we used Olivias´s.</p>
