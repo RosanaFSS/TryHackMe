@@ -84,6 +84,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/d8c1b315-ae30-48b9-9268-4ead14b99bcb)
+![image](https://github.com/user-attachments/assets/bde69470-9791-468b-a3d7-865da5e6156e)
+
 
 ![image](https://github.com/user-attachments/assets/7abc46f7-e612-4823-8cf4-2b292fd96d12)
