@@ -18,7 +18,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
   <img height="300px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb">
 </p>
 
- 
+<p align="center">
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
@@ -36,7 +36,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
 
-<p><br></p>
+</p>
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
