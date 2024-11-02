@@ -6,8 +6,8 @@
 <h3>The first with my personal account, active since January 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my accomplishments in TryHackMe.</h3><br>
 
-<p align="center">My yearly activity<img height="300px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
-</p>
+<p align="center">My yearly activity<br>
+                 <img height="300px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41"> </p>
 
 <br>
 
