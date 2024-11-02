@@ -16,7 +16,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 
 <style>
 {
-  font-size: 13px
+  font-size: 9px
 }
 </style>
 
