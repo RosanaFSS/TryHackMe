@@ -48,10 +48,6 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
   <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
 </p>
 
-<p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
-</p>
-
 <br>
 
 <p>October 31, 2024 - Brazil Monthly Ranking ...</p>
@@ -99,7 +95,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/bde69470-9791-468b-a3d7-865da5e6156e)
+<p align="center">
+  <img height="500px" src="https://github.com/user-attachments/assets/74c26809-cf09-41a0-b2cf-bd562571a30d">
+</p>
 
-
-![image](https://github.com/user-attachments/assets/7abc46f7-e612-4823-8cf4-2b292fd96d12)
+<p align="center">
+  <img height="500px" src="https://github.com/user-attachments/assets/dd0e0ea4-d203-49e6-828a-6a607803faaf">
+</p>
