@@ -1,4 +1,4 @@
-<h1>TryHackMe</h1>
+<p align="center"><h1>TryHackMe</h1></p>
 <br>
 <p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2>
 
