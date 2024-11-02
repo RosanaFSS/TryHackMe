@@ -166,10 +166,6 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 
 ![image](https://github.com/user-attachments/assets/27f38ac7-ce17-4fba-adb6-e890b1013b50)
 
-<pre><code>root@[Attack]:~# python3 -m http.server 1337
-Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
-</code></pre><br>
-
 <p>I tried <code>Hey!</code> and it came as an output.</p>
 
 ![image](https://github.com/user-attachments/assets/62dd2cca-a09d-4586-9bb1-e7e16a545a4a)
