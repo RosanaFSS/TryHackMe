@@ -64,6 +64,15 @@ WiCys SANS Security Training Scholarship, Stage 2.</h2>
 Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <p></p>
 
+<p align="center">
+  <img height="300px" src="https://github.com/user-attachments/assets/645f0e9f-4f59-4b12-a7c7-1458cc9699ca">
+</p>
+
+<p align="center">
+  <img height="300px" src="https://github.com/user-attachments/assets/0d25e2d9-6778-4819-a8ed-3bde5e725d9d">
+</p>
+
+
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UIH9FXN6VH.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | November 01, 2024 | 55 | 
@@ -77,6 +86,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 02, 2024 | 34       |      44,680ª |         794ª |        912ª |        16ª |   11,394 |       112 |
 | November 01, 2024 | 34       |      46,641ª |         834ª |        151ª |         4ª |   11,066 |       110 |
 | October 31, 2024  | 33       |      50,289ª |         900ª |      1,382ª |        27ª |   10,538 |       105 |
 | October 30, 2024  | 32       |      54,621ª |         972ª |      1,129ª |        21ª |    9,934 |       103 |
@@ -84,14 +94,3 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | October 28, 2024  | 30       |      57,857ª |       1,056ª |      1,037ª |        21ª |    9,542 |        98 |
 | October 27, 2024  | 29       |      61,928ª |       1,121ª |        901ª |        21ª |    9,086 |        95 |
 | October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
-
-
-<p><br></p>
-
-<p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/74c26809-cf09-41a0-b2cf-bd562571a30d">
-</p>
-
-<p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/dd0e0ea4-d203-49e6-828a-6a607803faaf">
-</p>
