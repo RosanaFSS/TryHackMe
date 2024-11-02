@@ -4,6 +4,8 @@
 
 <h2>The first with my personal account, active since January 2023.<br>
 
+<p align="center">Yet another Mr. Robot themed challenge.</p>
+
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
 
  
@@ -42,8 +44,6 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-<p align="center">Yet another Mr. Robot themed challenge.</p>
-
 <p align="center">
   <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
 </p>
@@ -63,7 +63,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 <br>
 
 <p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21">
+  <img height="100px" src="https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21">
 </p>
 
 <br>
