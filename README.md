@@ -6,9 +6,6 @@
 
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
 
-
-![image]("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2264556")
-
  
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
@@ -47,9 +44,13 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41)
 
+<br>
+
 <p>October 31, 2024 - Brazil Monthly Ranking ...</p>
 
 ![image](https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb)
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21)
   
