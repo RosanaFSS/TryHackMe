@@ -256,10 +256,8 @@ Upgrading <code>ejs</code> to version 3.1.7 or higher</p>
 ![image](https://github.com/user-attachments/assets/80db4751-d997-45b1-8141-c13e34170787)
 
 
-
 ![image](https://github.com/user-attachments/assets/fdfa2dcd-2e62-403b-bce0-3b173efd8938)
 
-![image](https://github.com/user-attachments/assets/825b9398-1812-486a-8206-175200e32203)
 
 ![image](https://github.com/user-attachments/assets/f583c7d5-b76f-4828-93d3-3ba1aa857ced)
 
