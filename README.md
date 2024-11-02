@@ -73,7 +73,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <p align="center">My yearly activity<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/645f0e9f-4f59-4b12-a7c7-1458cc9699ca"> </p>
 
-<p align="center">My assignements comppleted<br>
+<p align="center">My assignments completed<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/0d25e2d9-6778-4819-a8ed-3bde5e725d9d"> </p>
 
 <div align="center">
@@ -103,4 +103,5 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | October 28, 2024  | 30       |      57,857ª |       1,056ª |      1,037ª |        21ª |    9,542 |        98 |
 | October 27, 2024  | 29       |      61,928ª |       1,121ª |        901ª |        21ª |    9,086 |        95 |
 | October 26, 2024  | 27       |      72,993ª |       1,334ª |      1,437ª |        34ª |    8,046 |        83 |
+
 </div>
