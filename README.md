@@ -64,13 +64,11 @@ WiCys SANS Security Training Scholarship, Stage 2.</h2>
 Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <p></p>
 
-<p align="center">
-  <img height="300px" src="https://github.com/user-attachments/assets/645f0e9f-4f59-4b12-a7c7-1458cc9699ca">
-</p>
+<p align="center">My yearly activity<br>
+                 <img height="300px" src="https://github.com/user-attachments/assets/645f0e9f-4f59-4b12-a7c7-1458cc9699ca"> </p>
 
-<p align="center">
-  <img height="300px" src="https://github.com/user-attachments/assets/0d25e2d9-6778-4819-a8ed-3bde5e725d9d">
-</p>
+<p align="center">My assignements comppleted<br>
+                 <img height="300px" src="https://github.com/user-attachments/assets/0d25e2d9-6778-4819-a8ed-3bde5e725d9d"> </p>
 
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
