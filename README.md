@@ -62,6 +62,7 @@ WiCys SANS Security Training Scholarship, Stage 2.</h2>
 <h3>Click here to know more about <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a><br>
 Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <p></p>
+
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UIH9FXN6VH.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | November 01, 2024 | 55 | 
