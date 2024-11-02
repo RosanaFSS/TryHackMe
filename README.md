@@ -10,7 +10,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 66% | 18 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 73% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
@@ -29,6 +29,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 2, 2024  | 180      |       1,414ª |          32ª |      4,750ª |        72ª | 51,886   |       396 |
 | November 1, 2024  | 179      |       1,424ª |          32ª |      2,416ª |        38ª | 51,718   |       395 |
 | October 31, 2024  | 178      |       1,445ª |          32ª |         86ª |         2ª | 51,460   |       392 |
 | October 31, 2024  | 177      |       1,451ª |          32ª |         86ª |         2ª | 51,358   |       390 |
@@ -41,7 +42,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/72a45fb4-bf30-448e-994f-f4028f25f7f1)
+![image](https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41)
 
 <p>October 2024 ...</p>
 
