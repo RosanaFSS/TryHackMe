@@ -7,7 +7,7 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my accomplishments in TryHackMe.</h2>
 
 <p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
+  <img height="300px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
 </p>
 
 <br>
@@ -15,7 +15,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 <p>October 31, 2024 - 2nd in Brazil Monthly Ranking ...</p>
 
 <p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb">
+  <img height="300px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb">
 </p>
 
  
