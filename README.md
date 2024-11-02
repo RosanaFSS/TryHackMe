@@ -44,7 +44,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 
 ![image](https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41)
 
-<p>October 2024 ...</p>
+<p>October 31, 2024 - Brazil Monthly Ranking ...</p>
 
 ![image](https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb)
 
