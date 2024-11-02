@@ -331,6 +331,11 @@ root@cyprusbank:~#
 <h2>My Journey<a id='5'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 1, 2024  | 179      |       1,441ª |          32ª |      2,311ª |        36ª | 51,558   |       394 |
+
 ![image](https://github.com/user-attachments/assets/fcd33702-2f63-42e9-8f17-d9a774aa9bbd)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
