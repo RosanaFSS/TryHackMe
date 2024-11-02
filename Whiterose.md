@@ -78,6 +78,9 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
   $$\textcolor{#eefc2b}{\textnormal{Open Ports = 22 and 80}}$$
 </h2>
 
+&nbsp;&nbsp; [Summary](#0) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Welcome!](#1)&nbsp;&nbsp;▪️&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;▪️&nbsp;&nbsp; [User Flag](#1.2) &&nbsp;&nbsp;▪️&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;▪️&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;
+
+<br>
 <p>Then I added [Target] and its domain main to <code>/etc/hosts</code></p>
 
 ![image](https://github.com/user-attachments/assets/6bbc710e-ff49-4dc2-8324-c6e6b7a01d72)
@@ -93,6 +96,9 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
   $$\textcolor{#eefc2b}{\textbf{Domain = cyprusbank.thm}}$$<br>
 </h2>
 
+&nbsp;&nbsp; [Summary](#0) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Welcome!](#1)&nbsp;&nbsp;▪️&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;▪️&nbsp;&nbsp; [User Flag](#1.2) &&nbsp;&nbsp;▪️&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;▪️&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;
+
+<br>
 <p>Continuing reconnaissance I used <code>fuff</code> for directory enumeration.</p>
 
 <pre><code>$ ffuf -H "HOST: FUZZ.cyprusbank.thm" -u http://cyprusbank.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-110000.txt -fw 1
@@ -195,6 +201,9 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
   $$\textcolor{#eefc2b}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
 </h2>
 
+&nbsp;&nbsp; [Summary](#0) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Welcome!](#1)&nbsp;&nbsp;▪️&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;▪️&nbsp;&nbsp; [User Flag](#1.2) &&nbsp;&nbsp;▪️&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;▪️&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;
+
+<br>
 ![image](https://github.com/user-attachments/assets/d5831a31-f115-4b3b-9cea-44567e8ce9b8)
 
 <p>Using Gayle´s credentials we can visualize phone number, different from when we used Olivias´s.</p>
@@ -237,6 +246,9 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
   $$\textcolor{#eefc2b}{\textbf{CVE-2022-29078 = Remote Code Execution (RCE) affecting ejs package, versions <3.1.7}}$$<br>
 </h2>
 
+&nbsp;&nbsp; [Summary](#0) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Welcome!](#1)&nbsp;&nbsp;▪️&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;▪️&nbsp;&nbsp; [User Flag](#1.2) &&nbsp;&nbsp;▪️&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;▪️&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;▪️&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;
+
+<br>
 <p><strong>CVE-2022-29078</strong>: The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
 Base Score: <code>9.8 critical</code></p>
 
