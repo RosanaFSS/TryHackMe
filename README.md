@@ -1,6 +1,6 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
 <p align="center">November 2, 2024</p>
-
+<h2 align="center"> $$\textcolor{#3bd62d}{\textnormal{ I share my accomplishments on <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements:}}$$ </h2>
 
 <p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2>
 
