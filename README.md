@@ -42,18 +42,30 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41)
+<p align="center">Yet another Mr. Robot themed challenge.</p>
+
+<p align="center">
+  <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
+</p>
+
+<p align="center">
+  <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
+</p>
 
 <br>
 
 <p>October 31, 2024 - Brazil Monthly Ranking ...</p>
 
-![image](https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb)
+<p align="center">
+  <img height="500px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb">
+</p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21)
-  
+<p align="center">
+  <img height="500px" src="https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21">
+</p>
+
 <br>
 <h2>The second involves my participation in the<br>
 WiCys SANS Security Training Scholarship, Stage 2.</h2>
