@@ -6,6 +6,9 @@
 
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
 
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2264556" style='border:none;'></iframe>
+
  
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ | -----------: | 
