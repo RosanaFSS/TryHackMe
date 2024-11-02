@@ -2,13 +2,10 @@
 <p align="center">November 2, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe</a> through 2 engagements:}}$$ </h2>
 
-<p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2>
 
-<h2>The first with my personal account, active since January 2023.<br>
+<h2 align="center"> $$\textcolor{white}{\textnormal{The first with my personal account, active since January 2023<br>
 
-<p align="center">Yet another Mr. Robot themed challenge.</p>
-
-Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
+Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.}}$$ </h2>
 
 <p align="center">
   <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
