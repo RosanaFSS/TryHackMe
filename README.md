@@ -54,21 +54,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accompl
 | October 26, 2024  | 172      |       1,610ª |          33ª |        544ª |        14ª | 49,218   |       376 |
 | October 25, 2024  | 172      |       1,621ª |          34ª |        458ª |        13ª | 49,002   |       374 |
 | October 23, 2024  | 170      |       1,656ª |          34ª |         34ª |         4ª | 48,482   |       366 |
+
 <p><br></p>
-
-<p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/fde82604-03e8-4a94-81a4-e60b8fc1ca41">
-</p>
-
-<br>
-
-<p>October 31, 2024 - Brazil Monthly Ranking ...</p>
-
-<p align="center">
-  <img height="500px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb">
-</p>
-
-<br>
 
 <p align="center">
   <img height="100px" src="https://github.com/user-attachments/assets/d13252c0-8021-4375-8aea-1b712e567b21">
