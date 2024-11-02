@@ -180,7 +180,7 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 ![image](https://github.com/user-attachments/assets/45fb4b80-6779-4388-8e9e-8003e7ab52bc)
 
 <br>
-<p>So I tried <code>c=8000</code>, found a password <code>Gayle Bev: Of course! My password is 'p~]P@5!6;rs558:q'</code>.</p>
+<p>Alsotried <code>c=8000</code> and found something interesting: <code>Gayle Bev: Of course! My password is 'p~]P@5!6;rs558:q'</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/1092eb35-1d9a-4924-b5f4-208c3786850e)
 
@@ -201,16 +201,15 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 ![image](https://github.com/user-attachments/assets/7f8fb4a9-fd19-41eb-84fe-473aee0fab33)
 
-
-<p> As <code>Gayle Bev</code>, <code>Settings</code> page is available!</p>
+<p>As <code>Gayle Bev</code>, <code>Settings</code> page is available!</p>
 
 ![image](https://github.com/user-attachments/assets/6c8670f9-3ebd-4137-af11-df9334fa9a89)
 
-<p>Let´s used Burp Suite ...</p>
+<p>I decided to use <code>Burp Suite</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/16a6ff81-a5a1-402e-8d09-ca9c9c3e076a)
 
-<p>I tried <code>Testing:Testing.</code></p>
+<p>I tried using <code>Testing:Testing.</code></p>
 
 ![image](https://github.com/user-attachments/assets/a4ba66fe-6c5d-4715-9059-a4f7f725315e)
 
