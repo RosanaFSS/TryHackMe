@@ -166,7 +166,6 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 
 ![image](https://github.com/user-attachments/assets/27f38ac7-ce17-4fba-adb6-e890b1013b50)
 
-
 <pre><code>root@[Attack]:~# python3 -m http.server 1337
 Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 </code></pre><br>
@@ -190,7 +189,6 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 ![image](https://github.com/user-attachments/assets/1092eb35-1d9a-4924-b5f4-208c3786850e)
 
-<br>
 <h2 align="left">
   $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
   $$\textcolor{#eefc2b}{\textbf{Open Ports = 22 and 80}}$$ <br>
