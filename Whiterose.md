@@ -71,8 +71,8 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textnormal{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textnormal{Open Ports = 22 and 80}}$$
+  $$\textcolor{#eefc2b}{\textnormal{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#eefc2b}{\textnormal{Open Ports = 22 and 80}}$$
 </h2>
 
 <p>Then I added [Target] and its domain main to <code>/etc/hosts</code></p>
@@ -85,9 +85,9 @@ Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
 ![image](https://github.com/user-attachments/assets/dd53b8d0-a07d-47f4-88f3-4067eb50636c)
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Domain = cyprusbank.thm}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Domain = cyprusbank.thm}}$$<br>
 </h2>
 
 <p>Continuing reconnaissance I used <code>fuff</code> for directory enumeration.</p>
@@ -124,9 +124,9 @@ ADMIN                   [Status: 302, Size: 28, Words: 4, Lines: 1]
 </code></pre><br>
 
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
 </h2>
 
 <p>Then I added another domain name <code>admin.cyprusbank.thm</code> pointing to our [Target], in <code>/etc/hosts</code></p>
@@ -186,13 +186,15 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 <br>
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
-  $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
 </h2>
 
 ![image](https://github.com/user-attachments/assets/d5831a31-f115-4b3b-9cea-44567e8ce9b8)
+
+<p>Using Gayle´s credentials we can visualize phone number, different from when we used Olivias´s.</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
@@ -225,11 +227,11 @@ Serving HTTP on 0.0.0.0 port 1337 (http://0.0.0.0:1337/) ...
 
 <br>
 <h2 align="left">
-  $$\textcolor{#e691c9}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Open Ports = 22 and 80}}$$ <br>
-  $$\textcolor{#e691c9}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
-  $$\textcolor{#e691c9}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
-  $$\textcolor{#e691c9}{\textbf{CVE-2022-29078 = Remote Code Execution (RCE) affecting ejs package, versions <3.1.7}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{Credential 1 = Olivia Cortez:olivi8}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Open Ports = 22 and 80}}$$ <br>
+  $$\textcolor{#eefc2b}{\textbf{Domains = cyprusbank.thm  and  admin.cyprusbank.thm}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{Credential 2 = Gayle Bev:p~]P@5!6;rs558:q}}$$<br>
+  $$\textcolor{#eefc2b}{\textbf{CVE-2022-29078 = Remote Code Execution (RCE) affecting ejs package, versions <3.1.7}}$$<br>
 </h2>
 
 <p><strong>CVE-2022-29078</strong>: The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
