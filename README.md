@@ -12,7 +12,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 
 <br>
 
-<p>October 31, 2024 - 2nd in Brazil Monthly Ranking ...</p>
+<p align="center">October 31, 2024 - 2nd in Brazil Monthly Ranking ...</p>
 
 <p align="center">
   <img height="300px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb">
