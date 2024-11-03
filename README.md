@@ -7,8 +7,7 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my accomplishments in TryHackMe.</h3><br>
 
 <p align="center">My yearly activity<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/7eeb20b4-3d2b-469d-9478-bed34e630d36"> </p>
-
+                 <img height="300px" src="https://github.com/user-attachments/assets/c078d9b0-29b1-454c-af94-54fe5125bf73"> </p>
 
 <br>
 
