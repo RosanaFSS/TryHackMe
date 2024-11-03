@@ -71,10 +71,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <p></p>
 
 <p align="center">My yearly activity<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/645f0e9f-4f59-4b12-a7c7-1458cc9699ca"> </p>
+                 <img height="300px" src="https://github.com/user-attachments/assets/e29ab650-c960-4c2b-8b7f-b81072cc4d5d"> </p>
 
 <p align="center">My assignments completed<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/0d25e2d9-6778-4819-a8ed-3bde5e725d9d"> </p>
+                 <img height="300px" src="https://github.com/user-attachments/assets/5a5d0566-1f71-4651-bb0b-64f6f7a2ccdd"> </p>
 
 <div align="center">
 
@@ -95,6 +95,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 03, 2024 | 36       |      44,088ª |         778ª |      1,882ª |        27ª |   11,506 |       113 |
 | November 02, 2024 | 34       |      44,680ª |         794ª |        912ª |        16ª |   11,394 |       112 |
 | November 01, 2024 | 34       |      46,641ª |         834ª |        151ª |         4ª |   11,066 |       110 |
 | October 31, 2024  | 33       |      50,289ª |         900ª |      1,382ª |        27ª |   10,538 |       105 |
