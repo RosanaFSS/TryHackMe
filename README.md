@@ -19,7 +19,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 73% | 18 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 77% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
@@ -41,6 +41,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 3, 2024  | 181      |       1,408ª |          32ª |      6,776ª |       110ª | 51,998   |       397 |
 | November 2, 2024  | 180      |       1,414ª |          32ª |      4,750ª |        72ª | 51,886   |       396 |
 | November 1, 2024  | 179      |       1,424ª |          32ª |      2,416ª |        38ª | 51,718   |       395 |
 | October 31, 2024  | 178      |       1,445ª |          32ª |         86ª |         2ª | 51,460   |       392 |
