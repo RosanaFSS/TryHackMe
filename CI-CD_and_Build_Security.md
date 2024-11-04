@@ -3,6 +3,7 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 
 
 <h3 align="center"> $$\textcolor{white}{\textnormal{DevSecOps Learning Path - 2nd Module}}$$ </h3>
+<h1 align="center"> $$\textcolor{white}{\textnormal{DevSecOps Learning Path - 2nd Module}}$$ </h1>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{CI-CD and Build Security}$$ </h1>
 <p align="center">Learn about CI/CD and build principles to safeguard your pipelines. <a href="https://tryhackme.com/r/room/cicdandbuildsecurity">CI/CD and Build Security</a>.</p><br>
 <p align="center">
