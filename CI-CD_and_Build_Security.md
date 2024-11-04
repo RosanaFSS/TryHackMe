@@ -19,6 +19,9 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 
 <h2>Task 1. Introduction<a id='1'></a></h2>
 
+<br>
+
+<h2>Task 1. Introduction<a id='1'></a></h2>
 
 <br>
 
