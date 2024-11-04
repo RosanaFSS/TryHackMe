@@ -25,6 +25,11 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 <h2>Room Complete<a id='9'></a></h2>
 <p>Keep learning, keep growing!<br>
 
+<p align="center">
+  <img width="1200px" src="https://github.com/user-attachments/assets/b99b2c7e-c4e6-4e89-b18c-692108f7f141">
+  <img width="1200px" src="https://github.com/user-attachments/assets/5a0e72ad-8a2e-4892-800e-32ec88489bee">
+</p>
+
 ![image](https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716)
 
 ![image](https://github.com/user-attachments/assets/ad09c1ab-243a-4a1b-a61c-e76527eab9a1)
