@@ -30,7 +30,6 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
   <img width="1000px" src="https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716">
 </p>
 
-![image](https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716)
 
 ![image](https://github.com/user-attachments/assets/ad09c1ab-243a-4a1b-a61c-e76527eab9a1)
 
