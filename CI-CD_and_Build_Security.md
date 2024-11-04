@@ -34,8 +34,19 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 
 ![image](https://github.com/user-attachments/assets/753dcae6-e02d-41aa-b6cd-91cf0454ed47)
 
+<p></p>
+
+<h2>My Journey<a id='10'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
 | November 4, 2024  | 182      |       1,353ª |          28ª |      5,245ª |        76ª | 52,718   |       398 |
+
+<br>
+
+![image](https://github.com/user-attachments/assets/753dcae6-e02d-41aa-b6cd-91cf0454ed47)
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
