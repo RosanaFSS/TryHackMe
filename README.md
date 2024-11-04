@@ -65,13 +65,12 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 <h2>The second involves my participation in the<br>
 WiCys SANS Security Training Scholarship, Stage 2.</h2>
 
-
 <h3>Click here to know more about <a href="https://www.wicys.org/benefits/security-training-scholarship/">WiCyS SANS Security Training Scholarship Program, Stage 2</a><br>
 Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <p></p>
 
-<p align="center">My yearly activity<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/e29ab650-c960-4c2b-8b7f-b81072cc4d5d"> </p>
+<p align="center">November 3, 2024 - My yearly activity<br>
+                 <img height="300px" src="https://github.com/user-attachments/assets/4aedbdf1-3ac5-4471-a515-8e861c22fe59"> </p>
 
 <p align="center">My assignments completed<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/5a5d0566-1f71-4651-bb0b-64f6f7a2ccdd"> </p>
@@ -95,7 +94,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 03, 2024 | 36       |      44,088ª |         778ª |      1,882ª |        27ª |   11,506 |       113 |
+| November 03, 2024 | 36       |      43,389ª |         768ª |      1,928ª |        30ª |   11,626 |       114 |
 | November 02, 2024 | 34       |      44,680ª |         794ª |        912ª |        16ª |   11,394 |       112 |
 | November 01, 2024 | 34       |      46,641ª |         834ª |        151ª |         4ª |   11,066 |       110 |
 | October 31, 2024  | 33       |      50,289ª |         900ª |      1,382ª |        27ª |   10,538 |       105 |
