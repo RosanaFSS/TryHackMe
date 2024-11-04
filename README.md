@@ -18,7 +18,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 77% | 18 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 84% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
