@@ -5,12 +5,12 @@
 <h3>The first with my personal account, active since January 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my accomplishments in TryHackMe.</h3><br>
 
-<p align="center">My yearly activity<br>
+<p align="center">November 3, 2024 - My yearly activity<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/459431f4-7818-49d4-9bdd-6b0827237be9"> </p>
 
 <br>
 
-<p align="center">October 31, 2024 - 2nd in Brazil Monthly Ranking<br>
+<p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
                  <img height="300px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
 
 <div align="center">
