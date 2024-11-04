@@ -27,7 +27,7 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 
 <p align="center">
   <img width="1000px" src="https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716">
-  <img width="1000px" src="https://github.com/user-attachments/assets/5a0e72ad-8a2e-4892-800e-32ec88489bee">
+  <img width="1000px" src="https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716">
 </p>
 
 ![image](https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716)
