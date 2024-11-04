@@ -40,7 +40,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 3, 2024  | 181      |       1,397ª |          31ª |      6,852ª |       110ª | 52,118   |       398 |
+| November 3, 2024  | 181      |       1,397ª |          31ª |      6,912ª |       112ª | 52,118   |       398 |
 | November 2, 2024  | 180      |       1,414ª |          32ª |      4,750ª |        72ª | 51,886   |       396 |
 | November 1, 2024  | 179      |       1,424ª |          32ª |      2,416ª |        38ª | 51,718   |       395 |
 | October 31, 2024  | 178      |       1,445ª |          32ª |         86ª |         2ª | 51,460   |       392 |
