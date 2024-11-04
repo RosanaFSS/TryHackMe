@@ -14,3 +14,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/753dcae6-e02d-41aa-b6cd-91cf0454ed47)
+
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 4, 2024  | 182      |       1,353ª |          28ª |      5,245ª |        76ª | 52,718   |       398 |
