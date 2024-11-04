@@ -20,12 +20,6 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 <h2>Task 1. Introduction<a id='1'></a></h2>
 
 
-![image](https://github.com/user-attachments/assets/b99b2c7e-c4e6-4e89-b18c-692108f7f141)
-
-
-![image](https://github.com/user-attachments/assets/fed9a6ae-94c3-4254-9e61-d6501f10d733)
-
-
 
 ![image](https://github.com/user-attachments/assets/328bd7ed-c7e6-459c-903e-c52932964716)
 
