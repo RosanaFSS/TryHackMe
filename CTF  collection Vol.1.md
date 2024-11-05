@@ -15,13 +15,6 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The Benefits & Features of Docker](#5) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [How does Containerisation Work?](#6) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Practical](#7) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Room Complete](#8) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [My Journey](#9) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<h1>Learn > CTF ></h1>
-<h2>CTF collecton Vol.1</h2>
-<p>Sharpening up your CTF skill with the collection. The first volume is designed for beginner.</p><br>
-<p>October 29, 2024<br></p><br>
-
-<h2>.....  in progress ...</h2>
-
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/46f0326e-d500-402c-9662-4ab2d70ab960" width="150px" height="150px"/>
 </div>
