@@ -48,6 +48,10 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 >> <strong>THM{3x1f_0r_3x17}</strong><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/fad3f912-6d31-40d8-a32f-3c30f5ad08fd)
+
+![image](https://github.com/user-attachments/assets/4620e385-7180-4577-adc6-c2d789a5cdbf)
+
 
 <h2>Task 4 - Mon, are we going to be okay?</h2>
 <p>Something is hiding. That's all you need to know.</p>
