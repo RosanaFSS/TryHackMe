@@ -111,8 +111,17 @@ MAF{atbe_max_vtxltk}</p>
 <p>I accidentally messed up with this PNG file. Can you help me fix it? Thanks, ^^</p>
     
 > 11.1 - <em>What is the content?</em><br>
->> <strong>___________________________</strong><br>
+>> <strong>THM{y35_w3_c4n}</strong><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/0579bda8-934b-4f75-9d15-12c9229f0013)
+
+![image](https://github.com/user-attachments/assets/155c197e-2d69-45e2-b031-df5b2ccbd9b8)
+
+![image](https://github.com/user-attachments/assets/222241b0-ea8a-4dd9-b66a-7bc10b9b7eec)
+
+
+
 
 
 <h2>Task 12 - Read it</h2>
