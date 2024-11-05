@@ -294,10 +294,8 @@ Targetted time: 2 January 2020</p>
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 1, 2024  | 179      |       1,441ª |          32ª |      2,311ª |        36ª | 51,558   |       394 |
+| November 5, 2024  | 183      |       1,331ª |          28ª |      5,422ª |        87ª | 53,084   |       401 |
 
-![image](https://github.com/user-attachments/assets/fcd33702-2f63-42e9-8f17-d9a774aa9bbd)
+![image](https://github.com/user-attachments/assets/23935e6b-7f35-45d3-9445-9426e074b3e7)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
-
-
