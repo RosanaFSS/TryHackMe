@@ -14,20 +14,6 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Introduction](#1) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [What is Containerisation](#2) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Introducing Docker](#3) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [The History of Docker](#4) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The Benefits & Features of Docker](#5) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [How does Containerisation Work?](#6) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Practical](#7) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Room Complete](#8) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [My Journey](#9) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/46f0326e-d500-402c-9662-4ab2d70ab960" width="150px" height="150px"/>
-</div>
-<br>
-
-![image](https://github.com/user-attachments/assets/ae67fdb2-8a0a-4551-b3fd-c96112d0fb7f)
-
-
-<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s key part of my <strong><em>176</em></strong>-day-streak.<br>Let´s get started!!<br><br>
-Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/ctfcollectionvol1">CTF collection Vol. 1</a>.<br>
-<code>Note</code>: only subscribers can deploy Virtual Machines in this room.</p>
-
 <h2>Task 1 - Introduction</h2>
 
 <p>Just another random CTF room created by me. Well, the main objective of the room is to test your CTF skills. For your information, vol.1 consists of 20 tasks and all the challenges are extremely easy. Stay calm and Capture the flag. :)<br>
