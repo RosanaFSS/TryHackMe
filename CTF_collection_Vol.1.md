@@ -38,6 +38,9 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 >> <strong>THM{ju57_d3c0d3_7h3_b453}</strong><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/74416c39-97ba-40a8-864b-027d7ab60bf3)
+
+
 <h2>Task 3 - Meta meta</h2>
 <p>Meta! meta! meta! meta...................................</p>
     
