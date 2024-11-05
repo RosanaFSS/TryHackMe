@@ -18,10 +18,10 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
-|  &#x1F6A7;  &#x1F6A7;                       | **DevSecOps**                | Intermediate | in progress, 98% | 18 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:280px;"/> | **Cyber Defense**           | Intermediate  | July 17, 2024 | 34 | 
@@ -29,7 +29,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JLMV6TMUAF.png" style="width:280px;"/> | **Security Engineer**       | Easy          | September 5, 2024 | 31 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1**             | Easy          | June 8, 2024 | 71 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X9TLJHAVDH.png" style="width:280px;"/> | **Pre Security**            | Easy          | May 18, 2024 | 18 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:280px;"/> | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:280px;"/> | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
 
@@ -41,8 +41,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 5, 2024  | 182      |       1,340ª |          28ª |      5,356ª |        81ª | 52,926   |       400 |
 | November 4, 2024  | 181      |       1,343ª |          28ª |      5,339ª |        81ª | 52,886   |       399 |
-| November 4, 2024  | 182      |       1,353ª |          28ª |      5,245ª |        76ª | 52,718   |       398 |
 | November 3, 2024  | 181      |       1,397ª |          31ª |      6,912ª |       112ª | 52,118   |       397 |
 | November 2, 2024  | 180      |       1,414ª |          32ª |      4,750ª |        72ª | 51,886   |       396 |
 | November 1, 2024  | 179      |       1,424ª |          32ª |      2,416ª |        38ª | 51,718   |       395 |
