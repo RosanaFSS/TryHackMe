@@ -7,7 +7,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 
 
 <p align="center">November 5, 2024 - My yearly activity<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/029de243-5e56-4a58-b88c-f24a1cd1dff5"> </p>
+                 <img height="500px" src="https://github.com/user-attachments/assets/1871591f-7c3c-4ffc-a521-533fd27c5324"> </p>
 
 <br>
 
