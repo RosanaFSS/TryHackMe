@@ -194,8 +194,17 @@ S2: 1010101010101010101010101010101010</p>
 <p>Please exfiltrate my file :)</p>
  
 > 15.1 - <em>Flag! Flag! Flag!</em><br>
->> <strong>______</strong><br>
+>> <strong>THM{y0u_w4lk_m3_0u7}</strong><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/887f8b8b-a7e9-4e3d-b20b-6f7405b43233)
+
+![image](https://github.com/user-attachments/assets/7c780da6-8ca4-4625-aad4-183952de7828)
+
+![image](https://github.com/user-attachments/assets/a94fd380-6560-4e80-8dca-fe34c2325722)
+
+![image](https://github.com/user-attachments/assets/9586e0e2-c77a-43f4-b4e9-1f65075c9f4d)
+
 
 <h2>Task 16 - Darkness</h2>
 <p>There is something lurking in the dark.</p>
@@ -203,6 +212,15 @@ S2: 1010101010101010101010101010101010</p>
 > 16.1 - <em>What does the flag said?</em><br>
 >> <strong>______</strong><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/1dd8df0e-72c2-4067-9dbc-5b69e260c59f)
+
+![image](https://github.com/user-attachments/assets/121b2c4d-d756-4b31-b915-fa674c75246a)
+
+
+
+
+
 
 <h2>Task 17 - A sounding QR</h2>
 <p>How good is your listening skill?</p>
