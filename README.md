@@ -23,7 +23,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:280px;"/> | **Cyber Defense**           | Intermediate  | July 17, 2024 | 34 | 
