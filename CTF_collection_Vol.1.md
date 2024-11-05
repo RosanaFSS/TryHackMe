@@ -87,7 +87,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 
 ![image](https://github.com/user-attachments/assets/76864723-4bc0-48ee-8ddf-1db836a9f0da)
 
-<h2>Task 9 - Left or right/h2>
+<h2>Task 9 - Left or right</h2>
 <p>Left, right, left, right... Rot 13 is too mainstream. Solve this<br>
 
 MAF{atbe_max_vtxltk}</p>
