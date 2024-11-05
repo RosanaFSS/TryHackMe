@@ -42,7 +42,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
     
 > 3.1 - <em>I'm hungry, I need the flag.</em><br>
 >> <strong>THM{3x1f_0r_3x17}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/fad3f912-6d31-40d8-a32f-3c30f5ad08fd)
 
