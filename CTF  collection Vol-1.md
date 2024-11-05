@@ -279,3 +279,25 @@ Targetted time: 2 January 2020</p>
 
 ![image](https://github.com/user-attachments/assets/769fc518-7a0b-4566-8072-67be6065ff8a)
 
+
+<h2>Room Complete<a id='4'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+![image](https://github.com/user-attachments/assets/0ce685c4-2f93-40e0-8433-02d0463aa02c)
+
+![image](https://github.com/user-attachments/assets/82186c36-4819-4ec1-a725-be3105ce375c)
+
+
+<h2>My Journey<a id='5'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 1, 2024  | 179      |       1,441ª |          32ª |      2,311ª |        36ª | 51,558   |       394 |
+
+![image](https://github.com/user-attachments/assets/fcd33702-2f63-42e9-8f17-d9a774aa9bbd)
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
+
