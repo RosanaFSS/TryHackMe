@@ -73,8 +73,11 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 <p>Both works, it's all up to you.</p>
     
 > 7.1 - <em>Found the flag?</em><br>
->> <strong>______</strong><br>
+>> <strong>THM{345y_f1nd_345y_60}</strong><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/e0f636fd-ac5d-41f0-b89f-4680c063af40)
+
 
 <h2>Task 8 - Another decoding stuff</h2>
 <p>Can you decode it?<br>
