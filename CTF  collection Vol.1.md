@@ -32,7 +32,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 
 > 2.1 - <em>Feed me the flag!</em><br>
 >> <strong>THM{ju57_d3c0d3_7h3_b453}</strong><br>
-<p><br></p>
+<p></p><br>
 
 ![image](https://github.com/user-attachments/assets/74416c39-97ba-40a8-864b-027d7ab60bf3)
 
