@@ -9,11 +9,6 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
   <img height="150px" src="https://github.com/user-attachments/assets/11fa0ba2-7647-4fa5-b675-d9d67f028064">
 </p>
 
-<p align="center">Summary</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Introduction](#1) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [What is Containerisation](#2) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Introducing Docker](#3) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [The History of Docker](#4) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The Benefits & Features of Docker](#5) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [How does Containerisation Work?](#6) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Practical](#7) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Room Complete](#8) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [My Journey](#9) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <h2>Task 1 - Introduction</h2>
 
 <p>Just another random CTF room created by me. Well, the main objective of the room is to test your CTF skills. For your information, vol.1 consists of 20 tasks and all the challenges are extremely easy. Stay calm and Capture the flag. :)<br>
@@ -54,7 +49,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
     
 > 4.1 - <em>It is sad. Feed me the flag.</em><br>
 >> <strong>THM{500n3r_0r_l473r_17_15_0ur_7urn}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/f9c22a05-2c52-45d9-9dca-c68704cc0eae)
 
@@ -68,7 +63,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
     
 > 5.1 - <em>Did you find the flag?</em><br>
 >> <strong>THM{wh173_fl46}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/ab1067fc-d335-4ee1-9618-9420315ed17f)
 
@@ -79,7 +74,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
     
 > 6.1 - <em>More flag please!</em><br>
 >> <strong>THM{qr_m4k3_l1f3_345y}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/1696f2cf-88db-42c1-a9eb-ca4ab176b4f7)
 
@@ -89,7 +84,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
     
 > 7.1 - <em>Found the flag?</em><br>
 >> <strong>THM{345y_f1nd_345y_60}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/e0f636fd-ac5d-41f0-b89f-4680c063af40)
 
@@ -101,7 +96,7 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
     
 > 8.1 - <em>Oh, Oh, Did you get it?</em><br>
 >> <strong>THM{17_h45_l3553r_l3773r5}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/76864723-4bc0-48ee-8ddf-1db836a9f0da)
 
@@ -112,7 +107,7 @@ MAF{atbe_max_vtxltk}</p>
     
 > 9.1 - <em>What did you get?</em><br>
 >> <strong>THM{hail_the_caesar}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/e3a7bc4e-be27-49eb-b833-f882939e6c8e)
 
@@ -121,7 +116,7 @@ MAF{atbe_max_vtxltk}</p>
     
 > 10.1 - <em>I'm hungry now... I need the flag</em><br>
 >> <strong>THM{4lw4y5_ch3ck_7h3_c0m3mn7}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/239c4f1a-ff00-4be2-b446-3e2808796bb5)
 
@@ -130,7 +125,7 @@ MAF{atbe_max_vtxltk}</p>
     
 > 11.1 - <em>What is the content?</em><br>
 >> <strong>THM{y35_w3_c4n}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/0579bda8-934b-4f75-9d15-12c9229f0013)
 
@@ -143,11 +138,9 @@ MAF{atbe_max_vtxltk}</p>
     
 > 12.1 - <em>Did you found the hidden flag?</em><br>
 >> <strong>THM{50c14l_4cc0un7_15_p4r7_0f_051n7}</strong><br>
-<p><br></p>
-
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/0ddab326-32c0-452d-9401-762c51c54c1b)
-
 
 <p>SlVTVCBPTkUgTU9SRSBTVEVQICEhISEhISEhIApzaXRlOiJyZWRkaXQuY29tIiBpbnRleHQ6IlRITSIgaW50aXRsZToidHJ5aGFja21l</p>
 
@@ -165,7 +158,7 @@ MAF{atbe_max_vtxltk}</p>
     
 > 13.1 - <em>Did you found the hidden flag?</em><br>
 >> <strong>THM{0h_my_h34d}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/4b310718-7316-482c-a871-3fa6f8f6ef8e)
 
@@ -178,7 +171,7 @@ S2: 1010101010101010101010101010101010</p>
  
 > 14.1 - <em>Did you crack it? Feed me now!</em><br>
 >> <strong>THM{3xclu51v3_0r}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/98da036e-c2fd-40bc-8662-0b0adb1b1a04)
 
@@ -187,7 +180,7 @@ S2: 1010101010101010101010101010101010</p>
  
 > 15.1 - <em>Flag! Flag! Flag!</em><br>
 >> <strong>THM{y0u_w4lk_m3_0u7}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/887f8b8b-a7e9-4e3d-b20b-6f7405b43233)
 
@@ -203,7 +196,7 @@ S2: 1010101010101010101010101010101010</p>
  
 > 16.1 - <em>What does the flag said?</em><br>
 >> <strong>THM{7h3r3_15_h0p3_1n_7h3_d4rkn355}</strong><br>
-<p><br></p>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/1dd8df0e-72c2-4067-9dbc-5b69e260c59f)
 
@@ -219,7 +212,7 @@ S2: 1010101010101010101010101010101010</p>
  
 > 17.1 - <em>What does the bot said?</em><br>
 >> <strong>______</strong><br>
-<p><br></p>
+<p></p>
 
 <h2>Task 18 - A sounding QR</h2>
 <p>Sometimes we need a 'machine' to dig the past<br>
@@ -229,8 +222,7 @@ Targetted time: 2 January 2020</p>
  
 > 18.1 - <em>Did you found my past?</em><br>
 >> <strong>THM{ch3ck_th3_h4ckb4ck} </strong><br>
-<p><br></p>
-
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/4090988c-09a5-4f3f-a6ae-a1dd4f21e220)
 
