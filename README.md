@@ -7,12 +7,12 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 
 <p align="center">November 5, 2024 - My yearly activity<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/1871591f-7c3c-4ffc-a521-533fd27c5324"> </p>
+                 <img width="500px" src="https://github.com/user-attachments/assets/1871591f-7c3c-4ffc-a521-533fd27c5324"> </p>
 
 <br>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
-                 <img height="400px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
+                 <img width="500px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
 
 <p align="center">11 learning paths complete<br>
                  <img height="800px" src="https://github.com/user-attachments/assets/5779972b-f349-4df0-ae1a-09886d1f2df4"> </p>
