@@ -211,8 +211,12 @@ S2: 1010101010101010101010101010101010</p>
 <p>P/S: The flag formatted as THM{Listened Flag}, the flag should be in All CAPS</p>
  
 > 17.1 - <em>What does the bot said?</em><br>
->> <strong>______</strong><br>
+>> <strong>THM{SOUNDINGQR}</strong><br>
 <p></p>
+
+![image](https://github.com/user-attachments/assets/5873afd8-dbd6-4f9a-b64f-09541aa74680)
+
+![image](https://github.com/user-attachments/assets/255f863b-7a66-4fc3-bc38-af9c5bf93bda)
 
 <h2>Task 18 - A sounding QR</h2>
 <p>Sometimes we need a 'machine' to dig the past<br>
@@ -221,7 +225,7 @@ Targetted website: https://www.embeddedhacker.com/<br>
 Targetted time: 2 January 2020</p>
  
 > 18.1 - <em>Did you found my past?</em><br>
->> <strong>THM{ch3ck_th3_h4ckb4ck} </strong><br>
+>> <strong>THM{ch3ck_th3_h4ckb4ck}</strong><br>
 <p></p>
 
 ![image](https://github.com/user-attachments/assets/4090988c-09a5-4f3f-a6ae-a1dd4f21e220)
@@ -264,19 +268,11 @@ Targetted time: 2 January 2020</p>
 
 581695969015253365094191591547859387620042736036246486373595515576333693</p
  
->20.1 - <em>What is the flag?</em><br>
->> <strong>THM{17_ju57_4n_0rd1n4ry_b4535}</strong><br>
+>21.1 - <em>What is the flag?</em><br>
+>> <strong>THM{d0_n07_574lk_m3}</strong><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/87e89b8c-3494-4268-8bd2-2724e93e4d4d)
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/769fc518-7a0b-4566-8072-67be6065ff8a)
 
