@@ -7,12 +7,12 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 
 
 <p align="center">November 4, 2024 - My yearly activity<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/029de243-5e56-4a58-b88c-f24a1cd1dff5"> </p>
+                 <img height="500px" src="https://github.com/user-attachments/assets/029de243-5e56-4a58-b88c-f24a1cd1dff5"> </p>
 
 <br>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
+                 <img height="500px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
 
 <div align="center">
 
@@ -73,10 +73,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <p></p>
 
 <p align="center">November 3, 2024 - My yearly activity<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/4aedbdf1-3ac5-4471-a515-8e861c22fe59"> </p>
+                 <img height="500px" src="https://github.com/user-attachments/assets/4aedbdf1-3ac5-4471-a515-8e861c22fe59"> </p>
 
 <p align="center">My assignments completed<br>
-                 <img height="300px" src="https://github.com/user-attachments/assets/5a5d0566-1f71-4651-bb0b-64f6f7a2ccdd"> </p>
+                 <img height="500px" src="https://github.com/user-attachments/assets/5a5d0566-1f71-4651-bb0b-64f6f7a2ccdd"> </p>
 
 <div align="center">
 
