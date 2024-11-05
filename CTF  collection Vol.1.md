@@ -1,3 +1,25 @@
+<p align="left">November 5, 2024 - Hey there, fellow lifelong learner!<br>
+I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. It´s part of my $$\textcolor{#FF69B4}{\textbf{183}}$$-day-streak in  <a href="https://tryhackme.com/r/p/Rosana">TryHackMe</a>.</p>
+
+
+![image](https://github.com/user-attachments/assets/b3b2f8bb-5319-44e1-8ebb-cab51b04a6e5)
+
+
+<h3 align="center"> $$\textcolor{white}{\textnormal{DevSecOps Learning Path - 4th Module}}$$ </h3>
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Intro to Containerisation}}$$ </h1>
+<p align="center">Sharpening up your CTF skill with the collection. The first volume is designed for beginner..<br>
+                  Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ctfcollectionvol1">CTF collection VOl.1</a>.</p><br>
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/6347914f-d784-4112-bd75-48bf50dbb2bd">
+  <img height="150px" src="https://github.com/user-attachments/assets/c0916051-ea2a-46fc-8e2d-fdc9dfb90bf7">
+</p>
+
+<p align="center">Summary</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Introduction](#1) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [What is Containerisation](#2) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Introducing Docker](#3) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [The History of Docker](#4) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The Benefits & Features of Docker](#5) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [How does Containerisation Work?](#6) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Practical](#7) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [Room Complete](#8) &nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp; [My Journey](#9) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <h1>Learn > CTF ></h1>
 <h2>CTF collecton Vol.1</h2>
 <p>Sharpening up your CTF skill with the collection. The first volume is designed for beginner.</p><br>
