@@ -69,14 +69,14 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 <p><br></p>
 
 
-<h2>Task 7 - Reverse it or read it?/h2>
+<h2>Task 7 - Reverse it or read it?</h2>
 <p>Both works, it's all up to you.</p>
     
 > 7.1 - <em>Found the flag?</em><br>
 >> <strong>______</strong><br>
 <p><br></p>
 
-<h2>Task 8 - Another decoding stuff/h2>
+<h2>Task 8 - Another decoding stuff</h2>
 <p>Can you decode it?<br>
 
 3agrSy1CewF9v8ukcSkPSYm3oKUoByUpKG4L</p>
@@ -98,7 +98,7 @@ MAF{atbe_max_vtxltk}</p>
 
 ![image](https://github.com/user-attachments/assets/e3a7bc4e-be27-49eb-b833-f882939e6c8e)
 
-<h2>Task 10 - Make a coment/h2>
+<h2>Task 10 - Make a coment</h2>
 <p>No downloadable file, no ciphered or encoded text. Huh .......</p>
     
 > 10.1 - <em>I'm hungry now... I need the flag</em><br>
@@ -107,7 +107,7 @@ MAF{atbe_max_vtxltk}</p>
 
 ![image](https://github.com/user-attachments/assets/239c4f1a-ff00-4be2-b446-3e2808796bb5)
 
-<h2>Task 11 - Can you fix it?/h2>
+<h2>Task 11 - Can you fix it?</h2>
 <p>I accidentally messed up with this PNG file. Can you help me fix it? Thanks, ^^</p>
     
 > 11.1 - <em>What is the content?</em><br>
