@@ -1,7 +1,7 @@
 <p align="left">November 5, 2024 - Hey there, fellow lifelong learner!<br>
 I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure. It´s part of my $$\textcolor{#FF69B4}{\textbf{183}}$$-day-streak in  <a href="https://tryhackme.com/r/p/Rosana">TryHackMe</a>.</p>
 
-<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Learn CTF}}$$ </h1>
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Learn > CTF}}$$ </h1>
 <p align="center">Sharpening up your CTF skill with the collection. The first volume is designed for beginner..<br>
                   Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ctfcollectionvol1">CTF collection VOl.1</a>.</p><br>
 <p align="center">
