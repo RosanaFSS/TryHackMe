@@ -53,12 +53,22 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 >> <strong>THM{500n3r_0r_l473r_17_15_0ur_7urn}</strong><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/f9c22a05-2c52-45d9-9dca-c68704cc0eae)
+
+![image](https://github.com/user-attachments/assets/100f5e7d-81f4-4989-a8be-1ae55aab725f)
+
+![image](https://github.com/user-attachments/assets/6db55fa9-e56a-4ab9-9fce-2658cc0dd34f)
+
+
 <h2>Task 5 - Erm......Magick?</h2>
-<p>Huh, where is the flag? THM{wh173.</p>
+<p>Huh, where is the flag?</p>
     
 > 5.1 - <em>Did you find the flag?</em><br>
 >> <strong>THM{wh173_fl46}</strong><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/ab1067fc-d335-4ee1-9618-9420315ed17f)
+
 
 
 <h2>Task 6 - QRrrrr</h2>
@@ -67,6 +77,8 @@ VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
 > 6.1 - <em>More flag please!</em><br>
 >> <strong>THM{qr_m4k3_l1f3_345y}</strong><br>
 <p><br></p>
+
+![image](https://github.com/user-attachments/assets/1696f2cf-88db-42c1-a9eb-ca4ab176b4f7)
 
 
 <h2>Task 7 - Reverse it or read it?</h2>
