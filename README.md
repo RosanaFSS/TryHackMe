@@ -12,8 +12,10 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know details about my
 <br>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
+                 <img height="200px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
 
+<p align="center">My Certificates<br>
+  
 <div align="center">
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
