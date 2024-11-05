@@ -142,10 +142,6 @@ MAF{atbe_max_vtxltk}</p>
 
 ![image](https://github.com/user-attachments/assets/222241b0-ea8a-4dd9-b66a-7bc10b9b7eec)
 
-
-
-
-
 <h2>Task 12 - Read it</h2>
 <p>Some hidden flag inside Tryhackme social account.</p>
     
@@ -210,17 +206,16 @@ S2: 1010101010101010101010101010101010</p>
 <p>There is something lurking in the dark.</p>
  
 > 16.1 - <em>What does the flag said?</em><br>
->> <strong>______</strong><br>
+>> <strong>THM{7h3r3_15_h0p3_1n_7h3_d4rkn355}</strong><br>
 <p><br></p>
 
 ![image](https://github.com/user-attachments/assets/1dd8df0e-72c2-4067-9dbc-5b69e260c59f)
 
 ![image](https://github.com/user-attachments/assets/121b2c4d-d756-4b31-b915-fa674c75246a)
 
+![image](https://github.com/user-attachments/assets/7d683ed8-6ded-4763-b5c7-a18392efbdae)
 
-
-
-
+![image](https://github.com/user-attachments/assets/d58c4be7-703b-49eb-9295-1a5af17b6a28)
 
 <h2>Task 17 - A sounding QR</h2>
 <p>How good is your listening skill?</p>
