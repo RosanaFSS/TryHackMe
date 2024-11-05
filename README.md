@@ -17,7 +17,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 <br>
 
 <p align="center">11 learning paths complete<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/5779972b-f349-4df0-ae1a-09886d1f2df4"> </p>
+                 <img width="800px" src="https://github.com/user-attachments/assets/5779972b-f349-4df0-ae1a-09886d1f2df4"> <br>
+                 <img width="800px" src="https://github.com/user-attachments/assets/8e487e98-ade8-44f1-a484-ffc2147f95c1"> </p>
 
 <p align="center">My Certificates</p>
   
