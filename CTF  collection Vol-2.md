@@ -643,9 +643,9 @@ root@ip-[Attack_IP]:~#
 
 ![image](https://github.com/user-attachments/assets/3880660d-8b10-4087-9ecc-ec149a41fba7)
 
-<p>The hint is "look at the THM URL without https:// and juse it as a referrer.<br>
-So I sent it to the <code>Repeater</code>code> and added <code>Referer: tryhackme.com</code><br>
-After sending, I obtained th <code>Easter 10</code> flag. </p>
+<p>The hint is <em:Look at THM URL without https:// and use it as a referrer</p>em>.<br>
+So I sent it to the <code>Repeater</code>code> and added <code>Referer: tryhackme.com</code>.<br>
+After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> flag. </p>
 
 ![image](https://github.com/user-attachments/assets/5a92c4de-29c0-4d41-86a8-0ecf3fde6108)
 
