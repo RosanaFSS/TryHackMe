@@ -589,8 +589,68 @@ root@ip-[Attack_IP]:~#
 <p></p>
 
 > .2.10 - <em>Easter 10</em><br>
->> <strong>______</strong><br>
-<p><br></p>
+> <code>Question Hint</code>: Look at THM URL without https:// and use it as a referrer.
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+<p>I reviewed my Gobuster enumeration again ...</p>
+
+<pre><code>root@ip-[Attack_IP]:~# gobuster dir -u http://[Target_IP] -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target_IP]
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/login                (Status: 301) [Size: 314] [--> http://[Target_IP]/login/]
+/index                (Status: 200) [Size: 94328]
+/button               (Status: 200) [Size: 39148]
+/static               (Status: 200) [Size: 253890]
+/cat                  (Status: 200) [Size: 62048]
+/small                (Status: 200) [Size: 689]
+/who                  (Status: 200) [Size: 3847428]
+/robots               (Status: 200) [Size: 430]
+/iphone               (Status: 200) [Size: 19867]
+/game1                (Status: 301) [Size: 314] [--> http://[Target_IP]/game1/]
+/egg                  (Status: 200) [Size: 25557]
+/dinner               (Status: 200) [Size: 1264533]
+/ty                   (Status: 200) [Size: 198518]
+/ready                (Status: 301) [Size: 314] [--> http://[Target_IP]/ready/]
+/saw                  (Status: 200) [Size: 156274]
+/game2                (Status: 301) [Size: 314] [--> http://[Target_IP]/game2/]
+/wel                  (Status: 200) [Size: 155758]
+/free_sub             (Status: 301) [Size: 317] [--> http://[Target_IP]/free_sub/]
+/nicole               (Status: 200) [Size: 367650]
+/server-status        (Status: 403) [Size: 294]
+Progress: 135446 / 220561 (61.41%)^C
+[!] Keyboard interrupt detected, terminating.
+Progress: 136330 / 220561 (61.81%)
+===============================================================
+Finished
+===============================================================
+root@ip-[Attack_IP]:~# 
+</code></pre>
+
+<p>And decided to evaluate <code>free_sub</code>, and got this in BurpSuite ...</p>
+
+![image](https://github.com/user-attachments/assets/3880660d-8b10-4087-9ecc-ec149a41fba7)
+
+<p>The hint is "look at the THM URL without https:// and juse it as a referrer.<br>
+So I sent it to the <code>Repeater</code>code> and added <code>Referer: tryhackme.com</code><br>
+After sending, I obtained th <code>Easter 10</code> flag. </p>
+
+![image](https://github.com/user-attachments/assets/5a92c4de-29c0-4d41-86a8-0ecf3fde6108)
+
+
+
 
 
 
