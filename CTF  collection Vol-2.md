@@ -12,7 +12,7 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
   <img height="150px" src="https://github.com/user-attachments/assets/88772c45-e475-4d0a-a8cb-c1c1440725d7">
 </p>
 
-<h2>Task 1 - Introduction</h2>
+<h2>Task 1 - Author note</h2>
 
 <p>Welcome, welcome and welcome to another CTF collection. This is the second installment of the CTF collection series. For your information, the second serious focuses on the web-based challenge. There are a total of 20 easter eggs a.k.a flags can be found within the box. Let see how good is your CTF skill.<br>
 
@@ -26,7 +26,7 @@ Note: All the challenges flag are formatted as THM{flag}, unless stated otherwis
 >> <strong>No answer needed</strong><br>
 <p><br></p>
 
-<h2>Task 2 - What does the base said?</h2>
+<h2>Task 2 - Easter egg</h2>
 
 <p>Can you decode the following?
 
