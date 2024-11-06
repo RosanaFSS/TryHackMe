@@ -175,7 +175,7 @@ DesKel_secret_base
 ![image](https://github.com/user-attachments/assets/4c0cf585-4d13-4ecd-bee6-197160b3b139)
 
 > 2.4 - <em>Easter 4</em><br>
-> Hint: time-based sqli
+> <code>Hint</code>: time-based sqli
 >> <strong>______</strong><br>
 <p><br></p>
 
