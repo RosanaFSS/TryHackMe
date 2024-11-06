@@ -22,6 +22,62 @@ Now, deploy the machine and collect the eggs!</p>
 
 Note: All the challenges flag are formatted as THM{flag}, unless stated otherwise</p>
 
+<pre><code>$ rustscan -a 10.10.157.196 -- -sV
+.----. .-. .-. .----..---.  .----. .---.   .--.  .-. .-.
+| {}  }| { } |{ {__ {_   _}{ {__  /  ___} / {} \ |  `| |
+| .-. \| {_} |.-._} } | |  .-._} }\     }/  /\  \| |\  |
+`-' `-'`-----'`----'  `-'  `----'  `---' `-'  `-'`-' `-'
+The Modern Day Port Scanner.
+________________________________________
+: https://discord.gg/GFrQsGy           :
+: https://github.com/RustScan/RustScan :
+ --------------------------------------
+\U0001f30dHACK THE PLANET\U0001f30d
+
+[~] The config file is expected to be at "/home/rustscan/.rustscan.toml"
+[~] File limit higher than batch size. Can increase speed by increasing batch size '-b 1048476'.
+Open 10.10.157.196:22
+Open 10.10.157.196:80
+[~] Starting Script(s)
+[>] Script to be run Some("nmap -vvv -p {{port}} {{ip}}")
+
+[~] Starting Nmap 7.80 ( https://nmap.org ) at 2024-11-06 21:27 UTC
+NSE: Loaded 45 scripts for scanning.
+Initiating Ping Scan at 21:27
+Scanning 10.10.157.196 [2 ports]
+Completed Ping Scan at 21:27, 0.00s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 21:27
+Completed Parallel DNS resolution of 1 host. at 21:27, 0.00s elapsed
+DNS resolution of 1 IPs took 0.00s. Mode: Async [#: 1, OK: 1, NX: 0, DR: 0, SF: 0, TR: 1, CN: 0]
+Initiating Connect Scan at 21:27
+Scanning ip-10-10-157-196.eu-west-1.compute.internal (10.10.157.196) [2 ports]
+Discovered open port 80/tcp on 10.10.157.196
+Discovered open port 22/tcp on 10.10.157.196
+Completed Connect Scan at 21:27, 0.00s elapsed (2 total ports)
+Initiating Service scan at 21:27
+Scanning 2 services on ip-10-10-157-196.eu-west-1.compute.internal (10.10.157.196)
+Completed Service scan at 21:28, 6.09s elapsed (2 services on 1 host)
+NSE: Script scanning 10.10.157.196.
+  SE: Starting runlevel 1 (of 2) scan.
+Initiating NSE at 21:28
+Completed NSE at 21:28, 0.03s elapsed
+NSE: Starting runlevel 2 (of 2) scan.
+Initiating NSE at 21:28
+Completed NSE at 21:28, 0.04s elapsed
+Nmap scan report for ip-10-10-157-196.eu-west-1.compute.internal (10.10.157.196)
+Host is up, received syn-ack (0.00050s latency).
+Scanned at 2024-11-06 21:27:53 UTC for 7s
+
+PORT   STATE SERVICE REASON  VERSION
+22/tcp open  ssh     syn-ack OpenSSH 5.9p1 Debian 5ubuntu1.10 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    syn-ack Apache httpd 2.2.22 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.01 seconds
+</code></pre>
+
 > 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
 >> <strong>No answer needed</strong><br>
 <p><br></p>
