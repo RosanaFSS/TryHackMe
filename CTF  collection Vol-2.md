@@ -28,6 +28,50 @@ Note: All the challenges flag are formatted as THM{flag}, unless stated otherwis
 
 <h2>Task 2 - Easter egg</h2>
 
-<p>Can you decode the following?
+<p>Submit all your easter egg right here. Gonna find it all!</p>
 
-VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==</p>
+> 2.1 - <em>Easter 1</em><br>
+>> <strong>THM{4u70b07_r0ll_0u7}</strong><br>
+<p><br></p>
+
+> 2.2 - <em>Easter 2</em><br>
+>> <strong>THM{f4ll3n_b453}</strong><br>
+<p><br></p>
+
+> 2.3 - <em>Easter 3</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> 2.4 - <em>Easter 4</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> 2.5 - <em>Easter 5</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> 2.6 - <em>Easter 6</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> 2.7 - <em>Easter 7</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> 2.8 - <em>Easter 8</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> 2.9 - <em>Easter 9</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+> .2.10 - <em>Easter 10</em><br>
+>> <strong>______</strong><br>
+<p><br></p>
+
+
+
+
+
+
