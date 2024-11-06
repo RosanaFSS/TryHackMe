@@ -183,7 +183,7 @@ DesKel_secret_base
 
 > 2.4 - <em>Easter 4</em><br>
 > <code>Question Hint</code>: time-based sqli
->> <strong>______</strong><br>
+>> <strong>THM{1nj3c7_l1k3_4_b055}</strong><br>
 <p></p>
 
 ![image](https://github.com/user-attachments/assets/56d0d814-c921-4443-8361-a38febbae083)
