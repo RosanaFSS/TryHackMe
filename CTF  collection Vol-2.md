@@ -14,11 +14,15 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 
 <h2>Task 1 - Introduction</h2>
 
-<p>Just another random CTF room created by me. Well, the main objective of the room is to test your CTF skills. For your information, vol.1 consists of 20 tasks and all the challenges are extremely easy. Stay calm and Capture the flag. :)<br>
+<p>Welcome, welcome and welcome to another CTF collection. This is the second installment of the CTF collection series. For your information, the second serious focuses on the web-based challenge. There are a total of 20 easter eggs a.k.a flags can be found within the box. Let see how good is your CTF skill.<br>
+
+Now, deploy the machine and collect the eggs!</p>
+
+<p>Warning: The challenge contains seizure images and background. If you feeling uncomfortable, try removing the background on <style> tag.</p>
 
 Note: All the challenges flag are formatted as THM{flag}, unless stated otherwise</p>
 
-> 1.1 - <em>High five!</em><br>
+> 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
 >> <strong>No answer needed</strong><br>
 <p><br></p>
 
