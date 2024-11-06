@@ -432,7 +432,6 @@ Table: nothing_inside
 
 <br>
 
-
 > 2.5 - <em>Easter 5</em><br>
 > <code>Question Hint</code>: Another sqli
 >> <strong>THM{wh47_d1d_17_c057_70_cr4ck_7h3_5ql}</strong>
@@ -483,17 +482,31 @@ Password: cutie</p>
 
 ![image](https://github.com/user-attachments/assets/6974dd72-3c96-470f-a51d-8ea3cc9cc7a6)
 
+<br>
+
 > 2.6 - <em>Easter 6</em><br>
 > <code>Question Hint</code>: Look out for the response header.
 >> <strong>THM{l37'5_p4r7y_h4rd}</strong>
 <p></p>
 
+![image](https://github.com/user-attachments/assets/f6813926-8e54-4a6a-afd2-efcde1232507)
+
 ![image](https://github.com/user-attachments/assets/d97e119a-f9ed-4350-b6ad-6c346e267f6b)
 
+<br>
 
 > 2.7 - <em>Easter 7</em><br>
->> <strong>______</strong><br>
-<p><br></p>
+> <code>Question Hint</code>: Cookie is delicious
+>> <strong>THM{w3lc0m3!_4nd_w3lc0m3}</strong>
+<p></p>
+
+![image](https://github.com/user-attachments/assets/72ca764f-08cf-43ee-aecf-b8dd7f3bf03e)
+
+<p>I sent it to Repeater changing <code>Cookie</code> parameter to <code>Invited=1</code> and it worked!</p>
+
+![image](https://github.com/user-attachments/assets/826071a8-7644-4c28-80e5-c2d37f71f72a)
+
+<br>
 
 > 2.8 - <em>Easter 8</em><br>
 >> <strong>______</strong><br>
