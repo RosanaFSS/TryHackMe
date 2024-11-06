@@ -142,6 +142,10 @@ root@ip-10-10-146-248:~#
 
 ![image](https://github.com/user-attachments/assets/710449d5-e0fa-4547-873a-d689be15fc48)
 
+<pre><code> root@ip-10-10-146-248:~# echo "45 61 73 74 65 72 20 31 3a 20 54 48 4d 7b 34 75 37 30 62 30 37 5f 72 30 6c 6c 5f 30 75 37 7d" | xxd -r -p
+Easter 1: THM{4u70b07_r0ll_0u7}root@ip-10-10-146-248:~# 
+</code></pre>
+
 <br>
 
 > 2.2 - <em>Easter 2</em><br>
