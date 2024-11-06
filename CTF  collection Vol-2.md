@@ -651,10 +651,64 @@ After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> fla
 
 <br>
 
-> 2.11. <em>Easter 10</em><br>
-> <code>Question Hint</code>: Look at THM URL without https:// and use it as a referrer.
+> 2.11. <em>Easter 11</em><br>
+> <code>Question Hint</code>: Temper the html.
 >> <strong>THM{50rry_dud3}</strong>
 <p></p>
+
+> 2.12. <em>Easter 12</em><br>
+> <code>Question Hint</code>: Fake js file.
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.13. <em>Easter 13</em><br>
+> <code>No hint provided.</code>
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.14. <em>Easter 14</em><br>
+> <code>Question Hint</code>: Embed image code.
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.15. <em>Easter 15</em><br>
+> <code>Question Hint</code>: Try guest the alphabet and the hash code.
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.16. <em>Easter 16</em><br>
+> <code>Question Hint</code>: Make all inputs into one form..
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.17. <em>Easter 17</em><br>
+> <code>Question Hint</code>: bin -> dec -> hex -> ascii
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.18. <em>Easter 18</em><br>
+> <code>Question Hint</code>: Request header. Format is egg:Yes
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+> 2.19. <em>Easter 19</em><br>
+> <code>Question Hint</code>: A thick dark line
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+
+> 2.20. <em>Easter 20</em><br>
+> <code>Question Hint</code>: You need to POST the data instead of GET. Burp suite or curl might help.
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
+
+
+
+
+
+
+
+
 
 
 
