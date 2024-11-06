@@ -509,12 +509,84 @@ Password: cutie</p>
 <br>
 
 > 2.8 - <em>Easter 8</em><br>
->> <strong>______</strong><br>
-<p><br></p>
+> <code>Question Hint</code>: Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
+>> <strong>THM{h3y_r1ch3r_wh3r3_15_my_k1dn3y}</strong>
+<p></p>
+
+<p>Using Burp, I intercepted a GET request to the main page, observing the <code>User-Agent</code>. </p>
+
+![image](https://github.com/user-attachments/assets/40b9152c-f909-4b50-833f-ef0981da3793)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/92fae6fc-b6d9-4073-ae4b-87fe0bc19019)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c27a5235-b83c-411e-8a4b-60e09ff75256)
+
+<br>
 
 > 2.9 - <em>Easter 9</em><br>
->> <strong>______</strong><br>
-<p><br></p>
+> <code>Question Hint</code>: Something is redirected too fast. You need to capture it.
+>> <strong>______</strong>
+<p></p>
+
+<p>Review the Gobuster we run before ...</p>
+
+<pre><code>root@ip-[Attack_IP]:~# gobuster dir -u http://[Target_IP] -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target_IP]
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/login                (Status: 301) [Size: 314] [--> http://[Target_IP]/login/]
+/index                (Status: 200) [Size: 94328]
+/button               (Status: 200) [Size: 39148]
+/static               (Status: 200) [Size: 253890]
+/cat                  (Status: 200) [Size: 62048]
+/small                (Status: 200) [Size: 689]
+/who                  (Status: 200) [Size: 3847428]
+/robots               (Status: 200) [Size: 430]
+/iphone               (Status: 200) [Size: 19867]
+/game1                (Status: 301) [Size: 314] [--> http://[Target_IP]/game1/]
+/egg                  (Status: 200) [Size: 25557]
+/dinner               (Status: 200) [Size: 1264533]
+/ty                   (Status: 200) [Size: 198518]
+/ready                (Status: 301) [Size: 314] [--> http://[Target_IP]/ready/]
+/saw                  (Status: 200) [Size: 156274]
+/game2                (Status: 301) [Size: 314] [--> http://[Target_IP]/game2/]
+/wel                  (Status: 200) [Size: 155758]
+/free_sub             (Status: 301) [Size: 317] [--> http://[Target_IP]/free_sub/]
+/nicole               (Status: 200) [Size: 367650]
+/server-status        (Status: 403) [Size: 294]
+Progress: 135446 / 220561 (61.41%)^C
+[!] Keyboard interrupt detected, terminating.
+Progress: 136330 / 220561 (61.81%)
+===============================================================
+Finished
+===============================================================
+root@ip-[Attack_IP]:~# 
+</code></pre>
+
+<p>When I tried <code>/ready</code> the web page is redirected.</p>
+
+![image](https://github.com/user-attachments/assets/03090afd-533d-4228-b289-cb6a3345da34)
+
+<p>After using the <code>Forward</code> feature, I found the flag.</p>
+
+![image](https://github.com/user-attachments/assets/92f58b4e-3a1f-41c4-aa08-57d093d99327)
+
+<p></p>
 
 > .2.10 - <em>Easter 10</em><br>
 >> <strong>______</strong><br>
