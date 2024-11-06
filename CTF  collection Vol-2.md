@@ -34,7 +34,7 @@ Note: All the challenges flag are formatted as THM{flag}, unless stated otherwis
 
 > 2.1 - <em>Easter 1</em><br>
 > <code>Question Hint</code>: Check the robots.
->> <strong>THM{4u70b07_r0ll_0u7}</strong><br>
+>> <strong>THM{4u70b07_r0ll_0u7}</strong>
 <p></p>
 
 <pre><code>$ rustscan -a 10.10.157.196 -- -sV
@@ -152,8 +152,8 @@ root@ip-[Attack_IP]:~#
 
 > 2.2 - <em>Easter 2</em><br>
 > <code>Question Hint</code>: Decode the base64 multiple times. Don't forget there are something being encoded.
->> <strong>THM{f4ll3n_b453}</strong><br>
-<p><br></p>
+>> <strong>THM{f4ll3n_b453}</strong>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/6d2d90e5-e448-4968-9201-27d4026d44b7)
 
