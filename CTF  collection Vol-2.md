@@ -78,6 +78,55 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 7.01 seconds
 </code></pre>
 
+![image](https://github.com/user-attachments/assets/7cf7a060-19c7-4740-9d08-d7c85c32c93f)
+
+<pre><code>root@ip-10-10-146-248:~# gobuster dir -u http://10.10.157.196 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.157.196
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/login                (Status: 301) [Size: 314] [--> http://10.10.157.196/login/]
+/index                (Status: 200) [Size: 94328]
+/button               (Status: 200) [Size: 39148]
+/static               (Status: 200) [Size: 253890]
+/cat                  (Status: 200) [Size: 62048]
+/small                (Status: 200) [Size: 689]
+/who                  (Status: 200) [Size: 3847428]
+/robots               (Status: 200) [Size: 430]
+/iphone               (Status: 200) [Size: 19867]
+/game1                (Status: 301) [Size: 314] [--> http://10.10.157.196/game1/]
+/egg                  (Status: 200) [Size: 25557]
+/dinner               (Status: 200) [Size: 1264533]
+/ty                   (Status: 200) [Size: 198518]
+/ready                (Status: 301) [Size: 314] [--> http://10.10.157.196/ready/]
+/saw                  (Status: 200) [Size: 156274]
+/game2                (Status: 301) [Size: 314] [--> http://10.10.157.196/game2/]
+/wel                  (Status: 200) [Size: 155758]
+/free_sub             (Status: 301) [Size: 317] [--> http://10.10.157.196/free_sub/]
+/nicole               (Status: 200) [Size: 367650]
+/server-status        (Status: 403) [Size: 294]
+Progress: 135446 / 220561 (61.41%)^C
+[!] Keyboard interrupt detected, terminating.
+Progress: 136330 / 220561 (61.81%)
+===============================================================
+Finished
+===============================================================
+root@ip-10-10-146-248:~# 
+</code></pre>
+
+
+
+
 > 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
 >> <strong>No answer needed</strong><br>
 <p><br></p>
