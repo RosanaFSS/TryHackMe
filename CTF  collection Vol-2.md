@@ -22,6 +22,20 @@ Now, deploy the machine and collect the eggs!</p>
 
 Note: All the challenges flag are formatted as THM{flag}, unless stated otherwise</p>
 
+> 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
+>> <strong>No answer needed</strong><br>
+<p><br></p>
+
+
+
+<h2>Task 2 - Easter egg</h2>
+
+<p>Submit all your easter egg right here. Gonna find it all!</p>
+
+> 2.1 - <em>Easter 1</em><br>
+>> <strong>THM{4u70b07_r0ll_0u7}</strong><br>
+<p></p>
+
 <pre><code>$ rustscan -a 10.10.157.196 -- -sV
 .----. .-. .-. .----..---.  .----. .---.   .--.  .-. .-.
 | {}  }| { } |{ {__ {_   _}{ {__  /  ___} / {} \ |  `| |
@@ -58,7 +72,7 @@ Initiating Service scan at 21:27
 Scanning 2 services on ip-10-10-157-196.eu-west-1.compute.internal (10.10.157.196)
 Completed Service scan at 21:28, 6.09s elapsed (2 services on 1 host)
 NSE: Script scanning 10.10.157.196.
-  SE: Starting runlevel 1 (of 2) scan.
+SE: Starting runlevel 1 (of 2) scan.
 Initiating NSE at 21:28
 Completed NSE at 21:28, 0.03s elapsed
 NSE: Starting runlevel 2 (of 2) scan.
@@ -123,21 +137,6 @@ Finished
 ===============================================================
 root@ip-10-10-146-248:~# 
 </code></pre>
-
-
-> 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
->> <strong>No answer needed</strong><br>
-<p><br></p>
-
-
-
-<h2>Task 2 - Easter egg</h2>
-
-<p>Submit all your easter egg right here. Gonna find it all!</p>
-
-> 2.1 - <em>Easter 1</em><br>
->> <strong>THM{4u70b07_r0ll_0u7}</strong><br>
-<p></p>
 
 ![image](https://github.com/user-attachments/assets/80d5876a-803a-4afe-be31-e0c21c0004ad)
 
