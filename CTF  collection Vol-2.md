@@ -12,7 +12,7 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
   <img height="150px" src="https://github.com/user-attachments/assets/88772c45-e475-4d0a-a8cb-c1c1440725d7">
 </p>
 
-<h2>Task 1 - Author note</h2>
+<h2>Task 1. Author note</h2>
 
 <p>Welcome, welcome and welcome to another CTF collection. This is the second installment of the CTF collection series. For your information, the second serious focuses on the web-based challenge. There are a total of 20 easter eggs a.k.a flags can be found within the box. Let see how good is your CTF skill.<br>
 
@@ -22,17 +22,17 @@ Now, deploy the machine and collect the eggs!</p>
 
 Note: All the challenges flag are formatted as THM{flag}, unless stated otherwise</p>
 
-> 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
->> <strong>No answer needed</strong><br>
-<p><br></p>
+> 1.1. <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
+>> <strong>No answer needed</strong>
+<p></p>
 
+<br>
 
-
-<h2>Task 2 - Easter egg</h2>
+<h2>Task 2. Easter egg</h2>
 
 <p>Submit all your easter egg right here. Gonna find it all!</p>
 
-> 2.1 - <em>Easter 1</em><br>
+> 2.1. <em>Easter 1</em><br>
 > <code>Question Hint</code>: Check the robots.
 >> <strong>THM{4u70b07_r0ll_0u7}</strong>
 <p></p>
@@ -150,7 +150,7 @@ root@ip-[Attack_IP]:~#
 
 <br>
 
-> 2.2 - <em>Easter 2</em><br>
+> 2.2. <em>Easter 2</em><br>
 > <code>Question Hint</code>: Decode the base64 multiple times. Don't forget there are something being encoded.
 >> <strong>THM{f4ll3n_b453}</strong>
 <p></p>
@@ -170,7 +170,7 @@ DesKel_secret_base
 
 <br>
 
-> 2.3 - <em>Easter 3</em><br>
+> 2.3. <em>Easter 3</em><br>
 > <code>Question Hint</code>: Directory buster with common.txt might help.
 >> <strong>THM{y0u_c4n'7_533_m3}</strong>
 <p></p>
@@ -181,7 +181,7 @@ DesKel_secret_base
 
 <br>
 
-> 2.4 - <em>Easter 4</em><br>
+> 2.4. <em>Easter 4</em><br>
 > <code>Question Hint</code>: time-based sqli
 >> <strong>THM{1nj3c7_l1k3_4_b055}</strong>
 <p></p>
@@ -401,8 +401,8 @@ back-end DBMS: MySQL >= 5.0.12
 [22:19:29] [INFO] fetching number of databases
 [22:19:29] [INFO] resumed: 4
 [22:19:29] [INFO] resumed: information_schema
-  ...
-  ...
+...
+...
 [22:20:00] [INFO] fetching entries for table 'nothing_inside' in database 'THM_f0und_m3'
 [22:20:00] [INFO] fetching number of entries for table 'nothing_inside' in database 'THM_f0und_m3'
 [22:20:00] [INFO] retrieved: 1
@@ -432,7 +432,7 @@ Table: nothing_inside
 
 <br>
 
-> 2.5 - <em>Easter 5</em><br>
+> 2.5. <em>Easter 5</em><br>
 > <code>Question Hint</code>: Another sqli
 >> <strong>THM{wh47_d1d_17_c057_70_cr4ck_7h3_5ql}</strong>
 <p></p>
@@ -484,7 +484,7 @@ Password: cutie</p>
 
 <br>
 
-> 2.6 - <em>Easter 6</em><br>
+> 2.6. <em>Easter 6</em><br>
 > <code>Question Hint</code>: Look out for the response header.
 >> <strong>THM{l37'5_p4r7y_h4rd}</strong>
 <p></p>
@@ -495,7 +495,7 @@ Password: cutie</p>
 
 <br>
 
-> 2.7 - <em>Easter 7</em><br>
+> 2.7. <em>Easter 7</em><br>
 > <code>Question Hint</code>: Cookie is delicious
 >> <strong>THM{w3lc0m3!_4nd_w3lc0m3}</strong>
 <p></p>
@@ -508,7 +508,7 @@ Password: cutie</p>
 
 <br>
 
-> 2.8 - <em>Easter 8</em><br>
+> 2.8. <em>Easter 8</em><br>
 > <code>Question Hint</code>: Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
 >> <strong>THM{h3y_r1ch3r_wh3r3_15_my_k1dn3y}</strong>
 <p></p>
@@ -586,9 +586,9 @@ root@ip-[Attack_IP]:~#
 
 ![image](https://github.com/user-attachments/assets/92f58b4e-3a1f-41c4-aa08-57d093d99327)
 
-<p></p>
+<br>
 
-> .2.10 - <em>Easter 10</em><br>
+> 2.10. <em>Easter 10</em><br>
 > <code>Question Hint</code>: Look at THM URL without https:// and use it as a referrer.
 >> <strong>THM{50rry_dud3}</strong>
 <p></p>
@@ -648,6 +648,13 @@ So I sent it to the <code>Repeater</code>code> and added <code>Referer: tryhackm
 After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> flag. </p>
 
 ![image](https://github.com/user-attachments/assets/5a92c4de-29c0-4d41-86a8-0ecf3fde6108)
+
+<br>
+
+> 2.11. <em>Easter 10</em><br>
+> <code>Question Hint</code>: Look at THM URL without https:// and use it as a referrer.
+>> <strong>THM{50rry_dud3}</strong>
+<p></p>
 
 
 
