@@ -172,8 +172,8 @@ DesKel_secret_base
 
 > 2.3 - <em>Easter 3</em><br>
 > <code>Question Hint</code>: Directory buster with common.txt might help.
->> <strong>THM{y0u_c4n'7_533_m3}</strong><br>
-<p><br></p>
+>> <strong>THM{y0u_c4n'7_533_m3}</strong>
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/0059e8dc-d592-4055-b802-8b35c146d8dc)
 
@@ -183,7 +183,7 @@ DesKel_secret_base
 
 > 2.4 - <em>Easter 4</em><br>
 > <code>Question Hint</code>: time-based sqli
->> <strong>THM{1nj3c7_l1k3_4_b055}</strong><br>
+>> <strong>THM{1nj3c7_l1k3_4_b055}</strong>
 <p></p>
 
 ![image](https://github.com/user-attachments/assets/56d0d814-c921-4443-8361-a38febbae083)
@@ -435,8 +435,10 @@ Table: nothing_inside
 
 > 2.5 - <em>Easter 5</em><br>
 > <code>Question Hint</code>:
->> <strong>______</strong><br>
-<p><br></p>
+>> <strong>______</strong>
+<p></p>
+
+
 
 > 2.6 - <em>Easter 6</em><br>
 >> <strong>______</strong><br>
