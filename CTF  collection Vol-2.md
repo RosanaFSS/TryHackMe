@@ -94,7 +94,7 @@ Nmap done: 1 IP address (1 host up) scanned in 7.01 seconds
 
 ![image](https://github.com/user-attachments/assets/7cf7a060-19c7-4740-9d08-d7c85c32c93f)
 
-<pre><code>root@ip-10-10-146-248:~# gobuster dir -u http://10.10.157.196 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+<pre><code>root@ip-[Attack_IP]:~# gobuster dir -u http://10.10.157.196 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
 ===============================================================
 Gobuster v3.6
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
@@ -135,15 +135,16 @@ Progress: 136330 / 220561 (61.81%)
 ===============================================================
 Finished
 ===============================================================
-root@ip-10-10-146-248:~# 
+root@ip-[Attack_IP]:~# 
 </code></pre>
 
 ![image](https://github.com/user-attachments/assets/80d5876a-803a-4afe-be31-e0c21c0004ad)
 
 ![image](https://github.com/user-attachments/assets/710449d5-e0fa-4547-873a-d689be15fc48)
 
-<pre><code> root@ip-10-10-146-248:~# echo "45 61 73 74 65 72 20 31 3a 20 54 48 4d 7b 34 75 37 30 62 30 37 5f 72 30 6c 6c 5f 30 75 37 7d" | xxd -r -p
-Easter 1: THM{4u70b07_r0ll_0u7}root@ip-10-10-146-248:~# 
+<pre><code>root@ip-[Attack_IP]:~# echo "45 61 73 74 65 72 20 31 3a 20 54 48 4d 7b 34 75 37 30 62 30 37 5f 72 30 6c 6c 5f 30 75 37 7d" | xxd -r -p
+Easter 1: THM{4u70b07_r0ll_0u7}
+root@ip-[Attack_IP]:~# 
 </code></pre>
 
 <br>
@@ -152,11 +153,29 @@ Easter 1: THM{4u70b07_r0ll_0u7}root@ip-10-10-146-248:~#
 >> <strong>THM{f4ll3n_b453}</strong><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/6d2d90e5-e448-4968-9201-27d4026d44b7)
+
+<pre><code>root@ip-[Attack_IP]:~# sudo apt-get install gridsite-clients
+</code></pre>
+
+<pre><code>root@ip-[Attack_IP]:~# urlencode -d $(echo "VlNCcElFSWdTQ0JKSUVZZ1dTQm5JR1VnYVNCQ0lGUWdTU0JFSUVrZ1p5QldJR2tnUWlCNklFa2dSaUJuSUdjZ1RTQjVJRUlnVHlCSklFY2dkeUJuSUZjZ1V5QkJJSG9nU1NCRklHOGdaeUJpSUVNZ1FpQnJJRWtnUlNCWklHY2dUeUJUSUVJZ2NDQkpJRVlnYXlCbklGY2dReUJDSUU4Z1NTQkhJSGNnUFElM0QlM0Q=" | base64 -d) | base64 -d | sed "s/\ //g" | base64 -d | sed "s/\ //g" | base64 -d
+DesKel_secret_base
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/34444a26-e7bc-418f-9ec4-2bf011f9ab03)
+
+![image](https://github.com/user-attachments/assets/febcb3a7-3bbc-4e89-ad25-ad043f9daa53)     
+
 > 2.3 - <em>Easter 3</em><br>
->> <strong>______</strong><br>
+>> <strong>THM{y0u_c4n'7_533_m3}</strong><br>
 <p><br></p>
 
+![image](https://github.com/user-attachments/assets/0059e8dc-d592-4055-b802-8b35c146d8dc)
+
+![image](https://github.com/user-attachments/assets/4c0cf585-4d13-4ecd-bee6-197160b3b139)
+
 > 2.4 - <em>Easter 4</em><br>
+> Hint: time-based sqli
 >> <strong>______</strong><br>
 <p><br></p>
 
