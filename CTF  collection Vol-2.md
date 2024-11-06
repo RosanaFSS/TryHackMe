@@ -125,11 +125,11 @@ root@ip-10-10-146-248:~#
 </code></pre>
 
 
-
-
 > 1.1 - <em>Fact: Eggs contain the highest quality protein you can buy.</em><br>
 >> <strong>No answer needed</strong><br>
 <p><br></p>
+
+
 
 <h2>Task 2 - Easter egg</h2>
 
@@ -137,7 +137,13 @@ root@ip-10-10-146-248:~#
 
 > 2.1 - <em>Easter 1</em><br>
 >> <strong>THM{4u70b07_r0ll_0u7}</strong><br>
-<p><br></p>
+<p></p>
+
+![image](https://github.com/user-attachments/assets/80d5876a-803a-4afe-be31-e0c21c0004ad)
+
+![image](https://github.com/user-attachments/assets/710449d5-e0fa-4547-873a-d689be15fc48)
+
+<br>
 
 > 2.2 - <em>Easter 2</em><br>
 >> <strong>THM{f4ll3n_b453}</strong><br>
