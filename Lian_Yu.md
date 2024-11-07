@@ -169,8 +169,6 @@ Finished
 
 ![image](https://github.com/user-attachments/assets/1ed37425-5e0f-428b-9fe3-f83f41e3cde7)
 
-<br>
-
 ![image](https://github.com/user-attachments/assets/8fe1db71-172a-4c2b-aac9-c45b342ecbd9)
 
 <br>
