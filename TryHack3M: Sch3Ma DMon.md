@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/sch3mad3mon">TryHack3M: Sch3Ma D3Mon</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/459ff707-087e-47c8-9c33-c6397677b3c1">
-  <img height="150px" src="https://github.com/user-attachments/assets/a5aa8140-27c3-4183-b6aa-2ffc7848bc3c">
+  <img height="150px" src="https://github.com/user-attachments/assets/c5776d7a-4d2d-491a-b9ab-c400c2ac751f">
 </p>
 
 <p align="center">Summary</p>
