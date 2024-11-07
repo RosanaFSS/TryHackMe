@@ -25,9 +25,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <p>By the time they finished, we had a log of used TLS keys and an encrypted packet capture. You can access these files by clicking the Download Task Files button or navigating to /root/Rooms/TryHack3M/sch3MaD3Mon on the AttackBox. Using the TLS key log file, Wireshark should be able to decrypt all exchanged traffic.</p>
 
-<br>
-<p align="left">Welcome to Lian_YU, this Arrowverse themed beginner CTF box! Capture the flags and have fun.</p>
-
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
