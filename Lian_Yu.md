@@ -290,10 +290,6 @@ ftp> exit
 
 <br>
 
-<pre><code>>~# file aa.jpg
-aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x1600, frames 3
-</code></pre>
-
 ![image](https://github.com/user-attachments/assets/baebb88d-4e42-41df-ad76-27e03d56d17a)
 
 <br>
@@ -304,6 +300,11 @@ Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
 
 <br>
 <pre><code>>~# hexedit "Queen's_Gambit.png"
+</code></pre>
+
+<br>
+<pre><code>>~# file aa.jpg
+aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x1600, frames 3
 </code></pre>
 
 ![image](https://github.com/user-attachments/assets/5c015867-51b7-4ad5-8ad1-3df4b941f011)
