@@ -12,7 +12,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 <br>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/e267e661-5a83-455d-980d-71c7dec177bb"> </p>
+                 <img width="800px" src="https://github.com/user-attachments/assets/6bee186f-2a3c-4c38-a73f-e4a8e508ba5a"> </p>
 
 <br>
 
@@ -49,7 +49,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 6, 2024  | 184      |       1,313ª |          28ª |      5,079ª |        78ª | 53,400   |       401 |
+| November 6, 2024  | 184      |       1,297ª |          28ª |      4,428ª |        65ª | 53,700   |       402 |
 | November 5, 2024  | 183      |       1,331ª |          28ª |      5,422ª |        87ª | 53,084   |       401 |
 | November 5, 2024  | 182      |       1,340ª |          28ª |      5,356ª |        81ª | 52,926   |       400 |
 | November 4, 2024  | 181      |       1,343ª |          28ª |      5,339ª |        81ª | 52,886   |       399 |
