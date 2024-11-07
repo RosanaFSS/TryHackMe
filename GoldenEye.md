@@ -217,5 +217,5 @@ If you're on Linux edit your "/etc/hosts" file and add:<br>
 <br>
 
 > 4.5. <em>What is the root flag?</em><br><a id='4.5'></a>
->> <code><strong>_______________________________</strong></code>
+>> <code><strong>568628e0d993b1973adc718237da6e93</strong></code>
 
