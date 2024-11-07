@@ -28,7 +28,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <br>
 
 > 1.1. <em>Deploy the VM and Start the Enumeration.</em><br><a id='2'></a>
->> <code><strong>No answer needed</strong></code><br><br>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 <p>We get ports 21, 22, 80 and 111 open.</p>
