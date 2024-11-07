@@ -9,7 +9,7 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
                   Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ctfcollectionvol2">CTF collection VOl.2</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/6628e1a4-ea67-4e69-b719-702b2fc07e4c">
-  <img height="150px" src="https://github.com/user-attachments/assets/88772c45-e475-4d0a-a8cb-c1c1440725d7">
+  <img height="150px" src="https://github.com/user-attachments/assets/ff30a89c-7b87-43e9-9ec0-02d34d0f8548">
 </p>
 
 <h2>Task 1. Author note</h2>
@@ -707,6 +707,7 @@ After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> fla
 <h2>Room Complete<a id='24'></a></h2>
 <p>Keep learning, keep growing!<br>
 
+![image](https://github.com/user-attachments/assets/69bd2cef-a481-4fbd-ad9b-ad970eec6294)
 
 <h2>My Journey<a id='23'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
@@ -714,8 +715,9 @@ After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> fla
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 6, 2024  | 184      |       1,313ª |          28ª |      5,079ª |        78ª | 53,400   |       401 |
+| November 6, 2024  | 184      |       1,297ª |          28ª |      4,428ª |        65ª | 53,700   |       402 |
 
-![image](https://github.com/user-attachments/assets/73862a6e-bcba-46a2-ae47-84fdc3e587e7)
+![image](https://github.com/user-attachments/assets/a84660ad-9f3b-430e-a919-b72bd1a8a692)
+
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
