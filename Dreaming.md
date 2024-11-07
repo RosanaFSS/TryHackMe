@@ -88,7 +88,22 @@ Can you help Sandman restore his kingdom?</p>
 <br>
 
 > 1.2. <em>What is the Death Flag?</em><br><a id='3'></a>
->> <code><strong>THM{1M_TH3R3_4_TH3M}</strong></code><br><br>
+>> <code><strong>THM{1M_TH3R3_4_TH3M}</strong></code><br>
+
+![image](https://github.com/user-attachments/assets/d52108f7-5b85-4f33-bbff-b8a3531fedc1)
+
+![image](https://github.com/user-attachments/assets/1a7c3741-413f-4da3-8a97-e92cb3e38dd1)
+
+![image](https://github.com/user-attachments/assets/c2712da5-d37b-44d9-a48e-d45f51f4d6ef)
+
+![image](https://github.com/user-attachments/assets/31a9264b-9048-43fa-b964-59b3a6ab0453)
+
+
+
+
+
+
+
 
 > 1.3. <em>What is the Morpheus Flag?</em><br><a id='4'></a>
 >> <code><strong>____</strong></code><br><br>
