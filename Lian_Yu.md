@@ -171,7 +171,7 @@ Finished
 
 <br>
 
-> 1.3. <em>what is the file name you found?</em><br><a id='3'></a>
+> 1.3. <em>what is the file name you found?</em><br><a id='4'></a>
 >> <code><strong>green_arrow.ticket</strong></code>
 
 <p>Used Gobuster again and found <code>/island/2100/green_arrow.ticket/</code>.</p>
@@ -201,7 +201,7 @@ Finished
 
 <br>
 
-> 1.4. <em>what is the FTP Password?</em><br><a id='3'></a>
+> 1.4. <em>what is the FTP Password?</em><br><a id='5'></a>
 >> <code><strong>!#th3h00d</strong></code>
 
 <br>
@@ -219,6 +219,11 @@ Finished
 
 <pre><code>!#th3h00d
 </code></pre>
+
+<br>
+
+> 1.5. <em>what is the file name with SSH password?</em><br><a id='6'></a>
+>> <code><strong>shado</strong></code>
 
 <pre><code>~# ftp [Target_IP]
 Connected to [Target_IP].
@@ -300,8 +305,6 @@ ftp> exit
 Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
 </code></pre>
 
-<br>
-
 <pre><code>>~# hexedit "Queen's_Gambit.png"
 </code></pre>
 
@@ -331,12 +334,70 @@ aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment 
 
 ![image](https://github.com/user-attachments/assets/5c015867-51b7-4ad5-8ad1-3df4b941f011)
 
-<br>
-
 <pre><code>~# steghide --extract -sf aa.jpg
 Enter passphrase: 
 wrote extracted data to "ss.zip".
 </code></pre>
+
+<br>
+<h2>ss.zip</h2>
+
+<pre><code>~# unzip ss.zip
+Archive:  ss.zip
+  inflating: passwd.txt              
+  inflating: shado         
+</code></pre>
+
+<br>
+<h2>passwd.txt</h2>
+
+<pre><code>~# file passwd.txt
+passwd.txt: ASCII text    
+</code></pre>
+
+<pre><code>~# cat passwd.txt
+This is your visa to Land on Lian_Yu # Just for Fun ***
+
+
+a small Note about it
+
+
+Having spent years on the island, Oliver learned how to be resourceful and 
+set booby traps all over the island in the common event he ran into dangerous
+people. The island is also home to many animals, including pheasants,
+wild pigs and wolves.
+ 
+</code></pre>
+
+<br>
+<h2>shado</h2>
+
+<pre><code>~# file shado
+shado: Clarion Developer (v2 and above) memo data  
+</code></pre>
+
+<pre><code>~# cat shado
+M3tahuman
+</code></pre>
+
+<br>
+
+> 1.6. <em>user.txt</em><br><a id='7'></a>
+>> <code><strong>THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T}</strong></code>
+
+<pre><code>~# 
+</code></pre>
+
+> 1.7. <em>root.txt</em><br><a id='7'></a>
+>> <code><strong>__</strong></code>
+
+<pre><code>~# 
+</code></pre>
+
+
+
+
+
 
 
 
