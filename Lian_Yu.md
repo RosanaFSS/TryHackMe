@@ -294,6 +294,8 @@ ftp> exit
 
 <br>
 
+<h2>Queen's_Gambit.png</h2>
+
 <pre><code>~# file "Queen's_Gambit.png"
 Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
 </code></pre>
@@ -307,7 +309,9 @@ Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
 
 ![image](https://github.com/user-attachments/assets/e2e38d0d-4c94-41df-ada0-fcc131191aac)
 
+<br>
 
+<h2>Leave_me_alone.png</h2>
 
 <pre><code>>~# hexedit Leave_me_alone.png
 </code></pre>
@@ -319,6 +323,8 @@ Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
 ![image](https://github.com/user-attachments/assets/d7686f0e-5ce9-4106-87c6-e2b7855ccda6)
 
 <br>
+
+<h2>aa.jpg</h2>
 <pre><code>~# file aa.jpg
 aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x1600, frames 3
 </code></pre>
