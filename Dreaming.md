@@ -120,10 +120,6 @@ root@ip-[Attack_IP]:~/Dreaming#
 
 <br>
 
-![image](https://github.com/user-attachments/assets/4916b5a7-3f68-4ecb-900a-5ccc5f8256df)
-
-![image](https://github.com/user-attachments/assets/5f0c0caa-c3a5-4263-94c1-628fc4e21f52)
-
 ![image](https://github.com/user-attachments/assets/ef719f69-c44b-41c9-b924-0792bf395c89)
 
 ![image](https://github.com/user-attachments/assets/68ebeebf-a4b1-4ee6-b62e-cd46858709fb)
