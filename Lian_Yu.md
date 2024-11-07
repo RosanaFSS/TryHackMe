@@ -142,8 +142,6 @@ Finished
 
 <p>Running Gobuster again, I found <code>/island/2100/</code>.</p>
 
-<br>
-
 <pre><code>~# gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP]/island/ -t 40
 ===============================================================
 Gobuster v3.6
