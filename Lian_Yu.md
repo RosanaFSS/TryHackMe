@@ -174,8 +174,6 @@ Finished
 <br>
 <p>Used Gobuster again and found <code>/island/2100/green_arrow.ticket/</code>.</p>
 
-<br>
-
 <pre><code>~# gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP]/island/2100/ -t 40 -x ticket
 ===============================================================
 Gobuster v3.6
@@ -201,7 +199,6 @@ Finished
 
 <br>
 <p>And look what we found: a token to get into Queen´s Gambit(Ship).</p>
-<br>
 
 <pre><code>RTy8yhBQdscX
 </code></pre>
@@ -209,9 +206,7 @@ Finished
 ![image](https://github.com/user-attachments/assets/04a32e90-0854-47b6-baae-5a24fc520858)
 
 <br>
-<p>Used CyBerChed to decode it.</p>
-
-<br>
+<p>Used CyBerChef to decode it.</p>
 
 ![image](https://github.com/user-attachments/assets/24208804-9ae1-4f53-8657-9b7e044d1bc5)
 
