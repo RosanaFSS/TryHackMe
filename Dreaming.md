@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{184}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/dreaming">Dreaming</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/2114a0d6-560b-450b-b9f8-b1c32ac26b31">
-  <img height="150px" src="https://github.com/user-attachments/assets/11edef91-195e-4208-8842-540dc9f815a7">
+  <img height="150px" src="https://github.com/user-attachments/assets/807a0e86-31df-4bd9-aeb5-74b9cd78da8c">
 </p>
 
 <p align="center">Summary</p>
@@ -203,7 +203,9 @@ root@ip-[Attack_IP]:~/Dreaming#
 <h2>Room Complete<a id='5'></a></h2>
 <p>Keep learning, keep growing!<br>
 
+![image](https://github.com/user-attachments/assets/cb70a52b-7d88-4d0a-9bf3-420b3231bd3d)
 
+<br>
 
 <h2>My Journey<a id='6'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
@@ -211,8 +213,10 @@ root@ip-[Attack_IP]:~/Dreaming#
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 6, 2024  | 184      |       1,297ª |          28ª |      4,428ª |        65ª | 53,700   |       402 |
+| November 6, 2024  | 184      |       1,294ª |          28ª |      4,393ª |        64ª | 53,730   |       403 |
 
+![image](https://github.com/user-attachments/assets/fe4b725c-f7fa-4037-9ab7-20250b953795)
+
+<br>
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
-
