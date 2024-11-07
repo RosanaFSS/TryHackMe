@@ -103,10 +103,12 @@ root@ip-[Attack_IP]:~/Dreaming#
 ![image](https://github.com/user-attachments/assets/f38e9980-c933-468c-8d0c-f54cec1614e0)
 
 <br>
+<p>It worked and redirected me to the following page.</p>
 
 ![image](https://github.com/user-attachments/assets/a1f5d456-4074-420a-a206-1d2bc92233f4)
 
 <br>
+<p>Next I researched Pluck 4.7.13 in Exploit Database.</p>
 
 
 ![image](https://github.com/user-attachments/assets/4af5de84-4265-48ec-bd92-9b3106c55bf2)
