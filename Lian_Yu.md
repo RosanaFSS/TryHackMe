@@ -71,6 +71,26 @@ Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
 </code></pre>
 
 <br>
+<p>xxxx</p>
+<br>
+
+<pre><code>~# nmap -sC -sV -vv  [Target_IP]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-07 03:53 GMT
+NSE: Loaded 146 scripts for scanning.
+NSE: Script Pre-scanning.
+...
+PORT    STATE SERVICE REASON         VERSION
+21/tcp  open  ftp     syn-ack ttl 64 vsftpd 3.0.2
+22/tcp  open  ssh     syn-ack ttl 64 OpenSSH 6.7p1 Debian 5+deb8u8 (protocol 2.0)
+...
+80/tcp  open  http    syn-ack ttl 64 Apache httpd
+...
+111/tcp open  rpcbind syn-ack ttl 64 2-4 (RPC #100000)
+...
+</code></pre>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/4595364e-dfc6-432e-9abf-439f950c697f)
 
