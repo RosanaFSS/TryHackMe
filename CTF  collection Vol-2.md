@@ -704,17 +704,18 @@ After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> fla
 
 
 
+<h2>Room Complete<a id='24'></a></h2>
+<p>Keep learning, keep growing!<br>
 
 
+<h2>My Journey<a id='23'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 6, 2024  | 184      |       1,313ª |          28ª |      5,422ª |        87ª | 53,400   |       401 |
 
+![image](https://github.com/user-attachments/assets/2648c639-fd8e-440a-b67c-6b2a9ff9b90a)
 
-
-
-
-
-
-
-
-
-
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
