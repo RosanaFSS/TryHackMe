@@ -26,6 +26,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
+<br>
 
 > 1.1. <em>Deploy the VM and Start the Enumeration.</em><br><a id='2'></a>
 >> <code><strong>No answer needed</strong></code>
@@ -134,6 +135,7 @@ Finished
 ![image](https://github.com/user-attachments/assets/fb90376a-ebaa-4d98-9c53-2cf1c11e71b6)
 
 <br>
+<br>
 
 > 1.2. <em>What is the Web Directory you found?.</em><br><a id='3'></a>
 >> <code><strong>2100</strong></code>
@@ -172,6 +174,7 @@ Finished
 ![image](https://github.com/user-attachments/assets/8fe1db71-172a-4c2b-aac9-c45b342ecbd9)
 
 <br>
+<br>
 
 > 1.3. <em>what is the file name you found?</em><br><a id='4'></a>
 >> <code><strong>green_arrow.ticket</strong></code>
@@ -202,6 +205,7 @@ Finished
 </code></pre>
 
 <br>
+<br>
 
 > 1.4. <em>what is the FTP Password?</em><br><a id='5'></a>
 >> <code><strong>!#th3h00d</strong></code>
@@ -223,9 +227,12 @@ Finished
 </code></pre>
 
 <br>
+<br>
 
 > 1.5. <em>what is the file name with SSH password?</em><br><a id='6'></a>
 >> <code><strong>shado</strong></code>
+
+<br>
 
 <pre><code>~# ftp [Target_IP]
 Connected to [Target_IP].
