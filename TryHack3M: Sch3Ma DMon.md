@@ -59,6 +59,12 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <br>
 
 <h2>Task 3. Unlisted<a id='3'></a></h2>
+<br>
+
+> 3.1. <em>What's the hidden path?</em><br><a id='2.1'></a>
+>> <code><strong>os_sqli.php</strong></code>
+
+<br>
 
 <h2>Task 4. From DB to OS<a id='4'></a></h2>
 
