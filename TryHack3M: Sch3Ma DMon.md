@@ -48,6 +48,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <h2>Task 2. Connected Tables<a id='2'></a></h2>
 <br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+
 > 2.1. <em>What does RDBMS stand for?</em><br><a id='2.1'></a>
 >> <code><strong>Relational Database Management System</strong></code>
 
@@ -61,19 +64,59 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <h2>Task 3. Unlisted<a id='3'></a></h2>
 <br>
 
-> 3.1. <em>What's the hidden path?</em><br><a id='2.1'></a>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 3.1. <em>What's the hidden path?</em><br><a id='3.1'></a>
 >> <code><strong>os_sqli.php</strong></code>
 
 <br>
 
 <h2>Task 4. From DB to OS<a id='4'></a></h2>
+<br>
 
-<h2>Task 5. Finding a Needle in a Malwarestack<a id='5'></a></h2>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
 
-<h2>Task 6. Operation Defang<a id='6'></a></h2>
 
+> 4.1. <em>What is the output of pwd when run via an SQL injection attack?</em><br><a id='4.1'></a>
+>> <code><strong>/var/lib/mysql</strong></code>
 
 <br>
+
+<h2>Task 5. Finding a Needle in a Malwarestack<a id='5'></a></h2>
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+
+> 5.1. <em>What is the malware’s location?</em><br><a id='5.1'></a>
+>> <code><strong>/home/products/malware/4sale/pal4t1n3/MisterMeist3r/2DC6C0</strong></code>
+
+<br>
+
+<h2>Task 6. Operation Defang<a id='6'></a></h2>
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+
+> 6.1. <em>What programming language was used to develop the malware?</em><br><a id='6.1'></a>
+>> <code><strong>nim</strong></code>
+
+<br>
+
+> 6.2. <em>Reading the source code, what file type is added to the end of encrypted files?</em><br><a id='6.2'></a>
+>> <code><strong>.boogey</strong></code>
+
+<br>
+
+> 6.3. <em>What is the flag that appears after compiling the defanged malware?</em><br><a id='6.2'></a>
+>> <code><strong>THM{3FDbU2nNy2FW7yMvMoH6WTMMM}</strong></code>
+
+<br>
+
 
 <h2>Room Complete<a id='9'></a></h2>
 <p>Keep learning, keep growing!<br>
