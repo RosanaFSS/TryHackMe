@@ -8,7 +8,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{184}}$$-day-streak in  <a href="h
 <p align="center">Solve the riddle that dreams have woven..</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/dreaming">Dreaming</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/9428443d-7551-4d1c-87d8-5f3b4035ef09">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/2114a0d6-560b-450b-b9f8-b1c32ac26b31">
   <img height="150px" src="https://github.com/user-attachments/assets/7af381a4-a33e-4514-bb47-24ebc8b31290">
 </p>
 
