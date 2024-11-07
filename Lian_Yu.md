@@ -32,4 +32,42 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <br>
 
+<pre><code>root@ip-[Attack_IP]:~# nmap -A [Target_IP]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-07 03:31 GMT
+Nmap scan report for ip-[Target_IP].eu-west-1.compute.internal ([Target_IP])
+Host is up (0.00056s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE VERSION
+21/tcp  open  ftp     vsftpd 3.0.2
+22/tcp  open  ssh     OpenSSH 6.7p1 Debian 5+deb8u8 (protocol 2.0)
+| ssh-hostkey: 
+...
+80/tcp  open  http    Apache httpd
+|_http-server-header: Apache
+|_http-title: Purgatory
+111/tcp open  rpcbind 2-4 (RPC #100000)
+| rpcinfo: 
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          41474/udp  status
+|_  100024  1          51531/tcp  status
+MAC Address: 02:6D:E6:33:18:1F (Unknown)
+Device type: general purpose
+Running: Linux 3.X
+OS CPE: cpe:/o:linux:linux_kernel:3.13
+OS details: Linux 3.13
+Network Distance: 1 hop
+Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   0.56 ms ip-10-10-20-250.eu-west-1.compute.internal ([Target_IP])
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
+root@ip-[Attack_IP]:~# 
+</code></pre>
+
 
