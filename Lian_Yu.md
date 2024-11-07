@@ -292,17 +292,7 @@ ftp> exit
 
 ![image](https://github.com/user-attachments/assets/baebb88d-4e42-41df-ad76-27e03d56d17a)
 
-<br>
 
-<pre><code>~# file "Queen's_Gambit.png"
-Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
-</code></pre>
-
-<br>
-<pre><code>~# hexedit "Queen's_Gambit.png"
-</code></pre>
-
-![image](https://github.com/user-attachments/assets/dcccab3e-5d3c-4297-a4ec-612af7fd6cd4)
 
 <br>
 <pre><code>>~# hexedit "Queen's_Gambit.png"
@@ -332,7 +322,15 @@ aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment 
 
 
 
+<br>
 
+<pre><code>~# file "Queen's_Gambit.png"
+Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
+</code></pre>
+
+<br>
+<pre><code>~# hexedit "Queen's_Gambit.png"
+</code></pre>
 
 
 
