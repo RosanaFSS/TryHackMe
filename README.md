@@ -7,7 +7,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 
 <p align="center">November 7, 2024 - My yearly activity<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/0f3277f0-5878-4392-bf15-c02a7c046578"> </p>
+                 <img width="800px" src="https://github.com/user-attachments/assets/269011a6-5ffa-477c-9ebf-c1afaed0a69e"> </p>
 
 <br>
 
@@ -21,6 +21,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
                  <img width="800px" src="https://github.com/user-attachments/assets/8e487e98-ade8-44f1-a484-ffc2147f95c1"> </p>
 
 <p align="center">My Certificates</p>
+
   
 <div align="center">
 
@@ -49,6 +50,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 7, 2024  | 185      |       1,286ª |          28ª |      4,298ª |        60ª | 53,942   |       405 |
 | November 7, 2024  | 185      |       1,285ª |          28ª |      4,047ª |        58ª | 53,910   |       404 |
 | November 6, 2024  | 184      |       1,294ª |          28ª |      4,393ª |        64ª | 53,730   |       403 |
 | November 5, 2024  | 183      |       1,331ª |          28ª |      5,422ª |        87ª | 53,084   |       401 |
