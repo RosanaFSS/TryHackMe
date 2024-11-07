@@ -96,13 +96,15 @@ root@ip-[Attack_IP]:~/Dreaming#
 
 ![image](https://github.com/user-attachments/assets/b78820ad-76fc-4df8-9c3b-e6734c277a44)
 
+<br>
+<p>We can see from above that the pluck version is 4.7.13.</p>
+
+
+![image](https://github.com/user-attachments/assets/f38e9980-c933-468c-8d0c-f54cec1614e0)
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/4af5de84-4265-48ec-bd92-9b3106c55bf2)
-
-<br>
-<p>We can see from above that the pluck version is 4.7.13.</p>
 
 <br>
 
