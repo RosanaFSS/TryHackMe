@@ -52,7 +52,33 @@ root@ip-[Attack_IP]:~/Dreaming#
 
 <br>
 
-![image](https://github.com/user-attachments/assets/b8c64acc-2668-46a0-84b2-1d15153e9ee1)
+<pre><code>root@ip-[Attack_IP]:~/Dreaming# gobuster dir -u http://[Target_IP] -w /usr/share/dirb/wordlists/common.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target_IP]
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/dirb/wordlists/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/.hta                 (Status: 403) [Size: 276]
+/app                  (Status: 301) [Size: 308] [--> http://[Target_IP]/app/]
+/.htaccess            (Status: 403) [Size: 276]
+/.htpasswd            (Status: 403) [Size: 276]
+/index.html           (Status: 200) [Size: 10918]
+/server-status        (Status: 403) [Size: 276]
+Progress: 4614 / 4615 (99.98%)
+===============================================================
+Finished
+===============================================================
+root@ip-[Attack_IP]:~/Dreaming# 
+</code></pre>
 
 <br>
 
