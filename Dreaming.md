@@ -50,9 +50,6 @@ Nmap done: 1 IP address (1 host up) scanned in 8.56 seconds
 root@ip-[Attack_IP]:~/Dreaming# 
 </code></pre>
 
-
-![image](https://github.com/user-attachments/assets/945cfe84-11f9-4d2e-adc8-fad3517b53d5)
-
 <br>
 
 ![image](https://github.com/user-attachments/assets/b8c64acc-2668-46a0-84b2-1d15153e9ee1)
