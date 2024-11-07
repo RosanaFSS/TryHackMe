@@ -91,7 +91,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 >> <code><strong>natalya</strong></code>
 
 <br>
-<h2>Task 3. GoldenEye Operatos Training<a id='2'></a></h2>
+<h2>Task 3. GoldenEye Operatos Training<a id='3'></a></h2>
 <p>Enumeration really is key. Making notes and referring back to them can be lifesaving. We shall now go onto getting a user shell.</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
@@ -159,3 +159,44 @@ If you're on Linux edit your "/etc/hosts" file and add:<br>
 > 3.12. <em>As this user has more site privileges, you are able to edit the moodles settings. From here get a reverse shell using python and netcat.</em><br>
 > Take a look into Aspell, the spell checker plugin.<a id='3.12'></a>
 >> <code><strong>No answer needed</strong></code>
+
+<br>
+<h2>Task 4. Privilege Escalartion<a id='4'></a></h2>
+<p>Now that you have enumerated enough to get an administrative moodle login and gain a reverse shell, its time to priv esc.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+<p>Download the <a href="https://gist.github.com/sh1n0b1/e2e1a5f63fbec3706123"> linuxprivchecker</a> to enumerate installed development tools.</p>
+  
+<p>To get the file onto the machine, you will need to wget your local machine as the VM will not be able to wget files on the internet. Follow the steps to get a file onto your VM:</p>
+
+
+> 4.1. <em>Enumerate the machine manually.</em><br><a id='4.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 4.2. <em>Whats the kernel version?</em><br><a id='4.2'></a>
+>> <code><strong>3.13.0-32-generic</strong></code>
+
+<br>
+
+<p>This machine is vulnerable to the overlayfs exploit. The exploitation is technically very simple:</p>
+
+
+<br>
+
+> 4.3. <em>You can download the exploit from here: https://www.exploit-db.com/exploits/37292</em><br><a id='4.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 4.4. <em>Fix the exploit to work with the system you're trying to exploit. Remember, enumeration is your key!</em><br>
+> What development tools are installed on the machine?<a id='4.4'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 4.5. <em>What is the root flag?</em><br><a id='4.5'></a>
+>> <code><strong>_______________________________</strong></code>
+
