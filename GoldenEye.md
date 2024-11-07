@@ -99,7 +99,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <p>If you remembered in some of the emails you discovered, there is the severnaya-station.com website. To get this working, you need up update your DNS records to reveal it.<br>
 
 If you're on Linux edit your "/etc/hosts" file and add:<br>
-<code><machines ip> severnaya-station.com</code></p>
+<code>machines ip severnaya-station.com</code></p>
 
 > 3.1. <em>If you're on Windows do the same but in the "c:\Windows\System32\Drivers\etc\hosts" file</em><br><a id='3.1'></a>
 >> <code><strong>No answer needed</strong></code>
