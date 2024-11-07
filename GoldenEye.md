@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/goldeneye">GoldenEye</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://tryhackme-images.s3.amazonaws.com/room-icons/77b55a2ac1ac79ca534d6fc003c042b3.png">
-  <img height="150px" src="https://github.com/user-attachments/assets/42c32412-a499-4375-aec1-6f7065cad18b">
+  <img height="150px" src="https://github.com/user-attachments/assets/b035743e-5c1e-44df-82a1-e06f11156e4e">
 </p>
 
 <p align="center">Summary</p>
@@ -219,3 +219,21 @@ If you're on Linux edit your "/etc/hosts" file and add:<br>
 > 4.5. <em>What is the root flag?</em><br><a id='4.5'></a>
 >> <code><strong>568628e0d993b1973adc718237da6e93</strong></code>
 
+
+<h2>Room Complete<a id='5'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+![image](https://github.com/user-attachments/assets/15194f68-230b-4aac-9334-e7fd730d4ad9)
+
+
+<h2>My Journey<a id='6'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 7, 2024  | 185      |       1,285ª |          28ª |      4,271ª |        60ª | 53,972   |       406 |
+
+![image](https://github.com/user-attachments/assets/dcd74653-850a-4461-b8f6-f2cacd5d5280)
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
