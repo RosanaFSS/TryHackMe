@@ -204,6 +204,7 @@ Finished
 > 1.4. <em>what is the FTP Password?</em><br><a id='3'></a>
 >> <code><strong>!#th3h00d</strong></code>
 
+<br>
 <p>And look what we found: a token to get into Queen´s Gambit(Ship).</p>
 
 <pre><code>RTy8yhBQdscX
@@ -288,6 +289,18 @@ ftp> exit
 </code></pre>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/baebb88d-4e42-41df-ad76-27e03d56d17a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/dcccab3e-5d3c-4297-a4ec-612af7fd6cd4)
+
+<br>
+
+
+
+
 
 
 
