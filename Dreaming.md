@@ -92,8 +92,10 @@ root@ip-[Attack_IP]:~/Dreaming#
 
 ![image](https://github.com/user-attachments/assets/334f82cc-8eff-420a-baf6-6491e757a8b2)
 
+<br>
 
-![image](https://github.com/user-attachments/assets/fd76bf16-5b01-40b9-b6f1-6e74cffe3d3c)
+![image](https://github.com/user-attachments/assets/b78820ad-76fc-4df8-9c3b-e6734c277a44)
+
 
 <br>
 
