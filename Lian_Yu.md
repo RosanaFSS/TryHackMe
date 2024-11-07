@@ -72,7 +72,6 @@ Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
 
 <br>
 <p>And its related services.</p>
-<br>
 
 <pre><code>~# nmap -sC -sV -vv  [Target_IP]
 
@@ -120,6 +119,46 @@ GENERATED WORDS: 4612
 END_TIME: Thu Nov  7 03:47:07 2024
 DOWNLOADED: 4612 - FOUND: 2
 </code></pre>
+
+<br>
+
+<p>Running Gobuster I found <code>island</code>.</p>
+
+<pre><code>~#  gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP] -t 4 0 -x php,html,txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target_IP]
+[+] Method:                  GET
+[+] Threads:                 4
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              php,html,txt
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/.html                (Status: 403) [Size: 199]
+/index.html           (Status: 200) [Size: 2506]
+/island               (Status: 301) [Size: 235] [--> http://[Target_IP]/island/]
+/.html                (Status: 403) [Size: 199]
+/server-status        (Status: 403) [Size: 199]
+Progress: 882240 / 882244 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
+
+<p>Accessed <code>island</code>, visualized source code and found a possible <code>username</code>.</p>
+
+![image](https://github.com/user-attachments/assets/c91677f5-9353-4464-838b-07fd7c27e507)
+
+<br>
+
+
+
 
 
 
