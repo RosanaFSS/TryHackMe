@@ -91,6 +91,7 @@ PORT    STATE SERVICE REASON         VERSION
 </code></pre>
 
 <br>
+<p>I used the web browser to connect to port 80, and got the following page</p>
 
 ![image](https://github.com/user-attachments/assets/4595364e-dfc6-432e-9abf-439f950c697f)
 
