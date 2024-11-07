@@ -714,8 +714,8 @@ After clicking <code>Send</code>code>, I obtained the <code>Easter 10</code> fla
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 6, 2024  | 184      |       1,313ª |          28ª |      5,422ª |        87ª | 53,400   |       401 |
+| November 6, 2024  | 184      |       1,313ª |          28ª |      5,079ª |        78ª | 53,400   |       401 |
 
-![image](https://github.com/user-attachments/assets/2648c639-fd8e-440a-b67c-6b2a9ff9b90a)
+![image](https://github.com/user-attachments/assets/73862a6e-bcba-46a2-ae47-84fdc3e587e7)
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
