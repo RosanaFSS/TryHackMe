@@ -104,7 +104,7 @@ Can you help Sandman restore his kingdom?</p>
 <br>
 
 > 1.3. <em>What is the Morpheus Flag?</em><br><a id='4'></a>
->> <code><strong>____</strong></code><br><br>
+>> <code><strong>THM{DR34MS_5H4P3_TH3_W0RLD}</strong></code><br><br>
 
 ![image](https://github.com/user-attachments/assets/5a6ca1d3-4b61-490c-9980-f36731e6a87f)
 
@@ -112,9 +112,17 @@ Can you help Sandman restore his kingdom?</p>
 
 ![image](https://github.com/user-attachments/assets/09114637-deac-432b-82b6-66bde0de9502)
 
+![image](https://github.com/user-attachments/assets/a14f813d-b376-4761-8b4e-f3983081e6b9)
 
+![image](https://github.com/user-attachments/assets/e980d051-ffcd-496d-b51f-1b53028b5fef)
 
+find / type f -group morpheus 2>dev/null
 
+![image](https://github.com/user-attachments/assets/44bc5c01-4485-404f-a2a5-08dd402bcdc9)
+
+![image](https://github.com/user-attachments/assets/41d937b6-954f-42af-a92b-fee86b4d44e0)
+
+![image](https://github.com/user-attachments/assets/bec30477-f483-4659-b661-c99c7a98d18a)
 
 
 
