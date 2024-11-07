@@ -98,8 +98,9 @@ Can you help Sandman restore his kingdom?</p>
 
 ![image](https://github.com/user-attachments/assets/01f82d3d-2bbf-4870-affa-a96585586b63)
 
+<br>
 
-![image](https://github.com/user-attachments/assets/3d6f6a0e-0b1b-4f2b-ad46-23243de89f3a)
+![image](https://github.com/user-attachments/assets/50ccdd15-8b50-40c4-b983-b96c45d38839)
 
 <br>
 
