@@ -125,6 +125,8 @@ Finished
 ===============================================================
 </code></pre>
 
+<br>
+
 <p>Accessing <code>/island</code> and visualizing source code I found possible <code>credentials</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/c91677f5-9353-4464-838b-07fd7c27e507)
@@ -132,6 +134,91 @@ Finished
 <br>
 
 ![image](https://github.com/user-attachments/assets/fb90376a-ebaa-4d98-9c53-2cf1c11e71b6)
+
+<br>
+<p>Running Gobuster again, I found <code>/island/2100/</code>.</p>
+
+<br>
+
+<pre><code>~# gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP]/island/ -t 40
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target_IP]/island/
+[+] Method:                  GET
+[+] Threads:                 40
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/2100                 (Status: 301) [Size: 240] [--> http://[Target_IP]/island/2100/]
+Progress: 220560 / 220561 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
+
+<br>
+<p>Accessing <code>[Target_IP]/island/2100/</code> and visualizeing source code, I got a clue: <code>.ticket</code>.</p>
+
+![image](https://github.com/user-attachments/assets/1ed37425-5e0f-428b-9fe3-f83f41e3cde7)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8fe1db71-172a-4c2b-aac9-c45b342ecbd9)
+
+<br>
+<p>Used Gobuster again and found <code>/island/2100/green_arrow.ticket/</code>.</p>
+
+<br>
+
+<pre><code>~# gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP]/island/2100/ -t 40 -x ticket
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target_IP]/island/2100/
+[+] Method:                  GET
+[+] Threads:                 40
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              ticket
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/green_arrow.ticket   (Status: 200) [Size: 71]
+Progress: 441120 / 441122 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
+
+<br>
+<p>And look what we found: a token to get into Queen´s Gambit(Ship).</p>
+<br>
+
+<pre><code>RTy8yhBQdscX
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/04a32e90-0854-47b6-baae-5a24fc520858)
+
+<br>
+<p>Used CyBerChed to decode it.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/24208804-9ae1-4f53-8657-9b7e044d1bc5)
+
+
+
+
+
 
 
 
