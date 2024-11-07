@@ -23,8 +23,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
-https://tryhackme.com/r/access
-
 
 > 1.1. <em>First things first, connect to our <a href="https://tryhackme.com/r/access">network</a> and deploy the machine.</em><br><a id='1.1'></a>
 >> <code><strong>No answer needed</strong></code>
@@ -54,3 +52,36 @@ https://tryhackme.com/r/access
 > 1.6. <em>Now go use those credentials and login to a part of the site.</em><br><a id='1.5'></a>
 >> <code><strong>No answer needed</strong></code>
 
+<br>
+h2>Task 2. Its mail time ...<a id='2'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+
+> 2.1. <em>Take a look at some of the other services you found using your nmap scan. Are the credentials you have re-usable? </em><br><a id='2.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 2.2. <em>If those creds don't seem to work, can you use another program to find other users and passwords? Maybe Hydra?Whats their new password?</em><br><a id='2.2'></a>
+>> <code><strong>secret1!</strong></code>
+
+<br>
+
+> 2.3. <em>Inspect port 55007, what services is configured to use this port?</em><br><a id='2.3'></a>
+>> <code><strong>telnet</strong></code>
+
+<br>
+
+> 2.4. <em>Login using that service and the credentials you found earlier.</em><br><a id='2.4'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 2.5. <em>What can you find on this service?</em><br><a id='2.5'></a>
+>> <code><strong>emails</strong></code>
+
+<br>
+
+> 2.6. <em>What user can break Boris' codes?</em><br><a id='2.6'></a>
+>> <code><strong>natalya</strong></code>
