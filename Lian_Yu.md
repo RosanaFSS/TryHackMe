@@ -75,7 +75,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
 
 <br>
 
-<pre><code>~# dirb http://10.10.20.250/ /usr/share/dirb/wordlists/common.txt
+<pre><code>~# dirb http://[Target_IP]/ /usr/share/dirb/wordlists/common.txt
 
 -----------------
 DIRB v2.22    
@@ -83,14 +83,14 @@ By The Dark Raver
 -----------------
 
 START_TIME: Thu Nov  7 03:47:03 2024
-URL_BASE: http://10.10.20.250/
+URL_BASE: http://[Target_IP]/
 WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
 
 -----------------
 
 GENERATED WORDS: 4612                                                          
 
----- Scanning URL: http://10.10.20.250/ ----
+---- Scanning URL: http://[Target_IP]/ ----
 + http://10.10.20.250/index.html (CODE:200|SIZE:2506)                          
 + http://10.10.20.250/server-status (CODE:403|SIZE:199)                        
                                                                                
