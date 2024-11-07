@@ -32,7 +32,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <br>
 
-<pre><code>root@ip-[Attack_IP]:~# nmap -A [Target_IP]
+<pre><code>~# nmap -A [Target_IP]
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-07 03:31 GMT
 Nmap scan report for ip-[Target_IP].eu-west-1.compute.internal ([Target_IP])
@@ -67,7 +67,39 @@ HOP RTT     ADDRESS
 
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
-root@ip-[Attack_IP]:~# 
 </code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4595364e-dfc6-432e-9abf-439f950c697f)
+
+<br>
+
+<pre><code>~# dirb http://10.10.20.250/ /usr/share/dirb/wordlists/common.txt
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Thu Nov  7 03:47:03 2024
+URL_BASE: http://10.10.20.250/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612                                                          
+
+---- Scanning URL: http://10.10.20.250/ ----
++ http://10.10.20.250/index.html (CODE:200|SIZE:2506)                          
++ http://10.10.20.250/server-status (CODE:403|SIZE:199)                        
+                                                                               
+-----------------
+END_TIME: Thu Nov  7 03:47:07 2024
+DOWNLOADED: 4612 - FOUND: 2
+</code></pre>
+
+
+
 
 
