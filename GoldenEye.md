@@ -89,3 +89,73 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 > 2.6. <em>What user can break Boris' codes?</em><br><a id='2.6'></a>
 >> <code><strong>natalya</strong></code>
+
+<br>
+<h2>Task 3. GoldenEye Operatos Training<a id='2'></a></h2>
+<p>Enumeration really is key. Making notes and referring back to them can be lifesaving. We shall now go onto getting a user shell.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+<p>If you remembered in some of the emails you discovered, there is the severnaya-station.com website. To get this working, you need up update your DNS records to reveal it.<br>
+
+If you're on Linux edit your "/etc/hosts" file and add:<br>
+<code><machines ip> severnaya-station.com</code></p>
+
+> 3.1. <em>If you're on Windows do the same but in the "c:\Windows\System32\Drivers\etc\hosts" file</em><br><a id='3.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.2. <em>Once you have done that, in your browser navigate to: http://severnaya-station.com/gnocertdir</em><br><a id='3.2'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.3. <em>Try using the credentials you found earlier. Which user can you login as?</em><br><a id='3.3'></a>
+>> <code><strong>xenia</strong></code>
+
+<br>
+
+> 3.4. <em>Have a poke around the site. What other user can you find?.</em><br><a id='3.4'></a>
+>> <code><strong>doak</strong></code>
+
+<br>
+
+> 3.5. <em>What was this users password?</em><br><a id='3.5'></a>
+>> <code><strong>goat</strong></code>
+
+<br>
+
+> 3.6. <em>Use this users credentials to go through all the services you have found to reveal more emails.</em><br><a id='3.6'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.7. <em>What is the next user you can find from doak?</em><br><a id='3.7'></a>
+>> <code><strong>dr_doak</strong></code>
+
+<br>
+
+> 3.8. <em>What is this users password?</em><br><a id='3.8'></a>
+>> <code><strong>4England!</strong></code>
+
+<br>
+
+> 3.9. <em>Take a look at their files on the moodle (severnaya-station.com)</em><br><a id='3.9'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.10. <em>Download the attachments and see if there are any hidden messages inside them?</em><br><a id='3.10'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.11. <em>Using the information you found in the last task, login with the newly found user.</em><br><a id='3.11'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.12. <em>As this user has more site privileges, you are able to edit the moodles settings. From here get a reverse shell using python and netcat.</em><br>
+> Take a look into Aspell, the spell checker plugin.<a id='3.12'></a>
+>> <code><strong>No answer needed</strong></code>
