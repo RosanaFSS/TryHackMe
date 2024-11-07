@@ -7,12 +7,12 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 
 <p align="center">November 6, 2024 - My yearly activity<br>
-                 <img width="800px" src=""> </p>
+                 <img width="800px" src="https://github.com/user-attachments/assets/6bee186f-2a3c-4c38-a73f-e4a8e508ba5a"> </p>
 
 <br>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/6bee186f-2a3c-4c38-a73f-e4a8e508ba5a"> </p>
+                 <img width="800px" src=""> </p>
 
 <br>
 
