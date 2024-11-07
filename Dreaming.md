@@ -111,10 +111,6 @@ root@ip-[Attack_IP]:~/Dreaming#
 <p>Next I researched Pluck 4.7.13 in Exploit Database.</p>
 
 
-![image](https://github.com/user-attachments/assets/4af5de84-4265-48ec-bd92-9b3106c55bf2)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/4d08434e-5640-4512-8a8d-055e9f6144e3)
 
 <br>
