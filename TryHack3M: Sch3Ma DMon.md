@@ -61,6 +61,11 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <br>
 
+> 2.3. <em>What does SQL stand for?</em><br><a id='2.2'></a>
+>> <code><strong>Structured Query Language</strong></code>
+
+<br>
+
 <h2>Task 3. Unlisted<a id='3'></a></h2>
 <br>
 
