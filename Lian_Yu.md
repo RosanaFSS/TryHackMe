@@ -290,23 +290,48 @@ ftp> exit
 
 <br>
 
+<pre><code>>~# file aa.jpg
+aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x1600, frames 3
+</code></pre>
+
 ![image](https://github.com/user-attachments/assets/baebb88d-4e42-41df-ad76-27e03d56d17a)
 
 <br>
 
+<pre><code>>~# file "Queen's_Gambit.png"
+Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
+</code></pre>
+
+<br>
+<pre><code>>~# hexedit "Queen's_Gambit.png"
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/5c015867-51b7-4ad5-8ad1-3df4b941f011)
+
+
 ![image](https://github.com/user-attachments/assets/dcccab3e-5d3c-4297-a4ec-612af7fd6cd4)
 
 <br>
-<pre><code>>~# hexedit Leave_me_alone.png
+<pre><code>>~# hexedit "Queen's_Gambit.png"
 </code></pre>
 
 ![image](https://github.com/user-attachments/assets/b834e4e3-f7da-4dff-b8f0-815414fee3f4)
 
+![image](https://github.com/user-attachments/assets/e2e38d0d-4c94-41df-ada0-fcc131191aac)
+
+
 
 <pre><code>>~# hexedit Leave_me_alone.png
 </code></pre>
 
+<p>Save the changes using <code>Ctrl+X</code>.</p>
+
 ![image](https://github.com/user-attachments/assets/87a89b19-ae46-4afe-a6eb-5f3b1123722a)
+
+![image](https://github.com/user-attachments/assets/d7686f0e-5ce9-4106-87c6-e2b7855ccda6)
+
+
+
 
 
 
