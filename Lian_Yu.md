@@ -71,7 +71,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
 </code></pre>
 
 <br>
-<p>xxxx</p>
+<p>And its related services.</p>
 <br>
 
 <pre><code>~# nmap -sC -sV -vv  [Target_IP]
