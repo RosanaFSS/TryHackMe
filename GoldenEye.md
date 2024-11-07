@@ -20,6 +20,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 <br>
 <br>
 <h2>Task 1. Intro & Enumeration<a id='1'></a></h2>
+<p>This room will be a guided challenge to hack the James Bond styled box and get root.</p>
+<p>Credit to <a href="https://www.vulnhub.com/author/creosote,584/">creosote</a> for creating this VM. <strong>This machine is used here with the explicit permission of the creator <3</strong>.</p>
+<p>So.. Lets get started!</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
@@ -54,6 +57,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <br>
 <h2>Task 2. Its mail time ...<a id='2'></a></h2>
+<p>Onto the next steps.. </p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
