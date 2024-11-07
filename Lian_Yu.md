@@ -292,9 +292,14 @@ ftp> exit
 
 ![image](https://github.com/user-attachments/assets/baebb88d-4e42-41df-ad76-27e03d56d17a)
 
+<br>
 
+<pre><code>~# file "Queen's_Gambit.png"
+Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
+</code></pre>
 
 <br>
+
 <pre><code>>~# hexedit "Queen's_Gambit.png"
 </code></pre>
 
@@ -320,16 +325,11 @@ aa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment 
 
 ![image](https://github.com/user-attachments/assets/5c015867-51b7-4ad5-8ad1-3df4b941f011)
 
-
-
 <br>
 
-<pre><code>~# file "Queen's_Gambit.png"
-Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
-</code></pre>
-
-<br>
-<pre><code>~# hexedit "Queen's_Gambit.png"
+<pre><code>~# steghide --extract -sf aa.jpg
+Enter passphrase: 
+wrote extracted data to "ss.zip".
 </code></pre>
 
 
