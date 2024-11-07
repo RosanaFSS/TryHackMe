@@ -29,6 +29,21 @@ Can you help Sandman restore his kingdom?</p>
 > 1.1. <em>What is the Lucien Flag?</em><br><a id='2'></a>
 >> <code><strong>THM{TH3_L1BR4R14N}</strong></code><br><br>
 
+![image](https://github.com/user-attachments/assets/945cfe84-11f9-4d2e-adc8-fad3517b53d5)
+
+![image](https://github.com/user-attachments/assets/b8c64acc-2668-46a0-84b2-1d15153e9ee1)
+
+![image](https://github.com/user-attachments/assets/de8228e9-719f-458d-8c8f-b9a8d5c15d6d)
+
+![image](https://github.com/user-attachments/assets/2b5e28c1-8fd3-420c-ab82-994a99532912)
+
+![Uploading image.png…]()
+
+
+
+
+
+
 > 1.2. <em>What is the Death Flag?</em><br><a id='3'></a>
 >> <code><strong>THM{1M_TH3R3_4_TH3M}</strong></code><br><br>
 
