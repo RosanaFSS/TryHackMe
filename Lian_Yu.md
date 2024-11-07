@@ -90,39 +90,13 @@ PORT    STATE SERVICE REASON         VERSION
 </code></pre>
 
 <br>
-<p>I used the web browser to connect to port 80, and got the following page</p>
+<p>I used the web browser to connect to port 80, and got the following page ...</p>
 
 ![image](https://github.com/user-attachments/assets/4595364e-dfc6-432e-9abf-439f950c697f)
 
 <br>
 
-<pre><code>~# dirb http://[Target_IP]/ /usr/share/dirb/wordlists/common.txt
-
------------------
-DIRB v2.22    
-By The Dark Raver
------------------
-
-START_TIME: Thu Nov  7 03:47:03 2024
-URL_BASE: http://[Target_IP]/
-WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
-
------------------
-
-GENERATED WORDS: 4612                                                          
-
----- Scanning URL: http://[Target_IP]/ ----
-+ http://10.10.20.250/index.html (CODE:200|SIZE:2506)                          
-+ http://10.10.20.250/server-status (CODE:403|SIZE:199)                        
-                                                                               
------------------
-END_TIME: Thu Nov  7 03:47:07 2024
-DOWNLOADED: 4612 - FOUND: 2
-</code></pre>
-
-<br>
-
-<p>Running Gobuster I found <code>island</code>.</p>
+<p>Running Gobuster I found <code>/island</code>.</p>
 
 <pre><code>~#  gobuster dir -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://[Target_IP] -t 4 0 -x php,html,txt
 ===============================================================
@@ -151,11 +125,14 @@ Finished
 ===============================================================
 </code></pre>
 
-<p>Accessed <code>island</code>, visualized source code and found a possible <code>username</code>.</p>
+<p>Accessing <code>/island</code> and visualizing source code I found possible <code>credentials</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/c91677f5-9353-4464-838b-07fd7c27e507)
 
 <br>
+
+![image](https://github.com/user-attachments/assets/fb90376a-ebaa-4d98-9c53-2cf1c11e71b6)
+
 
 
 
