@@ -37,12 +37,53 @@ Can you help Sandman restore his kingdom?</p>
 
 ![image](https://github.com/user-attachments/assets/2b5e28c1-8fd3-420c-ab82-994a99532912)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/03fdc172-fe9b-4796-ad14-89081f20c26e)
 
+![image](https://github.com/user-attachments/assets/93b7add1-dbea-4e30-85c2-914c6b668d0b)
 
+![image](https://github.com/user-attachments/assets/4aa48bcd-c36b-4ac5-a444-80a367181e5e)
 
+![image](https://github.com/user-attachments/assets/5b9b0f23-23ac-4d12-a40a-c8fde951bd5f)
 
+![image](https://github.com/user-attachments/assets/4b54b416-69e5-450c-bcec-9eda43cc28af)
 
+![image](https://github.com/user-attachments/assets/44113164-40a7-456b-9fa0-f4700e4274ad)
+
+![image](https://github.com/user-attachments/assets/4916b5a7-3f68-4ecb-900a-5ccc5f8256df)
+
+![image](https://github.com/user-attachments/assets/5f0c0caa-c3a5-4263-94c1-628fc4e21f52)
+
+![image](https://github.com/user-attachments/assets/ef719f69-c44b-41c9-b924-0792bf395c89)
+
+![image](https://github.com/user-attachments/assets/68ebeebf-a4b1-4ee6-b62e-cd46858709fb)
+
+![image](https://github.com/user-attachments/assets/7a143b4b-b679-47a3-9476-6bef6154842e)
+
+![image](https://github.com/user-attachments/assets/88d5c838-399a-4a75-b21a-c9379215446f)
+
+![image](https://github.com/user-attachments/assets/bfc77dee-c990-4d95-aab1-4488f4e836ff)
+
+![image](https://github.com/user-attachments/assets/e44ca9b7-59bf-4b7f-bf69-c47d6525c5b7)
+
+![image](https://github.com/user-attachments/assets/10767471-a71d-4e7f-bd8d-0ce627954d51)
+
+![image](https://github.com/user-attachments/assets/08068aa8-3285-4123-ba7f-1d9ee548864c)
+
+![image](https://github.com/user-attachments/assets/ab445633-5bb1-499a-b4df-2585a8905614)
+
+![image](https://github.com/user-attachments/assets/f966bd82-4c8d-4a2d-9781-6afd46a0deb9)
+
+![image](https://github.com/user-attachments/assets/dd40f283-5fba-4cbf-9a14-a41ef2b6e667)
+
+![image](https://github.com/user-attachments/assets/e56cf1dc-16b6-4094-8152-ed84c3217782)
+
+![image](https://github.com/user-attachments/assets/9b2b716f-ff1d-4708-b720-0e9f588ee91a)
+
+![image](https://github.com/user-attachments/assets/ff2800c1-b5a2-4fb4-9c22-c8668e93a5ce)
+
+![image](https://github.com/user-attachments/assets/329bd066-9a0d-42ac-bb8c-453e4f2758d2)
+
+<br>
 
 > 1.2. <em>What is the Death Flag?</em><br><a id='3'></a>
 >> <code><strong>THM{1M_TH3R3_4_TH3M}</strong></code><br><br>
