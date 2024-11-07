@@ -111,6 +111,9 @@ Can you help Sandman restore his kingdom?</p>
 > 1.3. <em>What is the Morpheus Flag?</em><br><a id='4'></a>
 >> <code><strong>____</strong></code><br><br>
 
+![image](https://github.com/user-attachments/assets/5a6ca1d3-4b61-490c-9980-f36731e6a87f)
+
+
 
 <h2>Room Complete<a id='5'></a></h2>
 <p>Keep learning, keep growing!<br>
