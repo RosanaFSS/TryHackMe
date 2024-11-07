@@ -31,6 +31,26 @@ Can you help Sandman restore his kingdom?</p>
 > 1.1. <em>What is the Lucien Flag?</em><br><a id='2'></a>
 >> <code><strong>THM{TH3_L1BR4R14N}</strong></code><br><br>
 
+<pre><code>root@ip-[Attack_IP]:~/Dreaming# nmap -sC -sV [Target_IP]
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-07 02:50 GMT
+Nmap scan report for ip-[Target_IP].eu-west-1.compute.internal ([Target_IP])
+Host is up (0.00037s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+|_http-title: Apache2 Ubuntu Default Page: It works
+MAC Address: 02:EB:CF:87:A9:37 (Unknown)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.56 seconds
+root@ip-[Attack_IP]:~/Dreaming# 
+</code></pre>
+
+
 ![image](https://github.com/user-attachments/assets/945cfe84-11f9-4d2e-adc8-fad3517b53d5)
 
 <br>
