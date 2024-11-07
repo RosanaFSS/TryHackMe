@@ -31,7 +31,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 >> <code><strong>No answer needed</strong></code>
 
 <br>
-<p>We get ports 21, 22, 80 and 111 open.</p>
+<p>Ports 21, 22, 80 and 111 are open.</p>
 
 <pre><code>~# nmap -A [Target_IP]
 
@@ -71,7 +71,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
 </code></pre>
 
 <br>
-<p>And its related services.</p>
+<p>Following its related services.</p>
 
 <pre><code>~# nmap -sC -sV -vv  [Target_IP]
 
