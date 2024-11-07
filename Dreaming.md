@@ -111,9 +111,6 @@ Can you help Sandman restore his kingdom?</p>
 <pre><code>$ find / type f -group morpheus 2>dev/null
 </code></pre><br>
 
-
-![image](https://github.com/user-attachments/assets/44bc5c01-4485-404f-a2a5-08dd402bcdc9)
-
 ![image](https://github.com/user-attachments/assets/41d937b6-954f-42af-a92b-fee86b4d44e0)
 
 ![image](https://github.com/user-attachments/assets/bec30477-f483-4659-b661-c99c7a98d18a)
