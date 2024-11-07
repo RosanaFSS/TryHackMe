@@ -40,3 +40,24 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 >> <code><strong>hrpTfL42wMv3</strong></code>
 
 
+
+<br>
+
+<h2>Room Complete<a id='9'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+![image](https://github.com/user-attachments/assets/445eb4bd-cae7-4f87-9baf-ae2d1e85783a)
+
+<h2>My Journey<a id='10'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 7, 2024  | 185      |       1,286ª |          28ª |      4,298ª |        60ª | 53,942   |       405 |
+
+![image](https://github.com/user-attachments/assets/269011a6-5ffa-477c-9ebf-c1afaed0a69e)
+
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
