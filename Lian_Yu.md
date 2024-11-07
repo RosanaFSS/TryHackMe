@@ -297,7 +297,14 @@ ftp> exit
 ![image](https://github.com/user-attachments/assets/dcccab3e-5d3c-4297-a4ec-612af7fd6cd4)
 
 <br>
+<pre><code>>~# hexedit Leave_me_alone.png
+</code></pre>
 
+![image](https://github.com/user-attachments/assets/b834e4e3-f7da-4dff-b8f0-815414fee3f4)
+
+
+<pre><code>>~# hexedit Leave_me_alone.png
+</code></pre>
 
 ![image](https://github.com/user-attachments/assets/87a89b19-ae46-4afe-a6eb-5f3b1123722a)
 
