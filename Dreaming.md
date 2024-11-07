@@ -35,3 +35,20 @@ Can you help Sandman restore his kingdom?</p>
 > 1.3. <em>What is the Morpheus Flag?</em><br><a id='4'></a>
 >> <code><strong>____</strong></code><br><br>
 
+
+<h2>Room Complete<a id='5'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+
+
+<h2>My Journey<a id='6'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 6, 2024  | 184      |       1,297ª |          28ª |      4,428ª |        65ª | 53,700   |       402 |
+
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
