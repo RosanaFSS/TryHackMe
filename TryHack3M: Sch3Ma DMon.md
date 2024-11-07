@@ -43,6 +43,28 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 > 1.2. <em>What is the suspect’s password?</em><br><a id='1.2'></a>
 >> <code><strong>hrpTfL42wMv3</strong></code>
 
+<br>
+
+<h2>Task 2. Connected Tables<a id='2'></a></h2>
+<br>
+
+> 2.1. <em>What does RDBMS stand for?</em><br><a id='2.1'></a>
+>> <code><strong>Relational Database Management System</strong></code>
+
+<br>
+
+> 2.2. <em>What does CRUD stand for?</em><br><a id='2.2'></a>
+>> <code><strong>Create Read Update Delete</strong></code>
+
+<br>
+
+<h2>Task 3. Unlisted<a id='3'></a></h2>
+
+<h2>Task 4. From DB to OS<a id='4'></a></h2>
+
+<h2>Task 5. Finding a Needle in a Malwarestack<a id='5'></a></h2>
+
+<h2>Task 6. Operation Defang<a id='6'></a></h2>
 
 
 <br>
