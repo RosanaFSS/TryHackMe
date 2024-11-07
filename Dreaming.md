@@ -108,10 +108,19 @@ Can you help Sandman restore his kingdom?</p>
 
 ![image](https://github.com/user-attachments/assets/5a6ca1d3-4b61-490c-9980-f36731e6a87f)
 
+<br>
+
 <pre><code>$ find / type f -group morpheus 2>dev/null
-</code></pre><br>
+</code></pre>
+
+<br>
+
+<pre><code>root@ip-[Attack_IP]:~/Dreaming# nc -nvlp 4444
+</code></pre>
 
 ![image](https://github.com/user-attachments/assets/41d937b6-954f-42af-a92b-fee86b4d44e0)
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/bec30477-f483-4659-b661-c99c7a98d18a)
 
