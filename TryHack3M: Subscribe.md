@@ -170,7 +170,7 @@ Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 ![image](https://github.com/user-attachments/assets/d4222e3e-94af-48c4-af3e-54da9be90420)
 
 <br>
-<p>I used <a href="https://beautifier.io/">Beuatifier.io</a>. to understand it better.</p>
+<p>We can use <a href="https://beautifier.io/">Beuatifier.io</a>. to understand it better.</p>
 
 <p align="left"> <img width="300x" src="https://github.com/user-attachments/assets/84cd2deb-4d23-48fd-a16e-68706af9fee2"> </p>
 
@@ -195,6 +195,38 @@ function e() {
     }
 }
 </code></pre>
+
+
+<p>Or we could just have used <code>Inspect</code> in the sign-up page, and then the option <code>Debugger</code> like this ...</p>
+
+![image](https://github.com/user-attachments/assets/05004078-9361-43f4-9961-ca6bbb582145)
+
+<br>
+<p>Next I went to the sign-up page and executed the following code ...</p>
+
+<pre><code>(function() {
+    e();
+})();
+</code></pre>
+
+![image](https://github.com/user-attachments/assets/23f0af8e-f9ae-4ba1-aa91-e89ddcf3fb9a)
+
+![image](https://github.com/user-attachments/assets/ee3001dd-de29-450c-ab9d-767ddd6462b5)
+
+
+<pre><code>invite.js:1:401</code></pre>
+
+
+![image](https://github.com/user-attachments/assets/13371499-7194-425f-87da-dafdcad07f17)
+
+![image](https://github.com/user-attachments/assets/21fb24dc-813d-4ef0-810f-e762aedaa8d0)
+
+
+![image](https://github.com/user-attachments/assets/a95c62a7-24d9-4611-8857-935b22f32ee9)
+
+
+<p>................ write-up under construction .......................... </p>
+
 
 
 > 2.2. <em>What is the password for the user guest@hackme.thm?</em><br><a id='2.2'></a>
@@ -235,32 +267,32 @@ Good luck.</p>
 <br>
 
 > 3.1. <em>How many logs are ingested in the Splunk instance?</em><br><a id='3.1'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>10530</strong></code>
 
 <br>
 
 > 3.2. <em>What is the web hacking tool used by the attacker to exploit the vulnerability on the website?</em><br><a id='3.2'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>sqlmap</strong></code>
 
 <br>
 
 > 3.3. <em>How many total events were observed related to the attack?</em><br><a id='3.3'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>158</strong></code>
 
 <br>
 
 > 3.4. <em>What is the observed IP address of the attacker?</em><br><a id='3.4'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>83.45.212.17</strong></code>
 
 <br>
 
 > 3.5. <em>How many events were observed from the attacker's IP?</em><br><a id='3.5'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>184</strong></code>
 
 <br>
 
 > 3.6. <em>What is the table used by the attacker to execute the attack?</em><br><a id='3.6'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>TryHack3M_users</strong></code>
 
 <br>
 
