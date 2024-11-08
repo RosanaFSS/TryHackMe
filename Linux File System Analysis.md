@@ -23,7 +23,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{186}}$$-day-streak in  <a href="h
 <br>
 <h2>Task 1. Introduction<a id='1'></a></h2>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 <br>
 
 > 1.1. <em>I'm ready to continue!</em><br><a id='1.1'></a>
@@ -31,6 +31,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{186}}$$-day-streak in  <a href="h
 
 <br>
 <h2>Task 2. Investigation Setup<a id='2'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 <br>
 
 > 2.1. <em>After updating the <code>PATH</code> and <code>LD_LIBRARY_PATH</code> environment variables, run the command >code>check-env</code>. What is the flag that is returned in the output?</em><br><a id='1.1'></a>
