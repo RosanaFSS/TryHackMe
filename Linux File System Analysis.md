@@ -44,4 +44,23 @@ investigator@ip-[Target_IP]:~$ check-env
 THM{5514ec4f1ce82f63867806d3cd95dbd8}
 </code></pre>
 
+<h2>Task 3. Files, Permissions, and Timestamps<a id='3'></a></h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+
+> 3.1. <em>To practice your skills with the <code>find</code> command, locate all the files that the user <code>bob</code> created in the past 1 minute. Once found, review its contents. What is the flag you receive?</em><br><a id='3.1'></a>
+>> <code><strong>T___</strong></code>
+
+> 3.2. <em>Extract the metadata from the <code>reverse.elf</code> file. What is the file's MIME type?</em><br><a id='3.2'></a>
+>> <code><strong>T___</strong></code>
+
+> 3.3. <em>Run the <code>stat</code> command against the <code>/etc/hosts</code> file on the compromised web server. What is the full <code>Modify Timestamp (mtime)</code> value?</em><br><a id='3.3'></a>
+>> <code><strong>T___</strong></code>
+
+<pre><code>$ investigator@ip-[Target_IP]:~$ export PATH=/mnt/usb/bin:/mnt/usb/sbin
+investigator@ip-[Target_IP]:~$ export LD_LIBRARY_PATH=/mnt/usb/lib:/mnt/usb/lib64
+investigator@ip-[Target_IP]:~$ check-env
+THM{5514ec4f1ce82f63867806d3cd95dbd8}
+</code></pre>
 
