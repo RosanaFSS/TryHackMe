@@ -46,7 +46,6 @@ THM{5514ec4f1ce82f63867806d3cd95dbd8}
 
 <h2>Task 3. Files, Permissions, and Timestamps<a id='3'></a></h2>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
 <pre><code>$  ls -al /var/www/html/
@@ -376,17 +375,7 @@ reboot   system boot  5.4.0-1029-aws   Mon Feb 12 16:11   still running
 <pre><code>investigator@ip-10-10-226-120:~$ lastlog
 Username         Port     From             Latest
 root                                       **Never logged in**
-daemon                                     **Never logged in**
-bin                                        **Never logged in**
-sys                                        **Never logged in**
-sync                                       **Never logged in**
-games                                      **Never logged in**
 ...
-bob              pts/0    10.13.46.43      Mon Feb 12 19:00:00 +0000 2024
-jane             pts/1    10.10.101.34     Tue Feb 13 00:36:37 +0000 2024
-investigator     pts/0    10.100.2.80      Fri Nov  8 22:52:37 +0000 2024
-postfix                                    **Never logged in**
-b4ckd00r3d                                 **Never logged in**
 </code></pre>
 
 <strong>Failed Login Attempts</strong><br>
@@ -405,6 +394,65 @@ investigator pts/0        2024-11-08 22:52 (10.100.2.80)
 As a result, it can be a target for attackers seeking persistence. For instance, if an attacker can find a way to insert their user account (or one that they control) into the sudoers file, they could grant themselves elevated privileges without requiring authentication. Alternatively, they may alter existing entries to broaden their access.<br>
 
 For example, a line in a sudoers file might look like this:</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$ sudo cat /etc/sudoers
+[sudo] password for investigator: 
+#
+# This file MUST be edited with the 'visudo' command as root.
+#
+# Please consider adding local content in /etc/sudoers.d/ instead of
+# directly modifying this file.
+#
+# See the man page for details on how to write a sudoers file.
+#
+Defaultsenv_reset
+...
+</code></pre>
+
+<p>More specifically, this line specifies:</p>
+
+<p>..............................</p>
+
+<p>With this configuration, Richard can execute <code>ifconfig</code> with elevated sudo privileges to manage network interfaces as necessary.</p>
+
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+
+> 4.1. <em>Investigate the user accounts on the system. What is the name of the backdoor account that the attacker created??</em><br><a id='4.1'></a>
+>> <code><strong>b4ckd00r3d</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:~$ lastlog
+Username         Port     From             Latest
+root                                       **Never logged in**
+daemon                                     **Never logged in**
+bin                                        **Never logged in**
+sys                                        **Never logged in**
+sync                                       **Never logged in**
+games                                      **Never logged in**
+...
+bob              pts/0    10.13.46.43      Mon Feb 12 19:00:00 +0000 2024
+jane             pts/1    10.10.101.34     Tue Feb 13 00:36:37 +0000 2024
+investigator     pts/0    10.100.2.80      Fri Nov  8 22:52:37 +0000 2024
+postfix                                    **Never logged in**
+b4ckd00r3d                                 **Never logged in**
+</code></pre>
+
+<br>
+
+> 4.2. <em>What is the name of the group with the group ID of <code>46</code>?</em><br><a id='4.2'></a>
+>> <code><strong>plugdev</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:~$ getent group 46
+plugdev:x:46:ubuntu,investigator
+</code></pre>
+
+<br>
+
+> 4.3. <em>View the /etc/sudoers file on the compromised system. What is the full path of the binary that Jane can run as sudo?</em><br><a id='4.3'></a>
+>> <code><strong>/usr/bin/pstree</strong></code>
 
 <pre><code>investigator@ip-10-10-226-120:~$ sudo cat /etc/sudoers
 [sudo] password for investigator: 
@@ -441,31 +489,6 @@ rootALL=(ALL:ALL) ALL
 
 jane ALL=(ALL) /usr/bin/pstree
 </code></pre>
-
-<p>More specifically, this line specifies:</p>
-
-<p>..............................</p>
-
-<p>With this configuration, Richard can execute <code>ifconfig</code> with elevated sudo privileges to manage network interfaces as necessary.</p>
-
-
-
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
-<br>
-
-
-> 4.1. <em>Investigate the user accounts on the system. What is the name of the backdoor account that the attacker created??</em><br><a id='4.1'></a>
->> <code><strong>____}</strong></code>
-
-<br>
-
-> 4.2. <em>What is the name of the group with the group ID of <code>46</code>?</em><br><a id='4.2'></a>
->> <code><strong>____}</strong></code>
-
-<br>
-
-> 4.3. <em>View the /etc/sudoers file on the compromised system. What is the full path of the binary that Jane can run as sudo?</em><br><a id='4.3'></a>
->> <code><strong>____}</strong></code>
 
 
 
