@@ -170,9 +170,9 @@ Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 ![image](https://github.com/user-attachments/assets/d4222e3e-94af-48c4-af3e-54da9be90420)
 
 <br>
-<p>I used <a href="https://beautifier.io/">Beuatifier.io</a>.</p>
+<p>I used <a href="https://beautifier.io/">Beuatifier.io</a>. to understand it better.</p>
 
-<p align="center"> <img width="400x" src="https://github.com/user-attachments/assets/84cd2deb-4d23-48fd-a16e-68706af9fee2"> </p>
+<p align="left"> <img width="300x" src="https://github.com/user-attachments/assets/84cd2deb-4d23-48fd-a16e-68706af9fee2"> </p>
 
 <pre><code>
 function e() {
