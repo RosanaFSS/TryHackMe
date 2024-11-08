@@ -40,10 +40,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{186}}$$-day-streak in  <a href="h
 > 2.1. <em>After updating the PATH and LD_LIBRARY_PATH environment variables, run the command check-env. What is the flag that is returned in the output?</em><br><a id='1.1'></a>
 >> <code><strong>THM{5514ec4f1ce82f63867806d3cd95dbd8}</strong></code>
 
-
-investigator@ip-10-10-229-35:~$ export PATH=/mnt/usb/bin:/mnt/usb/sbin
-investigator@ip-10-10-229-35:~$ export LD_LIBRARY_PATH=/mnt/usb/lib:/mnt/usb/lib64
-investigator@ip-10-10-229-35:~$ check-env
+<pre><code>$ investigator@ip-[Target_IP]:~$ export PATH=/mnt/usb/bin:/mnt/usb/sbin
+investigator@ip-[Target_IP]:~$ export LD_LIBRARY_PATH=/mnt/usb/lib:/mnt/usb/lib64
+investigator@ip-[Target_IP]:~$ check-env
 THM{5514ec4f1ce82f63867806d3cd95dbd8}
+</code></pre>
 
 
