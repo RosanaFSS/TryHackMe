@@ -66,6 +66,88 @@ Good luck!</p>
 
 <h3><em>Reconnaissance</em></h3>
 
+<pre><code>:~~/subscribe# nano /etc/hosts
+</code></pre>
+
+<p>Let´s start with an Nmap scan.<br>
+We will find six ports open: 22, 80, 8000, 8089, 8191 and 40009.</p>
+
+<pre><code>root@ip-[Attack_IP]:~/subscribe# nmap -p- [Target_IP] -T4
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-08 00:18 GMT
+Nmap scan report for subscribe.thm ([Target_IP])
+Host is up (0.00060s latency).
+Not shown: 65529 closed ports
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+8000/tcp  open  http-alt
+8089/tcp  open  unknown
+8191/tcp  open  limnerpressure
+40009/tcp open  unknown
+MAC Address: 02:F4:54:9A:1F:AF (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 1301.84 seconds
+</code></pre>
+
+<pNext let´s run a service and script scan.<br>
+We will find the following pairs [port open]/[service]/[version]:</p>
+
+<ul style="list-style-type:square">
+    <li>[22]][ssh]/[OpenSSH 8.......]</li>
+    <li>[80]/[http]/[Apache httpd 2.4.41 ((Ubuntu))</li>
+    <li>[8000</li>
+</ul></p>
+
+<pre><code>root@ip-[Attack_IP]:~/subscribe# nmap -sC -sV -p22,80,8000,8089,8191,40009 [Target_IP] -T4
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2024-11-08 00:36 GMT
+Nmap scan report for subscribe.thm ([Target_IP])
+Host is up (0.00035s latency).
+
+PORT      STATE SERVICE         VERSION
+22/tcp    open  ssh             OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp    open  http            Apache httpd 2.4.41 ((Ubuntu))
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+|_http-title: Hack3M | Cyber Security Training
+8000/tcp  open  http            Splunkd httpd
+| http-robots.txt: 1 disallowed entry 
+|_/
+|_http-server-header: Splunkd
+| http-title: Site doesn't have a title (text/html; charset=UTF-8).
+|_Requested resource was http://subscribe.thm:8000/en-US/account/login?return_to=%2Fen-US%2F
+8089/tcp  open  ssl/http        Splunkd httpd (free license; remote login disabled)
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Server returned status 401 but no WWW-Authenticate header.
+|_http-server-header: Splunkd
+|_http-title: Site doesn't have a title (text/xml; charset=UTF-8).
+| ssl-cert: Subject: commonName=SplunkServerDefaultCert/organizationName=SplunkUser
+| Not valid before: 2024-04-05T11:00:59
+|_Not valid after:  2027-04-05T11:00:59
+8191/tcp  open  limnerpressure?
+| fingerprint-strings: 
+|   FourOhFourRequest, GetRequest: 
+|     HTTP/1.0 200 OK
+|     Connection: close
+|     Content-Type: text/plain
+|     Content-Length: 85
+|_    looks like you are trying to access MongoDB over HTTP on the native driver port.
+40009/tcp open  http            Apache httpd 2.4.41
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+|_http-title: 403 Forbidden
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+...
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
+</code></pre>
+
+
+![image](https://github.com/user-attachments/assets/67fdce5f-5be8-460d-810e-b4a27a5de72b)
 
 
 > 2.2. <em>What is the password for the user guest@hackme.thm?</em><br><a id='2.2'></a>
