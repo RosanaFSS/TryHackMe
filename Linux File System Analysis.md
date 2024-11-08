@@ -33,7 +33,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{186}}$$-day-streak in  <a href="h
 >> <code><strong>No answer needed</strong></code>
 
 <br>
-<br>
 <h2>Task 2. Investigation Setup<a id='2'></a></h2>
 <br>
 
