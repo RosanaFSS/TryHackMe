@@ -155,7 +155,7 @@ Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 ![image](https://github.com/user-attachments/assets/67fdce5f-5be8-460d-810e-b4a27a5de72b)
 
 <br>
-<p>Visualizing the source code we find information about some <code>Invite Code</code>.</p>
+<p>Visualizing the source code we find information about the <code>Invite Code</code>.</p>
 
 
 <pre><code><script src="/js/invite.js"></script> </code></pre>
@@ -164,7 +164,37 @@ Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 
 ![image](https://github.com/user-attachments/assets/effa6238-f3dc-440a-af35-64098c0f88ff)
 
+<br>
+<p>Visiting <code>[Target_IP]/js/invite.js</code> we find some code.</p>
 
+![image](https://github.com/user-attachments/assets/d4222e3e-94af-48c4-af3e-54da9be90420)
+
+<br>
+<p>I used <a href="https://beautifier.io/">Beuatifier.io</a>.</p>
+
+<p align="center"> <img width="400x" src="https://github.com/user-attachments/assets/84cd2deb-4d23-48fd-a16e-68706af9fee2"> </p>
+
+<pre><code>
+function e() {
+    var e = window.location.hostname;
+    if (e === "capture3millionsubscribers.thm") {
+        var o = new XMLHttpRequest;
+        o.open("POST", "inviteCode1337HM.php", true);
+        o.onload = function() {
+            if (this.status == 200) {
+                console.log("Invite Code:", this.responseText)
+            } else {
+                console.error("Error fetching invite code.")
+            }
+        };
+        o.send()
+    } else if (e === "hackme.thm") {
+        console.log("This function does not operate on hackme.thm")
+    } else {
+        console.log("Lol!! Are you smart enought to get the invite code?")
+    }
+}
+</code></pre>
 
 
 > 2.2. <em>What is the password for the user guest@hackme.thm?</em><br><a id='2.2'></a>
