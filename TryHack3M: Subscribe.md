@@ -66,7 +66,7 @@ Good luck!</p>
 
 <h3><em>Reconnaissance</em></h3>
 
-<pre><code>:~~/subscribe# nano /etc/hosts
+<pre><code>:~/subscribe# nano /etc/hosts
 </code></pre>
 
 <p>Let´s start with a Nmap scan.<br><br>
