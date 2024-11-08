@@ -157,6 +157,9 @@ Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 <br>
 <p>Visualizing the source code we find information about some <code>Invite Code</code>.</p>
 
+
+<pre><code><script src="/js/invite.js"></script> </code></pre>
+
 ![image](https://github.com/user-attachments/assets/96349aeb-7be6-4a8f-b694-0a00a643db9b)
 
 ![image](https://github.com/user-attachments/assets/effa6238-f3dc-440a-af35-64098c0f88ff)
