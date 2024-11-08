@@ -317,14 +317,13 @@ investigator : investigator adm dialout cdrom floppy sudo audio dip video plugde
 
 <br>
 
-<p>Alternatively, to list all of the members of a specific group, we can run the following command:</p>
+<p>To determine which groups a specific user is a member of, we can run the following command:</p>
 
 <pre><code>investigator@ip-10-10-226-120:~$ groups investigator
 investigator : investigator adm dialout cdrom floppy sudo audio dip video plugdev netdev lxd
 </code></pre>
 
 <p>Alternatively, to list all of the members of a specific group, we can run the following command:</p>p>
-
 
 <pre><code>investigator@ip-10-10-226-120:~$ getent group admin
 admin:x:116:
@@ -490,6 +489,169 @@ rootALL=(ALL:ALL) ALL
 jane ALL=(ALL) /usr/bin/pstree
 </code></pre>
 
+<br>
+<h2>Task 5. Users Directorires and Files<a id='5'></a></h2>
+<p>In the previous task, we identified a backdoor account that the attacker created and gained access to. However, we should take a step back and determine how the attacker got the privileges to create that account in the first place. To expand our investigation into the system's users and groups, we should also look into each user's personal directory, files, history, and configurations..</p>
+
+<h3>User Home Directories</h3>
+
+<p>User home directories in Linux contain personalised settings, configurations, and user-specific data. These directories are typically located under the <code>/home</code> directory and are named after the corresponding usernames on the system. Recall viewing the <code>/etc/passwd</code> file and identifying various users and their home directories.<br>
+
+We can list out the home directories with a simple <code>ls -l</code> command:</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$ ls -l /home
+total 16
+drwxr-xr-x 4 bob          bob          4096 Feb 12  2024 bob
+drwxr-xr-x 3 investigator investigator 4096 Feb 13  2024 investigator
+drwxr-xr-x 4 jane         jane         4096 Feb 13  2024 jane
+drwxr-xr-x 5 ubuntu       ubuntu       4096 Feb 12  2024 ubuntu
+</code></pre>
+
+<h3>Hidden Files</h3>
+<p>Hidden files, identified by a leading dot in their filenames, often store sensitive configurations and information within a user's home directory. By default, we cannot list out these hidden files using <code>ls</code>. To view them, we need to provide the <code>-a</code> argument, which will include all entries starting with a dot.<br>
+
+To list out the hidden files within Jane's home directory, run:</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$ ls -a /home/jane
+.  ..  .bash_history  .bash_logout  .bashrc  .cache  .profile  .ssh
+</code></pre>
+
+<p>Some common files that would be of interest during an investigation include:</p>
+
+<p>................</p>
+
+<p>Additionally, we can look at other files and directories of interest, like browser profiles and the <code>.ssh</code> directory.</p>
+
+<h3>SSH and Backdoor2</h3>
+<p>The <code>.ssh</code> directory is a susceptible area containing configuration and key files related to SSH connections. The <code>authorized_keys</code>code> file within the directory is critical because it lists public keys allowed to connect to a user's account over SSH.<br>
+
+If a malicious user gains unauthorised access to a system and wants to persistently access another user's account (for example, Jane's account) by adding their public key to the <code>authorized_keys</code> file, we can potentially uncover artefacts that hint at these actions.<br>
+
+First, navigate to the <code>.ssh</code> directory within Jane's home folder. From here, we can run an <code>ls -al</code> to list the contained files:</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$  ls -al /home/jane/.ssh
+total 20
+drwxr-xr-x 2 jane jane 4096 Feb 12  2024 .
+drwxr-xr-x 4 jane jane 4096 Feb 13  2024 ..
+-rw-rw-rw- 1 jane jane 1136 Feb 13  2024 authorized_keys
+-rw------- 1 jane jane 3389 Feb 12  2024 id_rsa
+-rw-r--r-- 1 jane jane  746 Feb 12  2024 id_rsa.pub
+</code></pre>
+
+<p>Let's view the file to see if we can identify any unintended authorised public keys:</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$ cat /home/jane/.ssh/authorized_keys
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD1a8StkAtopiMgFLPyHaETqxKQYetG6h3YoY09wUssYKY0anbSGRBfDC7PdTiTju81YeDvqh7JLo2ToN3Uu6Kv8EVaBIyM6m
+T4LldNafnMVMxGnnUgG8lmBSNeLGDjLjgV7DC8PvsTqsUMVY1qVX6k6gYsZTWzRsDvk/uCTdGqMlOSGKQG912y35INEo9HATgM+sGThRaDswXNml+ENjGXY63ohqhe7XEAdr+6
+92nPiQ4o0nl8xR6er+75zi4h1Hrk3GER5eRRehMpP5YWiiweW9tiIPR2K7KXgbPBor3Ppi7jHsyu8lh2bejovLHbR06Onjb7MQdyLHn+3TMvKIG2gC7y3UgStmE3hLyuewlpBw
+WdVhzJojGGoO31j9RzFrFA8GzBxMTaeoEooZonzsiwS67f0m61L9zmXVYTxhisGr98G41iV+hiXguvoI+wZKqtJzxm2Hwt2OhzSWCt30ovOw1aHdsVVaCO3gXbetnBcyXEaTld
+RcVPKDKhi5S2OnltpIyDUuiOitz52lCU+kC1P2pVHaFYLtSaQtBbJlMgcrKf8m0+3wDYloc/wx4kQa7bGEqcU5BfUk58wqiiacSzGM1yIDmV/oXpS5ysbVADRBrVjvY1VtGMrn
+trAzJ2VidWT+bBdI9GLtrX/8eEIR4cUklv1DUrcrJ+q4GbgX90Uw== jane@ip-10-10-25-169
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDE+QX6Zf8Lhyy+VAkwF9ATyW5FXsW3uE3b9s/DCnaiEJX39I59Vpiy5h8QM9FajO/GLhLHcQS7YI8AkYHpYgw2PUTZUcBb2d
+WtEd8YbXZd6IzQAdhxZZX2xxsiN1XdzF4uW1xzfsD/xAaEuXWs7zNjCN6bja+HhfmClghjFlg8TOCQbeeZooVXJ+SklRnp7MX9dk5ceLoU0Fv1VHQ7yOQHUeBochHRCexWLZJm
++9otO7y0xn93VVMT+qnbqnV4hbprx1GNd5WaVlATjE9juxf8zAXywpusvK8BuRnBiEQxAUQ0dBSaCg/mn5ffz5o07qPYNL+kByoTZFMdHaUkdHzD backdoor
+investigator@ip-10-10-226-120:~$ 
+</code></pre>
+
+<p>Notice that there are two entries. The first belongs to Jane, as signified by the ending comment. However, the second entry appears to be related to an entirely different keypair with the comment "backdoor". The attacker was likely able to edit this file and append their own public key, allowing them SSH access as Jane.
+
+We can further confirm this by returning to the <code>stat</code> command. By running it on the file, we can see that it was last modified around a similar timeframe to when we confirmed the attacker gained an initial foothold on the system.</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$ stat /home/jane/.ssh/authorized_keys 
+  File: /home/jane/.ssh/authorized_keys
+  Size: 1136      Blocks: 8          IO Block: 4096   regular file
+Device: ca01h/51713dInode: 257561      Links: 1
+Access: (0666/-rw-rw-rw-)  Uid: ( 1002/    jane)   Gid: ( 1002/    jane)
+Access: 2024-11-08 23:42:25.784000000 +0000
+Modify: 2024-02-13 00:34:16.005897449 +0000
+Change: 2024-02-13 00:34:16.005897449 +0000
+ Birth: -
+</code></pre>
+
+<br>
+<p>If we look back to the output of the <code>ls -al</code> command, we can identify the permission misconfiguration that made this possible:</p>
+
+<pre><code>investigator@ip-10-10-226-120:~$ ls -al /home/jane/.ssh/authorized_keys 
+-rw-rw-rw- 1 jane jane 1136 Feb 13  2024 /home/jane/.ssh/authorized_keys
+</code></pre>
+
+<p>As identified by the third <code>rw</code>permissions, this file is world-writable, which should never be the case for sensitive files. Consequently, by exploiting this misconfiguration, the attacker gained unauthorised SSH access to the system as if they were Jane.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
 
 
+> 5.1. <em>View Jane's <code>.bash_history</code> file. What flag do you see in the output?</em><br><a id='5.1'></a>
+>> <code><strong>THM{f38279ab9c6af1215815e5f7bbad891b}</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:/home/jane$ sudo cat .bash_history
+[sudo] password for investigator: 
+whoami
+groups
+cd ~
+ls -al
+find / -perm -u=s -type f 2>/dev/null
+/usr/bin/python3.8 -c 'import os; os.execl("/bin/sh", "sh", "-p", "-c", "cp /bin/bash /var/tmp/bash && chown root:root /var/tmp/bash &
+& chmod +s /var/tmp/bash")'
+ls -al /var/tmp
+exit
+useradd -o -u 0 b4ckd00r3d
+exit
+THM{f38279ab9c6af1215815e5f7bbad891b}
+investigator@ip-10-10-226-120:/home/jane$ 
+</code></pre>
+
+<br>
+
+> 5.2. <em>What is the hidden flag in Bob's home directory?</em><br><a id='5.2'></a>
+>> <code><strong>THM{f38279ab9c6af1215815e5f7bbad891b}</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:/home/bob$ ls -la
+total 36
+drwxr-xr-x 4 bob  bob  4096 Feb 12  2024 .
+drwxr-xr-x 6 root root 4096 Feb 12  2024 ..
+-rw-r--r-- 1 bob  bob   220 Feb 12  2024 .bash_logout
+-rw-r--r-- 1 bob  bob  3771 Feb 12  2024 .bashrc
+drwx------ 2 bob  bob  4096 Feb 12  2024 .cache
+...
+-rw-rw-r-- 1 bob  bob    38 Feb 12  2024 .hidden34
+-rw-rw-r-- 1 bob  bob     0 Feb 12  2024 .hidden35
+-rw-rw-r-- 1 bob  bob     0 Feb 12  2024 .hidden36
+-rw-rw-r-- 1 bob  bob     0 Feb 12  2024 .hidden37
+...
+-rw-rw-r-- 1 bob  bob     0 Feb 12  2024 .hidden7
+-rw-rw-r-- 1 bob  bob     0 Feb 12  2024 .hidden8
+-rw-rw-r-- 1 bob  bob     0 Feb 12  2024 .hidden9
+drwxrwxr-x 3 bob  bob  4096 Feb 12  2024 .local
+-rw-r--r-- 1 bob  bob   807 Feb 12  2024 .profile
+-rw-rw-r-- 1 bob  bob    66 Feb 12  2024 .selected_editor
+</code></pre>
+
+<pre><code>investigator@ip-10-10-226-120:/home/bob$ cat .hidden34
+THM{6ed90e00e4fb7945bead8cd59e9fcd7f}
+</code></pre>
+
+<br>
+
+> 5.3. <em>Run the <code>stat</code> command on Jane's <code>authorized_keys</code> file. What is the full timestamp of the most recent modification?</em><br><a id='5.3'></a>
+>> <code><strong>2024-02-13 00:34:16.005897449 +0000</strong></code>
+
+
+<pre><code>investigator@ip-10-10-226-120:/home/jane/.ssh$ ls -la
+total 20
+drwxr-xr-x 2 jane jane 4096 Feb 12  2024 .
+drwxr-xr-x 4 jane jane 4096 Feb 13  2024 ..
+-rw-rw-rw- 1 jane jane 1136 Feb 13  2024 authorized_keys
+-rw------- 1 jane jane 3389 Feb 12  2024 id_rsa
+-rw-r--r-- 1 jane jane  746 Feb 12  2024 id_rsa.pub
+investigator@ip-10-10-226-120:/home/jane/.ssh$ stat authorized_keys
+  File: authorized_keys
+  Size: 1136      Blocks: 8          IO Block: 4096   regular file
+Device: ca01h/51713dInode: 257561      Links: 1
+Access: (0666/-rw-rw-rw-)  Uid: ( 1002/    jane)   Gid: ( 1002/    jane)
+Access: 2024-11-08 23:42:25.784000000 +0000
+Modify: 2024-02-13 00:34:16.005897449 +0000
+Change: 2024-02-13 00:34:16.005897449 +0000
+ Birth: -
+</code></pre>
 
