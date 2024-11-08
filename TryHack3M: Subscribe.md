@@ -69,7 +69,7 @@ Good luck!</p>
 <pre><code>:~~/subscribe# nano /etc/hosts
 </code></pre>
 
-<p>Let´s start with an Nmap scan.<br>
+<p>Let´s start with a Nmap scan.<br><br>
 We will find six ports open: 22, 80, 8000, 8089, 8191 and 40009.</p>
 
 <pre><code>root@ip-[Attack_IP]:~/subscribe# nmap -p- [Target_IP] -T4
@@ -94,9 +94,12 @@ Nmap done: 1 IP address (1 host up) scanned in 1301.84 seconds
 We will find the following pairs [port open]/[service]/[version]:</p>
 
 <ul style="list-style-type:square">
-    <li>[22]][ssh]/[OpenSSH 8.......]</li>
-    <li>[80]/[http]/[Apache httpd 2.4.41 ((Ubuntu))</li>
-    <li>[8000</li>
+    <li>[22][ssh][OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)]</li>
+    <li>[80][http]/[Apache httpd 2.4.41 ((Ubuntu))]</li>
+    <li>[8000][http][Splunkd httpd]</li>
+    <li>[8089][http][SSplunkd httpd (free license; remote login disabled)]</li>
+    <li>[8191][tcp][limnerpressure?]</li>
+    <li>[40009][http][Apache httpd 2.4.41]</li>
 </ul></p>
 
 <pre><code>root@ip-[Attack_IP]:~/subscribe# nmap -sC -sV -p22,80,8000,8089,8191,40009 [Target_IP] -T4
