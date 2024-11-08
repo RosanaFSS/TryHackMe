@@ -151,7 +151,11 @@ Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 
 <br>
 <p>Accessing our Target Machine on port 80 we find a sing-up page.  Registration is disabled.</p>
+
 ![image](https://github.com/user-attachments/assets/67fdce5f-5be8-460d-810e-b4a27a5de72b)
+
+<br>
+<p>Visualizing the source code we find information about some <code>Invite Code</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/96349aeb-7be6-4a8f-b694-0a00a643db9b)
 
