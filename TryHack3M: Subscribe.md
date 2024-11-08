@@ -149,8 +149,15 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 57.61 seconds
 </code></pre>
 
-
+<br>
+<p>Accessing our Target Machine on port 80 we find a sing-up page.  Registration is disabled.</p>
 ![image](https://github.com/user-attachments/assets/67fdce5f-5be8-460d-810e-b4a27a5de72b)
+
+![image](https://github.com/user-attachments/assets/96349aeb-7be6-4a8f-b694-0a00a643db9b)
+
+![image](https://github.com/user-attachments/assets/effa6238-f3dc-440a-af35-64098c0f88ff)
+
+
 
 
 > 2.2. <em>What is the password for the user guest@hackme.thm?</em><br><a id='2.2'></a>
