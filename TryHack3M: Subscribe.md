@@ -90,8 +90,8 @@ MAC Address: 02:F4:54:9A:1F:AF (Unknown)
 Nmap done: 1 IP address (1 host up) scanned in 1301.84 seconds
 </code></pre>
 
-<pNext let´s run a service and script scan.<br>
-We will find the following pairs [port open]/[service]/[version]:</p>
+<p>Next let´s run a Nmap service and script scan.<br>
+We will find the following [port open][service][version]:</p>
 
 <ul style="list-style-type:square">
     <li>[22][ssh][OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)]</li>
