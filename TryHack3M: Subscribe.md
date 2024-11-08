@@ -64,6 +64,10 @@ Good luck!</p>
 
 <br>
 
+<h3><em>Reconnaissance</em></h3>
+
+
+
 > 2.2. <em>What is the password for the user guest@hackme.thm?</em><br><a id='2.2'></a>
 >> <code><strong>wedidit1010</strong></code>
 
