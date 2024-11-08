@@ -91,15 +91,15 @@ Nmap done: 1 IP address (1 host up) scanned in 1301.84 seconds
 </code></pre>
 
 <p>Next let´s run a Nmap service and script scan.<br>
-We will find the following [port open][service][version]:</p>
+We will find the following [port open] [service] [version]:</p>
 
 <ul style="list-style-type:square">
-    <li>[22][ssh][OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)]</li>
-    <li>[80][http]/[Apache httpd 2.4.41 ((Ubuntu))]</li>
-    <li>[8000][http][Splunkd httpd]</li>
-    <li>[8089][http][SSplunkd httpd (free license; remote login disabled)]</li>
-    <li>[8191][tcp][limnerpressure?]</li>
-    <li>[40009][http][Apache httpd 2.4.41]</li>
+    <li>[22] [ssh][OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)]</li>
+    <li>[80] [http] [Apache httpd 2.4.41 ((Ubuntu))]</li>
+    <li>[8000] [http] [Splunkd httpd]</li>
+    <li>[8089] [http] [SSplunkd httpd (free license; remote login disabled)]</li>
+    <li>[8191] [tcp] [limnerpressure?]</li>
+    <li>[40009] [http] [Apache httpd 2.4.41]</li>
 </ul></p>
 
 <pre><code>root@ip-[Attack_IP]:~/subscribe# nmap -sC -sV -p22,80,8000,8089,8191,40009 [Target_IP] -T4
