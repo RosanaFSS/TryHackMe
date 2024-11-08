@@ -27,7 +27,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 Well, last night, the UnderGround (UG) Hackers attacked our website, <code>hackme.thm</code>, and took complete control. They were able to turn off the signup page, so there won't be any new registrations. Given this, our user count is stuck at <code>2.99 Million</code>.<br>
 Can you help us restore the registration panel on our site to reach our 3 million user milestone?</p>
 
-![image](https://github.com/user-attachments/assets/fb37b395-5715-491c-b9d5-6afebec6e2c1)
+<p align="center">
+  <img width="750px" src="https://github.com/user-attachments/assets/fb37b395-5715-491c-b9d5-6afebec6e2c1">
+</p>
 
 <h3>Room Objectives</h3>
 
