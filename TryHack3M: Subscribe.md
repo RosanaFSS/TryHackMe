@@ -14,129 +14,143 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
 
 <p align="center">Summary</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [A Public Computer with a VPN](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Connected Tables](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Unlisted](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [From DB to OS](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;[Finding a Needle in a Malwarestack](#5) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#7) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Operation Defang](#8)  &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#9) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#10)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Storyline](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Exploitation](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Detection](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Conclusion](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#5) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#6)
 
 <br>
 <br>
 <br>
-<h2>Task 1. A Public Computer with a VPN<a id='1'></a></h2>
+<h2>Task 1. Storyline<a id='1'></a></h2>
+<h3>Incident Storyline</h3>
 
-![image](https://github.com/user-attachments/assets/fe7e8d48-51e9-4ca7-ab34-05505786f770)
+<p>We have good news and bad news! The good news is that we are about to hit 3 million users on our platform, and the bad news is;<br>
 
-<p>After weeks of meticulous observation and planning, we pinpointed the public computer that the suspect uses to access their website. The computer is located in a quiet corner of the local library. Although the computer has a warning sign that <strong>all computer activity is monitored</strong>, the suspect doesn’t seem to care. They only check for installed key loggers before establishing a VPN connection and logging in to their criminal marketplace. This time, we were ready:</p>
+Well, last night, the UnderGround (UG) Hackers attacked our website, <code>hackme.thm</code>, and took complete control. They were able to turn off the signup page, so there won't be any new registrations. Given this, our user count is stuck at <code>2.99 Million</code>.<br>
+Can you help us restore the registration panel on our site to reach our 3 million user milestone?</p>
+
+![image](https://github.com/user-attachments/assets/fb37b395-5715-491c-b9d5-6afebec6e2c1)
+
+<h3>Room Objectives</h3>
 
 <ul style="list-style-type:square">
-    <li>We have set the browser to log the session’s TLS keys; this logging was achieved by adding an extra option to the browser shortcut. Executing <code>chromium --ssl-key-log-file=~/ssl-key.log</code> dumps the TLS keys to the <code>ssl-key.log</code> file.</li>
-    <li>We were capturing all traffic on that computer.</li>
+    <li>Explore the web server and find the attack vectors leveraged by the attacker.</li>
+    <li>Regain access and restore the signup functionality for the new users.</li>
+    <li>Investigate the web application logs and track down the root cause.</li>
 </ul></p>
 
-<p>By the time they finished, we had a log of used TLS keys and an encrypted packet capture. You can access these files by clicking the <strong>Download Task Files</strong> button or navigating to <code>/root/Rooms/TryHack3M/sch3MaD3Mon</code> on the AttackBox. Using the TLS key log file, Wireshark should be able to decrypt all exchanged traffic.</p>
+<h3>Lab Connection</h3>
+<p>Before moving forward, start the lab by clicking the <code>Start Machine</code> button. It will take 3-5 minutes to load properly.<br>
+
+We can't wait to get our site restored and resume our 3M celebrations!<br>
+Good luck!</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
-> 1.1. <em>What is the suspect’s username?.</em><br><a id='1.1'></a>
->> <code><strong>lannister</strong></code>
+> 1.1. <em>I have successfully started the machine.</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 
-> 1.2. <em>What is the suspect’s password?</em><br><a id='1.2'></a>
->> <code><strong>hrpTfL42wMv3</strong></code>
-
-<br>
-
-<h2>Task 2. Connected Tables<a id='2'></a></h2>
-<br>
+<h2>Task 2. Exploitation<a id='2'></a></h2>
+<p><em>Sometimes, the attacker leaves footprints that allow you to regain access to the server.  Can you help HackM3 restore server access and get 3M subscribers?</em></p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
-> 2.1. <em>What does RDBMS stand for?</em><br><a id='2.1'></a>
->> <code><strong>Relational Database Management System</strong></code>
+> 2.1. <em>What is the invite code for the hackme.thm website?</em><br><a id='2.1'></a>
+>> <code><strong>VkXgo:Invited30MnUsers</strong></code>
 
 <br>
 
-> 2.2. <em>What does CRUD stand for?</em><br><a id='2.2'></a>
->> <code><strong>Create Read Update Delete</strong></code>
+> 2.2. <em>What is the password for the user guest@hackme.thm?</em><br><a id='2.2'></a>
+>> <code><strong>wedidit1010</strong></code>
 
 <br>
 
-> 2.3. <em>What does SQL stand for?</em><br><a id='2.2'></a>
->> <code><strong>Structured Query Language</strong></code>
+> 2.3. <em>What is the secure token for accessing the admin panel?</em><br><a id='2.3'></a>
+>> <code><strong>______________________</strong></code>
 
 <br>
 
-<h2>Task 3. Unlisted<a id='3'></a></h2>
-<br>
-
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
-<br>
-
-> 3.1. <em>What's the hidden path?</em><br><a id='3.1'></a>
->> <code><strong>os_sqli.php</strong></code>
+> 2.4. <em>What is the flag value after enabling the registration feature and getting 3M subscribers on the platform?</em><br><a id='2.4'></a>
+>> <code><strong>______________________</strong></code>
 
 <br>
 
-<h2>Task 4. From DB to OS<a id='4'></a></h2>
-<br>
+<h2>Task 3. Detection<a id='3'></a></h2>
+<h3>Investigating the Attack</h3>
+<p>Our security department detected an alert about a web attack on the 4th of April, 2024. They have ingested the logs into Splunk, which can be accessed using the following credentials:</p>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
-<br>
-
-
-> 4.1. <em>What is the output of pwd when run via an SQL injection attack?</em><br><a id='4.1'></a>
->> <code><strong>/var/lib/mysql</strong></code>
+![image](https://github.com/user-attachments/assets/94b1b4c9-b911-4639-b3af-0ee46473f2e9)
 
 <br>
 
-<h2>Task 5. Finding a Needle in a Malwarestack<a id='5'></a></h2>
-<br>
-
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
-<br>
-
-
-> 5.1. <em>What is the malware’s location?</em><br><a id='5.1'></a>
->> <code><strong>/home/products/malware/4sale/pal4t1n3/MisterMeist3r/2DC6C0</strong></code>
+![image](https://github.com/user-attachments/assets/53e89b2e-b665-4f36-9fe7-a637d50c83b5)
 
 <br>
+<p>Your task is to analyse the logs and track the attacker's footprints.<br>
 
-<h2>Task 6. Operation Defang<a id='6'></a></h2>
-<br>
+Good luck.</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 <br>
 
-> 6.1. <em>What programming language was used to develop the malware?</em><br><a id='6.1'></a>
->> <code><strong>nim</strong></code>
+> 3.1. <em>How many logs are ingested in the Splunk instance?</em><br><a id='3.1'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 6.2. <em>Reading the source code, what file type is added to the end of encrypted files?</em><br><a id='6.2'></a>
->> <code><strong>.boogey</strong></code>
+> 3.2. <em>What is the web hacking tool used by the attacker to exploit the vulnerability on the website?</em><br><a id='3.2'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 6.3. <em>What is the flag that appears after compiling the defanged malware?</em><br><a id='6.2'></a>
->> <code><strong>THM{3FDbU2nNy2FW7yMvMoH6WTMMM}</strong></code>
+> 3.3. <em>How many total events were observed related to the attack?</em><br><a id='3.3'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
+> 3.4. <em>What is the observed IP address of the attacker?</em><br><a id='3.4'></a>
+>> <code><strong>______________</strong></code>
 
-<h2>Room Complete<a id='9'></a></h2>
+<br>
+
+> 3.5. <em>How many events were observed from the attacker's IP?</em><br><a id='3.5'></a>
+>> <code><strong>______________</strong></code>
+
+<br>
+
+> 3.6. <em>What is the table used by the attacker to execute the attack?</em><br><a id='3.6'></a>
+>> <code><strong>______________</strong></code>
+
+<br>
+
+<h2>Task 4. Conclusion<a id='4'></a></h2>
+<br>
+<p>Congratulations on making it this far! You have clearly completed the challenge and helped HackM3 reach 3M subscribers. We are thrilled that you've had the opportunity to learn some fascinating exploitation techniques while gaining valuable detection insights for this kind of attack. Keep up the great work!<br>
+
+Let us know your thoughts on this room on our <a href="https://discord.com/invite/tryhackme">Discord channel</a> or <a href="https://x.com/realtryhackme">X account</a>. See you around.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 4.1. <em>I have successfully completed the room.</em><br><a id='4.1'></a>
+>> <code><strong>No answer needed</code>
+
+<br>
+
+<h2>Room Complete<a id='5'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-![image](https://github.com/user-attachments/assets/445eb4bd-cae7-4f87-9baf-ae2d1e85783a)
 
-<h2>My Journey<a id='10'></a></h2>
+
+<h2>My Journey<a id='6'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
 | November 7, 2024  | 185      |       1,286ª |          28ª |      4,298ª |        60ª | 53,942   |       405 |
-
-![image](https://github.com/user-attachments/assets/269011a6-5ffa-477c-9ebf-c1afaed0a69e)
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
