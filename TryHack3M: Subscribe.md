@@ -83,11 +83,15 @@ Good luck!</p>
 <h3>Investigating the Attack</h3>
 <p>Our security department detected an alert about a web attack on the 4th of April, 2024. They have ingested the logs into Splunk, which can be accessed using the following credentials:</p>
 
-![image](https://github.com/user-attachments/assets/94b1b4c9-b911-4639-b3af-0ee46473f2e9)
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/94b1b4c9-b911-4639-b3af-0ee46473f2e9">
+</p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/53e89b2e-b665-4f36-9fe7-a637d50c83b5)
+<p align="center">
+  <img width="750px" src="https://github.com/user-attachments/assets/53e89b2e-b665-4f36-9fe7-a637d50c83b5">
+</p>
 
 <br>
 <p>Your task is to analyse the logs and track the attacker's footprints.<br>
