@@ -37,7 +37,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{186}}$$-day-streak in  <a href="h
 <h2>Task 2. Investigation Setup<a id='2'></a></h2>
 <br>
 
-> 2.1. <em>After updating the PATH and LD_LIBRARY_PATH environment variables, run the command check-env. What is the flag that is returned in the output?</em><br><a id='1.1'></a>
+> 2.1. <em>After updating the <code>PATH</code> and <code>LD_LIBRARY_PATH</code> environment variables, run the command >code>check-env</code>. What is the flag that is returned in the output?</em><br><a id='1.1'></a>
 >> <code><strong>THM{5514ec4f1ce82f63867806d3cd95dbd8}</strong></code>
 
 <pre><code>$ investigator@ip-[Target_IP]:~$ export PATH=/mnt/usb/bin:/mnt/usb/sbin
