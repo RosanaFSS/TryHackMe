@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{186}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/linuxfilesystemanalysis">Linux File System Analysis</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/fdaa9e0d-9485-4f5d-a6eb-33c69aa9cee9">
-  <img height="150px" src="https://github.com/user-attachments/assets/4c008c9d-040a-4590-93f0-4e4e42e557cb">
+  <img height="150px" src="https://github.com/user-attachments/assets/166b5dea-6d43-4705-8d35-932a6655a1d4">
 </p>
 
 <p align="center">Summary</p>
@@ -763,16 +763,114 @@ Rootkits are particularly dangerous because they can hide their presence on a sy
 
 Fortunately, we can use some automated tools on UNIX-based systems to help detect and remove rootkits.</p>
 
-<h3>Chkrootkit</h3>
-https://www.chkrootkit.org/
-
 <p><a href="https://www.chkrootkit.org/">Chkrootkit (Check Rootkit)</a> is a popular Unix-based utility used to examine the filesystem for rootkits. It operates as a simple shell script, leveraging common Linux binaries like <code>grep</code> and <code>strings</code> to scan the core system programs to identify signatures. It can use the signatures from files, directories, and processes to compare the data and identify common patterns of known rootkits. As it does not perform an in-depth analysis, it is an excellent tool for a first-pass check to identify potential compromise, but it may not catch all types of rootkits.<br>
 
 Additionally, modern rootkits might deliberately attempt to identify and target copies of the chkrootkit program or adopt other strategies to evade its detection.<br>
 
 We can access the chkrootkit on the compromised system using our mounted binaries. We can perform a simple check by running <code>chkrootkit</code>:</p>
 
+<pre><code>investigator@10.10.226.120:~$ sudo chkrootkit
+ROOTDIR is `/'
+Checking `amd'...                                           not found
+Checking `basename'...                                      not infected
+Checking `biff'...                                          not found
+Checking `chfn'...                                          not infected
+Checking `chsh'...                                          not infected
+Checking `cron'...                                          not infected
+Checking `crontab'...                                       not infected
+Checking `date'...                                          not infected
+...
+</code></pre>
 
+
+<p>This scan will produce a large output, but it indicates the results of various checks for known rootkit-related files or patterns.</p>
+
+<h3>RKHunter</h3>
+
+https://rkhunter.sourceforge.net/
+
+<p><a href="https://rkhunter.sourceforge.net/">RKHunter (Rootkit Hunter)</a> is another helpful tool designed to detect and remove rootkits on Unix-like operating systems. It offers a more comprehensive and feature-rich rootkit detection check compared to chkrootkit. RKHunter can compare SHA-1 hashes of core system files with known good ones in its database to search for common rootkit locations, wrong permissions, hidden files, and suspicious strings in kernel modules. It is an excellent choice for a more comprehensive assessment of the affected system.
+
+Because rkhunter leverages a live database of known rootkit signatures, checking for database updates (<code>rkhunter --update</code>) before running in the field is crucial. Because this system is isolated, we won't be able to run a database update here, but the latest version was acquired before mounting our tools to the system.
+
+To perform a simple scan with rkhunter, we can run the following command:</p>
+
+<pre><code>investigator@10.10.226.120:~$ sudo rkhunter -c -sk
+[ Rootkit Hunter version 1.4.6 ]
+
+Checking system commands...
+
+  Performing 'strings' command checks
+    Checking 'strings' command                               [ OK ]
+
+  Performing 'shared libraries' checks
+    Checking for preloading variables                        [ None found ]
+...
+</code></pre>
+
+<p>This check will take some time to run but we have bypassed the user interaction prompts with the <code>-sk</code> argument. Afterwards, you will receive a system check summary detailing what was found.</p>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+
+
+> 7.1. <em>Run <strong>chkrootkit</strong> on the affected system. What is the full path of the <code>.sh</code> file that was detected?</em><br><a id='7.1'></a>
+>> <code><strong>/var/tmp/findme.sh</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:/$ sudo chkrootkit
+ROOTDIR is `/'
+Checking `amd'...                                           not found
+...
+Searching for common ssh-scanners default files...          nothing found
+Searching for Linux/Ebury - Operation Windigo ssh...        nothing found 
+Searching for 64-bit Linux Rootkit ...                      nothing found
+Searching for 64-bit Linux Rootkit modules...               nothing found
+Searching for Mumblehard Linux ...                          * * * * * /var/tmp/findme.sh
+Possible Mumblehard backdoor installed
+Searching for Backdoor.Linux.Mokes.a ...                    nothing found
+...
+Searching for anomalies in shell history files...           nothing found
+Checking `asp'...                                           not infected
+Checking `bindshell'...                                     not infected
+Checking `lkm'...                                           chkproc: nothing detected
+chkdirs: nothing detected
+Checking `rexedcs'...                                       not found
+Checking `sniffer'...                                       lo: not promisc and no packet sniffer sockets
+eth0: PACKET SNIFFER(/usr/lib/systemd/systemd-networkd[2918])
+Checking `w55808'...                                        not infected
+Checking `wted'...                                          1 deletion(s) between Mon Feb 12 20:03:27 2024 and Mon Feb 12 20:26:45 202
+4
+2 deletion(s) between Mon Feb 12 20:27:22 2024 and Mon Feb 12 20:51:02 2024
+2 deletion(s) between Mon Feb 12 21:22:31 2024 and Mon Feb 12 23:05:01 2024
+1 deletion(s) between Mon Feb 12 23:05:27 2024 and Tue Feb 13 00:28:29 2024
+Checking `scalper'...                                       not infected
+</code></pre>
+
+<br>
+
+> 7.2. <em>Run <strong>rkhunter</strong> on the affected system. What is the result of the <code>(UID 0) accounts </code> check?</em><br><a id='7.1'></a>
+>> <code><strong>Warning</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:~$ sudo rkhunter --check --sk --rwo | grep UID
+[sudo] password for investigator: 
+investigator@ip-10-10-226-120:~$ sudo rkhunter --check --sk --rwo | grep UID
+Warning: Account 'b4ckd00r3d' is root equivalent (UID = 0)
+</code></pre>
+
+
+<br>
+<h2>Task 8. Conclusion<a id='8'></a></h2>
+<p>Congratulations! You made it to the end of this exploration into Linux file system forensic analysis. Our investigation covered several topics, including examining digital artefacts, system logs, users, and file structures. Remember, the analysis and identification of compromised system artefacts represent only one phase of the incident response process—the following rooms in the module expand on other equally crucial areas for performing live forensics on Unix-based systems in the field.<br>
+
+Additionally, if you enjoyed exploring the methodologies of identifying system vulnerabilities and want more insight into hardening these systems, check out the Bulletproof Penguin room! To test your skills in identifying persistence mechanisms on Linux machines, be sure to attempt the Tardigrade challenge!</p>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 8.1. <em>Click and continue learning!</em><br><a id='8.1'></a>
+>> <code><strong>No answer needed</strong></code>
 
 
 
