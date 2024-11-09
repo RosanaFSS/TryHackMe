@@ -44,6 +44,8 @@ investigator@ip-[Target_IP]:~$ check-env
 THM{5514ec4f1ce82f63867806d3cd95dbd8}
 </code></pre>
 
+<br>
+
 <h2>Task 3. Files, Permissions, and Timestamps<a id='3'></a></h2>
 
 <br>
@@ -541,15 +543,8 @@ drwxr-xr-x 4 jane jane 4096 Feb 13  2024 ..
 <p>Let's view the file to see if we can identify any unintended authorised public keys:</p>
 
 <pre><code>investigator@ip-10-10-226-120:~$ cat /home/jane/.ssh/authorized_keys
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD1a8StkAtopiMgFLPyHaETqxKQYetG6h3YoY09wUssYKY0anbSGRBfDC7PdTiTju81YeDvqh7JLo2ToN3Uu6Kv8EVaBIyM6m
-T4LldNafnMVMxGnnUgG8lmBSNeLGDjLjgV7DC8PvsTqsUMVY1qVX6k6gYsZTWzRsDvk/uCTdGqMlOSGKQG912y35INEo9HATgM+sGThRaDswXNml+ENjGXY63ohqhe7XEAdr+6
-92nPiQ4o0nl8xR6er+75zi4h1Hrk3GER5eRRehMpP5YWiiweW9tiIPR2K7KXgbPBor3Ppi7jHsyu8lh2bejovLHbR06Onjb7MQdyLHn+3TMvKIG2gC7y3UgStmE3hLyuewlpBw
-WdVhzJojGGoO31j9RzFrFA8GzBxMTaeoEooZonzsiwS67f0m61L9zmXVYTxhisGr98G41iV+hiXguvoI+wZKqtJzxm2Hwt2OhzSWCt30ovOw1aHdsVVaCO3gXbetnBcyXEaTld
-RcVPKDKhi5S2OnltpIyDUuiOitz52lCU+kC1P2pVHaFYLtSaQtBbJlMgcrKf8m0+3wDYloc/wx4kQa7bGEqcU5BfUk58wqiiacSzGM1yIDmV/oXpS5ysbVADRBrVjvY1VtGMrn
-trAzJ2VidWT+bBdI9GLtrX/8eEIR4cUklv1DUrcrJ+q4GbgX90Uw== jane@ip-10-10-25-169
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDE+QX6Zf8Lhyy+VAkwF9ATyW5FXsW3uE3b9s/DCnaiEJX39I59Vpiy5h8QM9FajO/GLhLHcQS7YI8AkYHpYgw2PUTZUcBb2d
-WtEd8YbXZd6IzQAdhxZZX2xxsiN1XdzF4uW1xzfsD/xAaEuXWs7zNjCN6bja+HhfmClghjFlg8TOCQbeeZooVXJ+SklRnp7MX9dk5ceLoU0Fv1VHQ7yOQHUeBochHRCexWLZJm
-+9otO7y0xn93VVMT+qnbqnV4hbprx1GNd5WaVlATjE9juxf8zAXywpusvK8BuRnBiEQxAUQ0dBSaCg/mn5ffz5o07qPYNL+kByoTZFMdHaUkdHzD backdoor
+ssh-rsa [Redacted]
+ssh-rsa A[Redacted]
 investigator@ip-10-10-226-120:~$ 
 </code></pre>
 
@@ -654,4 +649,131 @@ Modify: 2024-02-13 00:34:16.005897449 +0000
 Change: 2024-02-13 00:34:16.005897449 +0000
  Birth: -
 </code></pre>
+
+<br>
+<h2>Task 6. Binaries and Executables<a id='6'></a></h2>
+<p>Another area to look at within our compromised host's file system is identifying binaries and executables that the attacker may have created, altered, or exploited through permission misconfigurations.</p>
+
+<h3>Identifying Suspicious Binaries</h3>
+<p>We can use the <code>find</code> command on UNIX-based systems to discover all executable files within the filesystem quickly:</p>
+
+
+<pre><code>investigator@10.10.226.120:~$ find / -type f -executable 2> /dev/null
+/snap/core/16574/etc/init.d/single
+/snap/core/16574/etc/init.d/ssh
+/snap/core/16574/etc/init.d/ubuntu-fan
+/snap/core/16574/etc/init.d/udev
+...
+</code></pre>
+
+<p>The following command recursively traverses the file system starting from the root directory and lists any executable file it finds. Note that this provides a huge amount of output. As such, it's often a good idea to limit the scope of the search through additional parameters.<br>
+
+Once we identify an executable or binary that we want to investigate further, we can perform metadata analysis as we have done previously, performing integrity checking on it using checksums or inspecting its human-readable strings and raw content.</p>
+
+<h3>Strings</h3>
+<p>The <code>strings</code> command is valuable for extracting human-readable strings from binary files. These strings can sometimes include function names, variable names, and even plain text messages embedded within the binary. Analysing this information can help responders determine what the binary is used for and if there is any potential malicious activity involved. To run the strings command on a file, we need to provide the file as a single argument:</p>
+
+<pre><code>user@tryhackme$ fstrings example.elf
+</code></pre>
+
+<h3>Debsums</h3>
+<p>Like the integrity checking we performed earlier, <code>debsums</code> is a command-line utility for Debian-based Linux systems that verifies the integrity of installed package files. <code>debsums</code> automatically compares the MD5 checksums of files installed from Debian packages against the known checksums stored in the package's metadata.<br>
+
+If any files have been modified or corrupted, <code>debsums</code> will report them, citing potential issues with the package's integrity. This can be useful in detecting malicious modifications and integrity issues within the system's packages. We can perform this check on the compromised system by running the following command:</p>
+
+<pre><code>investigator@10.10.226.120:~$ sudo debsums -e -s
+debsums: changed file /***/******* (from sudo package)
+</code></pre>
+
+<p>In the above command, we provide the <code>-e</code> flag to only perform a configuration file check. In addition, we provide the <code>-s</code> flag to silence any error output that may fill the screen.</p>
+
+<h3>Binary Permissions</h3>
+<p>SetUID (SUID) and SetGID (SGID) are special permission bits in Unix operating systems. These permission bits change the behaviour of executable files, allowing them to run with the privileges of the file owner or group rather than the privileges of the user who executes the file.<br>
+
+If a binary or executable on the system is misconfigured with an SUID or SGID permission set, an attacker may abuse the binary to break out of a restricted (unprivileged) shell through legitimate but unintended use of that binary. For example, if the PHP binary contained a SUID bit to run as root, it's trivial for an attacker to abuse it to run system commands through PHP's system exec functions as root.<br>
+
+Identifying SetUID (SUID) binaries on a Linux system involves examining the file permissions and explicitly looking for executables with the SetUID bit set. We can return to the <code>find</code> command to retrieve a list of the SetUID binaries on the system:</p>
+
+<pre><code>investigator@10.10.226.120:~$ find / -perm -u=s -type f 2>/dev/null
+...
+/usr/bin/fusermount
+/usr/bin/python3.8
+/usr/bin/at
+/usr/bin/mount
+/var/tmp/bash
+/mnt/usb/lib/dbus-1.0/dbus-daemon-launch-helper
+...
+</code></pre>
+
+
+<p>Specifically, the above command looks for files where the user permission has the SUID bit set (<code>-u=s</code>).<br>
+
+Much of the output here is expected as these binaries require the SUID bit and are not vulnerable. However, two of these results stand out. Firstly, Python should never be given SUID permission, as it is trivial to escalate privileges to the owner. Additionally, any SUID binaries in the <code>/tmp</code> or <code>/var/tmp</code> directory stand out as these directories are typically writable by all users, and unauthorised creation of SUID binaries in these directories poses a notable risk.<br>
+
+We can investigate further by looking in Jane's bash history for any commands related to Python or bash:</p>
+
+<pre><code>investigator@10.10.226.120:~$ sudo cat /home/jane/.bash_history | grep -B 2 -A 2 "python"
+ls -al
+find / -perm -u=s -type f 2>/dev/null
+/usr/bin/python3.8 -c 'import os; os.execl("/bin/sh", "sh", "-p", "-c", "cp /bin/bash /var/tmp/bash && chown root:root /var/tmp/bash && chmod +s /var/tmp/bash")'
+ls -al /var/tmp
+/var/tmp/bash -p
+exit
+</code></pre>
+
+<p>From the output, we've discovered evidence of Jane's user account identifying SUID binaries with the <code>find</code> command and abusing the SUID permission on the Python binary to run system commands as the root user. With this level of command execution, the attacker was able to create a copy of the <code>/bin/bash</code> binary (the Bash shell executable) and place it into the <code>/var/tmp</code> folder. Additionally, the attacker changed the owner of this file to root and added the SUID permission to it (<code>chmod +s</code>).
+
+After making an SUID copy of <code>/bin/bash</code>, the attacker elevated to root by running <code>/var/tmp/bash -p</code>. We can further verify the <code>bash</code> binary by performing an integrity check on the original:</p>
+
+<pre><code>investigator@10.10.226.120:~$ investigator@10.10.226.120:~$ md5sum /var/tmp/bash 
+7063c393************d3b340f1ad2c  /var/tmp/bash
+investigator@10.10.226.120:~$ md5sum /bin/bash
+7063c393************d3b340f1ad2c  /bin/bash
+</code></pre>
+
+<p>The output above shows that the two binaries are identical, further enhancing our understanding of the attacker's actions to escalate to root.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+
+
+> 6.1. <em>Run the <code>debsums</code> utility on the compromised host to check only configuration files. Which file came back as altered?</em><br><a id='6.1'></a>
+>> <code><strong>/etc/sudoers</strong></code>
+
+
+<pre><code>investigator@ip-10-10-226-120:/etc$ sudo debsums -c -e
+[sudo] password for investigator: 
+/etc/sudoers
+</code></pre>
+
+<br>
+
+> 6.2. <em>What is the <code>md5sum</code> of the binary that the attacker created to escalate privileges to root?</em><br><a id='6.1'></a>
+>> <code><strong>7063c3930affe123baecd3b340f1ad2c</strong></code>
+
+<pre><code>investigator@ip-10-10-226-120:/etc$ md5sum /var/tmp/bash
+7063c3930affe123baecd3b340f1ad2c  /var/tmp/bash
+</code></pre>
+
+<br>
+<h2>Task 7. Rootkits<a id='7'></a></h2>
+<p>A rootkit is a type of malicious set of tools or software designed to gain administrator-level control of a system while remaining undetected by the system or user. The term "rootkit" derives from "root", the highest-level user in Unix-based systems, and "kit", which typically refers to a set of tools used to maintain this access.<br>
+
+Rootkits are particularly dangerous because they can hide their presence on a system and allow attackers to maintain long-term access without detection. Attackers can also use them to stage other malicious activities on the target, exfiltrate sensitive information, or command and control the compromised system remotely.<br>
+
+Fortunately, we can use some automated tools on UNIX-based systems to help detect and remove rootkits.</p>
+
+<h3>Chkrootkit</h3>
+https://www.chkrootkit.org/
+
+<p><a href="https://www.chkrootkit.org/">Chkrootkit (Check Rootkit)</a> is a popular Unix-based utility used to examine the filesystem for rootkits. It operates as a simple shell script, leveraging common Linux binaries like <code>grep</code> and <code>strings</code> to scan the core system programs to identify signatures. It can use the signatures from files, directories, and processes to compare the data and identify common patterns of known rootkits. As it does not perform an in-depth analysis, it is an excellent tool for a first-pass check to identify potential compromise, but it may not catch all types of rootkits.<br>
+
+Additionally, modern rootkits might deliberately attempt to identify and target copies of the chkrootkit program or adopt other strategies to evade its detection.<br>
+
+We can access the chkrootkit on the compromised system using our mounted binaries. We can perform a simple check by running <code>chkrootkit</code>:</p>
+
+
+
+
+
 
