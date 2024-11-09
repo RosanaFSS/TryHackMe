@@ -872,6 +872,20 @@ Additionally, if you enjoyed exploring the methodologies of identifying system v
 > 8.1. <em>Click and continue learning!</em><br><a id='8.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
+<h2>Room Complete<a id='9'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+![image](https://github.com/user-attachments/assets/fb4f8d14-0a5a-4c80-8599-34f1e2dd3c1e)
 
 
+<h2>My Journey<a id='10'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 8, 2024  | 186      |       1,266ª |          28ª |      4,182ª |        59ª | 54,318   |       409 |
+
+![image](https://github.com/user-attachments/assets/568367ad-61bb-4352-b118-dfcd915562eb)
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
