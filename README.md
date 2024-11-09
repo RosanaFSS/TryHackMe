@@ -1,12 +1,12 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<p align="center">November 8, 2024</p>
+<p align="center">November 9, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe</a> through 2 engagements:}}$$ </h2>
 
 <h3>The first with my personal account, active since January 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<p align="center">November 8, 2024 - My yearly activity<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/568367ad-61bb-4352-b118-dfcd915562eb"> </p>
+<p align="center">November 9, 2024 - My yearly activity<br>
+                 <img width="800px" src="https://github.com/user-attachments/assets/6b68de55-dd12-45dc-9ed5-ea5c8566ffc2"> </p>
 
 <br>
 
@@ -27,7 +27,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 50% | 28 |  
+|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 55% | 28 |  
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
@@ -48,6 +48,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 9, 2024  | 187      |       1,260ª |          27ª |      4,390ª |        61ª | 54,438   |       410 |
 | November 8, 2024  | 186      |       1,266ª |          28ª |      4,182ª |        59ª | 54,318   |       409 |
 | November 8, 2024  | 186      |       1,271ª |          28ª |      4,139ª |        57ª | 54,230   |       408 |
 | November 8, 2024  | 186      |       1,273ª |          28ª |      3,946ª |        55ª | 54,182   |       406 |
