@@ -6,18 +6,18 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
 <p align="center">November 10, 2024 - My yearly activity<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/5681cb47-1605-4520-b51c-897a4b2d414b"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/5681cb47-1605-4520-b51c-897a4b2d414b"> </p>
 
 <br>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
-                 <img width="800px" src=""> </p>
+                 <img width="1000px" src=""> </p>
 
 <br>
 
 <p align="center">11 learning paths complete<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/5779972b-f349-4df0-ae1a-09886d1f2df4"> <br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/8e487e98-ade8-44f1-a484-ffc2147f95c1"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/5779972b-f349-4df0-ae1a-09886d1f2df4"> <br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/8e487e98-ade8-44f1-a484-ffc2147f95c1"> </p>
 
 <p align="center">My Certificates</p>
  
@@ -88,10 +88,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <p></p>
 
 <p align="center">November 10, 2024 - My yearly activity<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436"> </p>
                  
 <p align="center">My assignments completed<br>
-                 <img width="800px" src="https://github.com/user-attachments/assets/eec4ec31-4f79-43cf-ad32-9ac095bc1305"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/eec4ec31-4f79-43cf-ad32-9ac095bc1305"> </p>
 
 <div align="center">
 
