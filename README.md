@@ -20,7 +20,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
                  <img width="1000px" src="https://github.com/user-attachments/assets/8e487e98-ade8-44f1-a484-ffc2147f95c1"> </p>
 
 <p align="center">My Certificates</p>
- 
+
 <div align="center">
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
