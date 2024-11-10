@@ -87,13 +87,13 @@ WiCys SANS Security Training Scholarship, Stage 2.</h2>
 Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <p></p>
 
-<p align="center">November 9, 2024 - My yearly activity<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/894c081c-976c-4c01-8a5f-0f8b012028ce"> </p>
+<p align="center">November 10, 2024 - My yearly activity<br>
+                 <img height="500px" src="https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436"> </p>
                  
+![image](https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436)
 
 <p align="center">My assignments completed<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/f7a4620d-31ba-441b-86aa-28b1aa503fb5)"> </p>
-
+                 <img height="500px" src="https://github.com/user-attachments/assets/eec4ec31-4f79-43cf-ad32-9ac095bc1305"> </p>
 
 <div align="center">
 
@@ -114,6 +114,7 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 10, 2024 | 43       |      35,332ª |         610ª |      2,794ª |        36ª |   13,054 |       119 |
 | November 09, 2024 | 42       |      36,245ª |         628ª |      2,927ª |        37ª |   13,014 |       118 |
 | November 08, 2024 | 41       |      36,473ª |         634ª |      2,790ª |        36ª |   12,966 |       118 |
 | November 07, 2024 | 40       |      37,016ª |         642ª |      2,491ª |        34ª |   12,854 |       117 |
