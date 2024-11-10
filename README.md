@@ -88,12 +88,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <p></p>
 
 <p align="center">November 10, 2024 - My yearly activity<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436"> </p>
+                 <img width="800px" src="https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436"> </p>
                  
-![image](https://github.com/user-attachments/assets/f0305bb1-dd44-4916-be00-256e2dc08436)
-
 <p align="center">My assignments completed<br>
-                 <img height="500px" src="https://github.com/user-attachments/assets/eec4ec31-4f79-43cf-ad32-9ac095bc1305"> </p>
+                 <img width="800px" src="https://github.com/user-attachments/assets/eec4ec31-4f79-43cf-ad32-9ac095bc1305"> </p>
 
 <div align="center">
 
