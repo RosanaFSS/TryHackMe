@@ -16,8 +16,20 @@ For more information on Linux, check out Learn Linux
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+<br>
+
 > 1.1. <em>Enumerate the machine.  How many ports are open?</em><br><a id='1.1'></a>
 >> <code><strong>4</strong></code>
+
+<br>
+
+> 1.2. <em>What service is running on port 21?</em><br><a id='1.2'></a>
+>> <code><strong>ftp</strong></code>
+
+<br>
+
+> 1.3. <em>What service is running on ports 139 and 445?</em><br><a id='1.3'></a>
+>> <code><strong>smb</strong></code>
 
 <br>
 
@@ -167,12 +179,43 @@ Nmap done: 1 IP address (1 host up) scanned in 29.24 seconds
            Raw packets sent: 1180 (61.662KB) | Rcvd: 1138 (54.786KB)
 root@ip-10-10-29-125:~/anonymous# 
 
+<br>
+           
+> 1.4. <em>There's a share on the user's computer.  What's it called?</em><br><a id='1.4'></a>
+>> <code><strong>Pics</strong></code>
+
+<br>
+           
+<pre><code>root@ip-[Attack_Box]:~/anonymous# smbclient -L 10.10.150.106
+WARNING: The "syslog" option is deprecated
+Enter WORKGROUP\root's password: 
+
+	Sharename       Type      Comment
+	---------       ----      -------
+	print$          Disk      Printer Drivers
+	pics            Disk      My SMB Share Directory for Pics
+	IPC$            IPC       IPC Service (anonymous server (Samba, Ubuntu))
+Reconnecting with SMB1 for workgroup listing.
+
+	Server               Comment
+	---------            -------
+
+	Workgroup            Master
+	---------            -------
+	WORKGROUP            ANONYMOUS
 </code></pre>
 
+<br>
+           
+> 1.5. <em>user.txt</em><br><a id='1.5'></a>
+>> <code><strong>_____</strong></code>
 
-<pre><code>$ 
-</code></pre>
-  
+<br>
+
+> 1.6. <em>root.txt</em><br><a id='1.6'></a>
+>> <code><strong>_____</strong></code>
+
+<br>
   
 
 
