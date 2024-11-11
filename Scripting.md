@@ -20,7 +20,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{188}}$$-day-streak in  <a href="h
 <br>
 <br>
 <br>
-<h2 align="center">Task 1. [Easy] Base64`<a id='1'></a></h2>
+<h2 align="center">Task 1. [Easy] Base64<a id='1'></a></h2>
 <p>This file has been base64 encoded 50 times - write a script to retrieve the flag. Here is the general process to do this:</p>p>
 
 <p>......................</p>
