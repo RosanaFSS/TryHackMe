@@ -1,7 +1,8 @@
 
 ![image](https://github.com/user-attachments/assets/4ddd782f-997a-4745-9916-f79913fb1762)
 
-![image](https://github.com/user-attachments/assets/e58ba1cd-a88c-4da9-b525-d221a8dee925)
+![image](https://github.com/user-attachments/assets/43d79f41-acec-4a69-a940-55ca14fd5b4a)
+
 
 
 <h2>Task 1. Pwn</h2>
@@ -399,5 +400,11 @@ cat /root/root.txt
 </code></pre>
 
   
+
+
+![image](https://github.com/user-attachments/assets/adbf4d86-4cf4-46f1-8b72-a07a8aaa72d9)
+
+
+![image](https://github.com/user-attachments/assets/cd6b7bcc-1bbe-4576-a12d-3591bd10d6ac)
 
 
