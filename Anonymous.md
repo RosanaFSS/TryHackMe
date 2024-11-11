@@ -177,7 +177,7 @@ Read data files from: /usr/bin/../share/nmap
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 29.24 seconds
            Raw packets sent: 1180 (61.662KB) | Rcvd: 1138 (54.786KB)
-root@ip-10-10-29-125:~/anonymous# 
+</code></pre>
 
 <br>
            
