@@ -88,12 +88,11 @@ WiCys SANS Security Training Scholarship, Stage 2.</h2>
 Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more about my accomplishments in TryHackMe.</h3>
 <p></p>
 
-<p align="center">November 10, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/a6e32b92-e0de-4b57-9a6e-bf25c0854b14"> </p>
+<p align="center">November 11, 2024 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/b0e3dc55-485e-4e80-871e-b8d8c681c117"> </p>
                 
 <p align="center">My assignments completed<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/33f72876-1715-4e0b-a220-2e5da1faef5c"> </p>
-
+                 <img width="1000px" src="https://github.com/user-attachments/assets/8f42a3a0-219a-419d-a30c-1f7766d98630"> </p>
 
 <div align="center">
 
@@ -114,8 +113,8 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 11, 2024 | 44       |      34,404ª |         601ª |      2,710ª |        38ª |   13,416 |       122 |
 | November 10, 2024 | 43       |      35,227ª |         609ª |      2,952ª |        39ª |   13,236 |       121 |
-| November 10, 2024 | 43       |      35,332ª |         610ª |      2,794ª |        36ª |   13,054 |       119 |
 | November 09, 2024 | 42       |      36,245ª |         628ª |      2,927ª |        37ª |   13,014 |       118 |
 | November 08, 2024 | 41       |      36,473ª |         634ª |      2,790ª |        36ª |   12,966 |       118 |
 | November 07, 2024 | 40       |      37,016ª |         642ª |      2,491ª |        34ª |   12,854 |       117 |
