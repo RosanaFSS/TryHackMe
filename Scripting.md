@@ -34,12 +34,15 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{188}}$$-day-streak in  <a href="h
 >> <code><strong>HackBack2019=</strong></code>
 
 <br>
-<p>I downloaded room´s file and renamed it as <code>THMscripting.txt</code>.</p>
+<p>I downloaded room´s file and renamed it to <code>THMscripting.txt</code>.</p>
 
 
 <p>Called the following file <code>THMctf.py</code>.</p>
-<pre><code>
-import base64
+
+<pre><code>$ nano THMctf.py
+</code></pre>
+  
+<pre><code>import base64
 
 #Open file
 with open('THMscripting.txt') as f:
@@ -52,13 +55,8 @@ for _ in range(50):
 print(f"The flag is: {msg.decode('utf8')}")
 </code></pre>
 
-<pre><code>
-
-</code></pre>
-
 <p>After running the file with Python3 I got the flag.</p>
-<pre><code>
-python3 THMctf.py                
+<pre><code>$ python3 THMctf.py                
 The flag is: HackBack2019=
 </code></pre>
 
