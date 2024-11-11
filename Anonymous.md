@@ -371,12 +371,25 @@ cat /root/root.txt
 4d930091c31a622a7ed10f27999af363
 </code></pre>
 
-  
+<br>
+<h2>Room Complete<a id='2'></a></h2>
+<p>Keep learning, keep growing!</p>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/adbf4d86-4cf4-46f1-8b72-a07a8aaa72d9"></p>
+
+<h2>My Journey<a id='3'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 11, 2024 | 189      |       1,237ª |          25ª |      4,023ª |        54ª | 54,878   |       416 |
+
+</div>
 
 
-![image](https://github.com/user-attachments/assets/adbf4d86-4cf4-46f1-8b72-a07a8aaa72d9)
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/cd6b7bcc-1bbe-4576-a12d-3591bd10d6ac"></p>
 
-
-![image](https://github.com/user-attachments/assets/cd6b7bcc-1bbe-4576-a12d-3591bd10d6ac)
-
-
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
