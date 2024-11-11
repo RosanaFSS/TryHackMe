@@ -11,8 +11,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 </p>
 
 <br>
-<br>
-<br>
 <h2>Task 1. Pwn</h2>
 
 <p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/62596890-c2b8-41c6-af3d-892e6872998a"></p>
