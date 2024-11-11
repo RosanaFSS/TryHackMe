@@ -1,14 +1,14 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<p align="center">November 10, 2024</p>
+<p align="center">November 11, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe</a> through 2 engagements:}}$$ </h2>
 
 <h3>The first with my personal account, active since January 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<p align="center">November 10, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/fa5a63d0-9b15-45f3-ad4a-40e81adb3ece"> </p>
+<p align="center">November 11, 2024 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/cd6b7bcc-1bbe-4576-a12d-3591bd10d6ac"> </p>
 
-<br>
+</div>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
                  <img width="1000px" src=""> </p>
@@ -48,6 +48,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 11, 2024 | 189      |       1,237ª |          25ª |      4,023ª |        54ª | 54,878   |       416 |
 | November 10, 2024 | 188      |       1,247ª |          25ª |      4,292ª |        60ª | 54,698   |       415 |
 | November 9, 2024  | 187      |       1,260ª |          27ª |      4,414ª |        61ª | 54,446   |       411 |
 | November 8, 2024  | 186      |       1,266ª |          28ª |      4,182ª |        59ª | 54,318   |       409 |
