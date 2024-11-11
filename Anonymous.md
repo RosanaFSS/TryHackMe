@@ -6,14 +6,16 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 <p align="center">Not the hacking group</p>
 <p align="center">Access this free TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/anonymous">Anonymous</a>.</p>
 <p align="center">
-  <img height="90px" hspace="20" src="https://github.com/user-attachments/assets/6b425b38-1b82-4406-93da-c6988046c0b3"><br>
+  <img height="90px" src="https://github.com/user-attachments/assets/6b425b38-1b82-4406-93da-c6988046c0b3"><br>
   <img width="900px" src="https://github.com/user-attachments/assets/43d79f41-acec-4a69-a940-55ca14fd5b4a">
 </p>
 
 <br>
 <h2>Task 1. Pwn</h2>
 
-<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/62596890-c2b8-41c6-af3d-892e6872998a"></p>
+<p align="center">
+  <img height="90px" src="https://github.com/user-attachments/assets/62596890-c2b8-41c6-af3d-892e6872998a"><br>
+</p>
 
 <p>Try to get the two flags!  Root the machine and prove your understanding of the fundamentals! This is a virtual machine meant for beginners. Acquiring both flags will require some basic knowledge of Linux and privilege escalation methods.
 --------------------------------------------------------------------
