@@ -17,10 +17,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
   <img height="250px" src="https://github.com/user-attachments/assets/62596890-c2b8-41c6-af3d-892e6872998a"><br>
 </p>
 
-<p>Try to get the two flags!  Root the machine and prove your understanding of the fundamentals! This is a virtual machine meant for beginners. Acquiring both flags will require some basic knowledge of Linux and privilege escalation methods.
---------------------------------------------------------------------
-For more information on Linux, check out Learn Linux
-</p>
+<p align="center">Try to get the two flags!  Root the machine and prove your understanding of the fundamentals! This is a virtual machine meant for beginners. Acquiring both flags will require some basic knowledge of Linux and privilege escalation methods.
 
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
