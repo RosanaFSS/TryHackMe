@@ -3,7 +3,7 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{ Looney Tunables }}$$ </h1>
-<p align="center">CVE-2023-4911: That's all Sec-Folks!s.</p>
+<p align="center">CVE-2023-4911: That's all Sec-Folks!</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/looneytunes">GitLab CVE-2023-7028</a>.</p>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/2701eded-3213-4aa9-9919-720579b58a44"><br>
