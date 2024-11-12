@@ -115,6 +115,13 @@ Can you help Anna extract the registry data from the VM attached to Task 1, as s
 
 <br>
 <h2 align="center">Task 3. Data Acquisition Using KAPE<a id='3'></a></h2>
+<p>Anna could use FTK Imager to extract registry data, but it is a manual way of data acquisition. Ideally, she would like something that can remove the human element from the process so there are fewer chances of making a mistake and is easier to delegate to one of her team members. Usually, the advantage of an automatic process is speed and efficiency, but a manual way also has its benefits, and granularity and specificity are such. In this task, we will see how to automate the data acquisition process using KAPE. </p>
+
+<br>
+<h3>Data Acquisition Using KAPE</h3>
+<p>We learned about KAPE in a dedicated room. KAPE (Kroll Artifact Parser and Extractor) is a tool that helps us collect and process triage data quickly from a system. KAPE is generally used on live systems. However, it can also be used on a disk image by mounting it and providing the target location as the mounted disk image drive. We can use any image mounting software to mount the disk image, and the rest of the process remains the same. FTK Imager can also mount images, but running KAPE while FTK Imager is running might cause issues, and we have to select the <code>Ignore FTK warning</code> checkbox to execute KAPE in that scenario.<br>
+
+First, we can start with the <code>gkape.exe</code> executable, which we can find in the KAPE folder in the attached VM. It will open the KAPE GUI. This will look something like this:</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
