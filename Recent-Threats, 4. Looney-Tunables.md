@@ -272,7 +272,7 @@ THM{TH-TH-THATS-SECURE-FOLKS!}
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 11, 2024 | 188      |       1,237ª |          25ª |      4,278ª |        57ª | 54,886   |       417 |
+| November 11, 2024 | 189      |       1,237ª |          25ª |      4,278ª |        57ª | 54,886   |       417 |
 
 </div>
 
