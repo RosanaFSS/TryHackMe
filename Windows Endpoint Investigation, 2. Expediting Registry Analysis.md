@@ -111,7 +111,7 @@ Can you help Anna extract the registry data from the VM attached to Task 1, as s
 <br>
 
 > 2.2. <em>When we take a forensic data collection from the disk image of a system, what type of acquisition is it called?</em><br><a id='2.2'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>cold acquisition</strong></code>
 
 <br>
 
