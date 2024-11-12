@@ -40,9 +40,68 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 First, we must load the disk image from which we want to extract the data. In the attached VM, we can see the shortcut file for FTK Imager on the Desktop. After starting, we can <code>Add Evidence Item</code> by going to <code>File > Add Evidence Item</code>.</p>
 
-<p>...............</p>
+<br>
+
+![image](https://github.com/user-attachments/assets/5493cc7a-b7cd-4c11-9a46-4f037173ddb4)
 
 <br>
+
+![image](https://github.com/user-attachments/assets/72d1b9c5-f9fd-4061-a22b-327725398420)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/48d2dabf-a481-4059-a0f2-d4956a34e940)
+
+<br>
+<p>In a live system, this is generally the C drive of the system (or the drive where the OS is installed). We can do that by selecting <code>Logical Drive</code> in the Add Evidence Item menu. </p>
+
+![image](https://github.com/user-attachments/assets/dc7a1764-c335-495c-96aa-e699f850bdaa)
+
+<br>
+<p>We can then select the OS drive from a list of available drives.</p>
+
+![image](https://github.com/user-attachments/assets/ef8e8cdc-eea8-4502-9a3c-aa3840ef46ad)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7b8d197b-d806-4e5e-8124-511cde5d7105)
+
+<br>
+<p>In a cold system, instead of the C drive of the current system, we have to navigate to the path of the target system and select the disk image from which we want to extract the data. We do that by selecting <code>Image File</code> in the Add Evidence Item menu.</p>
+
+![image](https://github.com/user-attachments/assets/a8cc8139-c40f-4b0d-9677-dfcf726c0f69)
+
+<p>We can then browse where we saved the image file and add it to FTK Imager. This is the only difference between exporting files from a live disk or a cold disk image. Once we have added the evidence into FTK Imager, the rest of the process is the same.</p>
+
+![image](https://github.com/user-attachments/assets/03cfcd97-9292-40e3-a491-afbf31f170fe)
+
+<br>
+<p>In a live system, we can collect the registry data by clicking the <code>Obtain Protected Files</code> option in FTK Imager. Remember that the registry files are locked and cannot be copied easily in a live system. Although we will not use this option now, it can help us get those locked and protected files. We could export these files to a location of our choice. </p>
+
+![image](https://github.com/user-attachments/assets/ba735831-76b3-4bd2-a97b-28f3993f7fcf)
+
+
+<br>
+<p>However, the problem with the above method is that it does not acquire all the registry hives. For example, it does not copy the Amcache hive, which will make us leave out important information about program execution. As we can see in the bottom-left of the above screenshot, this option exports files to facilitate a SAM attack, which targets the SAM registry hive to exploit user credentials. 
+
+A better way to export registry keys using FTK Imager is by navigating to the desired location where the hives are located and exporting the required files. We can do this by manually expanding the disk image and navigating to the directories. This method can be used for both live and cold acquisitions. Once we reach the desired location, we must select the files we want to export. We can then click the <code>Export Files</code> option to export the selected files to a location of our choice.</p>
+
+![image](https://github.com/user-attachments/assets/390e7568-abd0-49f4-ab3b-a22134df675a)
+
+<br>
+<p>In the above screenshot, we are copying the registry hives, the transaction logs, and the backup files that contain the changes that are still not written in the registry hives but have been made already (we learned about these in the Windows Forensics 1 room). These can contain essential pieces of the information puzzle we want to extract, which must be utilised when analysing the registry data.<br>
+
+In the scenario from Task 1, we outlined the information that Anna wants to extract from the system. As we learned in Windows Forensics 1, this information is generally present in the SAM, SYSTEM, and SOFTWARE registry hives in the <code>C:\Windows\System32\config</code> directory. Anna can extract those hives using FTK Imager to achieve her goal. To ensure the completeness of the information, she will also need to extract the transaction logs. She can do that using the FTK Imager, which is present on the Desktop in the attached VM.<br>
+
+The most significant advantage of using FTK Imager to extract data is the specificity and granularity of the process. We can pick and choose the exact files we want to extract. However, this process generally requires precise knowledge and time to execute. Using tools to automate this process might be better in some scenarios, as we will learn in the coming tasks.<br>
+
+Can you help Anna extract the registry data from the VM attached to Task 1, as shown in this task?</p>
+
+
+
+
+
+
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question2 below}}$$ </h3>
 
@@ -62,6 +121,10 @@ First, we must load the disk image from which we want to extract the data. In th
 <br>
 
 
-![image](https://github.com/user-attachments/assets/5493cc7a-b7cd-4c11-9a46-4f037173ddb4)
+
+
+
+
+
 
 
