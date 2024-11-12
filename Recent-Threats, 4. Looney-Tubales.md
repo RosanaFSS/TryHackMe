@@ -58,3 +58,26 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 > 4.1. <em>Click and continue learning!</em><br><a id='4.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
+
+<br>
+
+
+<h2 align="center">Task 5. Try It Yourself!<a id='5'></a></h2>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 5.1. <em></em>What's the value of the flag in /root/root.txt?<a id='5.1'></a>
+>> <code><strong>THM{TH-TH-THATS-SECURE-FOLKS!}</strong></code>
+
+<br>
+
+
+<h2 align="center">Task 6. Conclusion<a id='5'></a></h2>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 6.1. <em></em>What's the value of the flag in /root/root.txt?<a id='6.1'></a>
+>> <code><strong>No answer needed}</strong></code>
+
