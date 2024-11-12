@@ -255,14 +255,14 @@ THM{TH-TH-THATS-SECURE-FOLKS!}
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
-> 6.1. <em></em>What's the value of the flag in /root/root.txt?<a id='6.1'></a>
+> 6.1. <em></em>Click and continue learning!<a id='6.1'></a>
 >> <code><strong>No answer needed}</strong></code>
 
 <br>
 <h2>Room Complete<a id='7'></a></h2>
 <p>Keep learning, keep growing!</p>
 
-<p align="center"> <img width="750px" src=""></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/34afa996-4c82-4c13-8337-5a7bc8aae90e"></p>
 
 <h2>My Journey<a id='8'></a></h2>
 <p>Following I share the status of my journey in TryHackMe.</p>
