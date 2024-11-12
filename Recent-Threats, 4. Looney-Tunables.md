@@ -7,7 +7,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/looneytunes">GitLab CVE-2023-7028</a>.</p>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/2701eded-3213-4aa9-9919-720579b58a44"><br>
-  <img height="150px" src="https://github.com/user-attachments/assets/684afecc-06b7-464c-abfe-eee8c72c461e">
+  <img height="150px" src="https://github.com/user-attachments/assets/c4e2b21d-9ded-468f-b18e-2135ed5d11ca">
 </p>
 
 
@@ -221,15 +221,30 @@ try 3500
 try 3600
 try 3700
 try 3800
+try 3900
+try 4000
+try 4100
+try 4200
+try 4300
+try 4400
+try 4500
+try 4600
+try 4700
+try 4800
+try 4900
+try 5000
+try 5100
+try 5200
+...
 # id
-
+uid=0(root) gid=0(root) groups=0(roos),1001(nopriv)
 # pwd
-
-# ls	
-
+/home/nopriv
+# cd /root
+# ls
+root.txt  snap
 # cat root.txt
-
-#	
+THM{TH-TH-THATS-SECURE-FOLKS!}
 </code></pre>
 
 <br>
@@ -257,13 +272,11 @@ try 3800
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 10, 2024 | 188      |       1,248ª |          25ª |      4,316ª |        60ª | 54,668   |       414 |
+| November 11, 2024 | 188      |       1,237ª |          25ª |      4,278ª |        57ª | 54,886   |       417 |
 
 </div>
 
 
-<p align="center"> <img width="750px" src=""></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/9c86e878-6f67-48c3-be74-889a4e43f954"></p>
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
-
-
