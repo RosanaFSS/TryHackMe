@@ -6,11 +6,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 <p align="center">This room explores different tools used to expedite analysis of registry data during investigation.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/expregistryforensics">Expediting Registry Analysis</a>.</p>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/de657da0-b93b-42bd-80b6-4bd35d8dc574"><br>
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/0a679284-0798-4f74-9098-92a98c6336e0"><br>
   <img width="800px" src="https://github.com/user-attachments/assets/54e2868b-89d6-4eeb-9689-c1579cddcf74">
 </p>
-
-
 
 <p align="center">Summary</p>
 
