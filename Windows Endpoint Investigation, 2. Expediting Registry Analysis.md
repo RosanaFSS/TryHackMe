@@ -12,7 +12,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <p align="center">Summary</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1. Introduction](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [2. Data Acquisition Considerations and the FTK Imager](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1. Introduction](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [2. Data Acquisition Considerations and the FTK Imager](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [3. Data Acquisition Using KAPE](#3)
 
 <br>
 <br>
@@ -98,12 +98,7 @@ The most significant advantage of using FTK Imager to extract data is the specif
 Can you help Anna extract the registry data from the VM attached to Task 1, as shown in this task?</p>
 
 
-
-
-
-
-
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question2 below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 2.1. <em>I have collected registry data from the attached VM, as shown in this task.</em><br><a id='2.1'></a>
 >> <code><strong>No answer needed</strong></code>
@@ -115,11 +110,21 @@ Can you help Anna extract the registry data from the VM attached to Task 1, as s
 
 <br>
 
-> 2.3. <em>Is speed one of the advantages of collecting registry data from FTK Imager? Y or N?</em><br><a id='2.2'></a>
+> 2.3. <em>Is speed one of the advantages of collecting registry data from FTK Imager? Y or N?</em><br><a id='2.3'></a>
 >> <code><strong>N</strong></code>
 
 <br>
+<h2 align="center">Task 3. Data Acquisition Using KAPE<a id='3'></a></h2>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 3.1. <em>I have collected the registry data from the attached system using KAPE, as shown in this task..</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.2. <em>What will be the contents of a _kape.cli file if we want to collect data from the C drive and save it to the D drive using the target RegistryHives?.</em><br><a id='3.2'></a>
+>> <code><strong>____</strong></code>
 
 
 
