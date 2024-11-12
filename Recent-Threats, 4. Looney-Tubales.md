@@ -27,6 +27,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 > 1.1. <em>Click and continue learning!</em><br><a id='1.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
+<br>
 
 <h2 align="center">Task 2. Background Information<a id='2'></a></h2>
 
@@ -46,6 +47,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 > 3.1. <em>Click and continue learning!</em><br><a id='3.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
+<br>
 
 
 <h2 align="center">Task 4. Exploitation<a id='4'></a></h2>
