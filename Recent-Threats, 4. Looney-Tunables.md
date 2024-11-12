@@ -72,6 +72,14 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{189}}$$-day-streak in  <a href="h
 
 <br>
 
+![image](https://github.com/user-attachments/assets/1a773786-155c-4b1c-a8a6-7c1a381c1da8)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/394b7d48-5857-4692-981b-1e56c3297a2a)
+
+<br>
+
 <pre><code>$root@[Attack_Box]:~# ssh nopriv@[Target]
 The authenticity of host '[Target] (1[Target])' can't be established.
 ...
@@ -181,9 +189,32 @@ try 1800
 try 1900
 try 2000
 try 2100
+try 2200
+try 2300
+try 2400
+try 2500
+try 2600
+try 2700
+try 2800
+try 2900
+try 3000
+try 3100
+try 3200
+try 3300
+try 3400
+try 3500
+try 3600
+try 3700
+try 3800
+# id
 
+# pwd
 
-	
+# ls	
+
+# cat root.txt
+
+#	
 </code></pre>
 
 <br>
@@ -196,4 +227,28 @@ try 2100
 
 > 6.1. <em></em>What's the value of the flag in /root/root.txt?<a id='6.1'></a>
 >> <code><strong>No answer needed}</strong></code>
+
+<br>
+<h2>Room Complete<a id='7'></a></h2>
+<p>Keep learning, keep growing!</p>
+
+<p align="center"> <img width="750px" src=""></p>
+
+<h2>My Journey<a id='8'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 10, 2024 | 188      |       1,248ª |          25ª |      4,316ª |        60ª | 54,668   |       414 |
+
+</div>
+
+
+<p align="center"> <img width="750px" src=""></p>
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
 
