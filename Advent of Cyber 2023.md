@@ -8,8 +8,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 <p align="center">Get started with Cyber Security in 24 Days - Learn the basics by doing a new, beginner friendly security challenge every day leading up to Christmas.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/adventofcyber2023">Advent of Cyber 2023</a>.</p><br>
 <p align="center">
-  <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077">
-  <img height="160px" src="https://github.com/user-attachments/assets/baac0892-fca5-4c0e-8699-26f45ccdafb1">
+  <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077"><br>
+  <img width="800x" src="https://github.com/user-attachments/assets/baac0892-fca5-4c0e-8699-26f45ccdafb1">
 </p>
 
 
