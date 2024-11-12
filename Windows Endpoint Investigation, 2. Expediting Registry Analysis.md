@@ -123,6 +123,19 @@ Can you help Anna extract the registry data from the VM attached to Task 1, as s
 
 First, we can start with the <code>gkape.exe</code> executable, which we can find in the KAPE folder in the attached VM. It will open the KAPE GUI. This will look something like this:</p>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/7c65151d-f598-4c97-bdce-676a877128e1)
+
+<br>
+<p>Since we are to collect data, we will select the <code>Use Target Options</code> checkmark. This will make the left side of the KAPE GUI available for us to modify.</p>
+
+<br>
+
+
+
+
+
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
 > 3.1. <em>I have collected the registry data from the attached system using KAPE, as shown in this task..</em><br><a id='1.1'></a>
