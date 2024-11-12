@@ -34,7 +34,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <br>
 
-> 1.2. <em>Read the rules!</em><br><a id='1.1'></a>
+> 2.1. <em>Read the rules!</em><br><a id='2.1'></a>
 >> <strong>No answer needed</strong><br>
 <p><br></p>
 
