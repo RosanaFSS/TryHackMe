@@ -116,7 +116,7 @@ Can you help Anna extract the registry data from the VM attached to Task 1, as s
 <br>
 
 > 2.3. <em>Is speed one of the advantages of collecting registry data from FTK Imager? Y or N?</em><br><a id='2.2'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>N</strong></code>
 
 <br>
 
