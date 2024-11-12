@@ -1,12 +1,12 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<p align="center">November 11, 2024</p>
+<p align="center">November 12, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe</a> through 2 engagements:}}$$ </h2>
 
 <h3>The first with my personal account, active since January 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<p align="center">November 11, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/9c86e878-6f67-48c3-be74-889a4e43f954"> </p>
+<p align="center">November 12, 2024 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/f18e495e-a846-4b99-91ec-00915b7a9003"> </p>
 
 </div>
 
@@ -26,7 +26,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **CompTIA Pentest+**         | Easy | in progress, 96% | 26 |
-|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 61% | 28 |  
+|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 62% | 28 |  
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
@@ -50,6 +50,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 12, 2024 | 190      |       1,233ª |          25ª |      4,151ª |        54ª | 54,976   |       419 |
 | November 11, 2024 | 189      |       1,237ª |          25ª |      4,278ª |        57ª | 54,886   |       417 |
 | November 11, 2024 | 189      |       1,237ª |          25ª |      4,024ª |        54ª | 54,878   |       416 |
 | November 10, 2024 | 188      |       1,247ª |          25ª |      4,292ª |        60ª | 54,698   |       415 |
