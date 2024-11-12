@@ -3,7 +3,7 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{ Expediting Registry Analysis }}$$ </h1>
-<p align="center">CVE-2023-4911: That's all Sec-Folks!</p>
+<p align="center">This room explores different tools used to expedite analysis of registry data during investigation.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/expregistryforensics">Expediting Registry Analysis</a>.</p>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/de657da0-b93b-42bd-80b6-4bd35d8dc574"><br>
