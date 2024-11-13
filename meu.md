@@ -40,6 +40,60 @@
 <br>
 <h2>Task 11. Cryptography | [Easy] Exam<a id='11'></a></h2>
 
+<br>
+<h2>Task 12. Cryptography | [Easy] CrackMyPass 1<a d='12'></a></h2>
+
+<br>
+<h2>Task 13. Cryptography | [Medium] CrackMyPass 2<a id='13'></a></h2>
+
+<br>
+<h2>Task 14. Cryptography | [Hard] CrackMyPass 3<a id='14'></a></h2>
+
+<br>
+<h2>Task 15. Foresincs | [Easy] Eggciting Recovery<a id='15'></a></h2>
+
+<br>
+<h2>Task 16. Foresincs | [Easy] FootPrints<a id='16'></a></h2>
+
+<br> 
+<h2>Task 17. Foresincs | [Easy] Maldoom's Revenge<a id='17'></a></h2>
+
+<br>
+<h2>Task 18. Foresincs | [Easy] Phishy<a id='18'></a></h2>
+
+<br>
+<h2>Task 19. Foresincs | [Medium] Stolen FootPrints<a id='19'></a></h2>
+
+<br>
+<h2>Task 20. Foresincs | [Hard] Mayhem<a id='20'></a></h2>
+
+<br>
+<h2>Task 21. OSINT | [Easy] TryFindMe<a id='21'></a></h2>
+
+<br>
+<h2>Task 22. OSINT | [Easy] Operation Slither 1<a id='22'></a></h2>
+
+<br>
+<h2>Task 23. OSINT | [Easy] Operation Slither 2<a id='23'></a></h2>
+
+<br>
+<h2>Task 24. OSINT | [Medium] Operation Slither 3<a id='24'></a></h2>
+
+<br>
+<h2>Task 25. Linux Command Line | [Easy] Get That Flag Out<a id='25'></a></h2>
+
+<br>
+<h2>Task 26. Linux Command Line | [Easy] Arcives<a id='26'></a></h2>
+
+<br>
+<h2>Task 27. Boot2Root | [Medium] Admin Panel<a id='27'></a></h2>
+
+<br>
+<h2>Task 28. Boot2Root | [Medium] A Window Opens<a id='28'></a></h2>
+
+
+
+
 
 <br>
 <p align="center">While the king of dreams was imprisoned, his home fell into ruins.<br>
