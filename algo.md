@@ -3,7 +3,7 @@
 
 
 
-> X.X. <em>What is the bot flag?</em><br><a id='7'></a>
+> XXXXX.X. <em>What is the bot flag?</em><br><a id='7'></a>
 >> <code><strong>____</strong></code><br><br>
 
 <h3>Nmap</h3>
