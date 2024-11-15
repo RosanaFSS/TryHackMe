@@ -13,3 +13,6 @@
 
 root@ip-[Attack_IP]:~/XXXXXXXX# 
 </code></pre>
+
+
+<h3>Gobuster</h3>
