@@ -262,6 +262,7 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 <p>Misconfigurations in XML parser settings are a common cause of XXE-related vulnerabilities. Adjusting these settings can significantly reduce the risk of XXE attacks. Below are detailed guidelines and best practices for several popular programming languages and frameworks..</p>
 
+<br>
 <h3>Avoiding Misconfigurations</h3>
 <p>1. Disable External Entities and DTDs: As a best practice, disable the processing of external entities and DTDs in your XML parsers. Most XXE vulnerabilities arise from malicious DTDs.<br>
 2. Use Less Complex Data Formats: Where possible, consider using simpler data formats like JSON, which do not allow the specification of external entities.<br>
@@ -310,34 +311,30 @@ For example, using the captured request from the in-band XXE task, send the capt
 >> <strong>No answer needed</strong><br>
 <p><br></p>
 
+<br>
+<h2>Task 8. Conclusion<a id='8'></a></h2>
+<h3>Conclusion</h3>
 
+<p>XXE (XML External Entities) attacks arise from improper handling of user-supplied input in web applications, particularly in XML parsing. Attackers exploit vulnerable XML processors to inject malicious external entities, leading to data exfiltration, server compromise, or denial of service. XXE vulnerabilities can be prevented by disabling external entity expansion, validating user input, and using secure XML parsing libraries. Additionally, implementing security best practices such as input validation, output encoding, and secure coding practices can significantly reduce the risk of XXE attacks. Regular security audits, code reviews, and training on secure development practices are essential for identifying and mitigating XXE vulnerabilities. By understanding the risks and taking proactive measures, developers and administrators can protect their web applications from XXE attacks and ensure the security and integrity of their systems.</p>
 
-<p>Use the DocumentBuilderFactory and disable DTDs:</p>
+<h3>Recap of Key Concepts Covered in the Room</h3>
+<p>In this training room, we've covered a comprehensive range of topics related to XXE (XML External Entity) vulnerabilities, which are critical in understanding how these vulnerabilities can impact web security. Here's a quick recap:</p>
+<p>- Understanding XML: We explored the basics of XML syntax and structure, including the use of DTDs and how they can be exploited.<br>
+- XML Parsing Mechanisms: We discussed different XML parsers and their configurations, emphasizing secure practices.<br>
+- Exploiting XXE: Detailed steps were provided to exploit XXE vulnerabilities, ranging from basic data exfiltration to advanced techniques like Out-of-Band XXE.<br>
+- XXE+SSRF: We explored the concept of SSRF attacks via XXE for Out-of-Band data exfiltration and how to scan internal networks using this attack.<br>
+- Mitigation: Strategies to prevent XXE vulnerabilities were outlined, focusing on avoiding misconfigurations and reinforcing secure coding practices.</p>
 
-<pre><code>root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-===============================================================
-Gobuster v3.6
-by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
-===============================================================
-[+] Url:                     http://[Target]/
-[+] Method:                  GET
-[+] Threads:                 10
-[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-[+] Negative Status codes:   404
-[+] User Agent:              gobuster/3.6
-[+] Timeout:                 10s
-===============================================================
-Starting gobuster in directory enumeration mode
-===============================================================
-/uploads              (Status: 301) [Size: 314] [--> http://[Target]/uploads/]
-/javascript           (Status: 301) [Size: 317] [--> http://[Target]/javascript/]
-/phpmyadmin           (Status: 301) [Size: 317] [--> http://[Target]/phpmyadmin/]
-/server-status        (Status: 403) [Size: 9]
-Progress: 220557 / 220558 (100.00%)
-===============================================================
-Finished
-===============================================================
-</code></pre>
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 8.1. <em>I can now exploit XXE vulnerabilities!</em><br><a id='8.1'></a>
+>> <strong>No answer needed</strong><br>
+<p><br></p>
+
 
 
 
