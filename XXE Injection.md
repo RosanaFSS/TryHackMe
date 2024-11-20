@@ -82,12 +82,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 4.1. <em>What XXE vulnerability occurs when the server's response is immediately disclosed to the attacker without the use of external channels?</em><br><a id='4.1'></a>
->> <strong>In-Band XXE</strong><br>
+>> <strong><code>In-Band XXE</code></strong><br>
 <p><br></p>
 
 
 > 4.2. <em>What is the content of the file 14232d6db2b5fd937aa92e8b3c48d958.txt in the /opt directory?</em><br><a id='4.2'></a>
->> <strong>THM{1N_b4Nd_1$_34sYY}</strong><br>
+>> <strong><code>THM{1N_b4Nd_1$_34sYY}</code></strong><br>
 <p><br></p>
 
 ![image](https://github.com/user-attachments/assets/53e2b635-6567-43c9-b046-819959d5d8b2)
@@ -185,7 +185,7 @@ Go back to the repeater and change your payload to:</p>
 <br>
 
 > 5.1. <em>What kind of XXE vulnerability occurs when the response of the server is not visible to the attacker?</em><br><a id='5.1'></a>
->> <strong>Out-Band XXE</strong><br>
+>> <strong><code>Out-Band XXE</code></strong><br>
 <p><br></p>
 
 <br>
@@ -237,12 +237,12 @@ For example, using the captured request from the in-band XXE task, send the capt
 <br>
 
 > 6.1. <em>What is the flag in the application running internally?</em><br><a id='6.1'></a>
->> <strong>THM{0O8_xx3!!}</strong><br>
+>> <strong><code>THM{0O8_xx3!!}</code></strong><br>
 <p><br></p>
 
 
 > 6.2. <em>What port is the internal application hosted on?</em><br><a id='6.2'></a>
->> <strong>81</strong><br>
+>> <strong><code>81</code></strong><br>
 <p><br></p>
 
 
