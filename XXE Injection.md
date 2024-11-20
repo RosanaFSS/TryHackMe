@@ -21,21 +21,30 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
 
 
 <pre><code>
-$ sudo nmap -sV -sS [Target]
+root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target]/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/uploads              (Status: 301) [Size: 314] [--> http://[Target]/uploads/]
+/javascript           (Status: 301) [Size: 317] [--> http://[Target]/javascript/]
+/phpmyadmin           (Status: 301) [Size: 317] [--> http://[Target]/phpmyadmin/]
+/server-status        (Status: 403) [Size: 9]
+Progress: 220557 / 220558 (100.00%)
+===============================================================
+Finished
+===============================================================
 
-Starting Nmap 7.60 ( https://nmap.org ) at 2024-10-30 03:47 GMT
-Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
-Host is up (0.0010s latency).
-Not shown: 997 closed ports
-PORT   STATE SERVICE VERSION
-21/tcp open  ftp     vsftpd 3.0.3
-22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
-80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
-MAC Address: 02:04:A3:21:B9:4B (Unknown)
-Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
-
-Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 9.08 seconds
 </code></pre>
 
 <h3>In-Band XXE Exploitation</h3>
