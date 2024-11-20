@@ -341,5 +341,23 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 
 
+<h2>Room Complete<a id='9'></a></h2>
+<p>Keep learning, keep growing!<br>
 
+![image](https://github.com/user-attachments/assets/1ff83104-d7aa-4f40-af85-cdd9b9278b38)
 
+<br>
+
+<h2>My Journey<a id='10'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 6, 2024  | 184      |       1,294ª |          28ª |      4,393ª |        64ª | 53,730   |       403 |
+
+![image](https://github.com/user-attachments/assets/fe4b725c-f7fa-4037-9ab7-20250b953795)
+
+<br>
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
