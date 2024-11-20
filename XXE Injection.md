@@ -15,21 +15,22 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
 
 <p align="center">Summary</p>
 
-[Introduction](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [ExploringXML](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [XML Parsing Mehcanisms](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Exploiting XXE - In-Band](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;[Exploiting XXE - Out-of-Band](#5) <br>
+[Introduction](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Exploring XML](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [XML Parsing Mehcanisms](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Exploiting XXE - In-Band](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;[Exploiting XXE - Out-of-Band](#5) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SSRF + XXE](#6) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Mitigation](#7)  &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Conclusion](#8) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#9) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#10)
 
 <br>
-
-
-
-<br>
-<p align="center">Summary</p>
+<h2>Task 1.  Introduction<a id='1'></a></h2>
 
 <br>
+<h2>Task 2.  Exploring XML<a id='2'></a></h2>
 
+<br>
+<h2>Task 3.  XML Parsing Mechanisms<a id='3'></a></h2>
 
+<br>
 <h2>Task 4.  Exploiting XXE - In-Band<a id='4'></a></h2>
 
+<br>
 <h3>In-Band vs Out-of-Band XXE</h3>
 
 <p>In-band XXE refers to an XXE vulnerability where the attacker can see the response from the server. This allows for straightforward data exfiltration and exploitation. The attacker can simply send a malicious XML payload to the application, and the server will respond with the extracted data or the result of the attack.
