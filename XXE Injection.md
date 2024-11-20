@@ -79,8 +79,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 ![image](https://github.com/user-attachments/assets/5407e2fd-7b56-4115-b520-63f0c2d60d65)
 
-<br>
-
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 4.1. <em>What XXE vulnerability occurs when the server's response is immediately disclosed to the attacker without the use of external channels?</em><br><a id='4.1'></a>
