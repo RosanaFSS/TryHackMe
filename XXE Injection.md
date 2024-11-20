@@ -119,7 +119,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 ![image](https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e)
 
-
+<br>
 <h2>Task 5.  Exploiting XXE - Out-of-Band<a id='5'></a></h2>
 
 <br>
@@ -175,6 +175,38 @@ For this attack, we will need a server that will receive data from other servers
 <p>We can now create a DTD file that contains an external entity with a PHP filter to exfiltrate data from the target web application.<br>
 
 Save the sample DTD file below and name it as sample.dtd. The payload below will exfiltrate the contents of /etc/passwd and send the response back to the attacker-controlled server:</p>
+
+![image](https://github.com/user-attachments/assets/45fd7041-848e-47a5-b9ef-aff2a54c5070)
+
+<h3>DTD Payload Explained</h3>
+<p>The DTD begins with a declaration of an entity %cmd that points to a system resource. The %cmd entity refers to a resource within the PHP filter protocol php://filter/convert.base64-encode/resource=/etc/passwd. It retrieves the content of /etc/passwd, a standard file in Unix-based systems containing user account information. The convert.base64-encode filter encodes the content in Base64 format to avoid formatting problems. The %oobxxe entity contains another XML entity declaration, exfil, which has a system identifier pointing to the attacker-controlled server. It includes a parameter named data with %cmd, representing the Base64-encoded content of /etc/passwd. When %oobxxe; is parsed, it creates the exfil entity that connects to an attacker's server (http://ATTACKER_IP:1337/). The parameter ?data=%cmd sends the Base64-encoded content from %cmd.<br>
+
+Go back to the repeater and change your payload to:</p>
+
+![image](https://github.com/user-attachments/assets/be015bdf-3939-47f4-b1dc-cb935d7f92f1)
+
+![image](https://github.com/user-attachments/assets/db35d666-7ebc-446a-ab4d-98c495262e6e)
+
+<p>Resend the request and check your terminal. You will receive two (2) requests. The first is the request for the sample.dtd file, and the second is the request sent by the vulnerable application containing the encoded /etc/passwd.</p>
+
+![image](https://github.com/user-attachments/assets/5c52a2e8-f6e4-424c-9703-7b52f67ba37d)
+
+
+<p>Decoding the exfiltrated base64 data will show that it contains the base64 value of /etc/passwd.</p>
+
+![image](https://github.com/user-attachments/assets/d91ff244-6083-42f4-af2f-7c3cc461a27e)
+
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 5.1. <em>What kind of XXE vulnerability occurs when the response of the server is not visible to the attacker?</em><br><a id='5.1'></a>
+>> <strong>Out-Band XXE</strong><br>
+<p><br></p>
+
 
 
 
