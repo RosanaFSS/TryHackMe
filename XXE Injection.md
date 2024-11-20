@@ -269,10 +269,46 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 <h3>Mitigation Techniques in Popular Languages</h3>
 
-<h4><bold>Java</bold></h4>
+<h4><bold><em>Java</em></bold></h4>
 
 ![image](https://github.com/user-attachments/assets/64bc62ab-e2a1-4df4-937a-a5e5b2fed07e)
 
+<h4><bold><em>.NET</em></bold></h4>
+<p>Configure XML readers to ignore DTDs and external entities:</p>
+
+![image](https://github.com/user-attachments/assets/d93a3b44-70ab-4404-b23e-8ef0333606c5)
+
+
+<h4><bold><em>PHP</em></bold></h4>
+<p>Disable loading external entities by libxml:</p>
+
+![image](https://github.com/user-attachments/assets/4d28c27c-2315-4a4e-a192-9b78e48bd92b)
+
+
+<h4><bold><em>Python</em></bold></h4>
+<p>Use <code>defusedxml</code> library, which is designed to mitigate XML vulnerabilities:</p>
+
+![image](https://github.com/user-attachments/assets/e4b06c0a-a14f-48dd-a0ba-8d2f2b3b65a5)
+
+<br>
+<h3>Regularly Update and Patch</h3>
+<p>- Software Updates: Keep all XML processors and libraries up-to-date. Vendors frequently patch known vulnerabilities.<br>
+- Security Patches: Regularly apply security patches to web applications and their environments.</p>
+
+<br>
+<h3>Security Awareness and Code Reviews</h3>
+<p>- Conduct Code Reviews: Regularly review code for security vulnerabilities, especially code that handles XML input and parsing.<br>
+- Promote Security Training: Ensure developers are aware of secure coding practices, including the risks associated with XML parsing.</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 7.1. <em>Click me to proceed to the next task.</em><br><a id='7.1'></a>
+>> <strong>No answer needed</strong><br>
+<p><br></p>
 
 
 
