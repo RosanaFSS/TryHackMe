@@ -336,15 +336,14 @@ For example, using the captured request from the in-band XXE task, send the capt
 <p><br></p>
 
 
-![image](https://github.com/user-attachments/assets/5c84bdf2-ce9e-402d-856d-3d517f8e4a9e)
-
-
-
-
 <h2>Room Complete<a id='9'></a></h2>
 <p>Keep learning, keep growing!<br>
 
 ![image](https://github.com/user-attachments/assets/1ff83104-d7aa-4f40-af85-cdd9b9278b38)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5c84bdf2-ce9e-402d-856d-3d517f8e4a9e)
 
 <br>
 
