@@ -232,6 +232,9 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 ![image](https://github.com/user-attachments/assets/abf5042c-17de-484b-802a-f2def9e7177e)
 
+![image](https://github.com/user-attachments/assets/d663e886-5e35-43dd-99ee-597fe07a3e4b)
+
+
 
 <p>3. Once done, click the Start attack button and click the Length column to sort which item has the largest size. The difference in the server's response size is worth further investigation since it might contain information that is different compared to the other intruder requests.</p>
 
