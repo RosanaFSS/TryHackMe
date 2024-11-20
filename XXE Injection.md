@@ -105,17 +105,76 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 >> <strong>THM{1N_b4Nd_1$_34sYY}</strong><br>
 <p><br></p>
 
-
-![image](https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e)
-
-
-
 ![image](https://github.com/user-attachments/assets/53e2b635-6567-43c9-b046-819959d5d8b2)
 
 ![image](https://github.com/user-attachments/assets/360c7fa8-3b8e-4a67-bebf-635d22ebe578)
 
-
 ![image](https://github.com/user-attachments/assets/81205eb8-00d0-400c-a34a-187a4906dd1c)
 
 ![image](https://github.com/user-attachments/assets/25cb6287-639e-4953-a359-e39e3a81707b)
+
+![image](https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e)
+
+
+<h2>Task 5.  Exploiting XXE - Out-of-Band<a id='5'></a></h2>
+
+<br>
+<h3>Out-Of-Band XXE</h3>
+<p>On the other hand, to demonstrate this vulnerability, go to http://10.10.18.162/index.php. The application uses the below code when a user uploads a file:</p>
+
+<pre><code>libxml_disable_entity_loader(false);
+$xmlData = file_get_contents('php://input'); 
+
+$doc = new DOMDocument();
+$doc->loadXML($xmlData, LIBXML_NOENT | LIBXML_DTDLOAD);
+
+$links = $doc->getElementsByTagName('file');
+
+foreach ($links as $link) {
+    $fileLink = $link->nodeValue;
+    $stmt = $conn->prepare("INSERT INTO uploads (link, uploaded_date) VALUES (?, NOW())");
+    $stmt->bind_param("s", $fileLink);
+    $stmt->execute();
+    
+    if ($stmt->affected_rows > 0) {
+        echo "Link saved successfully.";
+    } else {
+        echo "Error saving link.";
+    }
+    
+    $stmt->close();
+}
+</code></pre>
+
+<p>The code above doesn't return the values of the submitted XML data. Hence, the term Out-of-Band since the exfiltrated data has to be captured using an attacker-controlled server.<br>
+
+For this attack, we will need a server that will receive data from other servers. You can use Python's http.server module, although there are options out there, like Apache or Nginx. Using AttackBox or your own machine, start a Python web server by using the command:</p>
+
+![image](https://github.com/user-attachments/assets/b7d9e9ed-a71f-4c7c-a1b6-7ade0120d921)
+
+<p>Upload a file in the application and monitor the request that is sent to submit.php using your Burp. Forward the request below to Burp Repeater.</p>
+
+![image](https://github.com/user-attachments/assets/aa7916ce-2c43-4214-9e4f-304c21ae7da6)
+
+<p>Using the payload below, replace the value of the XML file in the request and resend it. Note that you have to replace the ATTACKER_IP variable with your own IP.</p>
+
+![image](https://github.com/user-attachments/assets/b221aa20-6bd1-4206-ab50-9bc732ebff0b)
+
+<p>Send the modified HTTP request.</p>
+
+![image](https://github.com/user-attachments/assets/b1ed89d1-ac40-4662-bfbd-60239bdab0ee)
+
+<p>After sending the modified HTTP request, the Python web server will receive a connection from the target machine. The establishment of a connection with the server indicates that sensitive information can be extracted from the application.</p>
+
+![image](https://github.com/user-attachments/assets/fdb2fb1e-240e-44ad-b503-7c137ffd7752)
+
+<p>We can now create a DTD file that contains an external entity with a PHP filter to exfiltrate data from the target web application.<br>
+
+Save the sample DTD file below and name it as sample.dtd. The payload below will exfiltrate the contents of /etc/passwd and send the response back to the attacker-controlled server:</p>
+
+
+
+
+
+
 
