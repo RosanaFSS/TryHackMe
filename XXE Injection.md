@@ -336,6 +336,9 @@ For example, using the captured request from the in-band XXE task, send the capt
 <p><br></p>
 
 
+![image](https://github.com/user-attachments/assets/5c84bdf2-ce9e-402d-856d-3d517f8e4a9e)
+
+
 
 
 
