@@ -43,12 +43,14 @@ Finished
 
 <h2>Task 4.  Exploiting XXE - In-Band<a id='1'></a></h2>
 
+<br>
 <h3>In-Band vs Out-of-Band XXE</h3>
 
 <p>In-band XXE refers to an XXE vulnerability where the attacker can see the response from the server. This allows for straightforward data exfiltration and exploitation. The attacker can simply send a malicious XML payload to the application, and the server will respond with the extracted data or the result of the attack.
 
 Out-of-band XXE, on the other hand, refers to an XXE vulnerability where the attacker cannot see the response from the server. This requires using alternative channels, such as DNS or HTTP requests, to exfiltrate data. To extract the data, the attacker must craft a malicious XML payload that will trigger an out-of-band request, such as a DNS query or an HTTP request.</p>
 
+<br>
 <h3>In-Band XXE Exploitation</h3>
 <p>We will be using Burp for this room. To demonstrate this vulnerability, go to http://10.10.18.162/contact.php, and fill out the form.</p>
 
@@ -82,7 +84,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 ![image](https://github.com/user-attachments/assets/58e81427-a150-4b62-aff9-4fcc34890026)
 
-
+<br>
 <h3>XML Entity Expansion</h3>
 
 
