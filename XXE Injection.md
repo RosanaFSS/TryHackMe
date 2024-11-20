@@ -16,30 +16,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
 
 <br>
 
-<pre><code>root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-===============================================================
-Gobuster v3.6
-by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
-===============================================================
-[+] Url:                     http://[Target]/
-[+] Method:                  GET
-[+] Threads:                 10
-[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-[+] Negative Status codes:   404
-[+] User Agent:              gobuster/3.6
-[+] Timeout:                 10s
-===============================================================
-Starting gobuster in directory enumeration mode
-===============================================================
-/uploads              (Status: 301) [Size: 314] [--> http://[Target]/uploads/]
-/javascript           (Status: 301) [Size: 317] [--> http://[Target]/javascript/]
-/phpmyadmin           (Status: 301) [Size: 317] [--> http://[Target]/phpmyadmin/]
-/server-status        (Status: 403) [Size: 9]
-Progress: 220557 / 220558 (100.00%)
-===============================================================
-Finished
-===============================================================
-</code></pre>
 
 <h2>Task 4.  Exploiting XXE - In-Band<a id='1'></a></h2>
 
@@ -273,6 +249,33 @@ For example, using the captured request from the in-band XXE task, send the capt
 ![image](https://github.com/user-attachments/assets/0dd3c60e-caf8-4be7-bcd3-0aacafa76592)
 
 ![image](https://github.com/user-attachments/assets/fdea94e3-0063-437b-8af5-ab3c2c9f99ea)
+
+
+
+<pre><code>root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target]/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/uploads              (Status: 301) [Size: 314] [--> http://[Target]/uploads/]
+/javascript           (Status: 301) [Size: 317] [--> http://[Target]/javascript/]
+/phpmyadmin           (Status: 301) [Size: 317] [--> http://[Target]/phpmyadmin/]
+/server-status        (Status: 403) [Size: 9]
+Progress: 220557 / 220558 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
 
 
 
