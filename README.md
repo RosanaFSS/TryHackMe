@@ -8,13 +8,6 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 <p align="center">November 20, 2024 - My yearly activity<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/0272c596-24ba-4875-b56a-a8aa8ff43f91"> </p>
 
-
-
-| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
-| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
-|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 20, 2024 | 198      |       1,207ª |          25ª |      5,539ª |        73ª | 55,640   |       422 |
-
 </div>
 
 <p align="center">October 31, 2024 - Monthly Ranking - 2nd in Brazil<br>
@@ -32,7 +25,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 62% | 28 |  
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **CompTIA Pentest+**        | Easy | November, | 26 |
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
@@ -55,6 +48,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 20, 2024 | 198      |       1,207ª |          25ª |      5,539ª |        73ª | 55,640   |       422 |
 | November 12, 2024 | 190      |       1,233ª |          25ª |      4,172ª |        54ª | 54,992   |       419 |
 | November 11, 2024 | 189      |       1,237ª |          25ª |      4,278ª |        57ª | 54,886   |       417 |
 | November 11, 2024 | 189      |       1,237ª |          25ª |      4,024ª |        54ª | 54,878   |       416 |
