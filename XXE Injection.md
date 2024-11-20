@@ -83,8 +83,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
-<br>
-
 > 4.1. <em>What XXE vulnerability occurs when the server's response is immediately disclosed to the attacker without the use of external channels?</em><br><a id='4.1'></a>
 >> <strong>In-Band XXE</strong><br>
 <p><br></p>
