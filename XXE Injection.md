@@ -207,10 +207,34 @@ Go back to the repeater and change your payload to:</p>
 >> <strong>Out-Band XXE</strong><br>
 <p><br></p>
 
+<br>
+<h2>Task 6.  SSRF + XXE<a id='6'></a></h2>
+
+<p>Server-Side Request Forgery (SSRF) attacks occur when an attacker abuses functionality on a server, causing the server to make requests to an unintended location. In the context of XXE, an attacker can manipulate XML input to make the server issue requests to internal services or access internal files. This technique can be used to scan internal networks, access restricted endpoints, or interact with services that are only accessible from the server’s local network.</p>
+
+<h3>Internal Network Scanning</h3>
+<p>Consider a scenario where a vulnerable server hosts another web application internally on a non-standard port. An attacker can exploit an XXE vulnerability that makes the server send a request to its own internal network resource.<br>
+
+For example, using the captured request from the in-band XXE task, send the captured request to Burp Intruder and use the payload below:</p>
+
+![image](https://github.com/user-attachments/assets/23ab7275-22d1-40e5-9d95-ec509e8bfb6b)
 
 
+<p>The external entity is set to fetch data from http://localhost:§10§/. Intruder will then reiterate the request and search for an internal service running on the server.</p>
+
+<h4>Steps to brute force for open ports:</h4>
+<p>1. Once the captured request from the In-Band XXE is in Intruder, click the Add § button while highlighting the port.</p>
+
+![image](https://github.com/user-attachments/assets/f3c2a4f0-5d6d-4890-a3fc-83561f128f4b)
 
 
+<p>2. In the Payloads tab, set the payload type to Numbers with the Payload settings from 1 to 65535.</p>
+
+![image](https://github.com/user-attachments/assets/abf5042c-17de-484b-802a-f2def9e7177e)
 
 
+<p>3. Once done, click the Start attack button and click the Length column to sort which item has the largest size. The difference in the server's response size is worth further investigation since it might contain information that is different compared to the other intruder requests.</p>
+
+
+<p></p>
 
