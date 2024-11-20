@@ -14,7 +14,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
 <br>
 <p align="center">Summary</p>
 
-
+<br>
 
 <pre><code>root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 ===============================================================
