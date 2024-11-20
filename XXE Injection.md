@@ -241,6 +241,10 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 ![image](https://github.com/user-attachments/assets/9ab7ed5e-78e0-4596-a8c7-e2c2f7897566)
 
+<br>
+<h4>How the Server Processes This:</h4>
+<p>The entity &xxe; is referenced within the <name> tag, triggering the server to make an HTTP request to the specified URL when the XML is parsed. The response of the requested resource will then be included in the server response. If an application contains secret keys, API keys, or hardcoded passwords, this information can then be used in another form of attack, such as password reuse.</p>
+
 
 <p></p>
 
