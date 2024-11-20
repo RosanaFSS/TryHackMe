@@ -2,7 +2,7 @@
 <p align="center">November 20, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe</a> through 2 engagements:}}$$ </h2>
 
-<h3>The first with my personal account, active since January 2023<br>
+<h3>The first with my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
 <p align="center">November 20, 2024 - My yearly activity<br>
