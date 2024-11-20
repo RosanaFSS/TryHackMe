@@ -360,7 +360,7 @@ For example, using the captured request from the in-band XXE task, send the capt
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
 | November 20, 2024 | 198      |       1,207ª |          25ª |      5,539ª |        73ª | 55,640   |       422 |
 
-![image](https://github.com/user-attachments/assets/3e82c184-9cb6-48ab-b7ec-39243acc9e21)
+![image](https://github.com/user-attachments/assets/0272c596-24ba-4875-b56a-a8aa8ff43f91)
 
 <br>
 
