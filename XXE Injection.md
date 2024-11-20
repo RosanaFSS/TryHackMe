@@ -232,7 +232,7 @@ For example, using the captured request from the in-band XXE task, send the capt
 <br>
 
 > 6.1. <em>What is the flag in the application running internally?</em><br><a id='6.1'></a>
->> <strong>________________</strong><br>
+>> <strong>THM{0O8_xx3!!}</strong><br>
 <p><br></p>
 
 
@@ -247,6 +247,11 @@ For example, using the captured request from the in-band XXE task, send the capt
 ![image](https://github.com/user-attachments/assets/0dd3c60e-caf8-4be7-bcd3-0aacafa76592)
 
 ![image](https://github.com/user-attachments/assets/fdea94e3-0063-437b-8af5-ab3c2c9f99ea)
+
+![image](https://github.com/user-attachments/assets/b3d5b48e-1f26-4e47-8daf-8d54ade30c29)
+
+
+
 
 
 
