@@ -1,12 +1,19 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<p align="center">November 19, 2024</p>
+<p align="center">November 20, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe</a> through 2 engagements:}}$$ </h2>
 
 <h3>The first with my personal account, active since January 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<p align="center">November 19, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/f18e495e-a846-4b99-91ec-00915b7a9003"> </p>
+<p align="center">November 20, 2024 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/0272c596-24ba-4875-b56a-a8aa8ff43f91"> </p>
+
+
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 20, 2024 | 198      |       1,207ª |          25ª |      5,539ª |        73ª | 55,640   |       422 |
 
 </div>
 
