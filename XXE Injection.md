@@ -1,3 +1,18 @@
+<p align="center">November 20, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
+
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{XXE Injection}}$$
+</h1>
+<p align="center">Exploiting XML External Entities.</p>
+<p align="center">Access this TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/xxeinjection">XXE Injection</a>.</p><br>
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/a5324ef3-8fd6-4015-88c8-f415c54edebc">
+  <img height="150px" src="https://github.com/user-attachments/assets/48edd5a2-bfc3-43a6-aae5-cdfee04b9a9b">
+</p>
+
+<p align="center">Summary</p>
 
 
 
