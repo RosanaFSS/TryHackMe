@@ -105,8 +105,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 >> <strong>THM{1N_b4Nd_1$_34sYY}</strong><br>
 <p><br></p>
 
-
-<h3>XML Entity Expansion</h3>
+![image](https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e)
 
 
 
