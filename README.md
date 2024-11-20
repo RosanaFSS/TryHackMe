@@ -24,8 +24,9 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 | Certificate                                 | Learning Path                | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :--------------------------- | :--------------- | ------------------: | -----------: | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 62% | 28 |  
-|  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 66% | 28 |  
+|  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 60% | 36 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting** | Intermediate | in progress, 45% | 29 | 
 | <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:350px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:350px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
