@@ -11,6 +11,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/a5324ef3-8fd6-4015-88c8-f415c54edebc">
   <img height="150px" src="https://github.com/user-attachments/assets/48edd5a2-bfc3-43a6-aae5-cdfee04b9a9b">
 </p>
+
+![image](https://github.com/user-attachments/assets/c0dbfd51-9b09-4437-9139-06dc57863a65)
+
+
 <br>
 <p align="center">Summary</p>
 
