@@ -255,10 +255,28 @@ For example, using the captured request from the in-band XXE task, send the capt
 ![image](https://github.com/user-attachments/assets/0bc99f7c-f481-45ee-a338-3fa9b1a5e431)
 
 
+<br>
+<h2>Task 7. Mitigation<a id='7'></a></h2>
+
+<h3>Avoiding Misconfigurations</h3>
+
+<p>Misconfigurations in XML parser settings are a common cause of XXE-related vulnerabilities. Adjusting these settings can significantly reduce the risk of XXE attacks. Below are detailed guidelines and best practices for several popular programming languages and frameworks..</p>
+
+<h3>Avoiding Misconfigurations</h3>
+<p>1. Disable External Entities and DTDs: As a best practice, disable the processing of external entities and DTDs in your XML parsers. Most XXE vulnerabilities arise from malicious DTDs.<br>
+2. Use Less Complex Data Formats: Where possible, consider using simpler data formats like JSON, which do not allow the specification of external entities.<br>
+3. Allowlisting Input Validation: Validate all incoming data against a strict schema that defines expected data types and patterns. Exclude or escape XML-specific characters such as <, >, &, ', and ". These characters are crucial in XML syntax and can lead to injection attacks if misused.</p>
+
+<h3>Mitigation Techniques in Popular Languages</h3>
+
+<h4><bold>Java</bold></h4>
+
+![image](https://github.com/user-attachments/assets/64bc62ab-e2a1-4df4-937a-a5e5b2fed07e)
 
 
 
 
+<p>Use the DocumentBuilderFactory and disable DTDs:</p>
 
 <pre><code>root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 ===============================================================
