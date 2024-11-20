@@ -27,17 +27,17 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**     | Intermediate | in progress, 62% | 28 |  
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**              | Hard | in progress, 57% | 36 | 
 | <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:280px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:280px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:280px;"/> | **Cyber Defense**           | Intermediate  | July 17, 2024 | 34 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FNRB2IJUKM.png" style="width:280px;"/> | **Jr Penetration Tester**   | Intermediate  | October 7, 2024 | 38 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JLMV6TMUAF.png" style="width:280px;"/> | **Security Engineer**       | Easy          | September 5, 2024 | 31 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:280px;"/> | **SOC Level 1**             | Easy          | June 8, 2024 | 71 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X9TLJHAVDH.png" style="width:280px;"/> | **Pre Security**            | Easy          | May 18, 2024 | 18 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:280px;"/> | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 |
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:280px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:280px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:350px;"/> | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:350px;"/> | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:350px;"/> | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:350px;"/> | **Cyber Defense**           | Intermediate  | July 17, 2024 | 34 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FNRB2IJUKM.png" style="width:350px;"/> | **Jr Penetration Tester**   | Intermediate  | October 7, 2024 | 38 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JLMV6TMUAF.png" style="width:350px;"/> | **Security Engineer**       | Easy          | September 5, 2024 | 31 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:350px;"/> | **SOC Level 1**             | Easy          | June 8, 2024 | 71 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X9TLJHAVDH.png" style="width:350px;"/> | **Pre Security**            | Easy          | May 18, 2024 | 18 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:350px;"/> | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 |
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:350px;"/> | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
+| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:350px;"/> | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
 
 </div>
 <p></p>
