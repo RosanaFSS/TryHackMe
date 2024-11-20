@@ -237,7 +237,7 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 
 > 6.2. <em>What port is the internal application hosted on?</em><br><a id='6.2'></a>
->> <strong>____</strong><br>
+>> <strong>81</strong><br>
 <p><br></p>
 
 
@@ -249,6 +249,11 @@ For example, using the captured request from the in-band XXE task, send the capt
 ![image](https://github.com/user-attachments/assets/fdea94e3-0063-437b-8af5-ab3c2c9f99ea)
 
 ![image](https://github.com/user-attachments/assets/b3d5b48e-1f26-4e47-8daf-8d54ade30c29)
+
+![image](https://github.com/user-attachments/assets/83f29c83-c8ac-467f-8543-542f1cdc0690)
+
+![image](https://github.com/user-attachments/assets/0bc99f7c-f481-45ee-a338-3fa9b1a5e431)
+
 
 
 
