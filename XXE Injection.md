@@ -16,12 +16,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
 
 
 
-<h2>Task 4.Exploiting XXE - In-Band<a id='1'></a></h2>
-
-
-
-<pre><code>
-root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+<pre><code>root@[THMAttackBox]:~# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 ===============================================================
 Gobuster v3.6
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
@@ -44,8 +39,11 @@ Progress: 220557 / 220558 (100.00%)
 ===============================================================
 Finished
 ===============================================================
-
 </code></pre>
+
+<h2>Task 4.Exploiting XXE - In-Band<a id='1'></a></h2>
+
+
 
 <h3>In-Band XXE Exploitation</h3>
 
