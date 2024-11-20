@@ -251,6 +251,20 @@ For example, using the captured request from the in-band XXE task, send the capt
 - Data Leakage: If the internal service returns sensitive information, it could be exposed externally through errors or XML data output.<br>
 - Elevation of Privilege: Accessing internal services could lead to further exploits, potentially escalating an attacker's capabilities within the network.<br>
 
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 6.1. <em>What is the flag in the application running internally?</em><br><a id='6.1'></a>
+>> <strong>________________</strong><br>
+<p><br></p>
+
+
+> 6.2. <em>What port is the internal application hosted on?</em><br><a id='6.2'></a>
+>> <strong>____</strong><br>
+<p><br></p>
 
 <p></p>
 
