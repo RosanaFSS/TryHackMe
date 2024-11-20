@@ -105,11 +105,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 >> <strong>THM{1N_b4Nd_1$_34sYY}</strong><br>
 <p><br></p>
 
-<p>
-<img src="https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e" alt="Repeater Output" style="float:left;width:600px;">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e" alt="Repeater Output" style="float:left;width:600px;hspace="20">
 THM{1N_b4Nd_1$_34sYY}  
 </p>
 
+
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/a5324ef3-8fd6-4015-88c8-f415c54edebc">
+  <img height="150px" src="https://github.com/user-attachments/assets/48edd5a2-bfc3-43a6-aae5-cdfee04b9a9b">
+</p>
 
 ![image](https://github.com/user-attachments/assets/a43b9e26-ee85-4fe6-8ecc-122ba82ed00e)
 
