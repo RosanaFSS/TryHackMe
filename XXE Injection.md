@@ -83,7 +83,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ![image](https://github.com/user-attachments/assets/58e81427-a150-4b62-aff9-4fcc34890026)
 
 
-<h3>In-Band XXE Exploitation</h3>
+<h3>XML Entity Expansion</h3>
 
 
 
@@ -101,12 +101,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
 > 4.1. <em>What XXE vulnerability occurs when the server's response is immediately disclosed to the attacker without the use of external channels?</em><br><a id='4.1'></a>
->> <strong>____</strong><br>
+>> <strong>In-Band XXE</strong><br>
 <p><br></p>
 
 
 > 4.2. <em>What is the content of the file 14232d6db2b5fd937aa92e8b3c48d958.txt in the /opt directory?</em><br><a id='4.2'></a>
->> <strong>____</strong><br>
+>> <strong>THM{1N_b4Nd_1$_34sYY}</strong><br>
 <p><br></p>
 
 
