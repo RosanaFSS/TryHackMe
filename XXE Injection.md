@@ -266,5 +266,15 @@ For example, using the captured request from the in-band XXE task, send the capt
 >> <strong>____</strong><br>
 <p><br></p>
 
-<p></p>
+
+
+![image](https://github.com/user-attachments/assets/03aae404-ddcb-4500-b328-18bda8fe9fba)
+
+![image](https://github.com/user-attachments/assets/0dd3c60e-caf8-4be7-bcd3-0aacafa76592)
+
+![image](https://github.com/user-attachments/assets/fdea94e3-0063-437b-8af5-ab3c2c9f99ea)
+
+
+
+
 
