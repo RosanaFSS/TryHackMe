@@ -29,8 +29,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{197}}$$-day-streak in  <a href="h
 
 <br>
 <h2>Task 4.  Exploiting XXE - In-Band<a id='4'></a></h2>
-
-<br>
 <h3>In-Band vs Out-of-Band XXE</h3>
 
 <p>In-band XXE refers to an XXE vulnerability where the attacker can see the response from the server. This allows for straightforward data exfiltration and exploitation. The attacker can simply send a malicious XML payload to the application, and the server will respond with the extracted data or the result of the attack.
