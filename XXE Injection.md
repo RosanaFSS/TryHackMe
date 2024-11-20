@@ -86,18 +86,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <br>
 <h3>XML Entity Expansion</h3>
-
-
-
-![image](https://github.com/user-attachments/assets/53e2b635-6567-43c9-b046-819959d5d8b2)
-
-![image](https://github.com/user-attachments/assets/360c7fa8-3b8e-4a67-bebf-635d22ebe578)
-
-
-![image](https://github.com/user-attachments/assets/81205eb8-00d0-400c-a34a-187a4906dd1c)
-
-
-<h3>XML Entity Expansion</h3>
 <p>XML Entity Expansion is a technique often used in XXE attacks that involves defining entities within an XML document, which the XML parser then expands. Attackers can abuse this feature by creating recursive or excessively large entities, leading to a Denial of Service (DoS) attack or defining external entities referencing sensitive files or services. This method is central to both in-band and out-of-band XXE, as it allows attackers to inject malicious entities into the XML data. For example:</p>
 
 
@@ -117,6 +105,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <p><br></p>
 
 
+<h3>XML Entity Expansion</h3>
 
+
+
+![image](https://github.com/user-attachments/assets/53e2b635-6567-43c9-b046-819959d5d8b2)
+
+![image](https://github.com/user-attachments/assets/360c7fa8-3b8e-4a67-bebf-635d22ebe578)
+
+
+![image](https://github.com/user-attachments/assets/81205eb8-00d0-400c-a34a-187a4906dd1c)
 
 
