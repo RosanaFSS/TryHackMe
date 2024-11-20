@@ -230,13 +230,16 @@ For example, using the captured request from the in-band XXE task, send the capt
 
 <p>2. In the Payloads tab, set the payload type to Numbers with the Payload settings from 1 to 65535.</p>
 
-![image](https://github.com/user-attachments/assets/abf5042c-17de-484b-802a-f2def9e7177e)
+![image](https://github.com/user-attachments/assets/1ab76d0c-5d79-419b-9423-d00c0b885b7d)
 
-![image](https://github.com/user-attachments/assets/d663e886-5e35-43dd-99ee-597fe07a3e4b)
 
 
 
 <p>3. Once done, click the Start attack button and click the Length column to sort which item has the largest size. The difference in the server's response size is worth further investigation since it might contain information that is different compared to the other intruder requests.</p>
+
+![image](https://github.com/user-attachments/assets/f19cd60d-6755-44bc-85de-a8300001673d)
+
+![image](https://github.com/user-attachments/assets/9ab7ed5e-78e0-4596-a8c7-e2c2f7897566)
 
 
 <p></p>
