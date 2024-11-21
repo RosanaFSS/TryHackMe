@@ -10,15 +10,19 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{199}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ssrfhr>Insecure Deserialisation</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/6ce9ef8c-c57b-473b-8618-2508a232f4b2">
-  <img height="150px" src="https://github.com/user-attachments/assets/1b3203d0-21f3-492f-a050-32d290978cc1">
+  <img height="150px" src="https://github.com/user-attachments/assets/c71d4174-b3ce-409d-af36-9a2726c94548">
 </p>
 
 <br>
 
-<h2>Read the complete walkthough in Medium in a couple of hours ...</h2>
+<h2>Read my complete walkthrough in Medium.</h2>
 <br>
+
+https://medium.com/@rosana.viaja/tryhackme-srrf-dc4ab3289056
 
 <p>...</p>
 
 <br>
 <br>
+
+![image](https://github.com/user-attachments/assets/e93531a6-b931-476b-920d-64ba72c1fb9c)
