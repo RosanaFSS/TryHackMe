@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{199}}$$-day-streak in  <a href="h
 <p align="center">Get in-depth knowledge of the deserialisation process and how it poses a vulnerability in a web app.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/insecuredeserialisation">Insecure Deserialisation</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/ec7bc62a-da66-408c-b6ad-bfd417ebec6a">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/fc2c0428-6720-4437-8a20-75342f286ad4">
   <img height="150px" src="https://github.com/user-attachments/assets/bfdb587b-6372-45d3-8067-b3265b02e4d7">
 </p>
 
@@ -17,6 +17,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{199}}$$-day-streak in  <a href="h
 https://medium.com/@rosana.viaja/tryhackme-insecure-deserialisation-ca035812864c
 
 ![image](https://github.com/user-attachments/assets/bfdb587b-6372-45d3-8067-b3265b02e4d7)
+
 
 
 
