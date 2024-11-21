@@ -7,7 +7,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{199}}$$-day-streak in  <a href="h
   $$\textcolor{#3bd62d}{\textnormal{SSRF}}$$
 </h1>
 <p align="center">Discover the inner workings of SSRF and explore multiple exploitation techniques.</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ssrfhr>Insecure Deserialisation</a>.</p><br>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ssrfhr"</a>.</p>
+                                                              
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/6ce9ef8c-c57b-473b-8618-2508a232f4b2">
   <img width="900px" src="https://github.com/user-attachments/assets/c71d4174-b3ce-409d-af36-9a2726c94548">
