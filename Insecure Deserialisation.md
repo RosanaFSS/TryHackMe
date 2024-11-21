@@ -17,7 +17,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{199}}$$-day-streak in  <a href="h
 <br>
 https://medium.com/@rosana.viaja/tryhackme-insecure-deserialisation-ca035812864c
 
-![image](https://github.com/user-attachments/assets/bfdb587b-6372-45d3-8067-b3265b02e4d7)
+<br>
 
 
 
