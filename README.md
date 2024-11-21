@@ -23,7 +23,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | :-----------------------------------------: | :------------------------------ | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**        | Intermediate     | in progress, 66% | 28 |  
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**                 | Hard             | in progress, 60% | 36 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 45% | 29 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 50% | 29 | 
 | <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:350px;"/>    | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:350px;"/>    | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
@@ -39,7 +39,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 </div>
 
-<p align="center">November 20, 2024 - My Learning Journey<br>
+<p align="center">November 21, 2024 - My Learning Journey<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/7b1e7eb5-fcf0-4cf5-b40f-3b43058ca875"> </p>
 <p></p>
 
