@@ -20,8 +20,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{199}}$$-day-streak in  <a href="h
 
 https://medium.com/@rosana.viaja/tryhackme-srrf-dc4ab3289056
 
-<p>...</p>
-
 <br>
 <br>
 
