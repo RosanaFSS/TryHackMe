@@ -6,7 +6,7 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
 <p align="center">November 21, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/9459d3d2-ddda-4e1f-8ce6-6c9539a1194d"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/b15e502e-7d11-43e2-ba69-e8e78aa75b5e"> </p>
 
 </div>
 
@@ -23,7 +23,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | :-----------------------------------------: | :------------------------------ | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**        | Intermediate     | in progress, 66% | 28 |  
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**                 | Hard             | in progress, 60% | 36 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 50% | 29 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 55% | 29 | 
 | <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:350px;"/>    | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:350px;"/>    | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
@@ -50,7 +50,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 21, 2024 | 199      |       1,199ª |          25ª |      5,733ª |        77ª | 55,816   |       423 |
+| November 21, 2024 | 199      |       1,198ª |          25ª |      5,736ª |        78ª | 55,872   |       424 |
 | November 20, 2024 | 198      |       1,207ª |          25ª |      5,539ª |        73ª | 55,640   |       422 |
 | November 12, 2024 | 190      |       1,233ª |          25ª |      4,172ª |        54ª | 54,992   |       419 |
 | November 11, 2024 | 189      |       1,237ª |          25ª |      4,278ª |        57ª | 54,886   |       417 |
