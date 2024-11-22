@@ -15,7 +15,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 
-<p align="center">My Certificated of [ 12 ] learning paths completed.</p>
+<p align="center">My Certificates of [ 12 ] learning paths completed.</p>
 
 <div align="center">
 
