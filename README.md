@@ -1,12 +1,13 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<p align="center">November 22, 2024</p>
+<p align="center">November 23, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe}}$$ </h2>
 
 <h3>In my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<p align="center">November 22, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/41ad0bf7-d343-400e-8d9a-1d089d6641cd"> </p>
+<p align="center">November 23, 2024 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/d82ba67a-1250-4563-b444-34763b83a36b"> </p>
+
 
 </div>
 
@@ -22,8 +23,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | Certificate                                 | Learning Path                   | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :------------------------------ | :--------------- | ------------------: | -----------: | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**        | Intermediate     | in progress, 66% | 28 |  
+|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 61% | 29 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**                 | Hard             | in progress, 60% | 36 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 58% | 29 | 
 | <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:350px;"/>    | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
 | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:350px;"/>    | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
