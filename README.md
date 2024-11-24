@@ -6,8 +6,8 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
 <p align="center">November 24, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/d82ba67a-1250-4563-b444-34763b83a36b"> </p>
-
+                 <img width="1000px" src="https://github.com/user-attachments/assets/6142e3f3-f9c7-484b-b3d5-5096fbd4f387"> </p>
+                 
 
 </div>
 
