@@ -19,7 +19,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{202}}$$-day-streak in  <a href="h
 <h2>Read my complete walkthrough in Medium.</h2>
 <br>
 
-https://medium.com/@rosana.viaja/tryhackme-lookup-f5944e41c6b8
+https://medium.com/@rosana.viaja/tryhackme-supply-chain-attack-lottie-ff9f05168738
 
 <br>
 <br>
