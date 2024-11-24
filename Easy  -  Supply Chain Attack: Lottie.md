@@ -3,7 +3,7 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{202}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{Lookup}}$$
+  $$\textcolor{#3bd62d}{\textnormal{SUpply Chain Attack: Lottie}}$$
 </h1>
 <p align="center">Learn about supply chain attacks and their various mitigation technique.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/supplychainattacks">Supply Chain Attack: Lottie</a>.</p>
