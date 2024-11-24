@@ -6,7 +6,7 @@ I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m
 </h1>
 
 <p align="center">Sharpening up your CTF skill with the collection. The second volume is about web-based CTF.<br>
-                  Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ctfcollectionvol2">CTF collection VOl.2</a>.</p><br>
+                  Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ctfcollectionvol2">CTF collection Vol.2</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/6628e1a4-ea67-4e69-b719-702b2fc07e4c">
   <img height="150px" src="https://github.com/user-attachments/assets/ff30a89c-7b87-43e9-9ec0-02d34d0f8548">
