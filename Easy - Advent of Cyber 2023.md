@@ -1,4 +1,4 @@
-<p align="center">In progress = 53%.  Soon I release a walktrhough.</p>
+<p align="center">In progress = 53%.  Soon I will release a walktrhough.</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
