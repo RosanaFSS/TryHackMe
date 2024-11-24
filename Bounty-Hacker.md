@@ -3,17 +3,15 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{167}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{Bounty Hcker}}$$
+  $$\textcolor{#3bd62d}{\textnormal{Bounty Hacker}}$$
 </h1>
 <p align="center">You talked a big game about being the most elite hacker in the solar system. Prove it and claim your right to the status of Elite Bounty Hacker!</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/cowboyhackers">Bounty Hacker</a>.</p>
                                                               
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/d853e4c1-d813-4814-a8f7-0f891e6924d5">
-  <img width="900px" src="https://github.com/user-attachments/assets/55e0df78-a301-4474-838f-6f499e7fb887">
+  <img width="900px" src="https://github.com/user-attachments/assets/010465f9-4cd7-42e3-ac0a-d6f6cfd5faec">
 </p>
-
-![image](https://github.com/user-attachments/assets/010465f9-4cd7-42e3-ac0a-d6f6cfd5faec)
 
 
 ![image](https://github.com/user-attachments/assets/d6f6de4c-3968-4daf-94e6-dabd211d854b)
