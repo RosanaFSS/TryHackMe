@@ -1,5 +1,17 @@
-Lorem Ypsum
+<p align="center">October 20, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{167}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Bounty Hcker}}$$
+</h1>
+<p align="center">You talked a big game about being the most elite hacker in the solar system. Prove it and claim your right to the status of Elite Bounty Hacker!</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/cowboyhackers">Bounty Hacker</a>.</p>
+                                                              
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/d853e4c1-d813-4814-a8f7-0f891e6924d5">
+  <img width="900px" src="https://github.com/user-attachments/assets/55e0df78-a301-4474-838f-6f499e7fb887">
+</p>
 
 ![image](https://github.com/user-attachments/assets/010465f9-4cd7-42e3-ac0a-d6f6cfd5faec)
 
