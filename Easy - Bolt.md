@@ -281,12 +281,3 @@ msf6 exploit(unix/webapp/bolt_authenticated_rce) >
 
 ![image](https://github.com/user-attachments/assets/12659e70-0803-4cd3-b9a5-b4eb1505a062)
 
-![image](https://github.com/user-attachments/assets/6e2f5452-5cd4-450b-8442-8097379945c0)
-
-
-
-
-
-
-
-
