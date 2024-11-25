@@ -3,13 +3,6 @@
 
 <table class="center">
   
-<colgroup>
-  <col style="width: 8%;">
-  <col style="width: 8%;">
-  <col style="width: 14%;">
-  <col style="width: 35%;">
-  <col style="width: 35%;">
-</colgroup>
 
 | OWASP Category   | Acronym        | Stands for                    |  Weakness                                 | Prevention                                 |
 |:-----------------|:---------------|:------------------------------| :---------------------------------------- | :----------------------------------------  |
