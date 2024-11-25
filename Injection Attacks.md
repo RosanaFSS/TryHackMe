@@ -1,7 +1,13 @@
 <h1>Injection Attacks</h1>
 
+<br>
 
-|            | SQL                       | Command | Advanced SQL | NoSQL | Command | XXE | SSTI                 | LDAP | ORM |
-| ---------- | ------------------------- | ------- | ------------ | ----- | ------- | --- | -------------------- | ---- | --- |
-| Stands for | Structured Query Language | \-      |              |       |         |     | Server-Side Template |      |     |
-| Subtypes   | Blind SQL                 |         |              |       |         |     |                      |      |     |
+| Injection      |  Stands for                            | 
+| :------------- | :------------------------------------- |
+| SQL            | Structured Query Language              |
+| Command        | -                                      |
+| XSS            | Cross-Site Scripting                   |
+| LDAP           | Lightweight Directory Access Protocol  |
+| SSTI           | Server-Server Template                 |
+| ORM            |                                        |
+
