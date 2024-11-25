@@ -2,6 +2,7 @@
 
 
 <table class="center">
+  
 <colgroup>
   <col style="width: 8%;">
   <col style="width: 8%;">
