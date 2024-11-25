@@ -13,12 +13,12 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
   
 <div align="center">
 
-|Year Month      |Monthly Ranking |All Time Ranking|Achievement                                                                                        |
+|Year Month      |Monthly         |All Time        |Achievement                                                                                        |
 |:---------------|:--------------:|:--------------:|:-------------------------------------------------------------------------------------------------:| 
 |                |Brazil          |Global          |                                                                                                   |
 |2024 October    |2ⁿᵈ             |1,451ˢᵗ         | <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:500px;"/> |
-|2024 September  |11ᵗʰ            |2,298ᵗʰ         | <img src="https://github.com/user-attachments/assets/93b4b1e1-4a7e-453e-a09c-90b7a9aac40a" style="width:500px;"/> |
-|2024 August     |3ʳᵈ             |3,355ᵗʰ         | <img src="https://github.com/user-attachments/assets/af7f7484-f399-4d7b-a5e5-92bca8d99d63" style="width:500px;"/> | 
+|2024 September  |11ˢᵗ            |2,298ᵗʰ         | <img src="https://github.com/user-attachments/assets/93b4b1e1-4a7e-453e-a09c-90b7a9aac40a" style="width:500px;"/> |
+|2024 August     |3ʳᵈ             |3,298ᵗʰ         | <img src="https://github.com/user-attachments/assets/af7f7484-f399-4d7b-a5e5-92bca8d99d63" style="width:500px;"/> | 
 |2024 July       |1ˢᵗ             |6,798ᵗʰ         | <img src="https://github.com/user-attachments/assets/79e5ba29-b114-4576-94c3-fdb7f8b12026" style="width:500px;"/> | 
 |2024 June       |-               |17,817ᵗʰ        |- | 
 
@@ -60,7 +60,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
-|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+|                   |          | Global       | Brazil       | Global      | Brazil     |          | Completed |
 | November 25, 2024 | 203      |      1,172ⁿᵈ |         25ᵗʰ |     4,912ⁿᵈ |       64ᵗʰ | 56,372   |       430 |
 | November 24, 2024 | 202      |      1,180ᵗʰ |         25ᵗʰ |     4,880ᵗʰ |       64ᵗʰ | 56,172   |       428 |
 | November 23, 2024 | 201      |      1,185ᵗʰ |         25ᵗʰ |     5,299ᵗʰ |       72ᵗʰ | 56,124   |       427 |
@@ -92,6 +92,11 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | October 26, 2024  | 172      |      1,610ᵗʰ |         33ʳᵈ |       544ᵗʰ |       14ᵗʰ | 49,218   |       376 |
 | October 25, 2024  | 172      |      1,621ˢᵗ |         34ᵗʰ |       458ᵗʰ |       13ʳᵈ | 49,002   |       374 |
 | October 23, 2024  | 170      |      1,656ᵗʰ |         34ᵗʰ |        34ᵗʰ |        4ᵗʰ | 48,482   |       366 |
+| September 30, 2024| 147      |      2,298ᵗʰ |         47ᵗʰ |       735ᵗʰ |       11ˢᵗ | 42,384   |       315 |
+| August 31, 2024   | 116      |      3,298ᵗʰ |         59ᵗʰ |        70ᵗʰ |        3ʳᵈ | 36,502   |       259 |
+| July 31, 2024     | 086      |      6,798ᵗʰ |            - |        34ᵗʰ |        1ˢᵗ | -        |       195 |
+| June 30, 2024     | 054      |     17,817ᵗʰ |            - |           - |          - | -        |       133 |
+
 
 </div>
 
@@ -131,9 +136,10 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 
 <div align="center">
 
+
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
-|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+|                   |          | Global       | Brazil       | Global      | Brazil     |          | Completed |
 | November 11, 2024 | 44       |      34,404ª |         601ª |      2,710ª |        38ª |   13,416 |       122 |
 | November 10, 2024 | 43       |      35,227ª |         609ª |      2,952ª |        39ª |   13,236 |       121 |
 | November 09, 2024 | 42       |      36,245ª |         628ª |      2,927ª |        37ª |   13,014 |       118 |
