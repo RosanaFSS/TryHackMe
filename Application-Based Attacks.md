@@ -7,10 +7,11 @@
 <br>
 
 <p>Prerequisites<br>
--  "How the Web Works"<br>
--  "Intro to Cross-site scripting"<br>
--   JavaScript Basics"<br>
--  "Python Basics"</p>
+- HTTP in Detail<br>
+- How the Web Works<br>
+- Intro to Cross-site scripting<br>
+- JavaScript Basics<br>
+- Python Basics</p>
 
 <table class="center">
 
