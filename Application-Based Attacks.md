@@ -2,10 +2,13 @@
 
 
 <table class="center">
-
-| Citation                                                              | Alphabet   | Amino acid groups                                                               |
-|:----------------------------------------------------------------------|:-----------|:--------------------------------------------------------------------------------|
-
+<colgroup>
+  <col style="width: 8%;">
+  <col style="width: 8%;">
+  <col style="width: 14%;">
+  <col style="width: 35%;">
+  <col style="width: 35%;">
+</colgroup>
 
 | OWASP Category   | Acronym        | Stands for                    |  Weakness                                 | Prevention                                 |
 |:-----------------|:---------------|:------------------------------| :---------------------------------------- | :----------------------------------------  |
@@ -20,8 +23,6 @@
 | Injection        | LDAP           | Lightweight Directory Access Protocol  |
 | Injection        | SSTI           | Server-Server Template                 |
 | Injection        | ORM            |                                        |
-
-: {tbl-colwidths="[10, 10, 80]"}
 
 </table>
 
