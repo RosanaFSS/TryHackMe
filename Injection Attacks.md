@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-  <td>$${\color{green} \verb|**|text}$$</td>
+  <td>$${\color{green} \verb||OWASP Category}$$</td>
 </tr>
 </table>
 
