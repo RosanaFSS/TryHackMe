@@ -1,4 +1,5 @@
 <h1>Application-Based Attacks</h1>
+<br>
 
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Cross Site Scripting, XSS}}$$
