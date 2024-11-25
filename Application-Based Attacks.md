@@ -1,10 +1,9 @@
 <h1>Application-Based Attacks</h1>
 
 
-<table class="center">
-
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormalCross Site Scripting, XSS}}$$ </h1>
 
+<table class="center">
 
 |Category       |Acronym       |Stands for                    |Weakness                 |
 |:--------------|:-------------|:-----------------------------|:------------------------|
