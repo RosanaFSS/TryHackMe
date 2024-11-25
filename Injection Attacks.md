@@ -1,13 +1,13 @@
-<h1>Injection Attacks</h1>
+<h1>Application-Based Attacks</h1>
 
 <br>
 
-| Injection      |  Stands for                            | 
-| :------------- | :------------------------------------- |
-| SQL            | Structured Query Language              |
-| Command        | -                                      |
-| XSS            | Cross-Site Scripting                   |
-| LDAP           | Lightweight Directory Access Protocol  |
-| SSTI           | Server-Server Template                 |
-| ORM            |                                        |
+| Type           | Acronym        |  Stands for                            | 
+| :------------- | :------------- | :------------------------------------- |
+| Injection      | SQL            | Structured Query Language              |
+| Injection      | Command        | -                                      |
+| Injection      | XSS            | Cross-Site Scripting                   |
+| Injection      | LDAP           | Lightweight Directory Access Protocol  |
+| Injection      | SSTI           | Server-Server Template                 |
+| Injection      | ORM            |                                        |
 
