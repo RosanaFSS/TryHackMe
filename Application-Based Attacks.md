@@ -4,7 +4,7 @@
 <table class="center">
   
 
-|OWASP Category |Acronym       |Stands for                    |Weakness                 |Prevention                        |
+|Category |Acronym       |Stands for                    |Weakness                 |Prevention                        |
 |:--------------|:-------------|:-----------------------------|:------------------------|:---------------------------------|
 | API7:2023<br><br><br><br><br><br><br><br>| SSRF<br><br><br><br><br><br><br><br>| Server Side Request Forgery<br><br><br><br><br><br>| Occur when an API is fetching a remote resource without validating the user-supplied URL. It enables an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall or a VPN.<br><br><br><br><br>|  |
 | Injection        | SQL            | Structured Query Language              |
