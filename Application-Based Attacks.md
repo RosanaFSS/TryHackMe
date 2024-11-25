@@ -3,6 +3,8 @@
 
 <table class="center">
 
+<p>Cross Site Scripting, XSS</p>
+
 |Category       |Acronym       |Stands for                    |Weakness                 |
 |:--------------|:-------------|:-----------------------------|:------------------------|
 | Injection        | Reflected XSS  | Reflected Cross Site Scripting         | Reflected attacks are those where the injected script is reflected off the web server, such as in an error message, search result, or any other response that includes some or all of the input sent to the server as part of the request. Reflected attacks are delivered to victims via another route, such as in an e-mail message, or on some other website. When a user is tricked into clicking on a malicious link, submitting a specially crafted form, or even just browsing to a malicious site, the injected code travels to the vulnerable web site, which reflects the attack back to the user’s browser. The browser then executes the code because it came from a “trusted” server. Reflected XSS is also sometimes referred to as Non-Persistent or Type-I XSS (the attack is carried out through a single request / response cycle). |
