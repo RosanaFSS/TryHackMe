@@ -10,10 +10,20 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 
+<div align="center">
+
+|Month                   |Brazil Monthly Ranking    |Image                                                                    |
+|:-----------------------|:------------------------ |:------------------------------------------------------------------------| 
+| October                | 2ⁿᵈ                      |  <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:350px;"/> | 
+
 </div>
 
-<p align="center"> 2ⁿᵈ in Brazil in Monthly Ranking October 2024, 7 PM GMT -3, <br>
+<p align="center"> 2ⁿᵈ in Brazil in Monthly Ranking October 2024<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006"> </p>
+
+<p align="center"> 3ʳᵈ in Brazil in Monthly Ranking August 2024<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/af7f7484-f399-4d7b-a5e5-92bca8d99d63"> </p>                 
+
 
 
 <br>
