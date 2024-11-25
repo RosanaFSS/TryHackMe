@@ -1,5 +1,14 @@
 <h1>Application-Based Attacks</h1>
 
+You can simulate the top allign with using the html br code in the cell you like to push the line up like this:
+
+OS	Debian 12 Bookworm
+Databases
+
+SalesDB
+StockDB
+
+
 <br>
 
 | OWASP Category   | Acronym        | Stands for                             |  Weakness                                 | Prevention                                 |
