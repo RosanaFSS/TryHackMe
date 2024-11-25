@@ -1,9 +1,8 @@
 <h1>Application-Based Attacks</h1>
 
-
-<h1 align="center"> $$\textcolor{#3bd62d}{\textnormalCross Site Scripting, XSS}}$$ </h1>
-
-<h1 align="center"> $$\textcolor{#3bd62d}{\textnormalCross Site Scripting, XSS}}$$ </h1>
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Cross Site Scripting, XSS}}$$
+</h1>
 
 <table class="center">
 
