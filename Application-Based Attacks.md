@@ -4,6 +4,13 @@
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{XSS, Cross Site Scripting}}$$
 </h1>
+<br>
+
+<p>Prerequisites<br>
+-  "How the Web Works"<br>
+-  "Intro to Cross-site scripting"<br>
+-   JavaScript Basics"<br>
+-  "Python Basics"</p>
 
 <table class="center">
 
