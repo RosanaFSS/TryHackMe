@@ -3,7 +3,8 @@
 
 <table class="center">
 
-<p>Cross Site Scripting, XSS</p>
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormalCross Site Scripting, XSS}}$$ </h1>
+
 
 |Category       |Acronym       |Stands for                    |Weakness                 |
 |:--------------|:-------------|:-----------------------------|:------------------------|
