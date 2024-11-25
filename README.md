@@ -137,9 +137,9 @@ Click <a href="https://tryhackme.com/r/p/CyberRosana">here</a> to know more abou
 <div align="center">
 
 
-| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
-| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
-|                   |          | Global       | Brazil       | Global      | Brazil     |          | Completed |
+|Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
+|:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
+|                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
 | November 11, 2024 | 44       |      34,404ª |         601ª |      2,710ª |        38ª |   13,416 |       122 |
 | November 10, 2024 | 43       |      35,227ª |         609ª |      2,952ª |        39ª |   13,236 |       121 |
 | November 09, 2024 | 42       |      36,245ª |         628ª |      2,927ª |        37ª |   13,014 |       118 |
