@@ -16,6 +16,9 @@
 | Injection        | SSTI           | Server-Server Template                 |
 | Injection        | ORM            |                                        |
 
+<br>
+
+
 +-----------+-----------+--------------------+
 | Fruit     | Price     | Advantages         |
 +===========+===========+====================+
