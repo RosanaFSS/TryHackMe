@@ -21,6 +21,8 @@
 | Injection        | SSTI           | Server-Server Template                 |
 | Injection        | ORM            |                                        |
 
+: {tbl-colwidths="[10, 10, 80]"}
+
 </table>
 
 <br>
