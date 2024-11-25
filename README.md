@@ -14,7 +14,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 <div align="center">
 
 |Year Month      |Monthly         |All Time        |Achievement                                                                                        |
-|:---------------|:--------------:|:--------------:|:-------------------------------------------------------------------------------------------------:| 
+|:---------------|--------------:|--------------:|:-------------------------------------------------------------------------------------------------:| 
 |                |Brazil          |Global          |                                                                                                   |
 |2024 October    |2ⁿᵈ             |1,451ˢᵗ         | <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:500px;"/> |
 |2024 September  |11ˢᵗ            |2,298ᵗʰ         | <img src="https://github.com/user-attachments/assets/93b4b1e1-4a7e-453e-a09c-90b7a9aac40a" style="width:500px;"/> |
