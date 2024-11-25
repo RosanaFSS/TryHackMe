@@ -6,7 +6,7 @@
 
 |Category       |Acronym       |Stands for                    |Weakness                 |
 |:--------------|:-------------|:-----------------------------|:------------------------|
-| API7:2023| SSRF| Server Side Request Forgery<br><br><br><br><br><br>| Occur when an API is fetching a remote resource without validating the user-supplied URL. It enables an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall or a VPN.|
+| API7:2023     | SSRF         | Server Side Request Forgery  | Occur when an API is fetching a remote resource without validating the user-supplied URL. It enables an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall or a VPN.|
 
 |Category       |Acronym       |Stands for                    |Weakness                 |
 |:--------------|:-------------|:-----------------------------|:------------------------|
