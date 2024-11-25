@@ -12,9 +12,10 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <div align="center">
 
-|Year Month         |Brazil Monthly Ranking |Achievement                                                                              |
+|Year Month         |Monthly Ranking |Achievement                                                                                        |
+|                   |Brazil          |                                                                                                   |
 |:------------------|:--------------:|:-------------------------------------------------------------------------------------------------:| 
-|2024 October       | 2ⁿᵈ            |  <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:800px;"/> | 
+|2024 October       | 2ⁿᵈ            |  <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:700px;"/> | 
 
 </div>
 
