@@ -3,10 +3,12 @@
 
 <table class="center">
 
+| Citation                                                              | Alphabet   | Amino acid groups                                                               |
+|:----------------------------------------------------------------------|:-----------|:--------------------------------------------------------------------------------|
 
 
-| OWASP Category   | Acronym        | Stands for                             |  Weakness                                 | Prevention                                 |
-|:-----------------|:---------------| :------------------------------------- | :---------------------------------------- | :----------------------------------------  |
+| OWASP Category   | Acronym        | Stands for                    |  Weakness                                 | Prevention                                 |
+|:-----------------|:---------------|:------------------------------| :---------------------------------------- | :----------------------------------------  |
 | API7:2023<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>| SSRF<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>| Server Side Request Forgery<br><br><br><br><br><br><br><br><br><br><br><br><br>| Occur when an API is fetching a remote resource without validating the user-supplied URL. It enables an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall or a VPN. | - Isolate the resource fetching mechanism in your network: usually these features are aimed to retrieve remote resources and not internal ones.<br>- Whenever possible, use allow lists<br>- Disable HTTP redirections.<br>- Use a well-tested and maintained URL parser to avoid issues caused by URL parsing inconsistencies.<br>- Validate and sanitize all client-supplied input data.<br>- Do not send raw responses to clients.|
 | Injection        | SQL            | Structured Query Language              |
 | Injection        | NoSQL          | No Structured Query Language           |
