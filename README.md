@@ -42,11 +42,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 </div>
 
-<p align="center">November 21, 2024 - My Learning Journey<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/7b1e7eb5-fcf0-4cf5-b40f-3b43058ca875"> </p>
-<p></p>
 
-</div>
 
 <div align="center">
 
