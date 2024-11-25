@@ -59,7 +59,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 <div align="center">
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
-| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+| :---------------: | -------: | -----------: | -----------: | ----------: | ---------: | -------: | --------: |
 |                   |          | Global       | Brazil       | Global      | Brazil     |          | Completed |
 | November 25, 2024 | 203      |      1,172ⁿᵈ |         25ᵗʰ |     4,912ⁿᵈ |       64ᵗʰ | 56,372   |       430 |
 | November 24, 2024 | 202      |      1,180ᵗʰ |         25ᵗʰ |     4,880ᵗʰ |       64ᵗʰ | 56,172   |       428 |
