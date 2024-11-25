@@ -4,6 +4,7 @@
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{XSS, Cross Site Scripting}}$$
 </h1>
+<p> XSS is a vulnerability that allows an attacker to inject malicious scripts into a web page viewed by another user. Consequently, they bypass the Same-Origin Policy (SOP); SOP is a security mechanism implemented in modern web browsers to prevent a malicious script on one web page from obtaining access to sensitive data on another page. XSS dodges SOP as it is executing from the same origin.</p>
 <br>
 
 <p>Prerequisites<br>
