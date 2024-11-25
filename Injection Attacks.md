@@ -1,9 +1,9 @@
 <h1>Application-Based Attacks</h1>
 
 
+<table class="center">
 
 
-<br>
 
 | *OWASP Category*   | Acronym        | Stands for                             |  Weakness                                 | Prevention                                 |
 | :--------------- | :------------- | :------------------------------------- | :---------------------------------------- | :----------------------------------------  |
@@ -16,16 +16,6 @@
 | Injection        | SSTI           | Server-Server Template                 |
 | Injection        | ORM            |                                        |
 
-<br>
+</table>
 
-
-+-----------+-----------+--------------------+
-| Fruit     | Price     | Advantages         |
-+===========+===========+====================+
-| Bananas   | $1.34     | - built-in wrapper |
-|           |           | - bright color     |
-+-----------+-----------+--------------------+
-| Oranges   | $2.10     | - cures scurvy     |
-|           |           | - tasty            |
-+-----------+-----------+--------------------+
 
