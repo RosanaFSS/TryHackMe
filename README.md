@@ -14,7 +14,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 |Month                   |Brazil Monthly Ranking    |Image                                                                    |
 |:-----------------------|:------------------------ |:------------------------------------------------------------------------| 
-| October                | 2ⁿᵈ                      |  <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:350px;"/> | 
+| October                | 2ⁿᵈ                      |  <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:600px;"/> | 
 
 </div>
 
