@@ -18,4 +18,10 @@
 
 </table>
 
+<table>
+<tr>
+  <td>$${\color{green} \verb|**|text}$$</td>
+</tr>
+</table>
+
 
