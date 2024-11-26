@@ -22,4 +22,5 @@ https://medium.com/@rosana.viaja/tryhackme-threat-hunting-with-yara-detailed-wri
 <br>
 <br>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/d517e5b9-02a5-4e5c-8305-97b8db414343"></p>
+
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/d41bd3dd-f812-43a6-8b71-8e9b546970243"></p>
