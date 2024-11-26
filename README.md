@@ -6,7 +6,7 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
 <p align="center">November 25, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/41552a62-793b-4d98-be49-c1fd89f20428"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/3929417d-03bb-442b-9eca-666d45d9d8df"> </p>
 
 <br>
 <p align="center">Highlights </p>
@@ -61,7 +61,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
-| November 25, 2024 | 203      |      1,172ⁿᵈ |         25ᵗʰ |      4,912ⁿᵈ |        64ᵗʰ  | 56,372   |       430 |
+| November 25, 2024 | 203      |      1,170ᵗʰ |         25ᵗʰ |      4,484ᵗʰ |         61ˢᵗ | 56,428   |       431 |
 | November 24, 2024 | 202      |      1,180ᵗʰ |         25ᵗʰ |      4,880ᵗʰ |         64ᵗʰ | 56,172   |       428 |
 | November 23, 2024 | 201      |      1,185ᵗʰ |         25ᵗʰ |      5,299ᵗʰ |         72ᵗʰ | 56,124   |       427 |
 | November 22, 2024 | 200      |      1,196ᵗʰ |         25ᵗʰ |      5,775ᵗʰ |         78ᵗʰ | 55,912   |       425 |
@@ -73,11 +73,11 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | November 10, 2024 | 188      |      1,247ᵗʰ |         25ᵗʰ |      4,292ⁿᵈ |         60ᵗʰ | 54,698   |       415 |
 | November 9, 2024  | 187      |      1,260ᵗʰ |         27ᵗʰ |      4,414ᵗʰ |         61ˢᵗ | 54,446   |       411 |
 | November 8, 2024  | 186      |      1,266ᵗʰ |         28ᵗʰ |      4,182ⁿᵈ |         59ᵗʰ | 54,318   |       409 |
-| November 8, 2024  | 186      |      1,271ᵗʰ |         28ᵗʰ |      4,139ᵗʰ |         57ᵗʰ | 54,230   |       408 |
+| November 8, 2024  | 186      |      1,271ˢᵗ |         28ᵗʰ |      4,139ᵗʰ |         57ᵗʰ | 54,230   |       408 |
 | November 8, 2024  | 186      |      1,273ʳᵈ |         28ᵗʰ |      3,946ᵗʰ |         55ᵗʰ | 54,182   |       406 |
 | November 7, 2024  | 185      |      1,273ʳᵈ |         28ᵗʰ |      3,990ᵗʰ |         55ᵗʰ | 54,152   |       406 |
 | November 6, 2024  | 184      |      1,294ᵗʰ |         28ᵗʰ |      4,393ʳᵈ |         64ᵗʰ | 53,730   |       403 |
-| November 5, 2024  | 183      |      1,331ᵗʰ |         28ᵗʰ |      5,422ⁿᵈ |         87ᵗʰ | 53,084   |       401 |
+| November 5, 2024  | 183      |      1,331ˢᵗ |         28ᵗʰ |      5,422ⁿᵈ |         87ᵗʰ | 53,084   |       401 |
 | November 5, 2024  | 182      |      1,340ᵗʰ |         28ᵗʰ |      5,356ᵗʰ |         81ˢᵗ | 52,926   |       400 |
 | November 4, 2024  | 181      |      1,343ʳᵈ |         28ᵗʰ |      5,339ᵗʰ |         81ˢᵗ | 52,886   |       399 |
 | November 3, 2024  | 181      |      1,397ᵗʰ |         31ˢᵗ |      6,912ⁿᵈ |        112ⁿᵈ | 52,118   |       397 |
