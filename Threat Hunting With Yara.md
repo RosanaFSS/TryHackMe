@@ -12,3 +12,14 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{203}}$$-day-streak in  <a href="h
   <img height="150px" src="https://github.com/user-attachments/assets/caaf1803-5e11-420e-a8f9-a11c75c87a20">
 </p>
 
+<br>
+
+<h2>Read my complete walkthrough in Medium.</h2>
+<br>
+
+https://medium.com/@rosana.viaja/tryhackme-threat-hunting-with-yara-detailed-write-up-cd4391f2f216
+
+<br>
+<br>
+
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/d517e5b9-02a5-4e5c-8305-97b8db414343"></p>
