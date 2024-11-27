@@ -90,24 +90,16 @@ Accept-Encoding: gzip, deflate
 
 
 
-<h2>Task Complete<a id='4'></a></h2>
+<h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
 <h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6afbfd0b-2856-4388-b18d-aa23d9881677"> </h3>
 
 
-<h2>My Journey<a id='5'></a></h2>
+<h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-![image](https://github.com/user-attachments/assets/2bcd9e83-e381-438e-ade2-d7a9c0fe5e9c)
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f5495115-3f1d-4749-bceb-fc42716cb2a8"> </h3>
+
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
-
-
-
-
-
-
-
-
-
