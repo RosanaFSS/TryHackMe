@@ -48,3 +48,20 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
 
 
 
+![image](https://github.com/user-attachments/assets/b06c2908-e0e1-49ec-bb2e-2cd977145df3)
+
+![image](https://github.com/user-attachments/assets/c80aa205-73da-45a2-aee0-d92e6b6e4b56)
+
+![image](https://github.com/user-attachments/assets/2f061fae-72b6-4986-9e47-eee8148ecfc8)
+
+![image](https://github.com/user-attachments/assets/87f6ede2-5b25-40e1-89ff-0b63704c781d)
+
+
+![image](https://github.com/user-attachments/assets/fe702fef-8ef7-4f37-acbd-45e21c4ea475)
+
+![image](https://github.com/user-attachments/assets/3113fd16-6abb-47c9-9563-c5c9c4eb82b5)
+
+
+
+
+
