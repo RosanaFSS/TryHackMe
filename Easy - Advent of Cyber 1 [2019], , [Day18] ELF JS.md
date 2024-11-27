@@ -61,8 +61,12 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
                  <img width="900px" src="https://github.com/user-attachments/assets/da4d0e4a-806f-459d-99d6-70816ad39deb"> </h3>
 
 
+<br>
 
-![image](https://github.com/user-attachments/assets/1ca30a0f-1f4c-4fc2-9dec-abed1ad3d7bb)
+<h3 align="center">Logged in and got the following ...<br>
+                 <img width="900px" src="https://github.com/user-attachments/assets/1ca30a0f-1f4c-4fc2-9dec-abed1ad3d7bb"> </h3>
+
+
 
 ![image](https://github.com/user-attachments/assets/24d4660a-9c0b-4f2d-84d5-ab1255b50859)
 
