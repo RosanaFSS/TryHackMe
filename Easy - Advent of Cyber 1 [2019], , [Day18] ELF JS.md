@@ -74,8 +74,7 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
                  <img width="900px" src="https://github.com/user-attachments/assets/219747d7-fe41-421c-9028-518c304c1ebc9"> </h3>
 
 <h3 align="center">With the following payload things worked!!!.<br>
-                 <img width="900px" src="https://github.com/user-attachments/assets/18d96eac-198d-4229-9d39-746e426da25a">
-                 <img width="900px" src="https://github.com/user-attachments/assets/13472486-4d6e-42a8-af39-d234ef6def5c">
+                 <img width="900px" src="https://github.com/user-attachments/assets/5ddae130-c64b-485a-a030-da3ab7ca2fff">
                  <img width="900px" src="https://github.com/user-attachments/assets/ea7e4a82-7c3d-4758-b6f2-e947c720e276">
                  <img width="900px" src="https://github.com/user-attachments/assets/2d0b24ea-3686-4802-b12d-3e48cb3b02e4">
 </h3>
