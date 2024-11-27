@@ -32,11 +32,14 @@ Check out the supporting material here.<vr>
 
 P.S. If you want to learn more about XSS, we have a room where you can learn about it in depth.</p>
 
+<br>
+
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>What is the admin's authid cookie value?</em><br><a id='1.1'></a>
 >> <code><strong>____________1</strong></code><br><br>
 
+<br>
 
 <pre><code>$  
 
