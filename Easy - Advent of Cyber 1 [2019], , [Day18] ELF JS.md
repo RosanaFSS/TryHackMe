@@ -52,15 +52,14 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
                  <img width="900px" hspace="20" src="https://github.com/user-attachments/assets/b06c2908-e0e1-49ec-bb2e-2cd977145df3"> </h3>
 
 <h3 align="center">Clicked in [ Register ].<br>
-                 <img width="900px" hspace="20" src="https://github.com/user-attachments/assets/b06c2908-e0e1-49ec-bb2e-2cd977145df3"> </h3>
+                 <img width="900px" hspace="20" src="https://github.com/user-attachments/assets/c80aa205-73da-45a2-aee0-d92e6b6e4b56"> </h3>
 
 <p>Email: emengarda@gmail.com<br>
 Name: emengarda<br>
 Username: emengarda<br>
-Password> emengarda</p>
+Password> password</p>
 
 
-![image](https://github.com/user-attachments/assets/c80aa205-73da-45a2-aee0-d92e6b6e4b56)
 
 ![image](https://github.com/user-attachments/assets/2f061fae-72b6-4986-9e47-eee8148ecfc8)
 
