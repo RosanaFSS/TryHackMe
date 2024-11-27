@@ -54,38 +54,34 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
 <h3 align="center">Clicked in [ Register ].<br>
                  <img width="900px" hspace="20" src="https://github.com/user-attachments/assets/c80aa205-73da-45a2-aee0-d92e6b6e4b56"> </h3>
 
-<p>Email: emengarda@gmail.com<br>
-Name: emengarda<br>
-Username: emengarda<br>
-Password> password</p>
+
+
+![image](https://github.com/user-attachments/assets/3fd17bd8-02da-4f95-bba2-232ff19742c2)
+
+![image](https://github.com/user-attachments/assets/da4d0e4a-806f-459d-99d6-70816ad39deb)
+
+![image](https://github.com/user-attachments/assets/1ca30a0f-1f4c-4fc2-9dec-abed1ad3d7bb)
+
+![image](https://github.com/user-attachments/assets/24d4660a-9c0b-4f2d-84d5-ab1255b50859)
+
+![image](https://github.com/user-attachments/assets/219747d7-fe41-421c-9028-518c304c1ebc)
 
 
 
-![image](https://github.com/user-attachments/assets/2f061fae-72b6-4986-9e47-eee8148ecfc8)
+![image](https://github.com/user-attachments/assets/18d96eac-198d-4229-9d39-746e426da25a)
 
-![image](https://github.com/user-attachments/assets/87f6ede2-5b25-40e1-89ff-0b63704c781d)
+![image](https://github.com/user-attachments/assets/13472486-4d6e-42a8-af39-d234ef6def5c)
 
+![image](https://github.com/user-attachments/assets/ea7e4a82-7c3d-4758-b6f2-e947c720e276)
 
-![image](https://github.com/user-attachments/assets/fe702fef-8ef7-4f37-acbd-45e21c4ea475)
-
-![image](https://github.com/user-attachments/assets/21795074-f332-46cd-ae43-b5817f23d511)
-
-
-![image](https://github.com/user-attachments/assets/aa37da22-47ef-4f89-922e-f61a58800a9a)
-
-![image](https://github.com/user-attachments/assets/6e2c5404-1b99-4731-8f50-0ee19d64e36a)
-
-![image](https://github.com/user-attachments/assets/68f59d2a-4793-4f27-b99e-f3c428329d81)
-
-![image](https://github.com/user-attachments/assets/79667537-39b0-4b27-bf96-72e201b1b4d6)
+![image](https://github.com/user-attachments/assets/2d0b24ea-3686-4802-b12d-3e48cb3b02e4)
 
 
 
-![image](https://github.com/user-attachments/assets/819ebb4c-69e6-44dc-a25a-24778ca4416e)
 
-![image](https://github.com/user-attachments/assets/8790d0a1-70aa-44b0-a138-0b326ca8ddce)
 
-![image](https://github.com/user-attachments/assets/f26378d4-44ea-4fb9-b335-c46382a730c1)
+
+
 
 
 
