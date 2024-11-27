@@ -22,15 +22,20 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{205}}$$-day-streak in  <a href="h
 <h2>[Day 18] ELF JS<a id='1'></a></h2>
 <p>McSkidy knows the crisis isn't over. The best thing to do at this point is OSINT<br>
 
-we need to learn more about the christmas monster<br>
+<em>we need to learn more about the christmas monster</em><br>
 
 During their OSINT, they came across a Hacker Forum. Their research has shown them that this forum belongs to the Christmas Monster. Can they gain access to the admin section of the forum? They haven't made an account yet so make sure to register.<br>
 
-Access the machine at http://[your-ip-address]:3000 - it may take a few minutes to deploy.<br>
+Access the machine at http://[Target]:3000 - <strong>it may take a few minutes to deploy</strong>.<br>
 
 Check out the supporting material here.<vr>
 
 P.S. If you want to learn more about XSS, we have a room where you can learn about it in depth.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 1.1. <em>What is the admin's authid cookie value?</em><br><a id='1.1'></a>
+>> <code><strong>____________1</strong></code><br><br>
 
 
 <pre><code>$  
@@ -39,9 +44,4 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
 </code></pre>
 
 
-
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
-
-> 1.1. <em>What's Tyrell Wellick's phone number?</em><br><a id='1.1'></a>
->> <code><strong>842-029-5701</strong></code><br><br>
 
