@@ -19,11 +19,18 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{205}}$$-day-streak in  <a href="h
 &nbsp;&nbsp;&nbsp;&nbsp; [Welcome!](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Tyrell Wellick´s Phone Number](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#1.2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root Flag](#1.3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#5) &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<h2>[Day 18]Task 1. Welcome!<a id='1'></a></h2>
-<h3>Welcome to Whiterose</h3>
-<p>This challenge is based on the Mr. Robot episode "409 Conflict". Contains spoilers!<br>
-Go ahead and start the machine, <strong>it may take a few minutes to fully start up</strong>.<br>
-And oh! I almost forgot! - You will need these: <code>Olivia Cortez:olivi8</code></p>
+<h2>[Day 18] ELF JS<a id='1'></a></h2>
+<p>McSkidy knows the crisis isn't over. The best thing to do at this point is OSINT<br>
+
+we need to learn more about the christmas monster<br>
+
+During their OSINT, they came across a Hacker Forum. Their research has shown them that this forum belongs to the Christmas Monster. Can they gain access to the admin section of the forum? They haven't made an account yet so make sure to register.<br>
+
+Access the machine at http://[your-ip-address]:3000 - it may take a few minutes to deploy.<br>
+
+Check out the supporting material here.<vr>
+
+P.S. If you want to learn more about XSS, we have a room where you can learn about it in depth.</p>
 
 
 <pre><code>$  
