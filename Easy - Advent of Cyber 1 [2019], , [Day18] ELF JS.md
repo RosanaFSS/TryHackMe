@@ -57,7 +57,7 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
 
 <br>
 
-<h3 align="center">Clicked in [ Register ].<br>
+<h3 align="center">User [ rose ] created.<br>
                  <img width="900px" src="https://github.com/user-attachments/assets/da4d0e4a-806f-459d-99d6-70816ad39deb"> </h3>
 
 
