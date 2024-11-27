@@ -67,11 +67,11 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
                  <img width="900px" src="https://github.com/user-attachments/assets/1ca30a0f-1f4c-4fc2-9dec-abed1ad3d7bb"> </h3>
 
 
+<br>
 
-![image](https://github.com/user-attachments/assets/24d4660a-9c0b-4f2d-84d5-ab1255b50859)
-
-![image](https://github.com/user-attachments/assets/219747d7-fe41-421c-9028-518c304c1ebc)
-
+<h3 align="center">Tried to use this payload an got an error message.<br>
+                 <img width="900px" src="https://github.com/user-attachments/assets/24d4660a-9c0b-4f2d-84d5-ab1255b50859">
+                 <img width="900px" src="https://github.com/user-attachments/assets/219747d7-fe41-421c-9028-518c304c1ebc9"> </h3>
 
 
 ![image](https://github.com/user-attachments/assets/18d96eac-198d-4229-9d39-746e426da25a)
