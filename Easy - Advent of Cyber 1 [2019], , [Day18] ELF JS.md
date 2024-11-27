@@ -49,12 +49,13 @@ P.S. If you want to learn more about XSS, we have a room where you can learn abo
 
 
 <h3 align="center">Accessed the machine at http://[Target]:3000.<br>
-                 <img width="900px" hspace="20" src="https://github.com/user-attachments/assets/b06c2908-e0e1-49ec-bb2e-2cd977145df3"> </h3>
+                 <img width="900px" src="https://github.com/user-attachments/assets/b06c2908-e0e1-49ec-bb2e-2cd977145df3"> </h3>
+<br>
 
 <h3 align="center">Clicked in [ Register ].<br>
-                 <img width="900px" hspace="20" src="https://github.com/user-attachments/assets/c80aa205-73da-45a2-aee0-d92e6b6e4b56"> </h3>
+                 <img width="900px" src="https://github.com/user-attachments/assets/3fd17bd8-02da-4f95-bba2-232ff19742c2"> </h3>
 
-
+<br>
 
 ![image](https://github.com/user-attachments/assets/3fd17bd8-02da-4f95-bba2-232ff19742c2)
 
