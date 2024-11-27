@@ -69,7 +69,25 @@ Password> emengarda</p>
 
 ![image](https://github.com/user-attachments/assets/fe702fef-8ef7-4f37-acbd-45e21c4ea475)
 
-![image](https://github.com/user-attachments/assets/3113fd16-6abb-47c9-9563-c5c9c4eb82b5)
+![image](https://github.com/user-attachments/assets/21795074-f332-46cd-ae43-b5817f23d511)
+
+
+![image](https://github.com/user-attachments/assets/aa37da22-47ef-4f89-922e-f61a58800a9a)
+
+![image](https://github.com/user-attachments/assets/6e2c5404-1b99-4731-8f50-0ee19d64e36a)
+
+![image](https://github.com/user-attachments/assets/68f59d2a-4793-4f27-b99e-f3c428329d81)
+
+![image](https://github.com/user-attachments/assets/79667537-39b0-4b27-bf96-72e201b1b4d6)
+
+
+
+![image](https://github.com/user-attachments/assets/819ebb4c-69e6-44dc-a25a-24778ca4416e)
+
+![image](https://github.com/user-attachments/assets/8790d0a1-70aa-44b0-a138-0b326ca8ddce)
+
+![image](https://github.com/user-attachments/assets/f26378d4-44ea-4fb9-b335-c46382a730c1)
+
 
 
 
