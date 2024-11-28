@@ -2,6 +2,10 @@
 <h1>Incident Response Process</h1>
 
 
+![image](https://github.com/user-attachments/assets/af35e6da-4905-4ec1-bbd1-2e6d756e131b)
+
+
+
 ![image](https://github.com/user-attachments/assets/445c3f8b-785c-4317-b3b2-f6e8dc2a9584)
 
 
