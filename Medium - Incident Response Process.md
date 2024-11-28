@@ -1,4 +1,8 @@
 
+<h1>Incident Response Process</h1>
+
+
+![image](https://github.com/user-attachments/assets/445c3f8b-785c-4317-b3b2-f6e8dc2a9584)
 
 
 
@@ -41,6 +45,21 @@
 
 
 ![image](https://github.com/user-attachments/assets/6e58f515-bdb7-401e-8441-f244b3a5b5e8)
+
+
+![image](https://github.com/user-attachments/assets/dc97e51d-b28d-4414-8de9-2bf3ef26a005)
+
+
+
+
+![image](https://github.com/user-attachments/assets/4c4dda41-c2eb-4a5d-8a4d-d759083f8a5f)
+
+
+![image](https://github.com/user-attachments/assets/c84d5393-e113-4d50-a043-11a76241efdc)
+
+
+
+
 
 
 
