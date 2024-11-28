@@ -28,8 +28,42 @@ Check out the supporting material here.</p>
 
 <br>
 
-<pre><code>root@ip-[THM AttackBox]:~/AdventOfCyber# 
+<pre><code>root@ip-[THM AttackBox]:~/AdventOfCyber# nmap -p1-1000 -A day7.thm
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-11-28 04:14 GMT
+Nmap scan report for day7.thm ([Target])
+Host is up (0.00042s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 7.4 (protocol 2.0)
+| ssh-hostkey: 
+...
+111/tcp open  rpcbind 2-4 (RPC #100000)
+| rpcinfo: 
+|   program version    port/proto  service
+|   100000  2,3,4        111/tcp   rpcbind
+|   100000  2,3,4        111/udp   rpcbind
+|   100000  3,4          111/tcp6  rpcbind
+|   100000  3,4          111/udp6  rpcbind
+|   100024  1          38797/udp6  status
+|   100024  1          39741/tcp6  status
+|   100024  1          45433/udp   status
+|_  100024  1          52553/tcp   status
+999/tcp open  http    SimpleHTTPServer 0.6 (Python 3.6.12)
+|_http-server-header: SimpleHTTP/0.6 Python/3.6.12
+|_http-title: Directory listing for /
+MAC Address: 02:65:71:20:B5:E1 (Unknown)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+...
 
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   0.42 ms day7.thm ([Target])
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 27.68 seconds
 </code></pre><br>
 
 <br>
