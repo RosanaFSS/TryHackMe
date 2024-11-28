@@ -175,8 +175,7 @@ Nmap done: 1 IP address (1 host up) scanned in 27.76 seconds
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f5495115-3f1d-4749-bceb-fc42716cb2a8"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6647d0de-9dbe-4fa0-aecf-869c7f9444e7"> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
-
