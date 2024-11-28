@@ -3,7 +3,7 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{205}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 1 [2019], [Day18] ELF JS}}$$
+  $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 1 [2019], [Day 18] ELF JS}}$$
 
 </h1>
 <p align="center">Get started with Cyber Security in 25 Days - Learn the basics by doing a new, beginner friendly security challenge every day leading up to Christmas.</p>
