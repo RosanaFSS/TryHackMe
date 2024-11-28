@@ -5,7 +5,6 @@
 
 ![image](https://github.com/user-attachments/assets/b4e0bb2c-32da-4294-a102-3b35e3d02b20)
 
-![image](https://github.com/user-attachments/assets/5bfde3a1-a1d6-48b5-a0c7-db75cc034e47)
 
 
 <h2>Introduction</h2>
