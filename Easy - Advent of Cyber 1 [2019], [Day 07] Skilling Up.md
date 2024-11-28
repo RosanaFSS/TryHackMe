@@ -24,7 +24,7 @@ Check out the supporting material here.</p>
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>How many TCP ports under 1000 are open?</em><br><a id='1.1'></a>
->> <code><strong>3</strong></code><br><br>
+>> <code><strong>3</strong></code>
 
 <br>
 
@@ -35,7 +35,7 @@ Check out the supporting material here.</p>
 <br>
 
 > 1.2. <em>What is the name of the OS of the host?</em><br><a id='1.2'></a>
->> <code><strong>linux</strong></code><br><br>
+>> <code><strong>linux</strong></code>
 
 <br>
 
@@ -94,7 +94,7 @@ Nmap done: 1 IP address (1 host up) scanned in 27.76 seconds
 <br>
 
 > 1.3. <em>What version of SSH is running?</em><br><a id='1.3'></a>
->> <code><strong>7.4</strong></code><br><br>
+>> <code><strong>7.4</strong></code>
 
 <br>
 
