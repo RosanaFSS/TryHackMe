@@ -137,19 +137,29 @@ Nmap done: 1 IP address (1 host up) scanned in 27.76 seconds
 <br>
 
 > 1.4. <em>What is the name of the file that is accessible on the server you found running?</em><br><a id='1.4'></a>
->> <code><strong>___________________</strong></code><br><br>
+>> <code><strong>interesting.file</strong></code>
 
 <br>
 
-
-
-<pre><code>$
-
+<pre><code>root@ip-[THM AttackBox]:~/AdventOfCyber# nmap -p1-1000 -A day7.thm
+...
+999/tcp open  http    SimpleHTTPServer 0.6 (Python 3.6.12)
+|_http-server-header: SimpleHTTP/0.6 Python/3.6.12
+|_http-title: Directory listing for /
+...
 </code></pre><br>
 
+<br>
 
+![image](https://github.com/user-attachments/assets/e0b72ff6-da86-4d27-8198-b82a8aa3310e)
 
-<h3 align="center">Accessed the machine at http://[Target]:3000.<br>
-                 <img width="900px" src="https://github.com/user-attachments/assets/b06c2908-e0e1-49ec-bb2e-2cd977145df3"> </h3>
+<br>
+
+![image](https://github.com/user-attachments/assets/8a7d3f22-8bf6-4931-aeaf-a8d4107504d2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/17d688ad-e8ea-41b7-9cf8-cf150897e894)
+
 <br>
 
