@@ -190,14 +190,7 @@ I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.<
 
 <br>
 
-
 ![image](https://github.com/user-attachments/assets/8912784c-691d-440c-8c76-7a71708fe84c)
-
-
-<br>
-
-
-![image](https://github.com/user-attachments/assets/8f4faed0-eeef-4423-a6d0-d68d2857e93d)
 
 <br>
 
