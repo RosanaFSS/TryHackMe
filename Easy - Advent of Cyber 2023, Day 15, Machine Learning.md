@@ -197,12 +197,6 @@ I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.<
 <br>
 
 
-![image](https://github.com/user-attachments/assets/8549c881-0477-421c-b903-a61feae7f42f)
-
-<br>
-
-
-
 ![image](https://github.com/user-attachments/assets/8f4faed0-eeef-4423-a6d0-d68d2857e93d)
 
 <br>
