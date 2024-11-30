@@ -15,6 +15,15 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 <br>
 <p align="center">This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box. If you find more dm me in discord at Fsociety2006.</p>
 
+<br>
+
+<p align="center">Summary</p>
+
+
+[Machine Learning - The Little Machine That Wanted to Learn](#20)
+[Machine Learning - Jingle Bell SPAM: Machine Learning Saves the Day!](#21) 
+&nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Spot the flags](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Final stage](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#5)
+
 
 <h2>Task 1. Introduction - Welcome to Advent of Cyber 2023!<a id='1'></a></h2>
 
