@@ -248,7 +248,7 @@ I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.<
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f348448a-51aa-4b11-8656-63c941c2ba96"> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
