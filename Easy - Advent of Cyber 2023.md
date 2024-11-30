@@ -80,6 +80,25 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 >> <strong>No answer needed</strong>
 <p><br></p>
 
+<h2>Task 7. Machine Learning -  Chatbot, tell me, if you're really safe?<a id='7'></a></h2>
+
+> 7.1. <em>What is McGreedy's personal email address?</em><br><a id='7.1'></a>
+>> <strong>t.mcgreedy@antarcticrafts.thm</strong>
+<p><br></p>
+
+> 7.2. <em>What is the password for the IT server room door?</em><br><a id='7.2'></a>
+>> <strong>BtY2S02</strong>
+<p><br></p>
+
+> 7.3. <em>What is the name of McGreedy's secret project?</em><br><a id='7.3'></a>
+>> <strong>Purple Snow</strong>
+<p><br></p>
+
+> 7.4. <em>If you enjoyed this room, we invite you to join our Discord server for ongoing support, exclusive tips, and a community of peers to enhance your Advent of Cyber experience!</em><br><a id='7.4'></a>
+>> <strong>No answer needed</strong>
+<p><br></p>
+
+
 
 
 
