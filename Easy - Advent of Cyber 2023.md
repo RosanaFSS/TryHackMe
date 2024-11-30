@@ -24,32 +24,18 @@ Machine Learning<br>
 - Day 14, [The Little Machine That Wanted to Learn](#20)
 - Day 15, [Jingle Bell SPAM: Machine Learning Saves the Day!](#21)
 
-<br>
-
 Log Analysis<br>
-
 - Day 2, [O Data, All Ye Faithful](#8)
-
 - Day 7, [‘Tis the season for log chopping!](#13)
 
-<br>
-
 Brute-Forcing<br>
-
 - Day 3, [Hydra is Coming to Town](#9)
-
 - Day 4, [Baby, it's CeWLd outside](#10)
 
-<br>
-
 Reverse Engineering<br>
-
 - Day 5, [A Christmas DOScovery: Tapes of Yule-tide Past](#11)
 
-<br>
-
 Intrusion Detection<br>
-
 - Day 13, [To the Pots, Through the Walls](#19)
 
   
