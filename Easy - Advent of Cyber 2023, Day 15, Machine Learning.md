@@ -112,6 +112,88 @@ Here, we are using the Pandas library to load the data collected from various so
 
 <br>
 
+![image](https://github.com/user-attachments/assets/775ad554-0c23-4650-90b9-6604be17f3b6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/659ece0c-3c97-453d-a88f-1552409002fb)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3a6a0e09-a140-4fee-b99d-bd22ba3ca701)
+
+
+<br>
+
+<p>Sep 0: Importing the required libraries</p>
+
+![image](https://github.com/user-attachments/assets/be4efc32-630b-4fe6-8948-8b6c967d79c4)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d119cbde-5aa1-4216-a78c-70c2688abc6e)
+
+<br>
+
+<p>Step 1: Data Collection<br>
+I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.</p>
+
+![image](https://github.com/user-attachments/assets/deaa4a43-0ac3-4cfe-b3d0-e868c3e4c18c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cc7f7c54-a526-49bc-b1b7-8fe4a349f9f7)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/88b83703-5bc4-4d40-a873-75216b118e08)
+<br>
+
+<p>Step 2: Data Preprocessing</p>
+
+![image](https://github.com/user-attachments/assets/e96b9c26-8d1e-4b9e-bc23-26137ba3eb54)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/925a2379-9fda-449b-9667-2ea5010b603b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/47790820-5fae-44b1-8987-23f29402698e)
+
+<br>
+
+<p>Step 3: Train/Test split dataset</p>
+
+![image](https://github.com/user-attachments/assets/5701d304-4675-4b65-867b-d361e0b57733)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e8a64619-5c42-4120-a213-6e377491d628)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2>Task Complete<a id='2'></a></h2>
