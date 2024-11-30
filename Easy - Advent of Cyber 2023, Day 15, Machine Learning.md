@@ -125,9 +125,10 @@ Here, we are using the Pandas library to load the data collected from various so
 
 <br>
 
-<p>Sep 0: Importing the required libraries</p>
-
 ![image](https://github.com/user-attachments/assets/be4efc32-630b-4fe6-8948-8b6c967d79c4)
+
+
+<p>Step 0: Importing the required libraries</p>
 
 <br>
 
