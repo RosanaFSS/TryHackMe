@@ -41,6 +41,45 @@ McSkidy has started to combat the problem by placing control elves in the pipeli
 
 <br>
 
+![image](https://github.com/user-attachments/assets/8d504e66-c5ff-4f86-aba1-499963d1b4c9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e37e283e-afaf-4b11-9cf7-535f0004189a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0cf2dd2b-433c-4833-83b2-e49b806ef279)
+<br>
+
+![image](https://github.com/user-attachments/assets/2a1c6447-425a-4cb3-baf0-33a7f2b7579e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/08879b29-b52d-4415-a6b8-4c0fc3c52124)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1bb9e71d-938d-46c5-9b1c-860282bf3a7e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/74cb6787-af49-460f-9df4-409565d5539b)
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center">Bla Bla Bla<br>
                  <img width="900px" src=""> </h3>
