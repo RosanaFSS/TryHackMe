@@ -21,11 +21,11 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 
 Machine Learning<br>
 
-- [Chatbot, tell me, if you're really safe?](#7)
+- Day 1, [Chatbot, tell me, if you're really safe?](#7)
   
 - [The Little Machine That Wanted to Learn](#20)
 
-- [Jingle Bell SPAM: Machine Learning Saves the Day!](#21)
+- Day 15, [Jingle Bell SPAM: Machine Learning Saves the Day!](#21)
 
 <br>
 
@@ -38,7 +38,7 @@ Log Analysis<br>
 <br>
 Intrusion Detection<br>
 
-- [To the Pots, Through the Walls](#19)
+- Day 13, [To the Pots, Through the Walls](#19)
 
   
 
