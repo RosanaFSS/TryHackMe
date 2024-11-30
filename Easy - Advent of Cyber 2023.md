@@ -1,6 +1,6 @@
 <p align="center">In progress = 63%.  Soon I will release the full walkthrough.</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2023}}$$
@@ -196,11 +196,19 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <br>
 
-<p>Access a comprehensive walkthrough here ...</p>
+<p>Access a comprehensive walkthrough <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2014.%20Machine%20Learning.md">here</a>.</p>
 
-https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2014.%20Machine%20Learning.md
+<br>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<h2>Task 21. [ Day 15 ] Machine Learning - Jingle Bell SPAM: Machine Learning Saves the Day!<a id='21'></a></h2>
+
+<br>
+
+<p>Access a comprehensive walkthrough <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2014.%20Machine%20Learning.md">here</a>.</p>
+
+<br>
+
+
 
 
 
