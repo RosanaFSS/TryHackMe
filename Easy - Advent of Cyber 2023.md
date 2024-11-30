@@ -31,7 +31,7 @@ Machine Learning<br>
 
 Log Analysis<br>
 
-- [O Data, All Ye Faithful](#8)
+- Day 2, [O Data, All Ye Faithful](#8)
 
 - [‘Tis the season for log chopping!](#13)
 
