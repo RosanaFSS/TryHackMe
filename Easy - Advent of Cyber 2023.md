@@ -20,9 +20,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 <p align="center">Summary</p>
 
 
-[Machine Learning - The Little Machine That Wanted to Learn](#20)
+Machine Learning<br>
+- [The Little Machine That Wanted to Learn](#20)
 <br>
-[Machine Learning - Jingle Bell SPAM: Machine Learning Saves the Day!](#21) 
+- [Jingle Bell SPAM: Machine Learning Saves the Day!](#21) 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Spot the flags](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Final stage](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#5)
 
