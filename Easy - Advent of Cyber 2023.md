@@ -39,9 +39,9 @@ Log Analysis<br>
 
 Brute-Forcing<br>
 
-- Day 3, [](#9)
+- Day 3, [Hydra is Coming to Town](#9)
 
-- Day 4, [](#10)
+- Day 4, [Baby, it's CeWLd outside](#10)
 
 <br>
 
