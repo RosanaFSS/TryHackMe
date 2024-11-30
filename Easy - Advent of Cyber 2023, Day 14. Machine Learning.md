@@ -9,12 +9,27 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 <p align="center">Get started with Cyber Security in 24 Days - Learn the basics by doing a new, beginner friendly security challenge every day leading up to Christmas.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/adventofcyber2023">Advent of Cyber 2023</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/f59c6a13-447f-4f2a-ade0-a28bc0f05118">
-  <img height="150px" src="https://github.com/user-attachments/assets/7a3dd02f-39d7-4e1e-b64d-e0ec60bdb2f2">
+  <img height="150px" hspace="20" src="">
+  <img height="150px" src="">
 
 </p>
 
-<h2>[Day 18] ELF JS<a id='1'></a></h2>
+<h2>[Day 14] Machine Learning, The Little Machine That Wanted to Learn<a id='1'></a></h2>
+<p>The CTO has made our toy pipeline go wrong. By infecting elves at key positions in the toy-making process, he has poisoned the pipeline and caused the elves to make defective toys!<br>
+
+McSkidy has started to combat the problem by placing control elves in the pipeline. These elves take measurements of the toys to try and narrow down the exact location of problematic elves in the pipeline by comparing the measurements of defective and perfect toys. However, this is an incredibly tedious and lengthy process, so he's looking to use machine learning to optimise it.</p>
+
+<h3>Learning Objectives</h3>
+
+<h3>Accessing the Machine</h3>
+
+<h3>Introduction</h3>
+
+<h3>Zero to Hero on Artificial Intelligence</h3>
+
+<h3>Putting it All Together</h3>
+
+<p>............</p>
 
 
 <br>
