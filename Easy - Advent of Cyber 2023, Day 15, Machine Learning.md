@@ -10,7 +10,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/adventofcyber2023">Advent of Cyber 2023</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077">
-  <img height="150px" src="https://github.com/user-attachments/assets/7ac61c46-f39b-40f6-8315-30ae61a8a8e9">
+  <img height="150px" src="https://github.com/user-attachments/assets/b2e435b4-668c-478d-a7ab-23bae2902142">
 
 </p>
 
@@ -243,8 +243,7 @@ I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.<
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
-
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6848d5b6-cba8-4104-9719-9384ec3b3e0e"> </h3>
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
