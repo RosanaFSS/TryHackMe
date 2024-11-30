@@ -196,7 +196,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 
 <br>
 
-<p>Access a comprehensive walkthrough <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2014.%20Machine%20Learning.md">here</a>.</p>
+<p>Access a comprehensive <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2014.%20Machine%20Learning.md">Walkthrough Here</a>.</p>
 
 <br>
 
@@ -204,12 +204,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 
 <br>
 
-<p>Access a comprehensive walkthrough <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2014.%20Machine%20Learning.md">here</a>.</p>
+<p>Access a comprehensive <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2015%2C%20Machine%20Learning.md">Walkthrough Here</a>.</p>
 
 <br>
-
-
-
 
 
 
