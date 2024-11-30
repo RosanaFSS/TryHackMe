@@ -20,6 +20,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
 > 1.1. <em>Read the above and check out the prizes!</em><br><a id='1.1'></a>
 >> <strong>No answer needed</strong>
 <p><br></p>
