@@ -6,7 +6,7 @@
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
 <p align="center">November 30 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/764ccd2d-7594-4916-b716-41d9ea60b762"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/c11bd108-8da3-4957-bf91-bfde1ed2cf6"> </p>
 
 <br>
 <p align="center">Highlights </p>
@@ -33,7 +33,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 | Certificate                                 | Learning Path                   | Level            | Completion Date     | Hands-on QTY |
 | :-----------------------------------------: | :------------------------------ | :--------------- | ------------------: | -----------: | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 87% | 29 | 
+|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 88% | 29 | 
 |  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**        | Intermediate     | in progress, 66% | 28 |  
 |  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**                 | Hard             | in progress, 60% | 36 | 
 | <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
@@ -61,7 +61,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
-| November 30, 2024 | 208      |      1,067ᵗʰ |         23ʳᵈ |      3,208ᵗʰ |         48ᵗʰ | 58,410   |       447 |
+| November 30, 2024 | 208      |      1,067ᵗʰ |         23ʳᵈ |      3,208ᵗʰ |         48ᵗʰ | 58,418   |       448 |
 | November 28, 2024 | 206      |      1,125ᵗʰ |         23ʳᵈ |      3,998ᵗʰ |         56ᵗʰ | 57,284   |       437 |
 | November 27, 2024 | 205      |      1,127ᵗʰ |         24ᵗʰ |      4,049ᵗʰ |         57ᵗʰ | 57,184   |       436 |
 | November 26, 2024 | 204      |      1,140ᵗʰ |         25ᵗʰ |      4,452ⁿᵈ |         61ˢᵗ | 57,024   |       435 |
