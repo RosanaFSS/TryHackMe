@@ -62,7 +62,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 >> <strong>No answer needed</strong>
 <p><br></p>
 
-<br>
 <h2>Task 4. Join the TryHackMe Community!<a id='4'></a></h2>
 
 > 4.1. <em>Is there a dedicated Advent of Cyber channel on TryHackMe Discord where users can discuss daily challenges and receive dedicated support? (yes/no)</em><br><a id='4.1'></a>
