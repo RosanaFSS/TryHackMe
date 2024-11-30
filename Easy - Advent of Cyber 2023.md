@@ -20,7 +20,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 <p align="center">Summary</p>
 
 Machine Learning<br>
-
 - Day 1, [Chatbot, tell me, if you're really safe?](#7)  
 - Day 14, [The Little Machine That Wanted to Learn](#20)
 - Day 15, [Jingle Bell SPAM: Machine Learning Saves the Day!](#21)
