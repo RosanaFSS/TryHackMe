@@ -31,6 +31,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
 > 2.1. <em>Read the rules!</em><br><a id='2.1'></a>
 >> <strong>No answer needed</strong>
 <p><br></p>
@@ -38,6 +40,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 <h2>Task 3. Introduction - Follow us on social media!<a id='3'></a></h2>
 
 <br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 3.1. <em>Follow us on LinkedIn!</em><br><a id='3.1'></a>
 >> <strong>No answer needed</strong>
@@ -65,11 +69,19 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <h2>Task 4. Introduction - Join the TryHackMe Community!<a id='4'></a></h2>
 
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
 > 4.1. <em>Is there a dedicated Advent of Cyber channel on TryHackMe Discord where users can discuss daily challenges and receive dedicated support? (yes/no)</em><br><a id='4.1'></a>
 >> <strong>yes</strong>
 <p><br></p>
 
 <h2>Task 5. Introduction - Subscribing, TryHackMe for Business & Christmas Swag!<a id='5'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 5.1. <em>Share the annual discount with your friends!</em><br><a id='5.1'></a>
 >> <strong>No answer needed</strong>
@@ -77,11 +89,19 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <h2>Task 6. Introduction - The Insider Threat Who Stole Christmas<a id='6'></a></h2>
 
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
 > 6.1. <em>Are you ready to help Elf McSkidy tackle Advent of Cyber 2023? Come back on December 1st, 4pm GMT when the first daily challenge will be released! </em><br><a id='6.1'></a>
 >> <strong>No answer needed</strong>
 <p><br></p>
 
 <h2>Task 7. Machine Learning -  Chatbot, tell me, if you're really safe?<a id='7'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 7.1. <em>What is McGreedy's personal email address?</em><br><a id='7.1'></a>
 >> <strong>t.mcgreedy@antarcticrafts.thm</strong>
