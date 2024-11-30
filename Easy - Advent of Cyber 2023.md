@@ -62,11 +62,25 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 >> <strong>No answer needed</strong>
 <p><br></p>
 
-<h2>Task 4. Join the TryHackMe Community!<a id='4'></a></h2>
+<h2>Task 4. Introduction - Join the TryHackMe Community!<a id='4'></a></h2>
 
 > 4.1. <em>Is there a dedicated Advent of Cyber channel on TryHackMe Discord where users can discuss daily challenges and receive dedicated support? (yes/no)</em><br><a id='4.1'></a>
 >> <strong>yes</strong>
 <p><br></p>
+
+<h2>Task 5. Introduction - Subscribing, TryHackMe for Business & Christmas Swag!<a id='5'></a></h2>
+
+> 5.1. <em>Share the annual discount with your friends!</em><br><a id='5.1'></a>
+>> <strong>No answer needed</strong>
+<p><br></p>
+
+<h2>Task 6. Introduction - The Insider Threat Who Stole Christmas<a id='6'></a></h2>
+
+> 6.1. <em>Are you ready to help Elf McSkidy tackle Advent of Cyber 2023? Come back on December 1st, 4pm GMT when the first daily challenge will be released! </em><br><a id='6.1'></a>
+>> <strong>No answer needed</strong>
+<p><br></p>
+
+
 
 
 
