@@ -93,22 +93,22 @@ Here, we are using the Pandas library to load the data collected from various so
 <br>
 
 > 1.3. <em>During the data splitting step, 20% of the dataset was split for testing. What is the percentage weightage avg of precision of spam detection?</em><br><a id='1.3'></a>
->> <code><strong>_____</strong></code>
+>> <code><strong>0.98</strong></code>
 
 <br>
 
 > 1.4. <em>How many of the test emails are marked as spam?</em><br><a id='1.4'></a>
->> <code><strong>___</strong></code>
+>> <code><strong>3</strong></code>
 
 <br>
 
 > 1.5. <em>One of the emails that is detected as spam contains a secret code. What is the code??</em><br><a id='1.5'></a>
->> <code><strong>____</strong></code>
+>> <code><strong>I_Hate_Best_FestiVal</strong></code>
 
 <br>
 
 > 1.6. <em>If you enjoyed this room, please check out the Phishing module.</em><br><a id='1.6'></a>
->> <code><strong>______</strong></code>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 
@@ -171,6 +171,40 @@ I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.<
 <br>
 
 ![image](https://github.com/user-attachments/assets/e8a64619-5c42-4120-a213-6e377491d628)
+
+<p>Step 4: Model Training using Naive Bayes</p>
+
+![image](https://github.com/user-attachments/assets/eb72d6d1-f295-4103-8258-e28200ed04a5)
+
+<br>
+
+<p>Step 5: Model Evaluation</p>
+
+![image](https://github.com/user-attachments/assets/e097dbe0-da5f-43dc-bfa4-75a5176f9aff)
+
+<br>
+
+<p>Step 6: Testing the Model</p>
+
+![image](https://github.com/user-attachments/assets/3df516e3-e64d-4785-9fbe-dbb060a48935)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/1b787d78-0d46-4bc2-ab1d-85ee8e964f18)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a595f72c-b180-407b-aa86-cdd3978d2b37)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f3f75530-5d46-4fe4-8473-96927ac968f5)
+
+
+
+
+
 
 
 
