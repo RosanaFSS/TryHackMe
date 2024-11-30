@@ -156,6 +156,51 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+<h2>Task 14. [ Day 8 ] Disk Forensics- Have a Holly, Jolly Byte!<a id='14'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 15. [ Day 9 ] Malware Analysis - She sells C# shells by the C2shore<a id='15'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 16. [ Day 10 ] SQL Injection -  Inject the Halls with EXEC Queries<a id='16'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 17. [ Day 11 ] Active Directory -  Jingle Bells, Shadow Spells<a id='17'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 18. [ Day 12 ] Defence in Depth - Sleighing Threats, One Layer at a Time<a id='18'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 19. [ Day 13 ] Intrusion Detection - To the Pots, Through the Walls<a id='19'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 20. [ Day 14 ] Machine Learning - The Little Machine That Wanted to Learn<a id='20'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+
+
+
 
 
 
