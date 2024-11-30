@@ -45,6 +45,12 @@ Brute-Forcing<br>
 
 <br>
 
+Reverse Engineering<br>
+
+- Day 5, [A Christmas DOScovery: Tapes of Yule-tide Past](#11)
+
+<br>
+
 Intrusion Detection<br>
 
 - Day 13, [To the Pots, Through the Walls](#19)
