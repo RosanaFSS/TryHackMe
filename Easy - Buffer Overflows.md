@@ -1,4 +1,4 @@
-<h1>Buffer Overflow</h1>
+<h1>Buffer Overflows</h1>
 
 ![image](https://github.com/user-attachments/assets/b096f7af-58d7-406a-ac2b-01f9cfb0558d)
 
