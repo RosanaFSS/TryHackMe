@@ -97,7 +97,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 >> <strong>No answer needed</strong>
 <p><br></p>
 
-<h2>Task 7. Machine Learning -  Chatbot, tell me, if you're really safe?<a id='7'></a></h2>
+<h2>Task 7. [ Day 1 ] Machine Learning -  Chatbot, tell me, if you're really safe?<a id='7'></a></h2>
 
 <br>
 
@@ -118,6 +118,43 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 > 7.4. <em>If you enjoyed this room, we invite you to join our Discord server for ongoing support, exclusive tips, and a community of peers to enhance your Advent of Cyber experience!</em><br><a id='7.4'></a>
 >> <strong>No answer needed</strong>
 <p><br></p>
+
+<h2>Task 8. [ Day 2 ] Log Analysis - O Data, All Ye Faithful<a id='8'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 9. [ Day 3 ] Brute-forcing - Hydra is Coming to Town<a id='9'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+
+<h2>Task 10. [ Day 4 ] Brute-forcing - Baby, it's CeWLd outside<a id='10'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 11. [ Day 5 ] Reverse Engineering - A Christmas DOScovery: Tapes of Yule-tide Past<a id='11'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 12. [ Day 6 ] Memory Corruption - Memories of Christmas Past<a id='12'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<h2>Task 13. [ Day 7 ] Log Analysis - ‘Tis the season for log chopping!<a id='13'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 
 
