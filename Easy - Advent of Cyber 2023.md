@@ -23,7 +23,7 @@ Machine Learning<br>
 
 - Day 1, [Chatbot, tell me, if you're really safe?](#7)
   
-- [The Little Machine That Wanted to Learn](#20)
+- Day 14, [The Little Machine That Wanted to Learn](#20)
 
 - Day 15, [Jingle Bell SPAM: Machine Learning Saves the Day!](#21)
 
@@ -36,6 +36,15 @@ Log Analysis<br>
 - Day 7, [‘Tis the season for log chopping!](#13)
 
 <br>
+
+Brute-Forcing<br>
+
+- Day 3, [](#9)
+
+- Day 4, [](#10)
+
+<br>
+
 Intrusion Detection<br>
 
 - Day 13, [To the Pots, Through the Walls](#19)
