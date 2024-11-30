@@ -14,7 +14,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="h
 
 </p>
 
-<h2>[Day 15] Machine Learning, Jingle Bell SPAM: Machine Learning Saves the Day!<a id='1'></a></h2>
+<h2>[Day 15] Machine Learning,<br>
+Jingle Bell SPAM: Machine Learning Saves the Day!<a id='1'></a></h2>
 <p>Over the past few weeks, Best Festival Company employees have been receiving an excessive number of spam emails. These emails are trying to lure users into the trap of clicking on links and providing credentials. Spam emails are somehow ending up in the mailing box. It looks like the spam detector in place since before the merger has been disabled/damaged deliberately. Suspicion is on McGreedy, who is not so happy with the merger.</p>
 
 <h3>Problem Statement</h3>
