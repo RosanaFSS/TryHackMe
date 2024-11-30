@@ -199,6 +199,33 @@ I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.<
 
 ![image](https://github.com/user-attachments/assets/8549c881-0477-421c-b903-a61feae7f42f)
 
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/8f4faed0-eeef-4423-a6d0-d68d2857e93d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4ee366a3-7aea-4454-ab33-00e4a0575653)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/95d5f5f0-04fd-458f-b7b1-e91ddac18d93)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4aff8bb2-1732-4a93-a845-519b07286720)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3ff63c8f-d726-4318-b515-aceeae00c9aa)
+
+
+
+
+
+
 
 
 
