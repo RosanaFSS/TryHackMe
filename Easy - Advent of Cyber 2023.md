@@ -33,7 +33,7 @@ Log Analysis<br>
 
 - Day 2, [O Data, All Ye Faithful](#8)
 
-- [‘Tis the season for log chopping!](#13)
+- Day 7, [‘Tis the season for log chopping!](#13)
 
 <br>
 Intrusion Detection<br>
