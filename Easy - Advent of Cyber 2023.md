@@ -1,4 +1,4 @@
-<p align="center">In progress = 53%.  Soon I will release a walktrhough.</p>
+<p align="center">In progress = 63%.  Soon I will release a walktrhough.</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
@@ -9,9 +9,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/adventofcyber2023">Advent of Cyber 2023</a>.</p><br>
 <p align="center">
   <img height="160px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077"><br>
-  <img width="800x" src="https://github.com/user-attachments/assets/baac0892-fca5-4c0e-8699-26f45ccdafb1">
+  <img width="800x" src="https://github.com/user-attachments/assets/b2e435b4-668c-478d-a7ab-23bae2902142">
 </p>
-
 
 <p align="center">Summary</p>
 
@@ -26,7 +25,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 <br>
 
 > 1.1. <em>Read the above and check out the prizes!</em><br><a id='1.1'></a>
->> <strong>No answer needed</strong><br>
+>> <strong>No answer needed</strong>
 <p><br></p>
 
 
@@ -35,6 +34,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="h
 <br>
 
 > 2.1. <em>Read the rules!</em><br><a id='2.1'></a>
->> <strong>No answer needed</strong><br>
+>> <strong>No answer needed</strong>
 <p><br></p>
 
