@@ -19,18 +19,53 @@ Jingle Bell SPAM: Machine Learning Saves the Day!<a id='1'></a></h2>
 <p>Over the past few weeks, Best Festival Company employees have been receiving an excessive number of spam emails. These emails are trying to lure users into the trap of clicking on links and providing credentials. Spam emails are somehow ending up in the mailing box. It looks like the spam detector in place since before the merger has been disabled/damaged deliberately. Suspicion is on McGreedy, who is not so happy with the merger.</p>
 
 <h3>Problem Statement</h3>
+<p>McSkidy has been tasked with building a spam email detector using Machine Learning (ML). She has been provided with a sample dataset collected from different sources to train the Machine Learning model.</p>
 
 <h3>Learning Objectives</h3>
+<p>In this task, we will explore:</p>
 
 <h3>Lab Connection</h3>
+<p>Before moving forward, review the questions in the connection card shown below:</p>
 
-<h3>Overview of Jupytr Notebook</h3>
+![image](https://github.com/user-attachments/assets/37d3ce79-5162-4279-8095-0aaa46637f4d)
+
+<p>Deploy the machine attached to this task by pressing the green <code>Start Machine</code> button at the top-right of this task. After waiting 3-5 minutes, Jupyter will open on the right-hand side. If you cannot see the machine, press the blue "Show Split View" button at the top of the room.</p>
+
+<h3>Overview of Jupyter Notebook</h3>
+<p>Jupyter Notebook provides an environment where you can write and execute code in real time, making it ideal for data analysis, Machine Learning, and scientific research. In this room, we will perform the practical on the Jupyter Notebook.</p>
+
+![image](https://github.com/user-attachments/assets/7aa91416-2d49-43c2-9db6-d7c37a9107cc)
+
+
+<p>It's important to recall that we will need to run the code from the Cells using the run button or by pressing the shortcut Shift+Enter. Each step is explained on the Jupyter Notebook for better understanding. Let's dive into the details.</p>
+
+![image](https://github.com/user-attachments/assets/32b521e8-47da-40cf-a7aa-03aeca59e200)
+
 
 <h3>Exploring Machine Learning Pipeline</h3>
+<p>A Machine Learning pipeline refers to the series of steps involved in building and deploying an ML model. These steps ensure that data flows efficiently from its raw form to predictions and insights.
+
+A typical pipeline would include collecting data from different sources in different forms, preprocessing it and performing feature extraction from the data, splitting the data into testing and training data, and then applying Machine Learning models and predictions.</p>
+
+![image](https://github.com/user-attachments/assets/2b062bad-a9f9-41f9-9469-b73c67c439f6)
+
 
 <h3>STEP 0: Importing the required libraries</h3>
+<p>Before starting with Data collection, we will import the required libraries. Jupyter Notebook comes with all the libraries we need for Machine Learning. Here, we are importing two key libraries: Numpy and Pandas. These libraries are already explained in detail in the previous task.</p>
+
+![image](https://github.com/user-attachments/assets/59d5af85-85f6-4350-928f-e236cc3bd40f)
+
+<p>Let’s start our SPAM EMAIL detection in the following steps:</p>
 
 <h3>Step 1: Data Collection</h3>
+<p><strong>Data Collection</strong> is the process of gathering raw data from various sources to be used for Machine Learning. This data can originate from numerous sources, such as databases, text files, APIs, online repositories, sensors, surveys, web scraping, and many others.
+
+Here, we are using the Pandas library to load the data collected from various sources in the csv format. The dataset contains spam and ham (non-spam) emails.</p>
+
+![image](https://github.com/user-attachments/assets/5f8343f2-40f9-4925-8815-0189d233d54e)
+
+<p>................</p>
+
 
 <h3>Step 2: Data Preprocessing</h3>
 
