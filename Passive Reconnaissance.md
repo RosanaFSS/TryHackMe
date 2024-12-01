@@ -1,4 +1,4 @@
-<h1>Passive Reconaissance</h1>
+<h1>Passive Reconnaissance</h1>
 
 <br>
 
