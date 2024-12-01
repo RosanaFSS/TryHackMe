@@ -451,7 +451,7 @@ Machine ID                      : win-base-2019
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src="(https://github.com/user-attachments/assets/6e088dcd-7953-42aa-b812-c1a924ca1c8b"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/08b03051-5594-4ea3-a843-43f3d21904a6"> </h3>
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
