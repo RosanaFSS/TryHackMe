@@ -181,19 +181,26 @@ In the context of cyber security, when malicious actors fail to follow proper OP
 
 For example, here are some real-world OPSEC mistakes that led to some really big fails:</p>
 
-
 <h3>AlphaBay Admin Takedown</h3>
+<p>One of the most spectacular OPSEC failures involved Alexandre Cazes, the administrator of AlphaBay, one of the largest dark web marketplaces:</p>
 
-<p>..............</p>
+<ul style="list-style-type:square">
+    <li>Cazes used the email address "pimp_alex_91@hotmail.com" in early welcome emails from the site.</li>
+    <li>This email included his year of birth and other identifying information.</li>
+    <li>He cashed out using a Bitcoin account tied to his real name.</li>
+    <li>Cazes reused the username "Alpha02" across multiple platforms, linking his dark web identity to forum posts under his real name.</li>
+</ul></p>
 
 
 <h3>Chinese Military Hacking Group (APT1)</h3>
+<p>There's also the notorious Chinese hacking group APT1, which made several OPSEC blunders:</p>
 
-<p>..........</p>
+<p>These failures provided enough information for cyber security researchers and law enforcement to publicly identify group members.</p>
 
 <h3>Uncovering MM</h3>
+<p>If you've thoroughly investigated the GitHub search result, you should have uncovered several clues based on poor OPSEC practices by the malicious actor.<br>
 
-<p>......</p>
+We know the attacker left a distinctive signature in the PowerShell code (MM). This allowed us to search for related repositories and issues pages on GitHub. We then discovered an Issues page where the attacker engaged in discussions, providing more context and linking their activity to other projects.</p>
 
 <h3>Whats Next?</h3>
 
