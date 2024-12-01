@@ -456,13 +456,16 @@ Machine ID                      : win-base-2019
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
+<div align="center">
+
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
 | November 1, 2024  | 209      |      1,061st |         23rd |     3,144th |       46th | 58,514   |       448 |
 
+</div>
+
 
 <h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/e590e88e-febe-468a-914d-033235e994fb"> </h3>
-
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
