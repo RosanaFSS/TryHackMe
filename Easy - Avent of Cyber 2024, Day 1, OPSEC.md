@@ -332,7 +332,8 @@ Machine ID                      : win-base-2019
 
 <p>Here I discover who is M.M. ...</p>
 
-![image](https://github.com/user-attachments/assets/cd37bc27-cd30-44f4-90a0-c8423c002262)
+![image](https://github.com/user-attachments/assets/c91bb786-2e16-4f68-9ec6-7ee06e9c2fe9)
+
 
 <br>
 
