@@ -52,16 +52,16 @@ Little did she know, beneath the surface lay something far more complex than a s
 <ul style="list-style-type:square">
     <li>Keep trying! Machines are becoming available as demand fluctuates.</li>
     <li>If you’re still having trouble, come back a little later when it’s less busy.</li>
-   </ul></p>
+</ul></p>
 
 <p align="center"><img width="400px" src="https://github.com/user-attachments/assets/e35c0bcc-0716-4909-94ee-7201728e4457"></p>
 
 <h3>Investigating the Website</h3>
 <p>The website we are investigating is a <code>Youtube to MP3 converter</code>code> currently being shared amongst the organizers of SOC-mas. You've decided to dig deeper after hearing some concerning reports about this website.</p>
 
-![image](https://github.com/user-attachments/assets/1978784b-55a6-4c86-bb6b-04c212e37615)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/1978784b-55a6-4c86-bb6b-04c212e37615"></p>
 
-<p>From your AttackBox, access the website by visiting MACHINE_IP using the web browser.<br>
+<p>From your AttackBox, access the website by visiting <code>MACHINE_IP</code> using the web browser.<br>
 
 At first glance, the website looks legit and presentable. The About Page even says that it was made by "The Glitch ". How considerate of them to make our job easier!<br>
 
@@ -69,9 +69,11 @@ Scrolling down, you'll see the feature list, which promises to be "Secure" and "
 
 <h3>Youtube to MP3 Converter Websites</h3>
 <p>These websites have been around for a long time. They offer a convenient way to extract audio from YouTube videos, making them popular. However, historically, these websites have been observed to have significant risks, such as:</p>
-- <strong>Malvertising</strong>: Many sites contain malicious ads that can exploit vulnerabilities in a user's system, which could lead to infection.<br>
-- <strong>Phishing scams</strong>: Users can be tricked into providing personal or sensitive information via fake surveys or offers.<br>
-- <strong>Bundled malware</strong>: Some converters may come with malware, tricking users into unknowingly running it.
+<ul style="list-style-type:square">
+    <li><strong>Malvertising</strong>: Many sites contain malicious ads that can exploit vulnerabilities in a user's system, which could lead to infection.</li>
+    <li><strong>Phishing scams</strong>: Users can be tricked into providing personal or sensitive information via fake surveys or offers.</li>
+    <li><strong>Bundled malware</strong>: Some converters may come with malware, tricking users into unknowingly running it..</li>
+</ul></p>
 
 <p>What nefarious thing does this website have in store for us?</p>
 
