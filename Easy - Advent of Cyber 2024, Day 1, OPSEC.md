@@ -43,16 +43,18 @@ Little did she know, beneath the surface lay something far more complex than a s
     <li>Understand how to track and attribute digital identities in cyber investigations.</li>
 </ul></p>
 
-
+<br>
 <h3>Connecting to the Machine</h3>
 <p>Before moving forward, review the questions in the connection card shown below and start the virtual machine by pressing the <code>Sart Machine</code> button. The VM should be fully loaded in 3 minutes. Additionally, you will need the AttackBox, which can be launched by clicking the <code>Strat AttakBox</code> button at the top of the page.</p>
 
-<h4>NOTE:</h4>
+<h5>NOTE:</h5>
 <p>If you’re clicking "Start Machine" and encountering an issue launching it, don’t worry—it’s just the high demand. What can you do?</p>
-- Keep trying! Machines are becoming available as demand fluctuates.<br>
-- If you’re still having trouble, come back a little later when it’s less busy.
+<ul style="list-style-type:square">
+    <li>Keep trying! Machines are becoming available as demand fluctuates.</li>
+    <li>If you’re still having trouble, come back a little later when it’s less busy.</li>
+   </ul></p>
 
-![image](https://github.com/user-attachments/assets/e35c0bcc-0716-4909-94ee-7201728e4457)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/e35c0bcc-0716-4909-94ee-7201728e4457"></p>
 
 <h3>Investigating the Website</h3>
 <p>The website we are investigating is a <code>Youtube to MP3 converter</code>code> currently being shared amongst the organizers of SOC-mas. You've decided to dig deeper after hearing some concerning reports about this website.</p>
