@@ -165,7 +165,7 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 <br>
 
 > 1.2. <em>The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?</em><br><a id='1.2'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>http://papash3ll.thm/data</strong></code>
 
 <br>
 
@@ -361,36 +361,34 @@ Machine ID                      : win-base-2019
 
 ![image](https://github.com/user-attachments/assets/a329c13e-af37-4b82-8550-b2e756c702a3)
 
+<br>
+
+<p>Reviewing <code>IP.ps1</code> we can identify what is the C2 server.</p>
+
+![image](https://github.com/user-attachments/assets/e6b1b6b8-522e-492f-a4c6-14f40e106e8e)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="(https://github.com/user-attachments/assets/6e088dcd-7953-42aa-b812-c1a924ca1c8b"> </h3>
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+58,514 points
+448 rooms completed
+209 day streak
+1,062 globall all time
+3,144 global monthly
+46th brazil monthly
+23rd brasil all time
+
+
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/e590e88e-febe-468a-914d-033235e994fb"> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
