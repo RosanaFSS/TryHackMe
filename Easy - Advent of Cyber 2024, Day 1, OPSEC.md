@@ -37,9 +37,11 @@ Little did she know, beneath the surface lay something far more complex than a s
 <p align="center"><img width="400px" src="https://github.com/user-attachments/assets/a8dc2b40-c3ae-4a6f-94ba-060d705b94f0"></p>
 
 <h3>Learning Objectives</h3>
-- Learn how to investigate malicious link files.<br>
-- Learn about OPSEC and OPSEC mistakes.<br>
-- Understand how to track and attribute digital identities in cyber investigations.<br>
+<ul style="list-style-type:square">
+    <li>Learn how to investigate malicious link files.</li>
+    <li>Learn about OPSEC and OPSEC mistakes.</li>
+    <li>Understand how to track and attribute digital identities in cyber investigations.</li>
+</ul></p>
 
 
 <h3>Connecting to the Machine</h3>
