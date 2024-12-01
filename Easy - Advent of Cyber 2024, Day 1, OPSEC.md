@@ -181,8 +181,9 @@ In the context of cyber security, when malicious actors fail to follow proper OP
 
 For example, here are some real-world OPSEC mistakes that led to some really big fails:</p>
 
+<br>
 <h3>AlphaBay Admin Takedown</h3>
-<p>One of the most spectacular OPSEC failures involved Alexandre Cazes, the administrator of AlphaBay, one of the largest dark web marketplaces:</p>
+<p>One of the most spectacular OPSEC failures involved Alexandre Cazes, the administrator of AlphaBay, one of the largest dark web marketplaces:
 
 <ul style="list-style-type:square">
     <li>Cazes used the email address "pimp_alex_91@hotmail.com" in early welcome emails from the site.</li>
@@ -191,9 +192,15 @@ For example, here are some real-world OPSEC mistakes that led to some really big
     <li>Cazes reused the username "Alpha02" across multiple platforms, linking his dark web identity to forum posts under his real name.</li>
 </ul></p>
 
-
+<br>
 <h3>Chinese Military Hacking Group (APT1)</h3>
-<p>There's also the notorious Chinese hacking group APT1, which made several OPSEC blunders:</p>
+<p>There's also the notorious Chinese hacking group APT1, which made several OPSEC blunders:
+<ul style="list-style-type:square">
+    <li>One member, Wang Dong, signed his malware code with the nickname "Ugly Gorilla"..</li>
+    <li>This nickname was linked to programming forum posts associated with his real name.</li>
+    <li>The group used predictable naming conventions for users, code, and passwords.</li>
+    <li>Their activity consistently aligned with Beijing business hours, making their location obvious.</li>
+</ul></p>
 
 <p>These failures provided enough information for cyber security researchers and law enforcement to publicly identify group members.</p>
 
