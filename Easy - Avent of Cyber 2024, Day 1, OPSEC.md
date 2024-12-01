@@ -1,17 +1,20 @@
 <h5 align="center">December 1, 2024<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</h5>
+
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024}}$$</h1>
+
 <h5 align="center">Dive into the wonderful world of cyber security by engaging<br>
-  in festive beginner-friendly exercises every day in the lead-up to Christmas!</h5>
+in festive beginner-friendly exercises every day in the lead-up to Christmas!</h5>
+
 <h2 align="center"> $$\textcolor{white}{\textnormal{Day 1 - OPSEC}}$$<br>
 $$\textcolor{yellow}{\textnormal{Maybe SOC-mas music, he thought, doesn't come from a store?}}$$</h2>
 
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p><br>
+
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
-  <img height="150px" src="https://github.com/user-attachments/assets/8ca4206f-a1e7-48d8-ba17-d8e304613a2c">
-</p>
+<img height="150px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
+<img height="150px" src="https://github.com/user-attachments/assets/8ca4206f-a1e7-48d8-ba17-d8e304613a2c"></p>
 
 <h2>OPSEC | Day 1: Maybe SOC-mas music, he thought, doesn't come from a store?<a id='1'></a></h2>
 <p>Over the past few weeks, Best Festival Company employees have been receiving an excessive number of spam emails. These emails are trying to lure users into the trap of clicking on links and providing credentials. Spam emails are somehow ending up in the mailing box. It looks like the spam detector in place since before the merger has been disabled/damaged deliberately. Suspicion is on McGreedy, who is not so happy with the merger.</p>
