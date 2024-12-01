@@ -16,7 +16,6 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 <h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 1 - OPSEC}}$$<br>
 $$\textcolor{yellow}{\textnormal{Maybe SOC-mas music, he thought, doesn't come from a store?}}$$</h2>
 
-<h2>OPSEC | Day 1: Maybe SOC-mas music, he thought, doesn't come from a store?<a id='1'></a></h2>
 <p>Over the past few weeks, Best Festival Company employees have been receiving an excessive number of spam emails. These emails are trying to lure users into the trap of clicking on links and providing credentials. Spam emails are somehow ending up in the mailing box. It looks like the spam detector in place since before the merger has been disabled/damaged deliberately. Suspicion is on McGreedy, who is not so happy with the merger.</p>
 
 <h1 align="center">
