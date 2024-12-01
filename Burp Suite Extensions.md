@@ -1,4 +1,4 @@
-<h1>Passive Reconnaissance</h1>
+<h1>Burp Suite Extensions</h1>
 
 <br>
 
