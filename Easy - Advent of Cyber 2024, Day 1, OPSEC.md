@@ -56,6 +56,7 @@ Little did she know, beneath the surface lay something far more complex than a s
 
 <p align="center"><img width="400px" src="https://github.com/user-attachments/assets/e35c0bcc-0716-4909-94ee-7201728e4457"></p>
 
+<br>
 <h3>Investigating the Website</h3>
 <p>The website we are investigating is a <code>Youtube to MP3 converter</code>code> currently being shared amongst the organizers of SOC-mas. You've decided to dig deeper after hearing some concerning reports about this website.</p>
 
@@ -67,6 +68,7 @@ At first glance, the website looks legit and presentable. The About Page even sa
 
 Scrolling down, you'll see the feature list, which promises to be "Secure" and "Safe." From our experience, that isn't very likely.</p>
 
+<br>
 <h3>Youtube to MP3 Converter Websites</h3>
 <p>These websites have been around for a long time. They offer a convenient way to extract audio from YouTube videos, making them popular. However, historically, these websites have been observed to have significant risks, such as:</p>
 <ul style="list-style-type:square">
@@ -77,6 +79,7 @@ Scrolling down, you'll see the feature list, which promises to be "Secure" and "
 
 <p>What nefarious thing does this website have in store for us?</p>
 
+<br>
 <h3>Getting Some Tunes</h3>
 <p>Let's find out by pasting any YouTube link in the search form and pressing the "Convert" button. Then select either <code>mp3 or mp4</code> option. This should download a file that we could use to investigate. For example, we can use <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code>, a classic if you ask me.<br>
 
@@ -131,9 +134,7 @@ To do this, go back to your Terminal and type:</p>
 <h5><strong>Created by the one and only M.M.</strong></h5>
 
 <br>
-
 <h3>Searching the Source</h3>
-
 <p>There are many paths we could take to continue our investigation. We could investigate the website further, analyse its source code, or search for open directories that might reveal more information about the malicious actor's setup. We can search for the hash or signature on public malware databases like VirusTotal or Any.Run. Each of these methods could yield useful clues.<br>
 
 However, for this room, we'll try something a bit different. Since we already have the PowerShell code, searching for it online might give us useful leads. It's a long shot, but we'll explore it in this exercise.<br>
@@ -151,6 +152,7 @@ To search effectively, we can look for unique parts of the code that we could us
 
 <p>You'll notice something interesting if you explore the pages in the search results.</p>
 
+<br>
 <h3>Note!</h3>
 <p>If you receive an error below, it's because Github has rate limits in place if you are not signed in. To fix this, you can just sign in with a GitHub account or skip directly to the next step by going here:<br>
 <code>https://github.com/Bloatware-WarevilleTHM/CryptoWallet-Search/issues/1</code></p>
@@ -163,6 +165,7 @@ To search effectively, we can look for unique parts of the code that we could us
 
 <p>Aha! Looks like this user has made a critical mistake.</p>
 
+<br>
 <h3>Introduction to OPSEC</h3>
 <p>This is a classic case of OPSEC failure.<br>
 
@@ -204,15 +207,27 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 
 <p>These failures provided enough information for cyber security researchers and law enforcement to publicly identify group members.</p>
 
+<br>
 <h3>Uncovering MM</h3>
 <p>If you've thoroughly investigated the GitHub search result, you should have uncovered several clues based on poor OPSEC practices by the malicious actor.<br>
 
 We know the attacker left a distinctive signature in the PowerShell code (MM). This allowed us to search for related repositories and issues pages on GitHub. We then discovered an Issues page where the attacker engaged in discussions, providing more context and linking their activity to other projects.</p>
 
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/8ae66610-1629-4548-8caa-3281e81f53fc"></p>
+
+<p>In this discussion, they responded to a query about modifying the code. This response, paired with their unique handle, was another critical slip-up, leaving behind a trail of evidence that can be traced back to them. By analysing the timestamps, usernames, and the nature of their interactions, we can now attribute the mastermind behind the attack to MM.</p>
+
+<br>
 <h3>Whats Next?</h3>
 
-<p>...</p>
 
+<p>As McSkidy continued digging, a pattern emerged that didn't fit the persona she was piecing together. A different handle appeared in obscure places, buried deep in the details: "MM."<br>
+
+"Who's MM?" McSkidy muttered, the mystery deepening.<br>
+
+Even though all signs on the website seemed to point to Glitch as the author, it became clear that someone had gone to great lengths to ensure Glitch's name appeared everywhere. Yet, the scattered traces left by MM suggested a deliberate effort to shift the blame.</p>
+
+<br>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
