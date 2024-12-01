@@ -219,6 +219,12 @@ We know the attacker left a distinctive signature in the PowerShell code (MM). T
 
 <br>
 <h3>Whats Next?</h3>
+<p><em>McSkidy dug deeper, her mind sharp and quick,<br>
+But something felt off, a peculiar trick.<br>
+The pieces she’d gathered just didn’t align,<br>
+A puzzle with gaps, a tangled design.</em></p>
+
+<br>
 
 
 <p>As McSkidy continued digging, a pattern emerged that didn't fit the persona she was piecing together. A different handle appeared in obscure places, buried deep in the details: "MM."<br>
