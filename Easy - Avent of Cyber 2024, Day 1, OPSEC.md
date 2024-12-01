@@ -3,7 +3,8 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024, Day 1, OPSEC, Maybe SOC-mas music, he thought, doesn't come from a store?}}$$
+  $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024<br>
+  Day 1, OPSEC, Maybe SOC-mas music, he thought, doesn't come from a store?}}$$
 
 </h1>
 <p align="center">Dive into the wonderful world of cyber security by engaging in festive beginner-friendly exercises every day in the lead-up to Christmas!</p>
