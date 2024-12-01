@@ -378,14 +378,10 @@ Machine ID                      : win-base-2019
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-58,514 points
-448 rooms completed
-209 day streak
-1,062 globall all time
-3,144 global monthly
-46th brazil monthly
-23rd brasil all time
-
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 1, 2024  | 209      |      1,061st |         23rd |     3,144th |       46th | 58,514   |       448 |
 
 
 <h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/e590e88e-febe-468a-914d-033235e994fb"> </h3>
