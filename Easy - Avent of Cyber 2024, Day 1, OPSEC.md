@@ -14,7 +14,7 @@ $$\textcolor{yellow}{\textnormal{Maybe SOC-mas music, he thought, doesn't come f
 
 <p align="center">
 <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
-<img height="150px" src="https://github.com/user-attachments/assets/8ca4206f-a1e7-48d8-ba17-d8e304613a2c"></p>
+<img width="600px" src="https://github.com/user-attachments/assets/8ca4206f-a1e7-48d8-ba17-d8e304613a2c"></p>
 
 <h2>OPSEC | Day 1: Maybe SOC-mas music, he thought, doesn't come from a store?<a id='1'></a></h2>
 <p>Over the past few weeks, Best Festival Company employees have been receiving an excessive number of spam emails. These emails are trying to lure users into the trap of clicking on links and providing credentials. Spam emails are somehow ending up in the mailing box. It looks like the spam detector in place since before the merger has been disabled/damaged deliberately. Suspicion is on McGreedy, who is not so happy with the merger.</p>
