@@ -239,6 +239,10 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 
 <br>
 
+<p>Employed <code>exiftool</code> to get information of each one of the two files.file type.</p>
+
+<br>
+
 <pre><code>root@ip-[THM AttackBox]:~/Day1# exiftool song.mp3
 ExifTool Version Number         : 11.88
 File Name                       : song.mp3
@@ -308,18 +312,18 @@ Machine ID                      : win-base-2019
 </code></pre>
 
 <br>
-<p>I accessed the following link ...</p>
+<p>I accessed the following link provided in the tutorial.</p>
 
 <pre><code>https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1</code></pre>
 
 <br>
-<p>I got this ...</p>
+<p>and got this ...</p>
 
 ![image](https://github.com/user-attachments/assets/8133dd4e-ad47-4621-9057-1e3ef2612f95)
 
 <br>
 
-<p>Then I accessed the below provided link in order to investigate M.M.</p>
+<p>Then I accessed the link below, also provided in the tutorial.  The objective is investigate M.M.</p>
 
 <pre><code>https://github.com/search?q=%22Created+by+the+one+and+only+M.M.%22&type=issues</code></pre>
 
