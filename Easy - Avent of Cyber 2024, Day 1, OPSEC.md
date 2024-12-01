@@ -2,8 +2,7 @@
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
 
-<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024}$
-</h1>
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024}}$$ </h1>
 
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024<br>
