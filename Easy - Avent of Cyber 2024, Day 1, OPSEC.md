@@ -220,7 +220,7 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 
 <br>
 
-<p>Downloaded the convertes file.</p>
+<p>Downloaded the converted file.</p>
 
 ![image](https://github.com/user-attachments/assets/c466d234-968f-4e0f-bfa2-82a44f2976fb)
 
@@ -233,6 +233,7 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 ![image](https://github.com/user-attachments/assets/41e1cae6-4856-4e27-b54e-90f69bf4d47b)
 
 <br>
+<p>Analyzed file type.</p>
 
 ![image](https://github.com/user-attachments/assets/963385c8-62c9-449c-b24e-6d644752d647)
 
