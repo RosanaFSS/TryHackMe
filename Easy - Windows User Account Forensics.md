@@ -58,6 +58,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 > 3.3. <em>What is the SID of the domain user, m.ascot?</em>.<a id='3.3'></a>
 >> <code><strong>S-1-5-21-1966530601-3185510712-10604624-1111</strong></code>
 
+<br>
 
 ![image](https://github.com/user-attachments/assets/9097704f-20db-40d5-b891-6e315d6f7452)
 
@@ -77,7 +78,29 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 
 ![image](https://github.com/user-attachments/assets/a9456312-2581-4ab0-8427-4ca06de2517e)
 
+
 <br>
+<h2>Task 4. Account Authentication Artefacts<a id='4'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 4.1. <em>What is the user name used for the NTLM authentication?</em>.<a id='4.1'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 4.2. <em>What was the Server Challenge sent to the client during the Challenge stage of the NTLM handshake?</em>.<a id='4.2'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 4.3. <em>What is the Dns Name of the other result from the the DsGetDomainControllerInfo response?</em>.<a id='4.3'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
 
 
 
