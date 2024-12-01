@@ -26,6 +26,41 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 <br>
 <h2>Task 2. Windows Account Types<a id='2'></a></h2>
 
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 2.1. <em>What type of accounts are used by the Windows operating system and various apps?</em>.<a id='2.1'></a>
+>> <code><strong>System and Service Accounts</strong></code>
+
+<br>
+
+> 2.2. <em>What centrally manages local user accounts and domain accounts?</em>.<a id='2.2'></a>
+>> <code><strong>Domain Controller</strong></code>
+
+<br>
+<h2>Task 3. Account Lifecycle Artifacts<a id='3'></a></h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 3.1. <em>What type of accounts are used by the Windows operating system and various apps?</em>.<a id='3.1'></a>
+>> <code><strong>System and Service Accounts</strong></code>
+
+<br>
+
+> 3.2. <em>What centrally manages local user accounts and domain accounts?</em>.<a id='3.2'></a>
+>> <code><strong>Domain Controller</strong></code>
+
+
+![image](https://github.com/user-attachments/assets/9097704f-20db-40d5-b891-6e315d6f7452)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c4afb3a0-b4e2-4f05-a63f-880f94c40d7c)
+
+
 
 
 
