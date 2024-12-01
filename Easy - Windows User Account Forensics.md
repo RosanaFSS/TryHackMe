@@ -45,13 +45,18 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
-> 3.1. <em>What type of accounts are used by the Windows operating system and various apps?</em>.<a id='3.1'></a>
->> <code><strong>System and Service Accounts</strong></code>
+> 3.1. <em>How many users were found using the DSInternals command?</em>.<a id='3.1'></a>
+>> <code><strong>5</strong></code>
 
 <br>
 
-> 3.2. <em>What centrally manages local user accounts and domain accounts?</em>.<a id='3.2'></a>
->> <code><strong>Domain Controller</strong></code>
+> 3.2. <em>What is the value of the "bootKey" variable?</em>.<a id='3.2'></a>
+>> <code><strong>36c8d26ec0df8b23ce63bcefa6e2d821</strong></code>
+
+<br>
+
+> 3.3. <em>What is the SID of the domain user, m.ascot?</em>.<a id='3.3'></a>
+>> <code><strong>S-1-5-21-1966530601-3185510712-10604624-1111</strong></code>
 
 
 ![image](https://github.com/user-attachments/assets/9097704f-20db-40d5-b891-6e315d6f7452)
@@ -61,7 +66,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 ![image](https://github.com/user-attachments/assets/c4afb3a0-b4e2-4f05-a63f-880f94c40d7c)
 
 <br>
-
+<p>There are 5 different <code></code>DistinguishedName</code></p>
 ![image](https://github.com/user-attachments/assets/e03caf18-b910-4584-8a20-9e77483c1ac5)
 
 <br>
