@@ -23,235 +23,184 @@ A suspicious website, now where to begin?<br>
 She'd seen sites like this, full of code and of grime,<br>
 Shady domains, and breadcrumbs easy to find.</em></p>
 
+<p>McSkidy's fingers flew across the keyboard, her eyes narrowing at the suspicious website on her screen. She had seen dozens of malware campaigns like this. This time, the trail led straight to someone who went by the name "Glitch."<br>
+
+"Too easy," she muttered with a smirk.<br>
+
+"I still have time," she said, leaning closer to the screen. "Maybe there's more."<br>
+
+Little did she know, beneath the surface lay something far more complex than a simple hacker's handle. This was just the beginning of a tangled web unravelling everything she thought she knew.</p>
+
+![image](https://github.com/user-attachments/assets/a8dc2b40-c3ae-4a6f-94ba-060d705b94f0)
 
 <h3>Learning Objectives</h3>
-<p>In this task, we will explore:</p>
-
-<h3>Lab Connection</h3>
-<p>Before moving forward, review the questions in the connection card shown below:</p>
-
-![image](https://github.com/user-attachments/assets/37d3ce79-5162-4279-8095-0aaa46637f4d)
-
-<p>Deploy the machine attached to this task by pressing the green <code>Start Machine</code> button at the top-right of this task. After waiting 3-5 minutes, Jupyter will open on the right-hand side. If you cannot see the machine, press the blue "Show Split View" button at the top of the room.</p>
-
-<h3>Overview of Jupyter Notebook</h3>
-<p>Jupyter Notebook provides an environment where you can write and execute code in real time, making it ideal for data analysis, Machine Learning, and scientific research. In this room, we will perform the practical on the Jupyter Notebook.</p>
-
-![image](https://github.com/user-attachments/assets/7aa91416-2d49-43c2-9db6-d7c37a9107cc)
+- Learn how to investigate malicious link files.<br>
+- Learn about OPSEC and OPSEC mistakes.<br>
+- Understand how to track and attribute digital identities in cyber investigations.<br>
 
 
-<p>It's important to recall that we will need to run the code from the Cells using the run button or by pressing the shortcut Shift+Enter. Each step is explained on the Jupyter Notebook for better understanding. Let's dive into the details.</p>
+<h3>Connecting to the Machine</h3>
+<p>Before moving forward, review the questions in the connection card shown below and start the virtual machine by pressing the <code>Sart Machine</code> button. The VM should be fully loaded in 3 minutes. Additionally, you will need the AttackBox, which can be launched by clicking the <code>Strat AttakBox</code> button at the top of the page.</p>
 
-![image](https://github.com/user-attachments/assets/32b521e8-47da-40cf-a7aa-03aeca59e200)
+<h4>NOTE:</h4>
+<p>If you’re clicking "Start Machine" and encountering an issue launching it, don’t worry—it’s just the high demand. What can you do?</p>
+- Keep trying! Machines are becoming available as demand fluctuates.<br>
+- If you’re still having trouble, come back a little later when it’s less busy.
+
+![image](https://github.com/user-attachments/assets/e35c0bcc-0716-4909-94ee-7201728e4457)
+
+<h3>Investigating the Website</h3>
+<p>The website we are investigating is a Youtube to MP3 converter currently being shared amongst the organizers of SOC-mas. You've decided to dig deeper after hearing some concerning reports about this website.</p>
+
+![image](https://github.com/user-attachments/assets/1978784b-55a6-4c86-bb6b-04c212e37615)
+
+<p>From your AttackBox, access the website by visiting MACHINE_IP using the web browser.<br>
+
+At first glance, the website looks legit and presentable. The About Page even says that it was made by "The Glitch ". How considerate of them to make our job easier!<br>
+
+Scrolling down, you'll see the feature list, which promises to be "Secure" and "Safe." From our experience, that isn't very likely.</p>
+
+<h3>Youtube to MP3 Converter Websites</h3>
+<p>These websites have been around for a long time. They offer a convenient way to extract audio from YouTube videos, making them popular. However, historically, these websites have been observed to have significant risks, such as:</p>
+- <strong>Malvertising</strong>: Many sites contain malicious ads that can exploit vulnerabilities in a user's system, which could lead to infection.<br>
+- <strong>Phishing scams</strong>: Users can be tricked into providing personal or sensitive information via fake surveys or offers.<br>
+- <strong>Bundled malware</strong>: Some converters may come with malware, tricking users into unknowingly running it.
+
+<p>What nefarious thing does this website have in store for us?</p>
+
+<h3>Getting Some Tunes</h3>
+<p>Let's find out by pasting any YouTube link in the search form and pressing the "Convert" button. Then select either <code>mp3 or mp4</code> option. This should download a file that we could use to investigate. For example, we can use <code>https://www.youtube.com/watch?v=dQw4w9WgXcQ</code>, a classic if you ask me.<br>
+
+Once downloaded, navigate to your Downloads folder or if you are using the AttackBox, to your /root/ directory. Locate the file named <code>download.zip</code>, right-click on it, and select <code>Extract To</code>. In the dialog window, click the <code>Extract</code> button to complete the extraction.</p>
+
+![image](https://github.com/user-attachments/assets/e5c65d7b-6d5e-4965-b98f-7955f9ffb101)
+
+<p>You'll now see two extracted two files: song.mp3 and somg.mp3.<br>
+
+To quickly determine the file's contents, double-click on the "Terminal" icon on the desktop then run the file command on each one. First, let's try checking song.mp3.</p>
+
+![image](https://github.com/user-attachments/assets/14dff988-1c51-4cba-b4c1-c6498cd1f232)
+
+<p>There doesn't seem to be anything suspicious, according to the output. As expected, this is just an MP3 file.<br>
+
+How about the second file somg.mp3? From the filename alone, we can tell something is not right. Still, let's confirm by running the file command on it anyway.</p>
+
+![image](https://github.com/user-attachments/assets/98a421a7-f468-4bdb-bdea-654284f87718)
+
+<p>Now, this is more interesting!
+
+The output tells us that instead of an MP3, the file is an "MS Windows shortcut", also known as a .lnk file. This file type is used in Windows to link to another file, folder, or application. These shortcuts can also be used to run commands! If you've ever seen the shortcuts on a Windows desktop, you already know what they are.<br>
+
+There are multiple ways to inspect .lnk  files to reveal the embedded commands and attributes. For this room, however, we'll use ExifTool, which is already installed on this machine.<br>
+
+To do this, go back to your Terminal and type:</p>
+
+![image](https://github.com/user-attachments/assets/6363a001-477b-4101-8c8f-7650f770dbf1)
+
+<p>Look through the output to locate the command used as a shortcut in the somg.mp3 file. If you scroll down through the output, you should see a PowerShell command.</p>
+
+![image](https://github.com/user-attachments/assets/2030d438-81cd-464e-9b42-1813006f3974)
+
+<p>What this PowerShell command does:</p>
+- The -ep Bypass -nop flags disable PowerShell's usual restrictions, allowing scripts to run without interference from security settings or user profiles.<br>
+- The DownloadFile method pulls a file (in this case, IS.ps1) from a remote server (https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1) and saves it in the C:\\ProgramData\\ directory on the target machine.<br>
+- Once downloaded, the script is executed with PowerShell using the iex command, which triggers the downloaded s.ps1 file.
+
+<p>If you visit the contents of the file to be downloaded using your browser (https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1), you will see just how lucky we are that we are not currently using Windows.</p>
+
+![image](https://github.com/user-attachments/assets/fe8281dd-335c-4e39-b559-056f5ffc86b1)
+
+<p>The script is designed to collect highly sensitive information from the victim's system, such as cryptocurrency wallets and saved browser credentials, and send it to an attacker's remote server.</p>
+
+<p><em>Disclaimer: All content in this room, including CPP code, PowerShell scripts, and commands, is provided solely for educational purposes. Please do not execute these on a Windows host.</em></p>
+
+<p>This looks fairly typical of a PowerShell script for such a purpose, with one notable exception: a signature in the code that reads.</p>
+
+<h5>Created by the one and only M.M.</h5>
+
+<h3>Searching the Source</h3>
+
+<p>.................</p>
+
+<h3>Introduction to OPSEC</h3>
+<p>This is a classic case of OPSEC failure.<br>
+
+Operational Security (OPSEC) is a term originally coined in the military to refer to the process of protecting sensitive information and operations from adversaries. The goal is to identify and eliminate potential vulnerabilities before the attacker can learn their identity.<br>
+
+In the context of cyber security, when malicious actors fail to follow proper OPSEC practices, they might leave digital traces that can be pieced together to reveal their identity. Some common OPSEC mistakes include:</p>
+
+- Reusing usernames, email addresses, or account handles across multiple platforms. One might assume that anyone trying to cover their tracks would remove such obvious and incriminating information, but sometimes, it's due to vanity or simply forgetfulness.<br>
+- Using identifiable metadata in code, documents, or images, which may reveal personal information like device names, GPS coordinates, or timestamps.<br>
+- Posting publicly on forums or GitHub (Like in this current scenario) with details that tie back to their real identity or reveal their location or habits.<br>
+- Failing to use a VPN or proxy while conducting malicious activities allows law enforcement to track their real IP address.
+
+- <p>You'd think that someone doing something bad would make OPSEc their top priority, but they're only human and can make mistakes, too.<br>
+
+For example, here are some real-world OPSEC mistakes that led to some really big fails:</p>
 
 
-<h3>Exploring Machine Learning Pipeline</h3>
-<p>A Machine Learning pipeline refers to the series of steps involved in building and deploying an ML model. These steps ensure that data flows efficiently from its raw form to predictions and insights.
+<h3>AlphaBay Admin Takedown</h3>
 
-A typical pipeline would include collecting data from different sources in different forms, preprocessing it and performing feature extraction from the data, splitting the data into testing and training data, and then applying Machine Learning models and predictions.</p>
-
-![image](https://github.com/user-attachments/assets/2b062bad-a9f9-41f9-9469-b73c67c439f6)
+<p>..............</p>
 
 
-<h3>STEP 0: Importing the required libraries</h3>
-<p>Before starting with Data collection, we will import the required libraries. Jupyter Notebook comes with all the libraries we need for Machine Learning. Here, we are importing two key libraries: Numpy and Pandas. These libraries are already explained in detail in the previous task.</p>
+<h3>Chinese Military Hacking Group (APT1)</h3>
 
-![image](https://github.com/user-attachments/assets/59d5af85-85f6-4350-928f-e236cc3bd40f)
+<p>..........</p>
 
-<p>Let’s start our SPAM EMAIL detection in the following steps:</p>
+<h3>Uncovering MM</h3>
 
-<h3>Step 1: Data Collection</h3>
-<p><strong>Data Collection</strong> is the process of gathering raw data from various sources to be used for Machine Learning. This data can originate from numerous sources, such as databases, text files, APIs, online repositories, sensors, surveys, web scraping, and many others.
+<p>......</p>
 
-Here, we are using the Pandas library to load the data collected from various sources in the csv format. The dataset contains spam and ham (non-spam) emails.</p>
+<h3>Whats Next?</h3>
 
-![image](https://github.com/user-attachments/assets/5f8343f2-40f9-4925-8815-0189d233d54e)
-
-<p>................</p>
-
-
-<h3>Step 2: Data Preprocessing</h3>
-
-<h3>Step 3: Train/Test Split dataset</h3>
-
-<h3>Step 4: Model Training</h3>
-
-<h3>Step 5: Model Evaluation</h3>
-
-<h3>Step 6: Testing the Model</h3>
-
-<h3>Conclusion</h3>
+<p>...</p>
 
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
-> 1.1. <em>What is the key first step in the Machine Learning pipeline?</em><br><a id='1.1'></a>
->> <code><strong>Data Collection</strong></code>
+> 1.1. <em>Looks like the song.mp3 file is not what we expected! Run "exiftool song.mp3" in your terminal to find out the author of the song. Who is the author?</em><br><a id='1.1'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 1.2. <em>Which data preprocessing feature is used to create new features or modify existing ones to improve model performance?</em><br><a id='1.2'></a>
->> <code><strong>feature engineering</strong></code>
+> 1.2. <em>The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?</em><br><a id='1.2'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 1.3. <em>During the data splitting step, 20% of the dataset was split for testing. What is the percentage weightage avg of precision of spam detection?</em><br><a id='1.3'></a>
->> <code><strong>0.98</strong></code>
+
+> 1.3. <em>Who is M.M? Maybe his Github profile page would provide clues?</em><br><a id='1.3'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 1.4. <em>How many of the test emails are marked as spam?</em><br><a id='1.4'></a>
->> <code><strong>3</strong></code>
+> 1.4. <em>What is the number of commits on the GitHub repo where the issue was raised?</em><br><a id='1.4'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 1.5. <em>One of the emails that is detected as spam contains a secret code. What is the code??</em><br><a id='1.5'></a>
->> <code><strong>I_Hate_Best_FestiVal</strong></code>
+> 1.5. <em>If you enjoyed this task, feel free to check out the OPSEC room!</em><br><a id='1.5'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
 
-> 1.6. <em>If you enjoyed this room, please check out the Phishing module.</em><br><a id='1.6'></a>
->> <code><strong>No answer needed</strong></code>
+> 1.6. <em>What's with all these GitHub repos? Could they hide something else?</em><br><a id='1.6'></a>
+>> <code><strong>______________</strong></code>
 
 <br>
-
-![image](https://github.com/user-attachments/assets/775ad554-0c23-4650-90b9-6604be17f3b6)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/659ece0c-3c97-453d-a88f-1552409002fb)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/3a6a0e09-a140-4fee-b99d-bd22ba3ca701)
-
-
-<br>
-
-![image](https://github.com/user-attachments/assets/be4efc32-630b-4fe6-8948-8b6c967d79c4)
-
-
-<p>Step 0: Importing the required libraries</p>
-
-<br>
-
-![image](https://github.com/user-attachments/assets/d119cbde-5aa1-4216-a78c-70c2688abc6e)
-
-<br>
-
-<p>Step 1: Data Collection<br>
-I pressed [ Shift ] + [ Enter ] for the codes provided in the Jupyter Notebook.</p>
-
-![image](https://github.com/user-attachments/assets/deaa4a43-0ac3-4cfe-b3d0-e868c3e4c18c)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/cc7f7c54-a526-49bc-b1b7-8fe4a349f9f7)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/88b83703-5bc4-4d40-a873-75216b118e08)
-<br>
-
-<p>Step 2: Data Preprocessing</p>
-
-![image](https://github.com/user-attachments/assets/e96b9c26-8d1e-4b9e-bc23-26137ba3eb54)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/925a2379-9fda-449b-9667-2ea5010b603b)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/47790820-5fae-44b1-8987-23f29402698e)
-
-<br>
-
-<p>Step 3: Train/Test split dataset</p>
-
-![image](https://github.com/user-attachments/assets/5701d304-4675-4b65-867b-d361e0b57733)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/e8a64619-5c42-4120-a213-6e377491d628)
-
-<p>Step 4: Model Training using Naive Bayes</p>
-
-![image](https://github.com/user-attachments/assets/eb72d6d1-f295-4103-8258-e28200ed04a5)
-
-<br>
-
-<p>Step 5: Model Evaluation</p>
-
-![image](https://github.com/user-attachments/assets/e097dbe0-da5f-43dc-bfa4-75a5176f9aff)
-
-<br>
-
-<p>Step 6: Testing the Model</p>
-
-![image](https://github.com/user-attachments/assets/3df516e3-e64d-4785-9fbe-dbb060a48935)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/8912784c-691d-440c-8c76-7a71708fe84c)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/4ee366a3-7aea-4454-ab33-00e4a0575653)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/95d5f5f0-04fd-458f-b7b1-e91ddac18d93)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/4aff8bb2-1732-4a93-a845-519b07286720)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/3ff63c8f-d726-4318-b515-aceeae00c9aa)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6848d5b6-cba8-4104-9719-9384ec3b3e0e"> </h3>
+<h3 align="center"> <img width="900px" src=""> </h3>
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f348448a-51aa-4b11-8656-63c941c2ba96"> </h3>
+<h3 align="center"> <img width="900px" src=""> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
