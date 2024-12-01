@@ -50,7 +50,7 @@ Little did she know, beneath the surface lay something far more complex than a s
 ![image](https://github.com/user-attachments/assets/e35c0bcc-0716-4909-94ee-7201728e4457)
 
 <h3>Investigating the Website</h3>
-<p>The website we are investigating is a Youtube to MP3 converter currently being shared amongst the organizers of SOC-mas. You've decided to dig deeper after hearing some concerning reports about this website.</p>
+<p>The website we are investigating is a <code>Youtube to MP3 converter</code>code> currently being shared amongst the organizers of SOC-mas. You've decided to dig deeper after hearing some concerning reports about this website.</p>
 
 ![image](https://github.com/user-attachments/assets/1978784b-55a6-4c86-bb6b-04c212e37615)
 
@@ -160,7 +160,7 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>Looks like the song.mp3 file is not what we expected! Run "exiftool song.mp3" in your terminal to find out the author of the song. Who is the author?</em><br><a id='1.1'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>Tyler Ramsbey</strong></code>
 
 <br>
 
@@ -189,6 +189,63 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 >> <code><strong>______________</strong></code>
 
 <br>
+
+
+<p>Investigating the website</p>
+
+![image](https://github.com/user-attachments/assets/1b76e741-ac59-4ca8-a230-8f6d05b370a8)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/28940d01-7799-443c-9ee2-c09297060a54)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/42b01785-f2aa-4db6-a2d0-e884351a406c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a5aa2805-8689-42fe-b6c7-d034e6f5e715)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c615ca63-9204-4fb5-abe4-2c486fb5c1fd)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d1c8321f-abc2-4d21-b40a-d4c4d58420b5)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c466d234-968f-4e0f-bfa2-82a44f2976fb)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bb95a9b6-816e-4cf7-aa0c-be880fd11315)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/41e1cae6-4856-4e27-b54e-90f69bf4d47b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/963385c8-62c9-449c-b24e-6d644752d647)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4b95d488-d4d5-4164-82db-6e1e525ea05e)
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 
