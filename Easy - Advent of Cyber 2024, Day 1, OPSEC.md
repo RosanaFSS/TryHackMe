@@ -82,54 +82,86 @@ Scrolling down, you'll see the feature list, which promises to be "Secure" and "
 
 Once downloaded, navigate to your Downloads folder or if you are using the AttackBox, to your /root/ directory. Locate the file named <code>download.zip</code>, right-click on it, and select <code>Extract To</code>. In the dialog window, click the <code>Extract</code> button to complete the extraction.</p>
 
-![image](https://github.com/user-attachments/assets/e5c65d7b-6d5e-4965-b98f-7955f9ffb101)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/e5c65d7b-6d5e-4965-b98f-7955f9ffb101"></p>
 
-<p>You'll now see two extracted two files: song.mp3 and somg.mp3.<br>
+<p>You'll now see two extracted two files: <code>song.mp3</code> and <code>somg.mp3</code>.<br>
 
-To quickly determine the file's contents, double-click on the "Terminal" icon on the desktop then run the file command on each one. First, let's try checking song.mp3.</p>
+To quickly determine the file's contents, double-click on the "Terminal" icon on the desktop then run the <code>file</code> command on each one. First, let's try checking <code>song.mp3</code>.</p>
 
-![image](https://github.com/user-attachments/assets/14dff988-1c51-4cba-b4c1-c6498cd1f232)
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/14dff988-1c51-4cba-b4c1-c6498cd1f232"></p>
 
 <p>There doesn't seem to be anything suspicious, according to the output. As expected, this is just an MP3 file.<br>
 
-How about the second file somg.mp3? From the filename alone, we can tell something is not right. Still, let's confirm by running the file command on it anyway.</p>
+How about the second file <code>somg.mp3</code>? From the filename alone, we can tell something is not right. Still, let's confirm by running the <code>file</code> command on it anyway.</p>
 
-![image](https://github.com/user-attachments/assets/98a421a7-f468-4bdb-bdea-654284f87718)
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/98a421a7-f468-4bdb-bdea-654284f87718"></p>
 
 <p>Now, this is more interesting!
 
-The output tells us that instead of an MP3, the file is an "MS Windows shortcut", also known as a .lnk file. This file type is used in Windows to link to another file, folder, or application. These shortcuts can also be used to run commands! If you've ever seen the shortcuts on a Windows desktop, you already know what they are.<br>
+The output tells us that instead of an MP3, the file is an "MS Windows shortcut", also known as a <code>.lnk</code> file. This file type is used in Windows to link to another file, folder, or application. These shortcuts can also be used to run commands! If you've ever seen the shortcuts on a Windows desktop, you already know what they are.<br>
 
-There are multiple ways to inspect .lnk  files to reveal the embedded commands and attributes. For this room, however, we'll use ExifTool, which is already installed on this machine.<br>
+There are multiple ways to inspect <code>.lnk</code>  files to reveal the embedded commands and attributes. For this room, however, we'll use <code>ExifTool</code>, which is already installed on this machine.<br>
 
 To do this, go back to your Terminal and type:</p>
 
-![image](https://github.com/user-attachments/assets/6363a001-477b-4101-8c8f-7650f770dbf1)
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/6363a001-477b-4101-8c8f-7650f770dbf1"></p>
 
-<p>Look through the output to locate the command used as a shortcut in the somg.mp3 file. If you scroll down through the output, you should see a PowerShell command.</p>
+<p>Look through the output to locate the command used as a shortcut in the <code>somg.mp3</code> file. If you scroll down through the output, you should see a PowerShell command.</p>
 
-![image](https://github.com/user-attachments/assets/2030d438-81cd-464e-9b42-1813006f3974)
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/2030d438-81cd-464e-9b42-1813006f3974"></p>
 
 <p>What this PowerShell command does:</p>
-- The -ep Bypass -nop flags disable PowerShell's usual restrictions, allowing scripts to run without interference from security settings or user profiles.<br>
-- The DownloadFile method pulls a file (in this case, IS.ps1) from a remote server (https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1) and saves it in the C:\\ProgramData\\ directory on the target machine.<br>
-- Once downloaded, the script is executed with PowerShell using the iex command, which triggers the downloaded s.ps1 file.
+<ul style="list-style-type:square">
+    <li>The <code>-ep Bypass -nop</code> flags disable PowerShell's usual restrictions, allowing scripts to run without interference from security settings or user profiles.</li>
+    <li>The <code>DownloadFile</code> method pulls a file (in this case, <code>IS.ps1</code>) from a remote server (<code>https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1</code>) and saves it in the <code>C:\\ProgramData\\</code> directory on the target machine.</li>
+    <li>Once downloaded, the script is executed with PowerShell using the <code>iex</code> command, which triggers the downloaded <code>s.ps1</code> file</li>
+</ul></p>
 
-<p>If you visit the contents of the file to be downloaded using your browser (https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1), you will see just how lucky we are that we are not currently using Windows.</p>
+<p>If you visit the contents of the file to be downloaded using your browser<br>
+(<code>https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1</code>), you will see just how lucky we are that we are not currently using Windows.</p>
 
-![image](https://github.com/user-attachments/assets/fe8281dd-335c-4e39-b559-056f5ffc86b1)
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/fe8281dd-335c-4e39-b559-056f5ffc86b1"></p>
 
 <p>The script is designed to collect highly sensitive information from the victim's system, such as cryptocurrency wallets and saved browser credentials, and send it to an attacker's remote server.</p>
 
-<p><em>Disclaimer: All content in this room, including CPP code, PowerShell scripts, and commands, is provided solely for educational purposes. Please do not execute these on a Windows host.</em></p>
+<p><em><strong>Disclaimer</strong>: All content in this room, including CPP code, PowerShell scripts, and commands, is provided solely for educational purposes. Please do not execute these on a Windows host.</em></p>
 
 <p>This looks fairly typical of a PowerShell script for such a purpose, with one notable exception: a signature in the code that reads.</p>
 
-<h5>Created by the one and only M.M.</h5>
+<h5><strong>Created by the one and only M.M.</strong></h5>
+
+<br>
 
 <h3>Searching the Source</h3>
 
-<p>.................</p>
+<p>There are many paths we could take to continue our investigation. We could investigate the website further, analyse its source code, or search for open directories that might reveal more information about the malicious actor's setup. We can search for the hash or signature on public malware databases like VirusTotal or Any.Run. Each of these methods could yield useful clues.<br>
+
+However, for this room, we'll try something a bit different. Since we already have the PowerShell code, searching for it online might give us useful leads. It's a long shot, but we'll explore it in this exercise.<br>
+
+There are many places where we can search for code. The most widely used is Github. So let's try searching there.<br>
+
+To search effectively, we can look for unique parts of the code that we could use to search with. The more distinctive, the better. For this scenario, we have the string we've uncovered before that reads:</p>
+
+<h5><strong>"Created by the one and only M.M."</strong></h5>
+
+<p>Search for this on Github.com or by going directly to this link:<br>
+<code>https://github.com/search?q=%22Created+by+the+one+and+only+M.M.%22&type=issues</code></p>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/0b5858ec-0990-40a2-8f4f-7a344cdc20a8"></p>
+
+<p>You'll notice something interesting if you explore the pages in the search results.</p>
+
+<h3>Note!</h3>
+<p>If you receive an error below, it's because Github has rate limits in place if you are not signed in. To fix this, you can just sign in with a GitHub account or skip directly to the next step by going here:<br>
+<code>https://github.com/Bloatware-WarevilleTHM/CryptoWallet-Search/issues/1</code></p>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/1a53f19b-0ff2-46ea-8683-0cbe4a162a4a"></p>
+
+<p>If you look through the search results, you can be able infer the malicious actor's identity based on information on the project's page and the GitHub Issues section.</p>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/7de335ac-3a3c-4a21-86f3-63ac664ec21c"></p>
+
+<p>Aha! Looks like this user has made a critical mistake.</p>
 
 <h3>Introduction to OPSEC</h3>
 <p>This is a classic case of OPSEC failure.<br>
@@ -138,12 +170,14 @@ Operational Security (OPSEC) is a term originally coined in the military to refe
 
 In the context of cyber security, when malicious actors fail to follow proper OPSEC practices, they might leave digital traces that can be pieced together to reveal their identity. Some common OPSEC mistakes include:</p>
 
-- Reusing usernames, email addresses, or account handles across multiple platforms. One might assume that anyone trying to cover their tracks would remove such obvious and incriminating information, but sometimes, it's due to vanity or simply forgetfulness.<br>
-- Using identifiable metadata in code, documents, or images, which may reveal personal information like device names, GPS coordinates, or timestamps.<br>
-- Posting publicly on forums or GitHub (Like in this current scenario) with details that tie back to their real identity or reveal their location or habits.<br>
-- Failing to use a VPN or proxy while conducting malicious activities allows law enforcement to track their real IP address.
+<ul style="list-style-type:square">
+    <li>Reusing usernames, email addresses, or account handles across multiple platforms. One might assume that anyone trying to cover their tracks would remove such obvious and incriminating information, but sometimes, it's due to vanity or simply forgetfulness.</li>
+    <li>Using identifiable metadata in code, documents, or images, which may reveal personal information like device names, GPS coordinates, or timestamps.</li>
+    <li>Posting publicly on forums or GitHub (Like in this current scenario) with details that tie back to their real identity or reveal their location or habits.</li>
+    <li>Failing to use a VPN or proxy while conducting malicious activities allows law enforcement to track their real IP address.</li>
+</ul></p>
 
-- <p>You'd think that someone doing something bad would make OPSEc their top priority, but they're only human and can make mistakes, too.<br>
+<p>You'd think that someone doing something bad would make OPSEc their top priority, but they're only human and can make mistakes, too.<br>
 
 For example, here are some real-world OPSEC mistakes that led to some really big fails:</p>
 
