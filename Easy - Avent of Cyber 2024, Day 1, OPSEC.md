@@ -3,8 +3,8 @@
 It´s part of my $$\textcolor{#FF69B4}{\textbf{208}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
 
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024}}$$</h1>
-<h2 align="center"> $$\textcolor{#3bd62d}{\textnormal{Day 1 - OPSEC}}$$</h2>
-<h2 align="center"> $$\textcolor{#3bd62d}{\textnormal{Maybe SOC-mas music, he thought, doesn't come from a store?}}$$</h2>
+<h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 1 - OPSEC}}$$</h2>
+<h2 align="center"> $$\textcolor{yellow}{\textnormal{Maybe SOC-mas music, he thought, doesn't come from a store?}}$$</h2>
 
 <p align="center">Dive into the wonderful world of cyber security by engaging in festive beginner-friendly exercises every day in the lead-up to Christmas!</p>
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p><br>
