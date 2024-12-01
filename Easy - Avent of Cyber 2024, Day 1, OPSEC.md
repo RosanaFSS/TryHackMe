@@ -176,17 +176,17 @@ For example, here are some real-world OPSEC mistakes that led to some really big
 <br>
 
 > 1.4. <em>What is the number of commits on the GitHub repo where the issue was raised?</em><br><a id='1.4'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>1</strong></code>
 
 <br>
 
 > 1.5. <em>If you enjoyed this task, feel free to check out the OPSEC room!</em><br><a id='1.5'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 
 > 1.6. <em>What's with all these GitHub repos? Could they hide something else?</em><br><a id='1.6'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 
@@ -270,7 +270,7 @@ Duration                        : 0:03:11 (approx)
 
 <br>
 
-<pre><code>oot@ip-[THM AttackBox]:~/Day1# exiftool somg.mp3
+<pre><code>root@ip-[THM AttackBox]:~/Day1# exiftool somg.mp3
 ExifTool Version Number         : 11.88
 File Name                       : somg.mp3
 Directory                       : .
@@ -347,7 +347,11 @@ Machine ID                      : win-base-2019
 
 <br>
 
-<p>Nest I identified that </p>
+<p>Next I identified the number of commits on the GitHub repo where the issue was raised, which is <code>IS</code></p>
+
+![image](https://github.com/user-attachments/assets/a329c13e-af37-4b82-8550-b2e756c702a3)
+
+
 
 
 
