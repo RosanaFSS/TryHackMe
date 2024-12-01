@@ -60,6 +60,25 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 
 ![image](https://github.com/user-attachments/assets/c4afb3a0-b4e2-4f05-a63f-880f94c40d7c)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/e03caf18-b910-4584-8a20-9e77483c1ac5)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/68462d0d-bded-4147-9965-cee72ef8d973)
+
+<p>I also tested the following command line, and got user´s SID.</p>
+
+![image](https://github.com/user-attachments/assets/a9456312-2581-4ab0-8427-4ca06de2517e)
+
+<br>
+
+
+
+
+
+
 
 
 
