@@ -16,7 +16,7 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 <h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 1 - OPSEC}}$$<br>
 $$\textcolor{yellow}{\textnormal{Maybe SOC-mas music, he thought, doesn't come from a store?}}$$</h2>
 
-<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/d02fbb62-4680-46c6-b7e4-48308275a0cc"></p>
+<p align="center"><img width="900px" src="https://github.com/user-attachments/assets/d02fbb62-4680-46c6-b7e4-48308275a0cc"></p>
 
 <p><em>McSkidy tapped keys with a confident grin,<br>
 A suspicious website, now where to begin?<br>
@@ -34,7 +34,7 @@ Shady domains, and breadcrumbs easy to find.</em></p>
 
 Little did she know, beneath the surface lay something far more complex than a simple hacker's handle. This was just the beginning of a tangled web unravelling everything she thought she knew.</p>
 
-![image](https://github.com/user-attachments/assets/a8dc2b40-c3ae-4a6f-94ba-060d705b94f0)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/a8dc2b40-c3ae-4a6f-94ba-060d705b94f0"></p>
 
 <h3>Learning Objectives</h3>
 - Learn how to investigate malicious link files.<br>
