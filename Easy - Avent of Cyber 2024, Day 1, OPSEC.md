@@ -16,6 +16,8 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 <h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 1 - OPSEC}}$$<br>
 $$\textcolor{yellow}{\textnormal{Maybe SOC-mas music, he thought, doesn't come from a store?}}$$</h2>
 
+![image](https://github.com/user-attachments/assets/d02fbb62-4680-46c6-b7e4-48308275a0cc)
+
 <p><em>McSkidy tapped keys with a confident grin,<br>
 A suspicious website, now where to begin?<br>
 She'd seen sites like this, full of code and of grime,<br>
