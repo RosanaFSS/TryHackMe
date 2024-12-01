@@ -27,6 +27,15 @@ Can you read the flag at http://10.10.224.119:8080/flag.txt?</p>
 
 <br>
 
+![image](https://github.com/user-attachments/assets/3d17b63c-8d37-4ff7-a043-48fd443f9855)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/85717458-00a0-4185-b503-e83afd2d20ab)
+
+<br>
+
+
 
 
 
