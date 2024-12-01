@@ -21,7 +21,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
 > 1.1. <em>I have started the machine!</em>.<a id='1.1'></a>
->> <code><strong>No answer needed</strong></code><br><br>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 <h2>Task 2. Windows Account Types<a id='2'></a></h2>
