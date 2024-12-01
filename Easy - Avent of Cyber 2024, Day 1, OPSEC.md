@@ -1,6 +1,6 @@
-<p align="center">December 1, 2024<br>
+<h5 align="center">December 1, 2024<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</h5>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024}}$$</h1>
 <p align="center">Dive into the wonderful world of cyber security by engaging<br>
   in festive beginner-friendly exercises every day in the lead-up to Christmas!</p>
