@@ -87,7 +87,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 4.1. <em>What is the user name used for the NTLM authentication?</em>.<a id='4.1'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>admin</strong></code>
 
 <br>
 
@@ -100,6 +100,29 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 >> <code><strong>____________________</strong></code>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/cb2e69f7-3471-46f9-9cc2-2c96cefcd3e1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2498dff8-0715-48ba-b3c2-6da525cf2ee2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/274771e1-ddb6-404d-9df7-df9795c5b98b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a5c34047-d189-47f5-83da-749a146383a0)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3620d3a3-b732-4970-9fc8-3aaaf6817967)
+
+
+
+
+
 
 
 
