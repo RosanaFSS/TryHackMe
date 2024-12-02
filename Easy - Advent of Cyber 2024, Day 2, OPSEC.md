@@ -13,7 +13,7 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p>
 
-<h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 2 - Log Analysis}$$<br>
+<h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 2 - Log Analysis}}$$<br>
 $$\textcolor{yellow}{\textnormal{One man's false positive is another man's potpourri.}}$$</h2>
 
 <p align="center"><img width="900px" src="https://github.com/user-attachments/assets/4e416029-4cec-40cf-ad44-3bbb0bec8605"></p>
