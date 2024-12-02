@@ -12,7 +12,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 |Complete Beginner                      |Introduction to Cyber Security         |Pre Security                           | 
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | <img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/84208baa-b96e-4715-84d0-c50eb892f942" style="width:150px;"/> |
-|                                       |                                       |                                       |
+|:check_mark:                           |                                       |                                       |
 | <img src="https://github.com/user-attachments/assets/2b4cc8f9-a9fe-46e2-980c-f368a2020cfe" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/6d578f28-7550-4dc9-b38c-0895082fe8b2" style="width:150px;"/> |    
 |[34 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/1.%20Easy%20-%20Complete%20Beginner.md) |[8 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/2.%20Easy%20-%20Introduction%20to%20Cyber%20Security.md)|[18 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/3.%20Easy%20-%20Pre%20Security.md)|
 
