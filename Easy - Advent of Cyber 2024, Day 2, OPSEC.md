@@ -200,6 +200,8 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
     <li>Understand how to track and attribute digital identities in cyber investigations.</li>
 </ul></p>
 
+<br>
+
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
@@ -213,6 +215,7 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 ![image](https://github.com/user-attachments/assets/3904e36a-fe47-4a22-a3d5-f5da645342d5)
 
 <br>
+<br>
 
 > 1.2. <em>How many failed logon attempts were observed?</em><br><a id='1.2'></a>
 >> <code><strong>6791</strong></code>
@@ -222,10 +225,17 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 ![image](https://github.com/user-attachments/assets/62b15e75-b8fe-4520-ae53-3366aa9b33a0)
 
 <br>
+<br>
 
 > 1.3. <em>What is the IP address of Glitch?</em><br><a id='1.3'></a>
->> <code><strong>_______</strong></code>
+>> <code><strong>10.0.255.1</strong></code>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/955df6e5-d88e-424b-9e5b-4bdd7795c67a)
+
+
+<br>
 <br>
 
 > 1.4. <em>When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS</em><br><a id='1.4'></a>
@@ -237,9 +247,19 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 
 <br>
+<br>
 
 > 1.5. <em>What is the decoded command executed by Glitch to fix the systems of Wareville?</em><br><a id='1.5'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>Install-WindowsUpdate -AcceptAll -AutoReboot</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f7ed931f-1acb-4f29-9ee4-d292cd96c33b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/586e0419-ae68-4202-b52e-652308d6fbf8)
+
 
 <br>
 
@@ -247,44 +267,6 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 >> <code><strong>No answer needed</strong></code>
 
 <br>
-
-
-<p>Following I documented my hands-on.</p>
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<pre><code>root@ip-[THM AttackBox]:~/Day2# 
-
-</code></pre>
-
-<br>
-
 
 <br>
 
