@@ -191,13 +191,7 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 <p>This meant that the people of Wareville had misunderstood Glitch, who was just trying to help shore up the defences. But if Glitch was the one helping the defences, who was trying to sabotage it? Was it the Mayor who informed the SOC about these 'suspicious' PowerShell commands? Just like alerts aren't always what they seem in a SOC, so was the case here at Wareville with people. As hard as it was to differentiate between a TP and an FP, so was the case with the Mayor and Glitch. However, McSkidy can perhaps use the evidence-based deduction skills learned in a SOC to make this difference easier for the people of Wareville.</p>
 
-
-
-
-<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/a8dc2b40-c3ae-4a6f-94ba-060d705b94f0"></p>
-
-
-
+<br>
 <br>
 
 
