@@ -1,11 +1,11 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<p align="center">November 30, 2024</p>
+<p align="center">December 2, 2024</p>
 <h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe}}$$ </h2>
 
 <h3>In my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<p align="center">November 30 2024 - My yearly activity<br>
+<p align="center">December 2, 2024 - My yearly activity<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/c11bd108-8da3-4957-bf91-bfde1ed2cf6"> </p>
 
 <br>
