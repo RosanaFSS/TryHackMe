@@ -107,13 +107,14 @@ Correlation requires a lot of hypothesis creation and ensuring that the evidence
 
 <p>Interesting! So, it looks like someone ran the same encoded PowerShell command on multiple machines. Another thing to note here is that before each execution of the PowerShell command, we see an authentication event, which was successful.</p>
 
-![image](https://github.com/user-attachments/assets/c3619b1a-3197-473d-933a-2a50bc400fe2)
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/c3619b1a-3197-473d-933a-2a50bc400fe2"></p>
 
 <p>This activity is observed individually on each machine, and the time difference between the login and PowerShell commands looks very precise. Best practices dictate that named accounts are used for any kind of administrator activity so that there is accountability and attribution for each administrative activity performed. The usage of a generic admin account here also seems suspicious. On asking, the analysts informed us that this account is used by two administrators who were not in the office when this activity occurred. Hmmm, something is definitely not right. Are these some of Glitch's shenanigans? Is Christmas in danger? We need to find out who ran these commands.<br>
 
-Let's also add the source.ip field as a column to find out who ran the PowerShell commands.</p>
+Let's also add the <code>source.ip</code> field as a column to find out who ran the PowerShell commands.</p>
 
-![image](https://github.com/user-attachments/assets/9f9be8b1-863f-4465-9f88-c41f9e36e830)
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/9f9be8b1-863f-4465-9f88-c41f9e36e830"></p>
+
 
 <br>
 
