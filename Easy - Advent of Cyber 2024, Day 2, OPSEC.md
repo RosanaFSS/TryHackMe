@@ -54,30 +54,28 @@ Correlation requires a lot of hypothesis creation and ensuring that the evidence
 <h2><strong>Is this a TP or an FP?</strong></h2>
 <p>Similar to every SOC, the analysts in the Wareville SOC also need to differentiate TPs from FPs. This becomes especially difficult for them near Christmas when the analysts face alert fatigue. High chances of misclassification of TPs into FPs and vice versa are present in such times. The analysts, therefore, appreciate any help they could get from us in this crucial time. To make matters worse, the office of the Mayor has sent the analysts an alert informing them of multiple encoded powershell commands run on their systems. Perhaps we can help with that.</p>
 
-<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/80dfe745-9797-4252-909e-f83dd1a8c7c2"></p>
+<p align="center"><img width="180px" src="https://github.com/user-attachments/assets/80dfe745-9797-4252-909e-f83dd1a8c7c2"></p>
 
 <h3><strong>Connection Details</strong></h3>
 
-![image](https://github.com/user-attachments/assets/d3be18e1-7cb0-44f1-b44a-9dd7ad6d2be5)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/d3be18e1-7cb0-44f1-b44a-9dd7ad6d2be5"></p>
+
+<p>To help the analysts, we must start the Elastic SIEM in the attached VM by clicking the <code>Start Machine</code> button below. The instance takes <code>5 minutes</code> to initialise and for the Elastic login page to appear.</p>
 
 <p><code>Start Machine</code></p>
 
 
-
-
-<p>To help the analysts, we must start the Elastic SIEM in the attached VM by clicking the Start Machine button below. The instance takes 5 minutes to initialise and for the Elastic login page to appear.</p>
-
 <p>Once the machine is up and running, we can connect to the Elastic SIEM by visiting <code>https://10-10-63-149.p.thmlabs.com</code> in your browser using the following credentials:</p>
 
-![image](https://github.com/user-attachments/assets/75528b9f-0bc9-4e76-84a0-a4e4e47aaa8b)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/75528b9f-0bc9-4e76-84a0-a4e4e47aaa8b"></p>
 
 <p>Once we log in, we can click the menu in the top-left corner and go to the <code>Discover</code> tab to see the events. </p>
 
-![image](https://github.com/user-attachments/assets/509650b9-f4ad-4b50-bac2-96cf5fd11875)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/509650b9-f4ad-4b50-bac2-96cf5fd11875"></p>
 
 <p>According to the alert sent by the Mayor's office, the activity occurred on Dec 1st, 2024, between 0900 and 0930. We can set this as our time window by clicking the timeframe settings in the upper-right corner. Note that we need to click the <code>Absolute</code> tab and set the exact timeframe we want to view. Lastly, click the <code>Update</code> button to apply the changes.</p>
 
-![image](https://github.com/user-attachments/assets/580bacb4-1a48-4fa0-9d20-2e07fd0f9ce7)
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/580bacb4-1a48-4fa0-9d20-2e07fd0f9ce7)"></p>
 
 <p>After updating the settings, we see 21 events in the mentioned timeframe.</p>
 
