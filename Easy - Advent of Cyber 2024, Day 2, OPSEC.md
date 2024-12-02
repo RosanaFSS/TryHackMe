@@ -208,16 +208,6 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 <br>
 
-<br>
-
-![image](https://github.com/user-attachments/assets/c0b8a22a-6618-4dbc-bde9-0f9a6c4da0b4)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/d7be6f04-2022-4dda-930b-01cdf4fc2fac)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/ba05522e-d1c9-44a5-bb73-e30846a3e98d)
 
 <br>
@@ -252,6 +242,13 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 <br>
 
+![image](https://github.com/user-attachments/assets/e9254f62-96be-49e6-a1fe-84e8c7661a74)
+
+
+<br>
+
+
+
 > 1.5. <em>What is the decoded command executed by Glitch to fix the systems of Wareville?</em><br><a id='1.5'></a>
 >> <code><strong>___________________</strong></code>
 
@@ -264,23 +261,6 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 
 <p>Following I documented my hands-on.</p>
-
-
-<br>
-
-![image](https://github.com/user-attachments/assets/3193b3b4-5d6d-4599-9385-1dfedf7930bc)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/8b416ef3-2305-4c6f-b15b-b7b28690139b)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/01c78bd2-551c-4583-8bee-781cdfcd424c)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/e9254f62-96be-49e6-a1fe-84e8c7661a74)
 
 
 <br>
