@@ -5,6 +5,17 @@
 <h3>In my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
+<br>
+
+<div align="center">
+
+|Complete Beginner                      |Introduction to Cyber Security         |Pre Security                           | 
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/84208baa-b96e-4715-84d0-c50eb892f942" style="width:150px;"/> |
+| <img src="https://github.com/user-attachments/assets/2b4cc8f9-a9fe-46e2-980c-f368a2020cfe" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/6d578f28-7550-4dc9-b38c-0895082fe8b2" style="width:150px;"/> |                                 
+
+</div>
+
 <p align="center">December 2, 2024 - My yearly activity<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/9f3823a1-678e-4868-8540-8d7b8a877ee8"> </p>
 
@@ -28,16 +39,6 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 <br>
 <br>
 <p align="center">I completed [ 12 ] learning paths.</p>
-
-<div align="center">
-
-|Complete Beginner                      |Introduction to Cyber Security         |Pre Security                           | 
-|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/84208baa-b96e-4715-84d0-c50eb892f942" style="width:150px;"/> |
-
-| <img src="https://github.com/user-attachments/assets/2b4cc8f9-a9fe-46e2-980c-f368a2020cfe" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/6d578f28-7550-4dc9-b38c-0895082fe8b2" style="width:150px;"/> |                                 
-
-</div>
 
 <div align="center">
 
