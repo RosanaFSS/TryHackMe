@@ -265,7 +265,8 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/08b03051-5594-4ea3-a843-43f3d21904a6"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/d25b5b32-5879-49a3-9871-1059c247ee1"> </h3>
+
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
@@ -275,11 +276,10 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 1, 2024  | 209      |      1,061st |         23rd |     3,144th |       46th | 58,514   |       448 |
+| November 2, 2024  | 210      |     1,057 th |        22 nd |    2,976 th |      46 th | 58,730   |       448 |
 
 </div>
 
-
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/e590e88e-febe-468a-914d-033235e994fb"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6de39244-e913-423a-9212-7867d0cde5d0"> </h3>
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
