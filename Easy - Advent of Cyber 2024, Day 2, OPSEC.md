@@ -265,7 +265,7 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/d25b5b32-5879-49a3-9871-1059c247ee1"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/4f0bf2a2-7be7-4660-9665-9d47dabd6389"> </h3>
 
 
 <h2>My Journey<a id='3'></a></h2>
