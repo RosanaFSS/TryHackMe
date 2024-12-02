@@ -38,9 +38,15 @@ Now, help the awesome Wareville’s SOC team analyse the alerts to determine whe
 <p align="center"><img width="300px" src="https://github.com/user-attachments/assets/a876356a-6789-4b81-80fd-d27aa1367efc"></p>
 
 <h3><strong>Context</strong></h3>
-<p>While it might seem like using the SOC superpower makes things super easy, that is not always the case. There are cases which can act as Kryptonite to the SOC superpower:</p>
-
-<p>....</p>
+<p>While it might seem like using the SOC superpower makes things super easy, that is not always the case. There are cases which can act as Kryptonite to the SOC superpower
+    
+<ul style="list-style-type:square">
+    <li>If an organisation doesn't have a change request process in place.</li>
+    <li>The performed activity was outside the scope of the change request or was different from that of the approved change request.</li>
+    <li>The activity triggered an alert, such as copying files to a certain location, uploading a file to some website, or a failed login to a system. </li>
+    <li>An insider threat performed an activity they are not authorised to perform, whether intentionally or unintentionally.</li>
+    <li>A user performed a malicious activity via social engineering from a threat actor.</li>
+</ul></p>
 
 <p>In such scenarios, it is very important for the SOC analyst to understand the context of the activity and make a judgement call based on their analysis skills and security knowledge. While doing so, the analyst can look at the past behaviour of the user or the prevalence of a certain event or artefact throughout the organisation or a certain department. For example, if a certain user from the network team is using Wireshark, there is a chance that other users from the same team also use Wireshark. However, Wireshark seen on a machine belonging to someone from HR or finance should rightfully raise some eyebrows.</p>
 
@@ -75,15 +81,15 @@ Correlation requires a lot of hypothesis creation and ensuring that the evidence
 
 <p>According to the alert sent by the Mayor's office, the activity occurred on Dec 1st, 2024, between 0900 and 0930. We can set this as our time window by clicking the timeframe settings in the upper-right corner. Note that we need to click the <code>Absolute</code> tab and set the exact timeframe we want to view. Lastly, click the <code>Update</code> button to apply the changes.</p>
 
-<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/580bacb4-1a48-4fa0-9d20-2e07fd0f9ce7)"></p>
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/d3191b18-5804-46a4-8e4c-79ff2a4a3f79"></p>
 
 <p>After updating the settings, we see 21 events in the mentioned timeframe.</p>
 
-![image](https://github.com/user-attachments/assets/fa47730a-4213-4327-a232-b4cb64d11f17)
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/fa47730a-4213-4327-a232-b4cb64d11f17"></p>
 
 <p>In their current form, these events don't look very easily readable. We can use the fields in the left pane to add columns to the results and make them more readable. Hovering on the field name in the left pane will allow adding that field as a column, as shown below.</p>
 
-![image](https://github.com/user-attachments/assets/e4a8ae00-d6a2-471e-8547-ac32d425080f)
+<p align="center"><img width=200px" src="https://github.com/user-attachments/assets/e4a8ae00-d6a2-471e-8547-ac32d425080f"></p>
 
 <p>Since we are looking for events related to PowerShell, we would like to know the following details about the logs.</p>
 
@@ -183,20 +189,9 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 
 
-
-
-
-
-
-
 <p align="center"><img width="400px" src="https://github.com/user-attachments/assets/a8dc2b40-c3ae-4a6f-94ba-060d705b94f0"></p>
 
-<h3>Learning Objectives</h3>
-<ul style="list-style-type:square">
-    <li>Learn how to investigate malicious link files.</li>
-    <li>Learn about OPSEC and OPSEC mistakes.</li>
-    <li>Understand how to track and attribute digital identities in cyber investigations.</li>
-</ul></p>
+
 
 <br>
 
