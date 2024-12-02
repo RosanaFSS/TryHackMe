@@ -203,6 +203,8 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+<br>
+
 > 1.1. <em>What is the name of the account causing all the failed login attempts?</em><br><a id='1.1'></a>
 >> <code><strong>service_admin</strong></code>
 
@@ -210,6 +212,7 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 ![image](https://github.com/user-attachments/assets/3904e36a-fe47-4a22-a3d5-f5da645342d5)
 
+<br>
 
 > 1.2. <em>How many failed logon attempts were observed?</em><br><a id='1.2'></a>
 >> <code><strong>6791</strong></code>
@@ -234,8 +237,6 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 
 <br>
-
-
 
 > 1.5. <em>What is the decoded command executed by Glitch to fix the systems of Wareville?</em><br><a id='1.5'></a>
 >> <code><strong>___________________</strong></code>
