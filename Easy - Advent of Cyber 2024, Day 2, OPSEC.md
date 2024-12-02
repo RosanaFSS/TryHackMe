@@ -91,14 +91,19 @@ Correlation requires a lot of hypothesis creation and ensuring that the evidence
 
 <p align="center"><img width=200px" src="https://github.com/user-attachments/assets/e4a8ae00-d6a2-471e-8547-ac32d425080f"></p>
 
-<p>Since we are looking for events related to PowerShell, we would like to know the following details about the logs.</p>
-
-
-<p>...</p>
+<p>Since we are looking for events related to PowerShell, we would like to know the following details about the logs.
+    
+<ul style="list-style-type:square">
+    <li>The hostname where the command was run. We can use the <code>host.hostname</code> field as a column for that.</li>
+    <li>The user who performed the activity. We can add the <code>user.name</code> field as a column for this information.</li>
+    <li>We will add the <code>event.category</code> field to ensure we are looking at the correct event category.</li>
+    <li>To know the actual commands run using PowerShell, we can add the <code>process.command_line</code> field.</li>
+    <li>Finally, to know if the activity succeeded, we will add the <code>event.outcome</code> field.</li>
+</ul></p>
 
 <p>Once we have added these fields as columns, we will see the results in a format like this.</p>
 
-![image](https://github.com/user-attachments/assets/218f0db6-cadd-4271-8daf-9d60dfc384ab)
+<p align="center"><img width=700px" src="https://github.com/user-attachments/assets/218f0db6-cadd-4271-8daf-9d60dfc384ab"></p>
 
 <p>Interesting! So, it looks like someone ran the same encoded PowerShell command on multiple machines. Another thing to note here is that before each execution of the PowerShell command, we see an authentication event, which was successful.</p>
 
