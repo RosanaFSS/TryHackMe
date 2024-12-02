@@ -27,18 +27,14 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 <br>
-
 <p align="center">I completed [ 12 ] learning paths.</p>
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1)
-
-
 | Complete Beginner                         | Introduction to Cyber Security            |   
 |:-----------------------------------------:|:-----------------------------------------:| 
 | <img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="width:150px;"/> |
-| <img src="https://github.com/user-attachments/assets/532790cf-f2bb-435b-a53c-f34d13baae13)" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="width:150px;"/> |                                     
+| <img src="https://github.com/user-attachments/assets/2b4cc8f9-a9fe-46e2-980c-f368a2020cfe" style="width:150px;"/> | <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="width:150px;"/> |                                     
 
 </div>
 
