@@ -204,15 +204,18 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 1.1. <em>What is the name of the account causing all the failed login attempts?</em><br><a id='1.1'></a>
->> <code><strong>_______</strong></code>
+>> <code><strong>service_admin</strong></code>
 
 <br>
 
 > 1.2. <em>How many failed logon attempts were observed?</em><br><a id='1.2'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>6791</strong></code>
 
 <br>
 
+![image](https://github.com/user-attachments/assets/62b15e75-b8fe-4520-ae53-3366aa9b33a0)
+
+<br>
 
 > 1.3. <em>What is the IP address of Glitch?</em><br><a id='1.3'></a>
 >> <code><strong>_______</strong></code>
@@ -220,7 +223,7 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 <br>
 
 > 1.4. <em>When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS</em><br><a id='1.4'></a>
->> <code><strong>_________________</strong></code>
+>> <code><strong>Dec 1, 2024 08:54:39.000</strong></code>
 
 <br>
 
@@ -236,6 +239,73 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 
 <p>Following I documented my hands-on.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c0b8a22a-6618-4dbc-bde9-0f9a6c4da0b4)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d7be6f04-2022-4dda-930b-01cdf4fc2fac)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ba05522e-d1c9-44a5-bb73-e30846a3e98d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/238069f5-fcfa-44d9-baba-9e0a07d14a72)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7862902c-dd1f-461e-97fc-561bb57af8a1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3904e36a-fe47-4a22-a3d5-f5da645342d5)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3193b3b4-5d6d-4599-9385-1dfedf7930bc)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8b416ef3-2305-4c6f-b15b-b7b28690139b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/01c78bd2-551c-4583-8bee-781cdfcd424c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e9254f62-96be-49e6-a1fe-84e8c7661a74)
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
