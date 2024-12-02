@@ -113,12 +113,11 @@ Correlation requires a lot of hypothesis creation and ensuring that the evidence
 
 Let's also add the <code>source.ip</code> field as a column to find out who ran the PowerShell commands.</p>
 
-<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/9f9be8b1-863f-4465-9f88-c41f9e36e830"></p>
-
+<p align="center"><img width="200px" src="https://github.com/user-attachments/assets/9f9be8b1-863f-4465-9f88-c41f9e36e830"></p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/582afa09-e9ae-493f-b633-3d45d5708cad)
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/582afa09-e9ae-493f-b633-3d45d5708cad"></p>
 
 <br>
 
