@@ -54,9 +54,9 @@ Correlation requires a lot of hypothesis creation and ensuring that the evidence
 <h2><strong>Is this a TP or an FP?</strong></h2>
 <p>Similar to every SOC, the analysts in the Wareville SOC also need to differentiate TPs from FPs. This becomes especially difficult for them near Christmas when the analysts face alert fatigue. High chances of misclassification of TPs into FPs and vice versa are present in such times. The analysts, therefore, appreciate any help they could get from us in this crucial time. To make matters worse, the office of the Mayor has sent the analysts an alert informing them of multiple encoded powershell commands run on their systems. Perhaps we can help with that.</p>
 
-![image](https://github.com/user-attachments/assets/80dfe745-9797-4252-909e-f83dd1a8c7c2)
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/80dfe745-9797-4252-909e-f83dd1a8c7c2"></p>
 
-<h3>Connection Details</h3>
+<h3><strong>Connection Details</strong></h3>
 
 ![image](https://github.com/user-attachments/assets/d3be18e1-7cb0-44f1-b44a-9dd7ad6d2be5)
 
