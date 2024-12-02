@@ -208,18 +208,6 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 
 <br>
 
-![image](https://github.com/user-attachments/assets/ba05522e-d1c9-44a5-bb73-e30846a3e98d)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/238069f5-fcfa-44d9-baba-9e0a07d14a72)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/7862902c-dd1f-461e-97fc-561bb57af8a1)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/3904e36a-fe47-4a22-a3d5-f5da645342d5)
 
 
