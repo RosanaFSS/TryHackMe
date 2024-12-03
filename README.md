@@ -7,14 +7,15 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 
+![image](https://github.com/user-attachments/assets/f77dfcd9-0091-465c-ae63-87d5e652921a)
 
 
 
 <div align="center">
   
-|CompTIA Pentest+                   |Jr Penetration Tester              |Web Fundamentals                   |Web App Pentesting        |Red Teaming  |  |
+|CompTIA Pentest+                   |Jr Penetration Tester              |Web Fundamentals                   |Web App Pentesting        |Red Teaming  |Offensive Pentestomg |
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:--------------------------------:|:---------------------------------:|:---------------------------------:|
-|<img src="https://github.com/user-attachments/assets/69eed818-9e56-4d21-aa93-adcc1406e1a7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/8c32aead-8771-4378-9ce7-8007f407b9b2" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/463f4e3b-d052-4613-bd09-c0df03778cb7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/cd36781d-51e7-43ca-b5d4-4306dbcec643" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/edc3d48f-c6e6-4cc9-bf73-a89f4f98fe67" style="width:150px;"/> | 
+|<img src="https://github.com/user-attachments/assets/69eed818-9e56-4d21-aa93-adcc1406e1a7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/8c32aead-8771-4378-9ce7-8007f407b9b2" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/463f4e3b-d052-4613-bd09-c0df03778cb7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/cd36781d-51e7-43ca-b5d4-4306dbcec643" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/edc3d48f-c6e6-4cc9-bf73-a89f4f98fe67" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/f77dfcd9-0091-465c-ae63-87d5e652921a" style="width:150px;"/> |
 |✅                                |✅                                 |✅                                |                                   |                                   |  |
 |SOC Level 1                        |SOC Level 2                                      |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  |
 |✅                                |✅                                 |                                   |                                   |                                   |  |
