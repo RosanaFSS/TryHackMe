@@ -68,6 +68,8 @@ The logs saved the day, it was the room of…the Glitch.</em></h5>
 
 <p>You will also need to start the AttackBox by pressing the <code>Strat AttackBox</code> button at the top of the room. Alternatively, you can connect your own hacking machine by using the TryHackMe VPN.</p>
 
+<br>
+<br>
 <h3><strong>OPERATION BLUE</strong></h3>
 <p>In this section of the lesson, we will take a look at what tools and knowledge is required for the blue segment, that is the investigation of the attack itself using tools which enable is to analyse the logs.<br>
 
@@ -164,7 +166,68 @@ Note in the GIF below how the logs are being filtered to only show logs containi
 
 <p>Now that we have an initial lead, let’s use a search query to find all logs that contain "shell.php". Using the search bar at the top, the query message: "shell.php" will search for all entries of "shell.php" in the message field of the logs.</p>
 
-<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/62cab578-ab56-406a-925e-0c03fac48658)"></p>
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/62cab578-ab56-406a-925e-0c03fac48658"></p>
+
+<br>
+<br>
+<h3><strong>OPERATION RED</strong></h3>
+<p>In this section we will now take a look at the red aspect. In other words, the attack itself and how it was carried out.</p>
+
+<h3>Why Do Websites Allow File Uploads</h3>
+<p>File uploads are everywhere on websites, and for good reason. Users often need to upload files like profile pictures, invoices, or other documents to update their accounts, send receipts, or submit claims. These features make the user experience smoother and more efficient. But while this is convenient, it also creates a risk if file uploads aren't handled properly. If not properly secured, this feature can open up various vulnerabilities attackers can exploit.</p>
+
+<h3>File Upload Vulnerabilities</h3>
+<p>File upload vulnerabilities occur when a website doesn't properly handle the files that users upload. If the site doesn't check what kind of file is being uploaded, how big it is, or what it contains, it opens the door to all sorts of attacks. For example:</p>
+- RCE: Uploading a script that the server runs gives the attacker control over it.<br>
+- XSS: Uploading an HTML file that contains an XSS code which will steal a cookie and send it back to the attacker's server.<br>
+
+<p>These can happen if a site doesn't properly secure its file upload functionality.</p>
+
+<h3>Why Unrestricted File Uploads Are Dangerous</h3>
+<p>Unrestricted file uploads can be particularly dangerous because they allow an attacker to upload any type of file. If the file's contents aren't properly validated to ensure only specific formats like PNG or JPG are accepted, an attacker could upload a malicious script, such as a PHP file or an executable, that the server might process and run. This can lead to code execution on the server, allowing attackers to take over the system.<br>
+
+Examples of abuse through unrestricted file uploads include:</p>
+- Uploading a script that the server executes, leading to RCE.<br>
+- Uploading a crafted image file that triggers a vulnerability when processed by the server.<br>
+- Uploading a web shell and browsing to it directly using a browser.<br>
+
+<h3>Usage of Weak Credentials</h3>
+<p>One of the easiest ways for attackers to break into systems is through weak or default credentials. This can be an open door for attackers to gain unauthorised access. Default credentials are often found in systems where administrators fail to change initial login details provided during setup. For attackers, trying a few common usernames and passwords can lead to easy access.<br>
+
+Below are some examples of weak/default credentials that attackers might try:</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/edb8f789-4ce8-4750-ae7d-50edd10a4e97"></p>
+
+<p>Attackers can use tools or try these common credentials manually, which is often all it takes to break into the system.</p>
+
+<h3>What is Remote Code Execution (RCE)</h3>
+<p>Remote code execution (RCE) happens when an attacker finds a way to run their own code on a system. This is a highly dangerous vulnerability because it can allow the attacker to take control of the system, exfiltrate sensitive data, or compromise other connected systems.</p>
+
+
+<p align="center"><img width="200px" src="https://github.com/user-attachments/assets/4dca3ef9-062a-4b6d-b35a-b9ca2bba7429"></p>
+
+
+<h3>What Is a Web Shell</h3>
+<p>.....</p>
+
+
+<h3>Practice Makes Perfect</h3>
+<p>.....</p>
+
+
+
+<h3>Exploiting RCE via File Upload</h3>
+<p>.....</p>
+
+
+
+<h3>Making the Most of It</h3>
+<p>.....</p>
+
+
+
+<h3>Practical</h3>
+<p>.....</p>
 
 
 
@@ -173,30 +236,6 @@ Note in the GIF below how the logs are being filtered to only show logs containi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>...</p>
 <br>
 <br>
 
@@ -205,63 +244,33 @@ Note in the GIF below how the logs are being filtered to only show logs containi
 
 <br>
 
-> 1.1. <em>What is the name of the account causing all the failed login attempts?</em><br><a id='1.1'></a>
->> <code><strong>service_admin</strong></code>
+> 1.1. <em><code>BLUE</code>: Where was the web shell uploaded to?<br>
+> <code>Answer format</code>: /directory/directory/directory/filename.php</em><br><a id='1.1'></a>
+>> <code><strong>/media/images/rooms/shell.php</strong></code>
 
 <br>
-
-![image](https://github.com/user-attachments/assets/3904e36a-fe47-4a22-a3d5-f5da645342d5)
-
-<br>
-<br>
-
-> 1.2. <em>How many failed logon attempts were observed?</em><br><a id='1.2'></a>
->> <code><strong>6791</strong></code>
-
-<br>
-
-![image](https://github.com/user-attachments/assets/62b15e75-b8fe-4520-ae53-3366aa9b33a0)
-
-<br>
-<br>
-
-> 1.3. <em>What is the IP address of Glitch?</em><br><a id='1.3'></a>
->> <code><strong>10.0.255.1</strong></code>
-
-<br>
-
-![image](https://github.com/user-attachments/assets/955df6e5-d88e-424b-9e5b-4bdd7795c67a)
 
 
 <br>
 <br>
 
-> 1.4. <em>When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS</em><br><a id='1.4'></a>
->> <code><strong>Dec 1, 2024 08:54:39.000</strong></code>
+> 1.2. <em><code>BLUE</code>: What IP address accessed the web shell?</em><br><a id='1.2'></a>
+>> <code><strong>________</strong></code>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/e9254f62-96be-49e6-a1fe-84e8c7661a74)
 
 
 <br>
 <br>
 
-> 1.5. <em>What is the decoded command executed by Glitch to fix the systems of Wareville?</em><br><a id='1.5'></a>
->> <code><strong>Install-WindowsUpdate -AcceptAll -AutoReboot</strong></code>
+> 1.3. <em><code>RED</code>: What is the contents of the flag.txt?</em><br><a id='1.3'></a>
+>> <code><strong>_________________</strong></code>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/f7ed931f-1acb-4f29-9ee4-d292cd96c33b)
 
-<br>
-
-![image](https://github.com/user-attachments/assets/586e0419-ae68-4202-b52e-652308d6fbf8)
-
-
-<br>
-
-> 1.6. <em>If you enjoyed this task, feel free to check out the Investigating with ELK 101 room.</em><br><a id='1.6'></a>
+> 1.4. <em>If you liked today's task, you can learn how to harness the power of advanced ELK queries.</em><br><a id='1.4'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
