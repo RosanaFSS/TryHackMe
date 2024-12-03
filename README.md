@@ -7,8 +7,6 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 
-![image](https://github.com/user-attachments/assets/176a6f51-e9a7-436d-b3df-3dc832604a13)
-
 
 <div align="center">
   
@@ -21,7 +19,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | | | | | | |
 |<h5>Security Engineer<br>Security Engineer</h5>|<h5>Security Engineer<br>DevSecOps</h5>|<h5>Security Engineer<br>Cyber Defense</h5>|<h5>Security Engineer<br>Attacking and Defending AWS</h5>| |
 |✅                                |✅                                 |✅                                |                                 |                                |  |
-|<img src="https://github.com/user-attachments/assets/1c835610-a2bf-4888-844f-fab6d69c1489" style="height:130px;"/> |<img src="https://github.com/user-attachments/assets/176a6f51-e9a7-436d-b3df-3dc832604a13" style="height:130px;"/>|<img src="hhttps://github.com/user-attachments/assets/0b610b8c-8cd3-4d39-be4b-0627f5464820" style="height:130px;"/> |<img src="https://github.com/user-attachments/assets/e7191a05-288f-40b1-999c-5832376dd2bd" style="height:130px;"/> | |  |
+|<img src="https://github.com/user-attachments/assets/1c835610-a2bf-4888-844f-fab6d69c1489" style="height:130px;"/> |<img src="https://github.com/user-attachments/assets/176a6f51-e9a7-436d-b3df-3dc832604a13" style="height:130px;"/>|<img src="hhttps://github.com/user-attachments/assets/0b610b8c-8cd3-4d39-be4b-0627f5464820" style="height:130px;"/> || |  |
 | | | | | | |
 |<h5>Security Analyst<br>SOC Level 1</h5>|<h5>Security Analyst<br>SOC Level 2</h5>                                     | |  |  |
 |✅                                |✅                                 |                                   |                                   |                                   |  |
