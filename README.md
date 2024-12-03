@@ -9,6 +9,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 
 <div align="center">
+  
 |CompTIA Pentest+                   |Jr Penetration Tester              |Web Fundamentals                   |Web Application Pentesting        |Red Teaming  |
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:--------------------------------:|:---------------------------------:|
 |✅                                |✅                                 |✅                                |                                   |                                   |
