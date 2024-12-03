@@ -373,10 +373,10 @@ Below are some examples of weak/default credentials that attackers might try:</p
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 2, 2024  | 210      |     1,057 th |        22 nd |    2,976 th |      46 th | 58,730   |       448 |
+| November 3, 2024  | 211      |     1,056 th |        22 nd |    2,938 th |      44 th | 58,802   |       450 |
 
 </div>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6de39244-e913-423a-9212-7867d0cde5d0"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f5ab9c52-bc01-4d77-b6b8-252d1edee1ac"> </h3>
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
