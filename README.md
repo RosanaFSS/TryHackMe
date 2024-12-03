@@ -7,22 +7,18 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 
-![image](https://github.com/user-attachments/assets/f77dfcd9-0091-465c-ae63-87d5e652921a)
-
-
-
 <div align="center">
   
 |CompTIA Pentest+                   |Jr Penetration Tester              |Web Fundamentals                   |Web App Pentesting        |Red Teaming  |Offensive Pentestomg |
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:--------------------------------:|:---------------------------------:|:---------------------------------:|
 |<img src="https://github.com/user-attachments/assets/69eed818-9e56-4d21-aa93-adcc1406e1a7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/8c32aead-8771-4378-9ce7-8007f407b9b2" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/463f4e3b-d052-4613-bd09-c0df03778cb7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/cd36781d-51e7-43ca-b5d4-4306dbcec643" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/edc3d48f-c6e6-4cc9-bf73-a89f4f98fe67" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/f77dfcd9-0091-465c-ae63-87d5e652921a" style="width:150px;"/> |
 |✅                                |✅                                 |✅                                |                                   |                                   |  |
+| | | | | | |
 |SOC Level 1                        |SOC Level 2                                      |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  |
 |✅                                |✅                                 |                                   |                                   |                                   |  |
 |<img src="https://github.com/user-attachments/assets/97c6ed17-9379-431e-8678-bcc4819f434a" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/50d7f23c-e62e-4900-9c8c-4e36913620eb" style="width:150px;"/> |  |  |  |  |
 |<img src="https://github.com/user-attachments/assets/6ceb4db2-c71f-466e-be4e-d053c978f933" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/5cc88bd8-e54d-4637-95f9-4087edec7618" style="width:150px;"/> |  |  |  |  |
 |[71 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/5.1.%20Security%20Analyst%20-%20Easy%20-%20SOC%20Level%201.md) |[48 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/5.2.%20Security%20Analyst%20-%20Hard%20-%20SOC%20Level%202.md) | | | | |
-| | | | | | |
 | | | | | | |
 |Complete Beginner                  |Intro to Cyber Security            |Pre Security                       |Cyber Security 101                 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |✅                                |✅                                 |✅                                 |✅                                |                                   |  |
