@@ -7,12 +7,14 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <br>
 
+
 <div align="center">
 
 |SOC Level 1                        |SOC Level 2                        |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
-|✅                                |✅                                 |✅                                 |✅                                |                                   |
-|<img src="https://github.com/user-attachments/assets/591e2c8a-9d85-48fa-8d83-acc34a6e6fe7" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/50d7f23c-e62e-4900-9c8c-4e36913620eb" style="width:150px;"/> |  |  |  |
+|✅                                |✅                                 |                                   |                                   |                                   |
+|<img src="https://github.com/user-attachments/assets/97c6ed17-9379-431e-8678-bcc4819f434a" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/50d7f23c-e62e-4900-9c8c-4e36913620eb" style="width:150px;"/> |  |  |  |
+|<img src="https://github.com/user-attachments/assets/6ceb4db2-c71f-466e-be4e-d053c978f933" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/5cc88bd8-e54d-4637-95f9-4087edec7618" style="width:150px;"/> |  |  |  |
 | | | | | |
 |Complete Beginner                  |Intro to Cyber Security            |Pre Security                       |Cyber Security 101                 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |✅                                |✅                                 |✅                                 |✅                                |                                   |
