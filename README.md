@@ -15,6 +15,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 |✅                                |✅                                 |                                   |                                   |                                   |
 |<img src="https://github.com/user-attachments/assets/97c6ed17-9379-431e-8678-bcc4819f434a" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/50d7f23c-e62e-4900-9c8c-4e36913620eb" style="width:150px;"/> |  |  |  |
 |<img src="https://github.com/user-attachments/assets/6ceb4db2-c71f-466e-be4e-d053c978f933" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/5cc88bd8-e54d-4637-95f9-4087edec7618" style="width:150px;"/> |  |  |  |
+|[71 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/5.1.%20Security%20Analyst%20-%20Easy%20-%20SOC%20Level%201.md) |[48 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/5.2.%20Security%20Analyst%20-%20Hard%20-%20SOC%20Level%202.md) | | | |
+| | | | | |
 | | | | | |
 |Complete Beginner                  |Intro to Cyber Security            |Pre Security                       |Cyber Security 101                 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |✅                                |✅                                 |✅                                 |✅                                |                                   |
