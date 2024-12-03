@@ -1,6 +1,6 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
 <p align="center">December 2, 2024</p>
-<h2 align="center"> $$\textcolor{white}{\textnormal{ I share my accomplishments on TryHackMe}}$$ </h2>
+<h2 align="center"> $$\textcolor{white}{\textnormal{My accomplishments on TryHackMe}}$$ </h2>
 
 <h3>In my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
