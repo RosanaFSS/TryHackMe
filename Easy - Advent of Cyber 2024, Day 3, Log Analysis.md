@@ -1,1 +1,307 @@
+<h5 align="center">December , 2024<br>
+Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{210}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</h5>
 
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Advent of Cyber 2024}}$$</h1>
+
+<h5 align="center">Dive into the wonderful world of cyber security by engaging<br>
+in festive beginner-friendly exercises every day in the lead-up to Christmas!</h5>
+
+<p align="center">
+<img height="90px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
+<img width="500px" src="https://github.com/user-attachments/assets/57999429-f784-46a1-81ab-4d68041f470f"></p>
+
+<p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p>
+
+<h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 3 - Log Analysis}}$$<br>
+$$\textcolor{yellow}{\textnormal{Even if I wanted to go, their vulnerabilities wouldn't allow it.}}$$</h2>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/e7bce5af-bc21-491e-833d-ce1bfbf389ff"></p>
+
+
+<h5 align="center">Today's AoC challenge follows a rather unfortunate series of events for the Glitch. Here is a little passage which sets the scene for today's task:</h5>
+
+<h5 align="center"><em>Late one Christmas evening the Glitch had a feeling,<br>
+Something forgotten as he stared at the ceiling.<br>
+He got up out of bed and decided to check,<br>
+A note on his wall: ”Two days! InsnowSec”.<br>
+<br>
+With a click and a type he got his hotel and tickets,<br>
+And sank off to sleep to the sound of some crickets.<br>
+Luggage in hand, he had arrived at Frosty Pines,<br>
+“To get to the conference, just follow the signs”.<br>
+<br>
+Just as he was ready the Glitch got a fright,<br>
+An RCE vulnerability on their website ?!?<br>
+He exploited it quick and made a report,<br>
+But before he could send arrived his transport.<br>
+<br>
+In the Frosty Pines SOC they saw an alert,<br>
+This looked quite bad, they called an expert.<br>
+The request came from a room, but they couldn’t tell which,<br>
+The logs saved the day, it was the room of…the Glitch.</em></h5>
+
+
+Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{210}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackM
+
+
+<h2><strong>True Positives or False Positives?</strong></h2>
+<p>In a SOC, events from different devices are sent to the SIEM, which is the single source of truth where all the information and events are aggregated. Certain rules (Detection Engineering rules) are defined to identify malicious or suspicious activity from these events. If an event or set of events fulfils the conditions of a rule, it triggers an alert. A SOC analyst then analyses the alert to identify if the alert is a True Positive (TP) or a False Positive (FP). An alert is considered a TP if it contains actual malicious activity. On the flip side, if the alert triggers because of an activity that is not actually malicious, it is considered an FP. This might seem very simple in theory, but practically, separating TPs from FPs can be a tedious job. It can sometimes become very confusing to differentiate between an attacker and a system administrator.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/5fdd7cc4-1881-456c-9f98-a0be7031f569"></p>
+
+<h2><strong>Making a Decision</strong></h2>
+<p>While it is confusing to differentiate between TPs and FPs, it is very crucial to get it right. If a TP is falsely classified as an FP, it can lead to a significant impact from a missed cyber attack. If an FP is falsely classified as a TP, precious time will be spent focusing on the FP, which might lead to less focus on an actual attack. So, how exactly do we ensure that we perform this crucial job effectively? We can use the below pointers to guide us.</p>
+
+<h3>Using the SOC Superpower</h3>
+<p>The SOC has a superpower. When they are unsure whether an activity is performed by a malicious actor or a legitimate user, they can just confirm with the user. This privilege is not available to the attacker. A SOC analyst, on the other hand, can just send an email or call the relevant person to get confirmation of a certain activity. In mature organisations, any changes that might trigger an alert in the SOC often require Change Requests to be created and approved through the IT change management process. Depending on the process, the SOC team can ask the users to share Change Request details for confirmation. Surely, if it is a legitimate and approved activity, it must have an approved Change Request.</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/a876356a-6789-4b81-80fd-d27aa1367efc"></p>
+
+<h3><strong>Context</strong></h3>
+<p>While it might seem like using the SOC superpower makes things super easy, that is not always the case. There are cases which can act as Kryptonite to the SOC superpower
+    
+<ul style="list-style-type:square">
+    <li>If an organisation doesn't have a change request process in place.</li>
+    <li>The performed activity was outside the scope of the change request or was different from that of the approved change request.</li>
+    <li>The activity triggered an alert, such as copying files to a certain location, uploading a file to some website, or a failed login to a system. </li>
+    <li>An insider threat performed an activity they are not authorised to perform, whether intentionally or unintentionally.</li>
+    <li>A user performed a malicious activity via social engineering from a threat actor.</li>
+</ul></p>
+
+<p>In such scenarios, it is very important for the SOC analyst to understand the context of the activity and make a judgement call based on their analysis skills and security knowledge. While doing so, the analyst can look at the past behaviour of the user or the prevalence of a certain event or artefact throughout the organisation or a certain department. For example, if a certain user from the network team is using Wireshark, there is a chance that other users from the same team also use Wireshark. However, Wireshark seen on a machine belonging to someone from HR or finance should rightfully raise some eyebrows.</p>
+
+<h3><strong>Correlation</strong></h3>
+<p>When building the context, the analyst must correlate different events to make a story or a timeline. Correlation entails using the past and future events to recreate a timeline of events. When performing correlation, it is important to note down certain important artefacts that can then be used to connect the dots. These important artefacts can include IP addresses, machine names, user names, hashes, file paths, etc.<br>
+
+Correlation requires a lot of hypothesis creation and ensuring that the evidence supports that hypothesis. A hypothesis can be something like the user downloaded malware from a spoofed domain. The evidence to support this can be proxy logs that support the hypothesis that a website was visited, the website used a spoofed domain name, and a certain file was downloaded from that website. Now, let's say, we want to identify whether the malware executed through some vulnerability in an application or a user intentionally executed the malware. To see that, we might look at the parent process of the malware and the command line parameters used to execute the said malware. If the parent process is Windows Explorer, we can assume the user executed the malware intentionally (or they might have been tricked into executing it via social engineering), but if the parent process is a web browser or a word processor, we can assume that the malware was not intentionally executed, but it was executed because of a vulnerability in the said application.</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/f2c2bb02-b55a-4d45-b0f2-bb9d94a5609c"></p>
+
+<h2><strong>Is this a TP or an FP?</strong></h2>
+<p>Similar to every SOC, the analysts in the Wareville SOC also need to differentiate TPs from FPs. This becomes especially difficult for them near Christmas when the analysts face alert fatigue. High chances of misclassification of TPs into FPs and vice versa are present in such times. The analysts, therefore, appreciate any help they could get from us in this crucial time. To make matters worse, the office of the Mayor has sent the analysts an alert informing them of multiple encoded powershell commands run on their systems. Perhaps we can help with that.</p>
+
+<p align="center"><img width="180px" src="https://github.com/user-attachments/assets/80dfe745-9797-4252-909e-f83dd1a8c7c2"></p>
+
+<h3><strong>Connection Details</strong></h3>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/d3be18e1-7cb0-44f1-b44a-9dd7ad6d2be5"></p>
+
+<p>To help the analysts, we must start the Elastic SIEM in the attached VM by clicking the <code>Start Machine</code> button below. The instance takes <code>5 minutes</code> to initialise and for the Elastic login page to appear.</p>
+
+<p><code>Start Machine</code></p>
+
+
+<p>Once the machine is up and running, we can connect to the Elastic SIEM by visiting <code>https://10-10-63-149.p.thmlabs.com</code> in your browser using the following credentials:</p>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/75528b9f-0bc9-4e76-84a0-a4e4e47aaa8b"></p>
+
+<p>Once we log in, we can click the menu in the top-left corner and go to the <code>Discover</code> tab to see the events. </p>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/509650b9-f4ad-4b50-bac2-96cf5fd11875"></p>
+
+<p>According to the alert sent by the Mayor's office, the activity occurred on Dec 1st, 2024, between 0900 and 0930. We can set this as our time window by clicking the timeframe settings in the upper-right corner. Note that we need to click the <code>Absolute</code> tab and set the exact timeframe we want to view. Lastly, click the <code>Update</code> button to apply the changes.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/d3191b18-5804-46a4-8e4c-79ff2a4a3f79"></p>
+
+<p>After updating the settings, we see 21 events in the mentioned timeframe.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/fa47730a-4213-4327-a232-b4cb64d11f17"></p>
+
+<p>In their current form, these events don't look very easily readable. We can use the fields in the left pane to add columns to the results and make them more readable. Hovering on the field name in the left pane will allow adding that field as a column, as shown below.</p>
+
+<p align="center"><img width=200px" src="https://github.com/user-attachments/assets/e4a8ae00-d6a2-471e-8547-ac32d425080f"></p>
+
+<p>Since we are looking for events related to PowerShell, we would like to know the following details about the logs.
+    
+<ul style="list-style-type:square">
+    <li>The hostname where the command was run. We can use the <code>host.hostname</code> field as a column for that.</li>
+    <li>The user who performed the activity. We can add the <code>user.name</code> field as a column for this information.</li>
+    <li>We will add the <code>event.category</code> field to ensure we are looking at the correct event category.</li>
+    <li>To know the actual commands run using PowerShell, we can add the <code>process.command_line</code> field.</li>
+    <li>Finally, to know if the activity succeeded, we will add the <code>event.outcome</code> field.</li>
+</ul></p>
+
+<p>Once we have added these fields as columns, we will see the results in a format like this.</p>
+
+<p align="center"><img width=700px" src="https://github.com/user-attachments/assets/218f0db6-cadd-4271-8daf-9d60dfc384ab"></p>
+
+<p>Interesting! So, it looks like someone ran the same encoded PowerShell command on multiple machines. Another thing to note here is that before each execution of the PowerShell command, we see an authentication event, which was successful.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/c3619b1a-3197-473d-933a-2a50bc400fe2"></p>
+
+<p>This activity is observed individually on each machine, and the time difference between the login and PowerShell commands looks very precise. Best practices dictate that named accounts are used for any kind of administrator activity so that there is accountability and attribution for each administrative activity performed. The usage of a generic admin account here also seems suspicious. On asking, the analysts informed us that this account is used by two administrators who were not in the office when this activity occurred. Hmmm, something is definitely not right. Are these some of Glitch's shenanigans? Is Christmas in danger? We need to find out who ran these commands.<br>
+
+Let's also add the <code>source.ip</code> field as a column to find out who ran the PowerShell commands.</p>
+
+<p align="center"><img width="200px" src="https://github.com/user-attachments/assets/9f9be8b1-863f-4465-9f88-c41f9e36e830"></p>
+
+<br>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/582afa09-e9ae-493f-b633-3d45d5708cad"></p>
+
+<br>
+
+<p>Since the source.ip field is only available for the authentication events, we can filter out the process events to see if there is a pattern.  To do that, we can hover over the event.category field in one of the process events. We will see the option to filter only for this value (+ sign) or filter out the value (- sign), as seen below. Let's filter for authentication events by clicking the plus (+) sign beside it to show only those in the results.</p>
+
+![image](https://github.com/user-attachments/assets/478c3ae3-97bd-4a0d-96f9-668a22a8be92)
+
+<p>As a result, you can see that the output only renders the authentication events. Since the result does not give useful insights, let's remove it for now. You can do this by clicking the x beside the filter.</p>
+
+![image](https://github.com/user-attachments/assets/e27bb11b-2051-4028-982f-1019b85c88f2)
+
+<p>Since the timeframe we previously used was for the PowerShell events, and the authentication events might have been coming from before that, we will need to expand the search to understand the context and the historical events for this user. Let's see if we have any events from the user from the 29th of November to the 1st of December. Updating the time filter for these days, the results look like this.<br>
+
+<strong>Note: Remember to remove the event.category filter before this step</strong>.
+
+![image](https://github.com/user-attachments/assets/1011e5cb-f15a-4966-9b16-eaed91ece574)
+
+<p>Woah, there have been more than 6800 events in these three days, and we see a spike at the end of the logs. However, even though we used the time filter for the day end on the 1st of December, we see no events after successful PowerShell execution. There have also been a lot more authentication events in the previous days than on the 1st of December.<br>
+
+To understand the events further, let's filter for our user.name with service_admin and source.ip with 10.0.11.11 to narrow our search.</p>
+
+![image](https://github.com/user-attachments/assets/d50fe4de-f656-46f5-8d75-5c4b7fec659f)
+
+<p>Uh-oh! It looks like all these events have been coming from the same user and the same IP address. We definitely need to investigate further. This also does not explain the spike. Let's filter for authentication events first by clicking the plus (+) button beside it.</p>
+
+![image](https://github.com/user-attachments/assets/99565a18-8909-440b-9b3c-79c5de18c9ba)
+
+<p>Moreover, let's filter out the Source IP here to see if we can find the IP address that caused the spike. This can be done by clicking the minus (-) button beside it.</p>
+
+![image](https://github.com/user-attachments/assets/5bfcc341-dde5-4a9f-886c-bf003906d4e1)
+
+<p>After applying the filters, the expected result will be similar to the image below.</p>
+
+![image](https://github.com/user-attachments/assets/4ff6d2ea-5072-47a8-9231-f0a93b6ed830)
+
+<p>Scrolling down, we see many events for failed logins. We also see that the IP address for the spike (ending in .255.1) differs from the one we saw for the events continuously coming in the previous days (10.0.11.11). The analysts have previously investigated this and found that a script with expired credentials was causing this issue. However, that script was updated with a fresh set of credentials. Anyhow, this might just be another script. Let's find out.
+
+Let's remove the source IP filter so we can focus on authentication events close to the spike. After applying the new filter, we see that the failed logins stopped a little while after the successful login from the new IP.</p>
+
+![image](https://github.com/user-attachments/assets/a6f36ccc-85ae-4268-a65b-616291bb5787)
+
+<p>Our suspicions are rising. It seems that someone tried a brute-force attack on December 1st, as shown by the same filters applied above.</p>
+
+![image](https://github.com/user-attachments/assets/bbd16f17-3015-4072-8aca-d9db229a1d9f)
+
+<p>The results also showed that they succeeded with the brute-force attempt because of the successful authentication attempt and quickly ran some PowerShell commands on the affected machines. Once the PowerShell commands were run, we didn't see any further login attempts. This looks like a TP, and there needs to be an escalation so that McSkidy can help us respond to this incident.</p>
+
+<h2>Christmas in Danger?</h2>
+<p>The alarms have gone off, and McSkidy has been called to help take this incident further. The analysts have briefed McSkidy about the incident. McSkidy observed that nobody had actually looked at what the PowerShell command contained. Since the command was encoded, it needs to be decoded. McSkidy changed the filters with event.category: process to take a deeper look at the PowerShell commands.</p>
+
+![image](https://github.com/user-attachments/assets/f92396dc-d82a-4b8f-9c70-89033b8f5a41)
+
+<p>We can see the PowerShell command in the process.command_line field. 
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -EncodedCommand SQBuAHMAdABhAGwAbAAtAFcAaQBuAGQAbwB3AHMAVQBwAGQAYQB0AGUAIAAtAEEAYwBjAGUAcAB0AEEAbABsACAALQBBAHUAdABvAFIAZQBiAG8AbwB0AA==<br>
+
+McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and can be decoded using tools such as CyberChef. Since the command might contain some sensitive information and, therefore, must not be submitted on a public portal, McSkidy spins up her own instance of CyberChef hosted locally. McSkidy started by pasting the encoded part of the command in the Input pane in CyberChef. </p>
+
+![image](https://github.com/user-attachments/assets/179d5314-fe38-4aba-9306-2050edb7b867)
+
+<p>Since it is a Base64 encoded command, McSkidy used two recipes, named FromBase64 and Decode text from the left pane. Note that McSkidy configured the Decode text to UTF-16LE (1200) since it is the encoding used by PowerShell for Base64.</p>
+
+![image](https://github.com/user-attachments/assets/4a059f0b-2684-4f3e-82b7-7fcd431431fa)
+
+<p>The result provided a sigh of relief to McSkidy, who had feared that the Christmas had been ruined. Someone had come in to help McSkidy and the team secure their defences, but who?</p>
+
+<h2>Villain or Hero?</h2>
+<p>McSkidy further analysed the secret hero and came to a startling revelation. The credentials for the script in the machines that ran the Windows updates were outdated. Someone brute-forced the systems and fixed the credentials after successfully logging in. This was evident from the fact that each executed PowerShell command was preceded by a successful login from the same Source IP, causing failed logins over the past few days. And what's even more startling? It was Glitch who accessed ADM-01 and fixed the credentials after McSkidy confirmed who owned the IP address.</p>
+
+![image](https://github.com/user-attachments/assets/ac67a8e9-77b0-4149-a421-039c493c56b2)
+
+<p>This meant that the people of Wareville had misunderstood Glitch, who was just trying to help shore up the defences. But if Glitch was the one helping the defences, who was trying to sabotage it? Was it the Mayor who informed the SOC about these 'suspicious' PowerShell commands? Just like alerts aren't always what they seem in a SOC, so was the case here at Wareville with people. As hard as it was to differentiate between a TP and an FP, so was the case with the Mayor and Glitch. However, McSkidy can perhaps use the evidence-based deduction skills learned in a SOC to make this difference easier for the people of Wareville.</p>
+
+<br>
+<br>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 1.1. <em>What is the name of the account causing all the failed login attempts?</em><br><a id='1.1'></a>
+>> <code><strong>service_admin</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3904e36a-fe47-4a22-a3d5-f5da645342d5)
+
+<br>
+<br>
+
+> 1.2. <em>How many failed logon attempts were observed?</em><br><a id='1.2'></a>
+>> <code><strong>6791</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/62b15e75-b8fe-4520-ae53-3366aa9b33a0)
+
+<br>
+<br>
+
+> 1.3. <em>What is the IP address of Glitch?</em><br><a id='1.3'></a>
+>> <code><strong>10.0.255.1</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/955df6e5-d88e-424b-9e5b-4bdd7795c67a)
+
+
+<br>
+<br>
+
+> 1.4. <em>When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS</em><br><a id='1.4'></a>
+>> <code><strong>Dec 1, 2024 08:54:39.000</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e9254f62-96be-49e6-a1fe-84e8c7661a74)
+
+
+<br>
+<br>
+
+> 1.5. <em>What is the decoded command executed by Glitch to fix the systems of Wareville?</em><br><a id='1.5'></a>
+>> <code><strong>Install-WindowsUpdate -AcceptAll -AutoReboot</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f7ed931f-1acb-4f29-9ee4-d292cd96c33b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/586e0419-ae68-4202-b52e-652308d6fbf8)
+
+
+<br>
+
+> 1.6. <em>If you enjoyed this task, feel free to check out the Investigating with ELK 101 room.</em><br><a id='1.6'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<br>
+
+<h2>Task Complete<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/4f0bf2a2-7be7-4660-9665-9d47dabd6389"> </h3>
+
+
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 2, 2024  | 210      |     1,057 th |        22 nd |    2,976 th |      46 th | 58,730   |       448 |
+
+</div>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6de39244-e913-423a-9212-7867d0cde5d0"> </h3>
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
