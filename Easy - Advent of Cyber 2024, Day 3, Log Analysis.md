@@ -251,7 +251,8 @@ Below are some examples of weak/default credentials that attackers might try:</p
 <br>
 
 
-![image](https://github.com/user-attachments/assets/c58717c4-e77d-496c-9aed-fd48e6385ee8)
+![image](https://github.com/user-attachments/assets/cdc49766-affe-4f69-931b-f0d3fd8b9ad0)
+
 
 <br>
 <br>
@@ -261,30 +262,108 @@ Below are some examples of weak/default credentials that attackers might try:</p
 
 <br>
 
+![image](https://github.com/user-attachments/assets/c21daf6d-4870-45c4-8174-938af80c67d6)
 
-![image](https://github.com/user-attachments/assets/55f0e758-38a5-4778-a1f2-993078e350e6)
 
 <br>
 <br>
 
 > 1.3. <em><code>RED</code>: What is the contents of the flag.txt?</em><br><a id='1.3'></a>
->> <code><strong>_________________</strong></code>
+>> <code><strong>THM{Gl1tch_Was_H3r3}</strong></code>
 
 <br>
 
+<br>
+<br>
+
+
+![image](https://github.com/user-attachments/assets/fdff286b-9b23-4056-8f55-7c6a3a944c69)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6819fe65-2c2f-480e-a0e4-0cde80b1bfc8)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4416bd98-2a36-4838-94f6-c748f9c3c2e8)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/97865346-679d-4a67-a436-d5e1123d3563)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4e1fcfe4-556d-4083-b684-8f9efd8fba65)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/657d1e8e-240c-463e-8169-8ac843302fbb)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8395db20-f793-40bc-8daa-13260208aca2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/56a917c8-ab4b-4630-a008-52132380cf76)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6f61a544-c2d7-42c3-8dea-f1f7ffafbade)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/27911039-737a-44f6-8100-a64f3017bbc4)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/fb887578-db92-44f0-8b91-cbdbf4daff1a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/fe89bafc-7c1a-4fe9-884c-c03ef05e5b67)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0477e380-0377-4dbe-9de7-028cd6d7a583)
+
+<br>
+
+<pre><code>http://frostypines.thm/media/images/rooms/shell.php</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2c17c8c4-2608-4941-a4b1-0a8d5db16923)
+
+<br>
+
+<p>whoami</p>
+
+![image](https://github.com/user-attachments/assets/be0a0ccc-29b6-4064-bbb2-e6ff85bb38f2)
+
+<p>pwd</p>
+
+![image](https://github.com/user-attachments/assets/8ab9823e-4298-48bc-991a-f1a12fd0a379)
+
+<p>ls -la</p>
+
+![image](https://github.com/user-attachments/assets/8ab9823e-4298-48bc-991a-f1a12fd0a379)
+
+<p>cat flag.txt</p>
+
+![image](https://github.com/user-attachments/assets/f3db3a20-0b1d-42fe-8237-46c4ed131351)
 
 > 1.4. <em>If you liked today's task, you can learn how to harness the power of advanced ELK queries.</em><br><a id='1.4'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
-
 <br>
 
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/4f0bf2a2-7be7-4660-9665-9d47dabd6389"> </h3>
-
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/3059dcb7-6d8d-415f-9dcf-a772bb25a393"> </h3>
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
