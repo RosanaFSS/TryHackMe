@@ -251,15 +251,18 @@ Below are some examples of weak/default credentials that attackers might try:</p
 <br>
 
 
+![image](https://github.com/user-attachments/assets/c58717c4-e77d-496c-9aed-fd48e6385ee8)
+
 <br>
 <br>
 
 > 1.2. <em><code>BLUE</code>: What IP address accessed the web shell?</em><br><a id='1.2'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>10.11.83.34</strong></code>
 
 <br>
 
 
+![image](https://github.com/user-attachments/assets/55f0e758-38a5-4778-a1f2-993078e350e6)
 
 <br>
 <br>
