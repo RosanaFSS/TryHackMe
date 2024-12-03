@@ -5,14 +5,11 @@
 <h3>In my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-![image](https://github.com/user-attachments/assets/6bef8808-0962-4aa2-b091-071f3ab51182)
-
-
 <br>
 
 <div align="center">
 
-|Complete Beginner                  |Introduction to Cyber Security     |Pre Security                       |Cyber Security 101                 | 
+|Complete Beginner                  |Intro to Cyber Security     |Pre Security                       |Cyber Security 101                 | 
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
 |✅                                |✅                                 |✅                                 |✅                                |
 |<img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/84208baa-b96e-4715-84d0-c50eb892f942" style="width:150px;"/> |<img src="https://github.com/user-attachments/assets/aee7cfc7-3456-4893-a315-4f96ad53a811" style="width:150px;"/> |
