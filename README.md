@@ -19,7 +19,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 | | | | | | |
 |<h5>Security Engineer<br>Security Engineer</h5>|<h5>Security Engineer<br>DevSecOps</h5>|<h5>Security Engineer<br>Cyber Defense</h5>|<h5>Security Engineer<br>Attacking and Defending AWS</h5>| |
 |✅                                |✅                                 |✅                                |                                 |                                |  |
-|<img src="https://github.com/user-attachments/assets/1c835610-a2bf-4888-844f-fab6d69c1489" style="height:130px;"/> |<img src="https://github.com/user-attachments/assets/176a6f51-e9a7-436d-b3df-3dc832604a13" style="height:130px;"/>|<img src="" style="height:130px;"/>|| |  |
+|<img src="https://github.com/user-attachments/assets/1c835610-a2bf-4888-844f-fab6d69c1489" style="height:130px;"/> |<img src="https://github.com/user-attachments/assets/176a6f51-e9a7-436d-b3df-3dc832604a13" style="height:130px;"/>||| |  |
 | | | | | | |
 |<img src="https://github.com/user-attachments/assets/69077967-4b7c-412e-95dd-1fe21e0eae00" style="height:100px;"/> |<img src="https://github.com/user-attachments/assets/739e3b78-5e29-4b32-99fd-3d1551c0506e" style="height:100px;"/> | | | | |
 | | | | | | |
