@@ -9,7 +9,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 
 <div align="center">
-
+|CompTIA Pentest+                   |Jr Penetration Tester               |Web Fundamentals                   |Web Application Pentesting        |Red Teaming  |
+|✅                                |✅                                 |✅                                  |                                |                                   |
 |SOC Level 1                        |SOC Level 2                        |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
 |✅                                |✅                                 |                                   |                                   |                                   |
@@ -25,6 +26,8 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 |[34 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/1.%20Easy%20-%20Complete%20Beginner.md) |[8 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/2.%20Easy%20-%20Introduction%20to%20Cyber%20Security.md)|[18 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/3.%20Easy%20-%20Pre%20Security.md)|[54 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/4.%20Easy%20-%20Cyber%20Security%20101.md) |
 
 </div>
+
+<br>
 
 <p align="center">December 2, 2024 - My yearly activity<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/9f3823a1-678e-4868-8540-8d7b8a877ee8"> </p>
