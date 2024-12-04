@@ -71,7 +71,7 @@ Detection gaps are usually for one of two main reasons:</p>
 <h2><strong>Cyber Attacks and the Kill Chain</strong></h2>
 <p>Before diving into creating new detection rules, we first have to discuss some key topics. The first topic to discuss is the Cyber Kill chain. All cyber attacks follow a fairly standard process, which is explained quite well by the Unified Cyber Kill chain:</p>
 
-<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/6d4e38f4-4ab9-46f2-b2c7-70105f1ec0b0"></p>
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/6d4e38f4-4ab9-46f2-b2c7-70105f1ec0b0"></p>
 
 <p>As a blue teamer, it would be our dream to prevent all attacks at the start of the kill chain. So even just when threat actors start their reconnaissance, we already stop them dead in their tracks. But, as discussed before, this is not possible. The goal then shifts slightly. If we are unable to fully detect and prevent a threat actor at any one phase in the kill chain, the goal becomes to perform detections across the entire kill chain in such a way that even if there are detection gaps in a single phase, the gap is covered in a later phase. The goal is, therefore, to ensure we can detect the threat actor before the very last phase of goal execution.</p>
 
