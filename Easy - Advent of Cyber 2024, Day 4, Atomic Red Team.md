@@ -88,6 +88,49 @@ Detection gaps are usually for one of two main reasons:</p>
 <h2><strong>Challenge</strong></h2>
 <p>As Glitch continues to prepare for SOC-mas and fortifies Wareville's security, he decides to conduct an attack simulation that would mimic a ransomware attack across the environment. He is unsure of the correct detection metrics to implement for this test and asks you for help. Your task is to identify the correct atomic test to run that will take advantage of <code>a command and scripting interpreter</code>, conduct the test, and extract valuable artefacts that would be used to craft a detection rule.</p>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 1.1. <em>What was the flag found in the .txt file that is found in the same directory as the PhishingAttachment.xslm artefact?</em><br><a id='1.1'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 1.2. <em>What ATT&CK technique ID would be our point of interest?</em><br><a id='1.2'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 1.3. <em>What ATT&CK subtechnique ID focuses on the Windows Command Shell?</em><br><a id='1.3'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 1.4. <em>What is the name of the Atomic Test to be simulated?</em><br><a id='1.4'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 1.5. <em>What is the name of the file used in the test?</em><br><a id='1.5'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 1.6. <em>What is the flag found from this Atomic Test?</em><br><a id='1.6'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 1.7. <em>Learn more about the Atomic Red Team via the linked room.?</em><br><a id='1.7'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+
+
+
+
 
 
 
