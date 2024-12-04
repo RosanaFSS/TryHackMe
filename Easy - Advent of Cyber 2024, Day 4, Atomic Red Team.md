@@ -25,7 +25,9 @@ Glitch, a quiet, talented security SOC-mas engineer, had a hunch that these year
 Unaware of Glitch's good intentions, the SOC team spotted anomalies: Logs showing admin access, escalation of privileges, patched systems behaving differently, and security tools triggering alerts. The SOC team misinterpreted the system modifications as a sign of an insider threat or rogue attacker and decided to launch an investigation using the Atomic Red Team framework.</p>
 
 
-<img src="https://assets.tryhackme.com/additional/aoc2024/gifs/AoC-Day-4-Atomic-Red-Animation.gif" width="400">
+<img src="https://github.com/user-attachments/assets/f054e181-2496-4ace-bb46-244099d02cae" width="400">
+
+
 
 
 
