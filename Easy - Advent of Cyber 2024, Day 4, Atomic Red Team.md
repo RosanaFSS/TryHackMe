@@ -122,17 +122,74 @@ Open up a PowerShell prompt as administrator and follow along with us. Let's sta
 
 This command will use the data included in the "dependencies" part of the test details to verify if all required resources are present. Looking at the test 1 dependencies of the T1566.001 Atomic, no additional resources are required. Run the same command for test 2, and it will state that Microsoft Word needs to be installed, as shown below:</p>
 
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/d3b80b42-7d51-4e29-a9df-fb0f167c1693"></p>
+
+<p>Now that we have verified the dependencies, let us continue with the emulation. Execute the following command to start the emulation: <code>Invoke-AtomicTest T1566.001 -TestNumbers 1</code> and you should get the following output:</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/3c2eee17-81bf-4d18-9662-fdf12971a551"></p>
+
+<p>Based on the output, we can determine that the test was successfully executed. We can now analyse the logs in theWindows Event Viewer to find Indicators of Attack and Compromise.</p>
 
 
+<br>
+<br>
+<h2><strong>Detecting the Atomic</strong></h2>
+<p>Now that we have executed the T1566.001 Atomic, we can look for log entries that point us to this emulated attack. For this purpose, we will use the Windows Event Logs. This machine comes with Sysmon installed. System Monitor (Sysmon) provides us with detailed information about process creation, network connections, and changes to file creation time.<br>
+
+To make it easier for us to pick up the events created for this emulation, we will first start with cleaning up files from the previous test by running the command Invoke-AtomicTest T1566.001 -TestNumbers 1 -cleanup.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/ed61e03d-f40c-4a50-9569-a4997ddfd541"></p>
 
 
+<p>Now, we will clear the Sysmon event log:</p>
 
+- Open up Event Viewer by clicking the icon in the taskbar, or searching for it in the Start Menu.<br>
+- Navigate to Applications and Services => Microsoft => Windows => Sysmon => Operational on the left-hand side of the screen.<br>
+- Right-click Operational on the left-hand side of the screen and click Clear Log. Click Clear when the popup shows.<br>
 
+<p>Now that we have cleaned up the files and the sysmon logs, let us run the emulation again by issuing the command Invoke-AtomicTest T1566.001 -TestNumbers 1.</p>
 
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/902f157f-ce73-4991-95d9-111f3e1bc6a8"></p>
+
+<p>Next, go to the Event Viewer and right-click on the Operational log on the left-hand side of the screen and then click on Refresh. There should be new events related to the emulated attack. Now sort the table on the Date and Time column to order the events chronologically (oldest first). The first two events of the list are tests that Atomic executes for every emulation. We are interested in 2 events that detail the attack:</p>
+
+- First, a process was created for PowerShell to execute the following command: "powershell.exe" & {$url = 'http://localhost/PhishingAttachment.xlsm' Invoke-WebRequest -Uri $url -OutFile $env:TEMP\PhishingAttachment.xlsm}.
+- Then, a file was created with the name PhishingAttachment.xlsm.
+
+<p>Click on each event to see the details. When you select an event, you should see a detailed overview of all the data collected for that event. Click on the Details tab to show all the EventData in a readable format. Let us take a look at the details of these events below. The data highlighted is valuable for incident response and creating alerting rules.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/a70437be-908b-4265-b3e9-1a91cde1fab7"></p>
+
+<p>Navigate to the directory C:\Users\Administrator\AppData\Local\Temp\, and open the file PhishingAttachment.txt. The flag included is the answer to question 1. Make sure to answer the question now, as the cleanup command will delete this file.
+
+Let's clean up the artefacts from our spearphishing emulation. Enter the command Invoke-AtomicTest T1566.001-1 -cleanup.
+
+Now that we know which artefacts were created during this spearphishing emulation, we can use them to create custom alerting rules. In the next section, we will explore this topic further.</p>
 
 <br>
 <br>
 <h2><strong>Alerting on the Atomic</strong></h2>
+<p>In the previous paragraph, we found multiple indicators of compromise through the Sysmon event log. We can use this information to create detection rules to include in our EDR, SIEM, IDS, etc. These tools offer functionalities that allow us to import custom detection rules. There are several detection rule formats, including Yara, Sigma, Snort, and more. Let's look at how we can implement the artefacts related to T1566.001 to create a custom Sigma rule.<br>
+
+Two events contained possible indicators of compromise. Let's focus on the event that contained the Invoke-WebRequest command line:<br>
+
+"powershell.exe" & {$url = 'http://localhost/PhishingAttachment.xlsm' Invoke-WebRequest -Uri $url -OutFile $env:TEMP\PhishingAttachment.xlsm}"<br>
+
+We can use multiple parts of this artefact to include in our custom Sigma rule.</p>
+
+- Invoke-WebRequest: It is not common for this command to run from a script behind the scenes.
+
+- $url = 'http://localhost/PhishingAttachment.xlsm': Attackers often use a specific malicious domain to host their payloads. Including the malicious URL in the Sigma rule could help us detect that specific URL.
+
+- PhishingAttachment.xlsm: This is the malicious payload downloaded and saved on our system. We can include its name in the Sigma rule as well.
+
+- <p>Combining all these pieces of information in a Sigma rule would look something like this:</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/01fd1877-6356-4fd4-b368-260556a7b47a"></p>
+
+<p>The <code>detection</code> part is where the effective detection is happening. We can see clearly the artefacts that we discovered during the emulation test. We can then import this rule into the main tools we use for alerts, such as the EDR, SIEM, XDR, and many more.
+
+Now that Glitch has shown us his intentions, let's continue with his work and run an emulation for ransomware.</p>
 
 <br>
 <br>
