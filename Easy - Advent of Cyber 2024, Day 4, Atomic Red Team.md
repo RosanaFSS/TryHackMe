@@ -1,4 +1,4 @@
-<h5 align="center">December 4, 2024<br>
+![image](https://github.com/user-attachments/assets/a4d7db89-d674-4e58-9874-77f2434f0711)<h5 align="center">December 4, 2024<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{211}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</h5>
 
@@ -80,9 +80,55 @@ Detection gaps are usually for one of two main reasons:</p>
 <h2><strong>MITRE ATT&CK</strong></h2>
 <p>A popular framework for understanding the different techniques and tactics that threat actors perform through the kill chain is the <a href="https://attack.mitre.org/">MITRE ATT&CK framework</a>. The framework is a collection of tactics, techniques, and procedures that have been seen to be implemented by real threat actors. The framework provides a <a href="https://mitre-attack.github.io/attack-navigator/">navigator tool</a> where these TTPs can be investigated:</p>
 
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/328b7875-c99e-467a-b1d2-cf3153b3f0bd"></p>
+
+<p>However, the framework primarily discusses these TTPs in a theoretical manner. Even if we know we have a gap for a specific TTP, we don't really know how to test the gap or close it down. This is where the Atomics come in!</p>
+
 <br>
 <br>
-<h2><strong>Detecting the Atomic</strong></h2>
+<h2><strong>Atomic Red</strong></h2>
+<p>The Atomic Red Team library is a collection of red team test cases that are mapped to the MITRE ATT&CK framework. The library consists of simple test cases that can be executed by any blue team to test for detection gaps and help close them down. The library also supports automation, where the techniques can be automatically executed. However, it is also possible to execute them manually.</p>
+
+<br>
+<br>
+<h2><strong>Dropping the Atomic</strong></h2>
+<p>McSkidy has a vague idea of what happened to the "compromised machine." It seems someone tried to use the Atomic Red Team to emulate an attack on one of our systems without permission. The perpetrator also did not clean up the test artefacts. Let's have a look at what happened.</p>
+
+<br>
+<br>
+<h2><strong>Running an Atomic</strong></h2>
+<p>McSkidy suspects that the supposed attacker used the MITRE ATT&CK technique  <a href="https://attack.mitre.org/techniques/T1566/001/">T1566.001 Spearphishing</a> with an attachment. Let's recreate the attack emulation performed by the supposed attacker and then look for the artefacts created.<br>
+
+Open up a PowerShell prompt as administrator and follow along with us. Let's start by having a quick peek at the help page. Enter the command <code>Get-Help Invoke-Atomictest</code>. You should see the output below:</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/5cdfa921-3bf4-43cd-a121-a28d8bfeb491"></p>
+
+<p>The help above only shows what parameters are available without any explanation. Even though most parameter names are self-explanatory, let us have a quick overview of the parameters we will use in this walkthrough:</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/90f712c2-d71c-42fa-b809-ef6b2d2b84fd"></p>
+
+<h3><strong>Our First Command</strong></h3>
+<p>We can build our first command now that we know which parameters are available. We would like to know more about what exactly happens when we test the Technique T1566.001. To get this information, we must include the name of the technique we want information about and then add the flag <code>-ShowDetails</code> to our command. Let's have a look at the command we constructed: <code>Invoke-AtomicTest T1566.001 -ShowDetails</code>. This command displays the details of all tests included in the T1566.001 Atomic.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/20ae7604-a9db-47c0-bf42-da7bf7558c96"></p>
+
+<p>The output above is clearly split up into multiple parts, each matching a test. Let's examine what type of information is provided in a test. We will use the test we want to run as an example.</p>
+
+<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/17e102f1-17f1-43ee-91eb-18f76becc0c2"></p>
+
+<h3><strong>Phishing: Spearphishing Attachment T1566.001 Emulated</strong></h3>
+
+<p>Let's continue and run the first test of T1566.001. Before running the emulation, we should ensure that all required resources are in place to conduct it successfully. To verify this, we can add the flag <code>-Checkprereq</code> to our command. The command should look something like this: <code>Invoke-AtomicTest T1566.001 -TestNumbers 1 -CheckPrereq</code>.<br>
+
+This command will use the data included in the "dependencies" part of the test details to verify if all required resources are present. Looking at the test 1 dependencies of the T1566.001 Atomic, no additional resources are required. Run the same command for test 2, and it will state that Microsoft Word needs to be installed, as shown below:</p>
+
+
+
+
+
+
+
+
 
 <br>
 <br>
