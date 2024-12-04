@@ -67,6 +67,29 @@ Detection gaps are usually for one of two main reasons:</p>
 <p>Blue teams constantly refine and improve their detection rules to close the gaps they experience due to the two reasons mentioned above. Let's take a look at how this can be done!</p>
 
 
+<br>
+<br>
+<h2><strong>Cyber Attacks and the Kill Chain</strong></h2>
+
+<br>
+<br>
+<h2><strong>MITRE ATT&CK</strong></h2>
+
+<br>
+<br>
+<h2><strong>Detecting the Atomic</strong></h2>
+
+<br>
+<br>
+<h2><strong>Alerting on the Atomic</strong></h2>
+
+<br>
+<br>
+<h2><strong>Challenge</strong></h2>
+<p>As Glitch continues to prepare for SOC-mas and fortifies Wareville's security, he decides to conduct an attack simulation that would mimic a ransomware attack across the environment. He is unsure of the correct detection metrics to implement for this test and asks you for help. Your task is to identify the correct atomic test to run that will take advantage of <code>a command and scripting interpreter</code>, conduct the test, and extract valuable artefacts that would be used to craft a detection rule.</p>
+
+
+
 
 
 
