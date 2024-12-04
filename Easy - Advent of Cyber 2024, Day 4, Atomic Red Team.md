@@ -276,12 +276,19 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 
 <br>
+<br>
 
 
 > 1.5. <em>What is the name of the file used in the test?</em><br><a id='1.5'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>Wareville_Ransomware.txt</strong></code>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/4f9c72cf-b84b-495a-857c-65f8f9077e4e)
+
+<br>
+
+
 
 > 1.6. <em>What is the flag found from this Atomic Test?</em><br><a id='1.6'></a>
 >> <code><strong>________</strong></code>
