@@ -287,12 +287,23 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 ![image](https://github.com/user-attachments/assets/4f9c72cf-b84b-495a-857c-65f8f9077e4e)
 
 <br>
+<br>
 
 
 
 > 1.6. <em>What is the flag found from this Atomic Test?</em><br><a id='1.6'></a>
 >> <code><strong>________</strong></code>
 
+<br>
+
+<p>After clearing log in Event Viewer, I run <code>Invo9ke-AtomicTest T1059.003 -TestNumbers 4</code>again, refreshed <code>Event Viewer</code>, and got the output below.</p>
+
+
+![image](https://github.com/user-attachments/assets/5d46d75e-9b2e-4179-9311-6fac2664a619)
+
+
+
+<br>
 <br>
 
 > 1.7. <em>Learn more about the Atomic Red Team via the linked room.?</em><br><a id='1.7'></a>
