@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a4d7db89-d674-4e58-9874-77f2434f0711)<h5 align="center">December 4, 2024<br>
+December 4, 2024<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{211}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</h5>
 
@@ -205,25 +205,18 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 <br>
 
-![image](https://github.com/user-attachments/assets/dac4abe3-05a4-4dd7-9b1f-20df4e02eb3f)
+![image](https://github.com/user-attachments/assets/c08542f5-e068-49ad-b7aa-e11bb707514e)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/508a3771-556f-49cb-8be0-2802b966457e)
+![image](https://github.com/user-attachments/assets/7b30fb1d-81c3-40b2-8ae7-a2cd0d3831b9)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/5e2102c7-dae3-41f2-b8e7-7f5df87908fa)
+![image](https://github.com/user-attachments/assets/a0be7306-4476-4cf0-b637-0f2bb911f5d9)
 
-<br>
 
-![image](https://github.com/user-attachments/assets/a65d3b2a-57a1-4165-9a30-72b012eaf267)
 
-<br>
-
-![image](https://github.com/user-attachments/assets/25f09cde-b7d8-4a7c-aba0-2138bed53419)
-
-<br>
 
 
 
