@@ -12,9 +12,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.<b
 | | | | | | |
 |<h5>Security Analyst<br>SOC Level 1<br><br>✅<br>Jun, 2024</h5> <img src="https://github.com/user-attachments/assets/97c6ed17-9379-431e-8678-bcc4819f434a" style="height:130px;"/> <h6>THM-RG2AVDTF5L</h6> <img src="https://github.com/user-attachments/assets/6ceb4db2-c71f-466e-be4e-d053c978f933" style="height:100px;"/> <br> [71 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/5.1.%20Security%20Analyst%20-%20Easy%20-%20SOC%20Level%201.md) |<h5>Security Analyst<br>SOC Level 2<br><br>✅<br>Jul, 2024</h5> <img src="https://github.com/user-attachments/assets/50d7f23c-e62e-4900-9c8c-4e36913620eb" style="height:130px;"/> <h6>THM-XTVLR1W5W5</h6> <img src="https://github.com/user-attachments/assets/5cc88bd8-e54d-4637-95f9-4087edec7618" style="height:100px;"/> <br> [48 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/5.2.%20Security%20Analyst%20-%20Hard%20-%20SOC%20Level%202.md)| |  |  |
 | | | | | | |
-|<h5>Fundamentals<br>Complete Beginner<br><br>✅<br>May, 2024</h5> <img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="height:130px;"/> <h6>THM-____</h6> <img src="https://github.com/user-attachments/assets/2b4cc8f9-a9fe-46e2-980c-f368a2020cfe" style="height:100px;"/> <br> [34 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/1.%20Easy%20-%20Complete%20Beginner.md) |<h5>Fundamentals<br>Intro to<br>Cyber Security<br>✅<br>May, 2024</h5> <img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="height:130px;"/> <h6>THM-NTSZBUQQZS</h6> <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="height:100px;"/> <br> [8 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/2.%20Easy%20-%20Introduction%20to%20Cyber%20Security.md)|<h5>Fundamentals<br>Pre Security<br><br>✅<br>Jun, 2024</h5> <img src="https://github.com/user-attachments/assets/84208baa-b96e-4715-84d0-c50eb892f942" style="height:130px;"/>|<h5>Fundamentals<br>Cyber Security 101<br><br>✅<br>Jun, 2024</h5> <img src="https://github.com/user-attachments/assets/aee7cfc7-3456-4893-a315-4f96ad53a811" style="height:130px;"/> <h6>THM-_____</h6> | |
-|<img src="https://github.com/user-attachments/assets/6d578f28-7550-4dc9-b38c-0895082fe8b2" style="height:100px;"/> |<img src="https://github.com/user-attachments/assets/6bef8808-0962-4aa2-b091-071f3ab51182" style="height:100px;"/>|  |  |
-[18 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/3.%20Easy%20-%20Pre%20Security.md)|[54 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/4.%20Easy%20-%20Cyber%20Security%20101.md) | |
+|<h5>Fundamentals<br>Complete Beginner<br><br>✅<br>May, 2024</h5> <img src="https://github.com/user-attachments/assets/15dbd2c6-289a-4553-a3a4-360be5c6c8f1" style="height:130px;"/> <h6>THM-____</h6> <img src="https://github.com/user-attachments/assets/2b4cc8f9-a9fe-46e2-980c-f368a2020cfe" style="height:100px;"/> <br> [34 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/1.%20Easy%20-%20Complete%20Beginner.md) |<h5>Fundamentals<br>Intro to<br>Cyber Security<br>✅<br>May, 2024</h5> <img src="https://github.com/user-attachments/assets/71ce8452-f10f-4ff1-a041-39d8fd792270" style="height:130px;"/> <h6>THM-NTSZBUQQZS</h6> <img src="https://github.com/user-attachments/assets/bc47f681-895f-4dd6-bee8-f5dfff8f1ffd" style="height:100px;"/> <br> [8 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/2.%20Easy%20-%20Introduction%20to%20Cyber%20Security.md)|<h5>Fundamentals<br>Pre Security<br><br>✅<br>Jun, 2024</h5> <img src="https://github.com/user-attachments/assets/84208baa-b96e-4715-84d0-c50eb892f942" style="height:130px;"/> <br> <img src="https://github.com/user-attachments/assets/6d578f28-7550-4dc9-b38c-0895082fe8b2" style="height:100px;"/> <br> [18 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/3.%20Easy%20-%20Pre%20Security.md)|<h5>Fundamentals<br>Cyber Security 101<br><br>✅<br>Jun, 2024</h5> <img src="https://github.com/user-attachments/assets/aee7cfc7-3456-4893-a315-4f96ad53a811" style="height:130px;"/> <h6>THM-_____</h6> <img src="https://github.com/user-attachments/assets/6bef8808-0962-4aa2-b091-071f3ab51182" style="height:100px;"/> <br> [54 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/4.%20Easy%20-%20Cyber%20Security%20101.md)| |
 
 </div>
 
@@ -44,29 +42,7 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.<b
 <br>
 <p align="center">I completed [ 12 ] learning paths.</p>
 
-<div align="center">
 
-| Certificate                                 | Learning Path                   | Level            | Completion Date     | Hands-on QTY |
-| :-----------------------------------------: | :------------------------------ | :--------------- | ------------------: | -----------: | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Web Application Pentesting**  | Intermediate     | in progress, 91% | 29 | 
-|  &#x1F6A7;  &#x1F6A7;                       | **Offensive Pentesting**        | Intermediate     | in progress, 66% | 28 |  
-|  &#x1F6A7;  &#x1F6A7;                       | **Red Teaming**                 | Hard             | in progress, 60% | 36 | 
-| <img src="https://github.com/user-attachments/assets/8d11fdf2-9c4a-43db-8426-c9efbdfb6aa7" style="width:350px;"/> | **CompTIA Pentest+**        | Easy | November 17, 2024 | 26 |
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NBLP4BED4X.png" style="width:350px;"/>    | **DevSecOps**               | Intermediate  | November 5, 2024 | 18 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png" style="width:350px;"/>    | **Cyber Security 101**      | Easy          | October 29, 2024 | 55 |
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:350px;"/>    | **SOC Level 2**             | Hard          | July 3, 2024 | 48 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Q6SP7FH2JX.png" style="width:350px;"/>    | **Cyber Defense**           | Intermediate  | July 17, 2024 | 34 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FNRB2IJUKM.png" style="width:350px;"/>    | **Jr Penetration Tester**   | Intermediate  | October 7, 2024 | 38 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JLMV6TMUAF.png" style="width:350px;"/>    | **Security Engineer**       | Easy          | September 5, 2024 | 31 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RG2AVDTF5L.png" style="width:350px;"/>    | **SOC Level 1**             | Easy          | June 8, 2024 | 71 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X9TLJHAVDH.png" style="width:350px;"/>    | **Pre Security**            | Easy          | May 18, 2024 | 18 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F2XVPYJI6T.png" style="width:350px;"/>    | **Web Fundamentals**        | Easy          | September 19, 2024 | 26 |
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NTSZBUQQZS.png" style="width:350px;"/>    | Intro to **Cyber Security** | Easy          | May 9, 2024 | 8 | 
-| <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CIQLUJGLAL.png" style="width:350px;"/>    | **Complete Beginner**       | Easy          | August 27, 2024 | 34 | 
-
-</div>
-
-<br>
 <br>
 
 <p align="center">Below is my evolution!</p>
