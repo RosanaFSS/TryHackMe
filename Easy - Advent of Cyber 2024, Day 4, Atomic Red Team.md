@@ -326,8 +326,8 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 4, 2024  | 211      |     1, th |        22 nd |     th |      44 th |    |       450 |
+| November 4, 2024  | 212      |     1,049 th |        22 nd |     2,852th |      39 th |  58,986  |       453 |
 
 </div>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/07b733fc-b209-4302-8112-7e9f3caf2831"> </h3>
