@@ -27,6 +27,45 @@ Unaware of Glitch's good intentions, the SOC team spotted anomalies: Logs showin
 
 <p align="center"><img src="https://github.com/user-attachments/assets/f054e181-2496-4ace-bb46-244099d02cae" width="400"></p>
 
+<h3><strong>Learning Objectives</strong></h3>
+<p>While it might seem like using the SOC superpower makes things super easy, that is not always the case. There are cases which can act as Kryptonite to the SOC superpower
+    
+<ul style="list-style-type:square">
+    <li>Learn how to identify malicious techniques using the MITRE ATT&CK framework.</li>
+    <li>Learn about how to use Atomic Red Team tests to conduct attack simulations.</li>
+    <li>Understand how to create alerting and detection rules from the attack tests.</li>
+</ul></p>
+
+<h3><strong>Connecting to the Machine</strong></h3>
+
+<p>Before moving forward, review the questions in the connection card below:</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/cddb96af-873f-4217-815f-d108c56fcea8"></p>
+
+<p>Click on the green <code>Start Machine</code> button below to start the virtual machine machine and wait 1-2 minutes for the system to boot completely in a split-screen view.</p>
+
+<p><code>Start Machine</code></p>
+
+<p>YIf the virtual machine isn't visible, use the blue <code>Show Split View</code> button at the top of the page.<br>
+
+Additionally, if you wish to connect to the machine via RDP, use the credentials below:</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/278d53a8-148f-4323-bec8-dfdc94cd205b"></p>
+
+<p>The VM has Atomic Red Team and Sysmon installed. This will allow us to emulate an attack using TTPs described in the MITRE ATT&CK framework.</p>
+
+<br>
+<br>
+<h2><strong>Detection Gaps</strong></h2>
+<p>While it might be the utopian dream of every blue teamer, we will rarely be able to detect every attack or step in an attack kill chain. This is a reality that all blue teamers face: there are gaps in their detection. But worry not! These gaps do not have to be the size of black holes; there are things we can do to help make these gaps smaller.<br>
+
+Detection gaps are usually for one of two main reasons:</p>
+
+- <code>Security is a cat-and-mouse game</code>. As we detect more, the threat actors and red teamers will find new sneaky ways to thwart our detection. We then need to study these novel techniques and update our signature and alert rules to detect these new techniques.
+- <code>The line between anomalous and expected behaviour is often very fine and sometimes even has significant overlap</code>. For example, let's say we are a company based in the US. We expect to see almost all of our logins come from IP addresses in the US. One day, we get a login event from an IP in the EU, which would be an anomaly. However, it could also be our CEO travelling for business. This is an example where normal and malicious behaviour intertwine, making it hard to create accurate detection rules that would not have too much noise.
+
+<p>Blue teams constantly refine and improve their detection rules to close the gaps they experience due to the two reasons mentioned above. Let's take a look at how this can be done!</p>
+
 
 
 
