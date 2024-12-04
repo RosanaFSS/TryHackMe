@@ -5,7 +5,6 @@
 <h3>In my personal account, active since December 2023<br>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</h3><br>
 
-<br>
 
 <div align="center">
   
