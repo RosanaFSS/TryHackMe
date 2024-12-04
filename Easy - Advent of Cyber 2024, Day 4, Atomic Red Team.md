@@ -128,13 +128,24 @@ Detection gaps are usually for one of two main reasons:</p>
 <br>
 
 
+<br>
+<br>
 
+<h2>Task Completed<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
 
+<h3 align="center"> <img width="900px" src=""> </h3>
 
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
+<div align="center">
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 4, 2024  | 211      |     1, th |        22 nd |     th |      44 th |    |       450 |
 
+</div>
 
-
-
-
+<h3 align="center"> <img width="900px" src=""> </h3>
