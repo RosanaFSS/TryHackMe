@@ -216,6 +216,7 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 ![image](https://github.com/user-attachments/assets/a0be7306-4476-4cf0-b637-0f2bb911f5d9)
 
 <br>
+<br>
 
 > 1.2. <em>What ATT&CK technique ID would be our point of interest?</em><br><a id='1.2'></a>
 >> <code><strong>T1059</strong></code>
@@ -229,7 +230,7 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 ![image](https://github.com/user-attachments/assets/52ddda63-1a30-4eed-baa5-8bf5d045c91a)
 
 
-
+<br>
 <br>
 
 > 1.3. <em>What ATT&CK subtechnique ID focuses on the Windows Command Shell?</em><br><a id='1.3'></a>
@@ -240,12 +241,37 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 ![image](https://github.com/user-attachments/assets/4b6023a1-9c89-452a-b0de-8c6931a75f2f)
 
 <br>
+<br>
 
 
 > 1.4. <em>What is the name of the Atomic Test to be simulated?</em><br><a id='1.4'></a>
 >> <code><strong>________</strong></code>
 
 <br>
+
+<pre><code> Invoke-AtomicTest T1059.003 -ShowDetails</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e012e6e2-93d6-4828-89ea-73aec27b428e)
+
+<p>...</p>
+
+![image](https://github.com/user-attachments/assets/857a5576-c532-4b59-b845-d48a56efb28a)
+
+<p>...</p>
+
+![image](https://github.com/user-attachments/assets/6da1003e-ef1b-48d8-9ed3-5f7b249f87e1)
+
+<p>...</p>
+
+![image](https://github.com/user-attachments/assets/0f36d803-7ee9-476b-bbae-43a43363861b)
+
+
+
+
+
+
 
 > 1.5. <em>What is the name of the file used in the test?</em><br><a id='1.5'></a>
 >> <code><strong>________</strong></code>
