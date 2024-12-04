@@ -292,14 +292,11 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 
 > 1.6. <em>What is the flag found from this Atomic Test?</em><br><a id='1.6'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>THM{R2xpdGNoIGlzIG5vdCB0aGUgZW5lbXk=}</strong></code>
 
 <br>
 
-<p>After clearing log in Event Viewer, I run <code>Invo9ke-AtomicTest T1059.003 -TestNumbers 4</code>again, refreshed <code>Event Viewer</code>, and got the output below.</p>
-
-
-![image](https://github.com/user-attachments/assets/5d46d75e-9b2e-4179-9311-6fac2664a619)
+![image](https://github.com/user-attachments/assets/0451bab1-014a-4ff6-80b4-c4c3ec62a1aa)
 
 
 
@@ -318,7 +315,8 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 <h2>Task Completed<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/3a5fcb9a-1336-49f5-9b60-642c74787343"> </h3>
+
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
