@@ -1,12 +1,21 @@
+<p align="center">November 3, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{211}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
 
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Google Dorking}}$$
 
-![image](https://github.com/user-attachments/assets/20819a56-0408-4a77-bcb2-2b13f10280e9)
+</h1>
+<p align="center">Explaining how Search Engines work and leveraging them into finding hidden content!</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/googledorking">Welcome</a>.</p><br>
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/20819a56-0408-4a77-bcb2-2b13f10280e9">
+  <img height="150px" src="https://github.com/user-attachments/assets/c6cf1d46-47f3-4df9-a0bf-bc2b6e17530c">
+</p>
 
-
-![image](https://github.com/user-attachments/assets/c6cf1d46-47f3-4df9-a0bf-bc2b6e17530c)
 
 <br>
-
+<br>
 
 
 
