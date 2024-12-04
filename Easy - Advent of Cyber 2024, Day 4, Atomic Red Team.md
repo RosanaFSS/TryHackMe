@@ -245,7 +245,7 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 
 > 1.4. <em>What is the name of the Atomic Test to be simulated?</em><br><a id='1.4'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>Simulate BlackByte Ransomware Print Bombing</strong></code>
 
 <br>
 
@@ -253,24 +253,29 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 <br>
 
-![image](https://github.com/user-attachments/assets/e012e6e2-93d6-4828-89ea-73aec27b428e)
+![image](https://github.com/user-attachments/assets/eb65b3dd-65ff-4689-8f91-39b1b0531e1a)
+
 
 <p>...</p>
 
-![image](https://github.com/user-attachments/assets/857a5576-c532-4b59-b845-d48a56efb28a)
+![image](https://github.com/user-attachments/assets/24c5acd2-98b1-4aaf-b228-04b8870641f9)
+
 
 <p>...</p>
 
-![image](https://github.com/user-attachments/assets/6da1003e-ef1b-48d8-9ed3-5f7b249f87e1)
+![image](https://github.com/user-attachments/assets/e7bf8341-063e-4874-a78e-545465f3db8a)
+
 
 <p>...</p>
 
-![image](https://github.com/user-attachments/assets/0f36d803-7ee9-476b-bbae-43a43363861b)
+![image](https://github.com/user-attachments/assets/4333b853-697f-4e0f-8cf5-cf77fbe10ee3)
+
+<p>...</p>
+
+![image](https://github.com/user-attachments/assets/af8d50bf-cd8d-4896-98ec-66632c4b4f6d)
 
 
-
-
-
+<br>
 
 
 > 1.5. <em>What is the name of the file used in the test?</em><br><a id='1.5'></a>
