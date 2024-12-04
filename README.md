@@ -3,7 +3,7 @@
 <h2 align="center"> $$\textcolor{white}{\textnormal{My accomplishments in my personal account, active since December 2023.}}$$ </h2>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.<br>
 
-<h7>oioioioi>/h7>
+<h7>oioioioi</h7>
 
 <div align="center">
   
