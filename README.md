@@ -91,10 +91,6 @@ Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.</
 
 <div align="center">
 
-
-</div>
-
-
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
