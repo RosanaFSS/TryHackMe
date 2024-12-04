@@ -360,7 +360,7 @@ Below are some examples of weak/default credentials that attackers might try:</p
 <br>
 <br>
 
-<h2>Task Complete<a id='2'></a></h2>
+<h2>Task Completed<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
 <h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/3059dcb7-6d8d-415f-9dcf-a772bb25a393"> </h3>
