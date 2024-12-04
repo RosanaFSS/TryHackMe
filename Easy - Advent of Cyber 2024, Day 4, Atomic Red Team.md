@@ -13,7 +13,7 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p>
 
-<h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 4 - Atomic Red Team}$$<br>
+<h2 align="center"> $$\textcolor{yellow}{\textnormal{Day 4 - Atomic Red Team}}$$<br>
 $$\textcolor{yellow}{\textnormal{I’m all atomic inside!}}$$</h2>
 
 <p align="center"><img width="700px" src="https://github.com/user-attachments/assets/e7bce5af-bc21-491e-833d-ce1bfbf389ff"></p>
