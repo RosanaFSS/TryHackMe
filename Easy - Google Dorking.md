@@ -7,7 +7,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{211}}$$-day-streak in  <a href="h
 
 </h1>
 <p align="center">Explaining how Search Engines work and leveraging them into finding hidden content!</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/googledorking">Welcome</a>.</p><br>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/googledorking">Google Dorking</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/20819a56-0408-4a77-bcb2-2b13f10280e9">
   <img height="150px" src="https://github.com/user-attachments/assets/c6cf1d46-47f3-4df9-a0bf-bc2b6e17530c">
