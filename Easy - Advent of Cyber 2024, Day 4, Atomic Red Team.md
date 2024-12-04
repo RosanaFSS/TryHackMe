@@ -215,20 +215,32 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 ![image](https://github.com/user-attachments/assets/a0be7306-4476-4cf0-b637-0f2bb911f5d9)
 
-
-
-
-
+<br>
 
 > 1.2. <em>What ATT&CK technique ID would be our point of interest?</em><br><a id='1.2'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>T1059</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0ba27ba0-36db-4f0d-9960-1b9e62d4bfa5)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/52ddda63-1a30-4eed-baa5-8bf5d045c91a)
+
+
 
 <br>
 
 > 1.3. <em>What ATT&CK subtechnique ID focuses on the Windows Command Shell?</em><br><a id='1.3'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>T1059.003</strong></code>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/4b6023a1-9c89-452a-b0de-8c6931a75f2f)
+
+<br>
+
 
 > 1.4. <em>What is the name of the Atomic Test to be simulated?</em><br><a id='1.4'></a>
 >> <code><strong>________</strong></code>
