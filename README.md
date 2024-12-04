@@ -3,6 +3,8 @@
 <h2 align="center"> $$\textcolor{white}{\textnormal{My accomplishments in my personal account, active since December 2023.}}$$ </h2>
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know more about it.<br>
 
+<h7>oioioioi>/h7>
+
 <div align="center">
   
 |<h5>Penetration Tester<br>CompTIA Pentest+<br><br>✅<br>Nov, 2024</h5> |<h5>Penetration Tester<br>Jr Penetration Tester<br><br>✅<br>Oct, 2024</h5>|<h5>Penetration Tester<br>Web Fundamentals<br><br>✅<br>Sep, 2024</h5>|<h5>Penetration Tester<br>Web App Pentesting<br><br>📈<br>91%</h5>|<h5>Penetration Tester<br>RedTeaming<br><br>📈<br>60%</h5>|<h5>Penetration Tester<br>Offensive Pentesting<br><br>📈<br>66%</h5>|
