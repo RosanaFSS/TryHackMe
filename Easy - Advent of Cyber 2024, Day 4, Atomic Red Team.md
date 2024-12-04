@@ -66,14 +66,19 @@ Detection gaps are usually for one of two main reasons:</p>
 
 <p>Blue teams constantly refine and improve their detection rules to close the gaps they experience due to the two reasons mentioned above. Let's take a look at how this can be done!</p>
 
-
 <br>
 <br>
 <h2><strong>Cyber Attacks and the Kill Chain</strong></h2>
+<p>Before diving into creating new detection rules, we first have to discuss some key topics. The first topic to discuss is the Cyber Kill chain. All cyber attacks follow a fairly standard process, which is explained quite well by the Unified Cyber Kill chain:</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/6d4e38f4-4ab9-46f2-b2c7-70105f1ec0b0"></p>
+
+<p>As a blue teamer, it would be our dream to prevent all attacks at the start of the kill chain. So even just when threat actors start their reconnaissance, we already stop them dead in their tracks. But, as discussed before, this is not possible. The goal then shifts slightly. If we are unable to fully detect and prevent a threat actor at any one phase in the kill chain, the goal becomes to perform detections across the entire kill chain in such a way that even if there are detection gaps in a single phase, the gap is covered in a later phase. The goal is, therefore, to ensure we can detect the threat actor before the very last phase of goal execution.</p>
 
 <br>
 <br>
 <h2><strong>MITRE ATT&CK</strong></h2>
+<p>A popular framework for understanding the different techniques and tactics that threat actors perform through the kill chain is the <a href="https://attack.mitre.org/">MITRE ATT&CK framework</a>. The framework is a collection of tactics, techniques, and procedures that have been seen to be implemented by real threat actors. The framework provides a <a href="https://mitre-attack.github.io/attack-navigator/">navigator tool</a> where these TTPs can be investigated:</p>
 
 <br>
 <br>
