@@ -200,10 +200,32 @@ Now that Glitch has shown us his intentions, let's continue with his work and ru
 
 <br>
 
-> 1.1. <em>What was the flag found in the .txt file that is found in the same directory as the PhishingAttachment.xslm artefact?</em><br><a id='1.1'></a>
->> <code><strong>________</strong></code>
+> 1.1. <em>What was the flag found in the .txt file that is found in the same directory as the <code>PhishingAttachment.xslm</code> artefact?</em><br><a id='1.1'></a>
+>> <code><strong>THM{GlitchTestingForSpearphishing}</strong></code>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/dac4abe3-05a4-4dd7-9b1f-20df4e02eb3f)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/508a3771-556f-49cb-8be0-2802b966457e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5e2102c7-dae3-41f2-b8e7-7f5df87908fa)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a65d3b2a-57a1-4165-9a30-72b012eaf267)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/25f09cde-b7d8-4a7c-aba0-2138bed53419)
+
+<br>
+
+
 
 > 1.2. <em>What ATT&CK technique ID would be our point of interest?</em><br><a id='1.2'></a>
 >> <code><strong>________</strong></code>
