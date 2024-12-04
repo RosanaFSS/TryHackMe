@@ -18,3 +18,14 @@ $$\textcolor{yellow}{\textnormal{I’m all atomic inside!}}$$</h2>
 
 <p align="center"><img width="700px" src="https://github.com/user-attachments/assets/c81cd5bb-2ded-4166-9a45-45bed67cd3dd"></p>
 
+<p>SOC-mas is approaching! And the town of Warewille started preparations for the grand event.<br>
+
+Glitch, a quiet, talented security SOC-mas engineer, had a hunch that these year's celebrations would be different. With looming threats, he decided to revamp the town's security defences. Glitch began to fortify the town's security defences quietly and meticulously. He started by implementing a protective firewall, patching vulnerabilities, and accessing endpoints to patch for security vulnerabilities. As he worked tirelessly, he left "breadcrumbs," small traces of his activity.<br>
+
+Unaware of Glitch's good intentions, the SOC team spotted anomalies: Logs showing admin access, escalation of privileges, patched systems behaving differently, and security tools triggering alerts. The SOC team misinterpreted the system modifications as a sign of an insider threat or rogue attacker and decided to launch an investigation using the Atomic Red Team framework.</p>
+
+![image](https://github.com/user-attachments/assets/1670fd80-e4f3-429f-8bd7-a736edd4c24a)
+
+
+
+
