@@ -100,7 +100,6 @@ Finished
 >> <strong>bubbles</strong><br>
 <p><br></p>
 
-<br>
 
 ![image](https://github.com/user-attachments/assets/c142d908-fc47-4407-a88a-01918c9ce7a4)
 
