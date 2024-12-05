@@ -23,6 +23,16 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 ![image](https://github.com/user-attachments/assets/22c39b6d-3e68-45ca-9515-6ba0ae8753c4)
 
 <h2>Process Layout</h2>
+<p>When a program runs on a machine, the computer runs the program as a process. Current computer architecture allows multiple processes to be run concurrently(at the same time by a computer). While these processes may appear to run at the same time, the computer actually switches between the processes very quickly and makes it look like they are running at the same time. Switching between processes is called a context switch. Since each process may need different information to run(e.g. The current instruction to execute), the operating system has to keep track of all the information in a process. The memory in the process is organised sequentially and has the following layout: </p>
+
+
+<p>- User stack contains the information required to run the program. This information would include the current program counter, saved registers and more information(we will go into detail in the next section). The section after the user stack is unused memory and it is used in case the stack grows(downwards)<br>
+
+- Shared library regions are used to either statically/dynamically link libraries that are used by the program.<br>
+
+- The heap increases and decreases dynamically depending on whether a program dynamically assigns memory. Notice there is a section that is unassigned above the heap which is used in the event that the size of the heap increases.<br>
+
+- The program code and data stores the program executable and initialised variables.</p>
 
 ![image](https://github.com/user-attachments/assets/e2c0f388-2df4-486b-828d-f07fb8c42421)
 
