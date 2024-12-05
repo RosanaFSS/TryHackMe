@@ -9,10 +9,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <p align="center">Note that only subscribers can deploy virtual machines in this room, <a href="https://tryhackme.com/r/room/bof1">Bounty Hacker</a>.</p>
                                                               
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/b096f7af-58d7-406a-ac2b-01f9cfb0558d">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/7d2f56e1-61ae-4e90-916b-bc88a6900314">
   <img width="900px" src="https://github.com/user-attachments/assets/b096f7af-58d7-406a-ac2b-01f9cfb0558d">
 </p>
-https://github.com/user-attachments/assets/b4e0bb2c-32da-4294-a102-3b35e3d02b20"
+
 
 <h2>Introduction</h2>
 
