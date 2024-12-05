@@ -10,7 +10,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
                                                               
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/7d2f56e1-61ae-4e90-916b-bc88a6900314">
-  <img width="900px" src="https://github.com/user-attachments/assets/b096f7af-58d7-406a-ac2b-01f9cfb0558d">
+  <img width="900px" src="https://github.com/user-attachments/assets/29dc99b5-9952-45c1-a87a-ebee326f1b50">
 </p>
 
 
@@ -45,6 +45,14 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <h2>Overwriting Function Pointers</h2>
 
 ![image](https://github.com/user-attachments/assets/fc36d53e-4ae3-43f5-813e-764e35f688d2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/31b156b1-4db4-4eb2-9f0f-92810e8b9579)
+
+<br>
+
+<p>omgyoudidthissocool!!</p>
 
 <br>
 <h2>Buffer Overflows</h2>
@@ -161,6 +169,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 
 
+![image](https://github.com/user-attachments/assets/fa25ddd0-0cc8-4ad5-b03a-387b1fd4a703)
 
 
 
