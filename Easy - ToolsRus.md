@@ -121,8 +121,6 @@ Finished
 >> <strong>Apache Tomcat/7.0.88</strong><br>
 <p><br></p>
 
-<br>
-
 ![image](https://github.com/user-attachments/assets/b3d7fa2f-e09a-4fdf-af5b-7d8c2cdae079)
 
 <br>
