@@ -61,13 +61,12 @@ Finished
 ![image](https://github.com/user-attachments/assets/fea45692-c4fd-46f6-b897-712ed62ea7d4)
 
 <br>
+<br>
 
 
 > 1.3. <em>What directory has basic authentication?</em><br><a id='1.3'></a>
 >> <strong>protected</strong><br>
 <p><br></p>
-
-<br>
 
 <h3><strong>Gobuster</strong></h3>
 
