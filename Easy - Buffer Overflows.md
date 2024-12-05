@@ -1,10 +1,17 @@
-<h1>Buffer Overflows</h1>
+<p align="center">December 5, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{213}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
-![image](https://github.com/user-attachments/assets/b096f7af-58d7-406a-ac2b-01f9cfb0558d)
-
-
-![image](https://github.com/user-attachments/assets/b4e0bb2c-32da-4294-a102-3b35e3d02b20)
-
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Buffer Overflows}}$$
+</h1>
+<p align="center">Learn how to get started with basic Buffer Overflows!</p>
+<p align="center">Note that only subscribers can deploy virtual machines in this room, <a href="https://tryhackme.com/r/room/bof1">Bounty Hacker</a>.</p>
+                                                              
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/b096f7af-58d7-406a-ac2b-01f9cfb0558d">
+  <img width="900px" src="https://github.com/user-attachments/assets/b4e0bb2c-32da-4294-a102-3b35e3d02b20">
+</p>
 
 
 <h2>Introduction</h2>
