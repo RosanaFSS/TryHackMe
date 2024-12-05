@@ -67,6 +67,13 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <br>
 
+<pre><code>x/100x $rsp-200</code></pre>
+
+![image](https://github.com/user-attachments/assets/0a5e4353-36e3-4904-8c8f-c034506afeec)
+
+<br>
+
+
 
 
 
