@@ -42,9 +42,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h2>x86-64 Procedures</h2>
 
-![image](https://github.com/user-attachments/assets/0d37f979-19c2-432b-beab-ae9114721232)
 
-![image](https://github.com/user-attachments/assets/d03f4213-be35-41e4-b0ef-e310b7542bbe)
+<h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/0d37f979-19c2-432b-beab-ae9114721232"> <br>
+<img width="750px" src="https://github.com/user-attachments/assets/d03f4213-be35-41e4-b0ef-e310b7542bbe"><br>
+<img width="750px" src="https://github.com/user-attachments/assets/395d19d5-bf56-4514-8b20-5c3c97b655d6"></h3>
 
 
 
