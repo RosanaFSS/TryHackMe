@@ -20,7 +20,126 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <br>
 
+<h2>Task 1. Deploy and get hacking<a id='1'></a></h2>
 
+> 1.1. <em>What directory can you find, that begins with a "g"?</em><br><a id='1.1'></a>
+>> <strong>guidelines</strong><br>
+<p><br></p>
+
+
+<br>
+
+<h3><strong>Gobuster</strong></h3>
+
+<pre><code>oot@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target]/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/guidelines           (Status: 301) [Size: 315] [--> http://[Target]/guidelines/]
+/protected            (Status: 401) [Size: 458]
+Progress: 87664 / 87665 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
+
+<br>
+
+> 1.2. <em>Whose name can you find from this directory?</em><br><a id='1.2'></a>
+>> <strong>bob</strong><br>
+<p><br></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/fea45692-c4fd-46f6-b897-712ed62ea7d4)
+
+<br>
+
+
+> 1.3. <em>What directory has basic authentication?</em><br><a id='1.3'></a>
+>> <strong>protected</strong><br>
+<p><br></p>
+
+<br>
+
+<h3><strong>Gobuster</strong></h3>
+
+<pre><code>oot@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target]/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/guidelines           (Status: 301) [Size: 315] [--> http://[Target]/guidelines/]
+/protected            (Status: 401) [Size: 458]
+Progress: 87664 / 87665 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
+
+<br>
+
+> 1.4. <em>What is bob's password to the protected part of the website?</em><br><a id='1.4'></a>
+>> <strong>bubbles</strong><br>
+<p><br></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c142d908-fc47-4407-a88a-01918c9ce7a4)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5593ce7f-1a62-4d5d-8d34-7d3204b29acf)
+
+<br>
+
+> 1.5. <em>What other port that serves a webs service is open on the machine?</em><br><a id='1.5'></a>
+>> <strong>1234</strong><br>
+<p><br></p>
+
+<p>check Nmap</p>
+
+<br>
+
+> 1.6. <em>What is the name and version of the software running on the port from question 5?</em><br><a id='1.6'></a>
+>> <strong>Apache Tomcat/7.0.88</strong><br>
+<p><br></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b3d7fa2f-e09a-4fdf-af5b-7d8c2cdae079)
+
+<br>
+
+> 1.7. <em>Use Nikto with the credentials you have found and scan the /manager/html directory on the port found above. How many documentation files did Nikto identify?</em><br><a id='1.7'></a>
+>> <strong>____</strong><br>
+<p><br></p>
+
+
+
+
+<h3><strong>Nmap</strong></h3>
 
 <pre><code>oot@[THM AttackBox]:~/ToolsRus# nmap -Pn --script vuln [Target]
 Starting Nmap 7.80 ( https://nmap.org ) at 2024-12-05 04:24 GMT
@@ -68,25 +187,14 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 
 <br>
 
-<pre><code>oot@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
-===============================================================
-Gobuster v3.6
-by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
-===============================================================
-[+] Url:                     http://[Target]/
-[+] Method:                  GET
-[+] Threads:                 10
-[+] Wordlist:                /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
-[+] Negative Status codes:   404
-[+] User Agent:              gobuster/3.6
-[+] Timeout:                 10s
-===============================================================
-Starting gobuster in directory enumeration mode
-===============================================================
-/guidelines           (Status: 301) [Size: 315] [--> http://[Target]/guidelines/]
-/protected            (Status: 401) [Size: 458]
-Progress: 87664 / 87665 (100.00%)
-===============================================================
-Finished
-===============================================================
-</code></pre>
+
+
+![image](https://github.com/user-attachments/assets/f5689d66-904d-4b4d-a8c8-7ebceb67812f)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/b3d7fa2f-e09a-4fdf-af5b-7d8c2cdae079)
+
+
+
