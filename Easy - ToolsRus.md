@@ -126,9 +126,11 @@ Finished
 <br>
 
 > 1.7. <em>Use Nikto with the credentials you have found and scan the /manager/html directory on the port found above. How many documentation files did Nikto identify?</em><br><a id='1.7'></a>
->> <strong>____</strong><br>
+>> <strong>5</strong><br>
 <p><br></p>
 
+
+![image](https://github.com/user-attachments/assets/281d61bf-f022-4f06-97d1-ad24a52b6de5)
 
 
 
@@ -201,6 +203,26 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 <br>
 
 ![image](https://github.com/user-attachments/assets/f8e460ab-90ce-411e-ba95-3b519910689f)
+
+
+<br>
+
+> 1.8. <em>What is the server version?</em><br><a id='1.7'></a>
+>> <strong>Apache/2.4.18</strong><br>
+<p><br></p>
+
+![image](https://github.com/user-attachments/assets/d52eb656-c078-473a-a948-56732ff21309)
+
+
+> 1.8. <em>What version of Apache-Coyote is this service using?</em><br><a id='1.7'></a>
+>> <strong>1.1</strong><br>
+<p><br></p>
+
+
+![image](https://github.com/user-attachments/assets/54108b8c-fc88-4bf6-af13-e95dfc607684)
+
+<p>....to be continued ....</p>
+
 
 
 
