@@ -6,7 +6,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
   $$\textcolor{#3bd62d}{\textnormal{Buffer Overflows}}$$
 </h1>
 <p align="center">Learn how to get started with basic Buffer Overflows!</p>
-<p align="center">Note that only subscribers can deploy virtual machines in this room, <a href="https://tryhackme.com/r/room/bof1">Bounty Hacker</a>.</p>
+<p align="center">Note that only subscribers can deploy virtual machines in this room, <a href="https://tryhackme.com/r/room/bof1">Buffer Overflows</a>.</p>
                                                               
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/7d2f56e1-61ae-4e90-916b-bc88a6900314">
