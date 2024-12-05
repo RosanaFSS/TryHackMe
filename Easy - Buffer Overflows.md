@@ -130,10 +130,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <br>
 
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/8090fa54-b464-40bf-9bd4-10c05f9ece77)
 
 
 <br>
@@ -185,7 +182,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 5, 2024  | 213     |     1,032 ndh |        22 nd |    8,414 th |      84 th |  59,296  |       454 |
+| December 5, 2024  | 213     |      1,032 nd |        22 nd |    8,414 th |      84 th |  59,296  |       454 |
 
 </div>
 
