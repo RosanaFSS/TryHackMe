@@ -15,7 +15,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
                                                               
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/dac4e4d6-5e6f-4a31-af37-ce5e784700f4">
-  <img width="700px" src="https://github.com/user-attachments/assets/9a173985-757f-4dc9-9b61-f47f599a84a8">
+  <img width="700px" src="https://github.com/user-attachments/assets/5927c511-20c2-4006-84ea-8034eb8d3173">
 </p>
 
 <br>
@@ -224,7 +224,22 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 <p>....to be continued ....</p>
 
 
+<h2>Room almos Completed<a id='4'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+![image](https://github.com/user-attachments/assets/34b60717-7eb8-4df8-aa36-7aae437ddd46)
+
+
+<h2>My Journey<a id='5'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 5, 2024  | 213      |     1,032 nd |        22 nd |    2,610 th |      35 th | 59,272   |       453 |
 
 
 
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
 
+![image](https://github.com/user-attachments/assets/18b1b189-b852-40f1-b7a8-18b4d73392d6)
