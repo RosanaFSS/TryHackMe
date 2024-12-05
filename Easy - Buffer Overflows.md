@@ -15,6 +15,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 
 <h2>Introduction</h2>
+<p>In this room, we aim to explore simple stack buffer overflows(without any mitigations) on x86-64 linux programs. We will use <a href="https://github.com/radareorg/radare2">radare2</a> (r2) to examine the memory layout. You are expected to be familiar with x86 and r2 for this room. </p>
+<p>We have included a virtual machine with all the resources to ensure you have the correct environment and tools to follow along. To access the machine via SSH, use the following credentials:
+- Username: user1
+- Password: user1password</p>
 
 ![image](https://github.com/user-attachments/assets/22c39b6d-3e68-45ca-9515-6ba0ae8753c4)
 
