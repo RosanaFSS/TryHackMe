@@ -26,9 +26,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 >> <strong>guidelines</strong><br>
 <p><br></p>
 
-
-<br>
-
 <h3><strong>Gobuster</strong></h3>
 
 <pre><code>oot@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
