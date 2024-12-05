@@ -236,7 +236,7 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 5, 2024  | 213      |     1,032 nd |        22 nd |    2,610 th |      35 th | 59,272   |       453 |
+| December 5, 2024  | 213      |     1,032 nd |        22 nd |    2,610 th |      35 th | 59,272   |       453 |
 
 
 
