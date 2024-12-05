@@ -6,14 +6,16 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{Lookup}}$$
+  $$\textcolor{#3bd62d}{\textnormal{ToolsRus}}$$
 </h1>
-<p align="center">Test your enumeration skills on this boot-to-root machine..</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/lookup">Lookup</a>.</p>
+<p align="center">Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit</p>
+<p align="center">Access this TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/toolsrus">Lookup</a>.</p>
+<p align="center">Note tat only subscribers can deploy virtual machines in this room.</p>
+
                                                               
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/2376cf84-25a4-43bb-92de-9968126ac191">
-  <img width="900px" src="https://github.com/user-attachments/assets/17d98591-20c5-496e-a202-b95313ffcac6">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/dac4e4d6-5e6f-4a31-af37-ce5e784700f4">
+  <img width="900px" src="https://github.com/user-attachments/assets/9a173985-757f-4dc9-9b61-f47f599a84a8">
 </p>
 
 <br>
