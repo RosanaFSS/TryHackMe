@@ -58,8 +58,6 @@ Finished
 >> <strong>bob</strong><br>
 <p><br></p>
 
-<br>
-
 ![image](https://github.com/user-attachments/assets/fea45692-c4fd-46f6-b897-712ed62ea7d4)
 
 <br>
