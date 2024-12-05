@@ -62,10 +62,18 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h2>Endianess</h2>
 
+<h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/6bd0d7a9-4870-4eca-836e-19afb528e8dd"> </h3>
+
 ![image](https://github.com/user-attachments/assets/ce6144b4-e320-4aa9-b461-19a30d1ed03c)
 
 
 <h2>Overwriting Variables</h2>
+
+![image](https://github.com/user-attachments/assets/76edadac-3d99-45ad-aeed-a01ccee1638e)
+
+
+<h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/76edadac-3d99-45ad-aeed-a01ccee1638e"> <br>
+<img width="750px" src="https://github.com/user-attachments/assets/76edadac-3d99-45ad-aeed-a01ccee1638e"> </h3>
 
 ![image](https://github.com/user-attachments/assets/edbbdd54-b261-4538-8dd4-b88a83ad1a28)
 
