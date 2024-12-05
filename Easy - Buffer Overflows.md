@@ -56,8 +56,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/5d8a4a1d-97fd-4479-a6fe-9cdbb07a2eae"> <br>
 <img width="750px" src="https://github.com/user-attachments/assets/76cb4f8a-4c89-4071-a915-e2e926a39b0d"><br>
-<img width="750px" src="https://github.com/user-attachments/assets/395d19d5-bf56-4514-8b20-5c3c97b655d6"></h3>
-
+<img width="750px" src="https://github.com/user-attachments/assets/5f5ebecd-32a4-4f6c-bf29-3ce08de9f62b"></h3>
 
 ![image](https://github.com/user-attachments/assets/cc08f37d-ccd5-4179-ac32-19f90ce58696)
 
