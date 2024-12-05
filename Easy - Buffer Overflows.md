@@ -169,14 +169,24 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 
 
-![image](https://github.com/user-attachments/assets/fa25ddd0-0cc8-4ad5-b03a-387b1fd4a703)
+<h2>Room Completed<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/e45a55b3-3f5c-4d6f-8994-860df22cc928"> </h3>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/fa25ddd0-0cc8-4ad5-b03a-387b1fd4a703"> </h3>
 
 
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
+<div align="center">
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 5, 2024  | 213     |     1,032 ndh |        22 nd |    8,414 th |      84 th |  59,296  |       454 |
 
+</div>
 
-
-
-
-
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/a363fcf4-c2b2-470f-8595-71887ac94044"> </h3>
