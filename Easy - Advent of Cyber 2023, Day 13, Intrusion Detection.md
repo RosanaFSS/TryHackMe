@@ -249,6 +249,19 @@ Backing up 'after6.rules' to '/etc/ufw/after6.rules.[Redacted]'
 
 <br>
 
+![image](https://github.com/user-attachments/assets/a612f73e-3da1-400c-bb71-0680b2e870ab)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4d24b18b-07bb-4904-a4c4-078fbc975778)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/98c3a8b3-4626-4a63-88e9-19cef7de54fb)
+
+
+
+
 <pre><code>vantwinkle@[Target]:/home/vantwinkle# </code></pre>
 
 
