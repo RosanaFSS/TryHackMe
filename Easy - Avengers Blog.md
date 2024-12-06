@@ -1,4 +1,24 @@
+<p align="center">December 5, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{214}}$$-day-streak in  <a href="https://tryhackme">TryHackMe</a>.</p>
 
+<p align="center"> <img width="300px" src="https://github.com/user-attachments/assets/87bfefb2-3a82-45ae-a685-941e80cf7917"></p>
+
+
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Avengers Blog}}$$
+</h1>
+<p align="center">Learn to hack into Tony Stark's machine! You will enumerate the machine, bypass a login portal via SQL injection and gain root access by command injection.</p>
+<p align="center">Access this TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/avengers">Avengers Blog</a>.</p>
+<p align="center">Note that only subscribers can deploy virtual machines in this room.</p>
+
+                                                              
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/9a2749de-b0b3-467b-a751-a3d9ea4aa56">
+  <img width="700px" src="https://github.com/user-attachments/assets/46ca8a1a-efc4-40a1-a8a9-e63fc2b0fcaa">
+</p>
+
+<br>
 
 
 ![image](https://github.com/user-attachments/assets/f89568a0-f6a1-4b0a-bc4c-efe105fbe539)
