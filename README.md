@@ -18,7 +18,7 @@ December 5, 2024: <a href="https://tryhackme.com/p/Rosana">Here</a> you can acce
 
 <br>
 
-<p align="center">December 3, 2024 - My yearly activity<br>
+<p align="center">December 5, 2024 - My yearly activity<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/bb4cc2c3-398a-436b-ab5a-50c065694be4"> </p>
 
 <br>
