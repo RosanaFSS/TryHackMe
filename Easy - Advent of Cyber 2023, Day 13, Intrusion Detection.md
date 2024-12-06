@@ -18,7 +18,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <h2>[Day 13] Intrusion Detection, To the Pots, Through the Walls<a id='1'></a></h2>
 
 <p align="center">
-  <img height="800px" src="https://github.com/user-attachments/assets/ecce579a-b7b9-40ab-9e86-57dd5dfb57fe">
+  <img width="600px" src="https://github.com/user-attachments/assets/ecce579a-b7b9-40ab-9e86-57dd5dfb57fe">
 </p>
 
 <p>The proposed merger and suspicious activities have kept all teams busy and engaged. So that the Best Festival Company's systems are safeguarded in the future against malicious attacks, McSkidy assigns The B Team, led by McHoneyBell, to research and investigate mitigation and proactive security.<br>
