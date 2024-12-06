@@ -6,6 +6,16 @@
 
 <h2>Task 1. Deploy</h2>
 
+<br>
+
+<code>No answer needed</code>
+
+<br>
+
+<code>No answer needed</code>
+
+<br>
+
 <h2>Task 2. Cookies</h2>
 
 <br>
@@ -15,6 +25,10 @@
 <br>
 
 ![image](https://github.com/user-attachments/assets/3fbff5ca-0e71-4ec5-b9fe-39f6879c4f1c)
+
+<br>
+
+<code>cookie_secrets</code>
 
 <br>
 
@@ -31,6 +45,10 @@ We can view requests made to and from our browser by opening the Developer Tools
 <br>
 
 ![image](https://github.com/user-attachments/assets/894a81f1-c4d0-4383-8345-0bf33b8e1c6e)
+
+<br>
+
+<code>headers_are_important</code>
 
 <br>
 
@@ -51,7 +69,7 @@ In your terminal, execute the following command:<br>
 
  ![image](https://github.com/user-attachments/assets/f39acee6-436c-4682-a84c-2e556d393f03)
 
- <p>Port 80 has a HTTP web server running on<br>
+<p>Port 80 has a HTTP web server running on<br>
 Port 22 is to SSH into the machine<br>
 Port 21 is used for FTP (file transfer)<br>
 
@@ -130,6 +148,49 @@ local: flag3.txt remote: flag3.txt
 ftp> exit
 221 Goodbye.
 </code></pre>
+
+<br>
+
+<pre><code>root@[THM AttackBox]:~/AvengersBlog# cat flag3.txt
+8fc651a739befc58d450dc48e1f1fd2e
+</code></pre>
+
+<br>
+
+<code>8fc651a739befc58d450dc48e1f1fd2e</code>
+
+<br>
+
+<h2>Task 5. Gobuster</h2>
+
+![image](https://github.com/user-attachments/assets/af3cfa61-4759-484d-b849-4a1b4f102044)
+
+<p>Lets use a fast directory discovery tool called GoBuster. This program will locate a directory that you can use to login to Mr. Starks Tarvis portal!<br>
+
+GoBuster is a tool used to brute-force URIs (directories and files), DNS subdomains and virtual host names. For this machine, we will focus on using it to brute-force directories.<br>
+
+You can either download GoBuster, or use the Kali Linux machine that has it pre-installed.<br>
+
+Lets run GoBuster with a wordlist (on Kali they're located under /usr/share/wordlists):<br>
+<code>gobuster dir -u http://<machine_ip> -w <word_list_location></code></p>
+
+<br>
+
+<code>/portal</code>
+
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9fcf87fb-11c4-4c75-9a78-51625b069d1c)
+
+
+
+
+
+
+
+
 
 
 
