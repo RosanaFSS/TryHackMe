@@ -26,7 +26,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 The team's efforts will be channelled into the company's defensive security process. You are part of the team – a security researcher tasked with gathering information on defence and mitigation efforts.</p>
 
 <h3>Learning Objectives</h3>
-<p>https://github.com/user-attachments/assets/ecce579a-b7b9-40ab-9e86-57dd5dfb57fe</p>
+<p>In today's task, you will:</p>
 - Learn to understand incident analysis through the Diamond Model.<br>
 - Identify defensive strategies that can be applied to the Diamond Model.<br>
 - Learn to set up firewall rules and a honeypot as defensive strategies.<br>
@@ -41,7 +41,7 @@ The team's efforts will be channelled into the company's defensive security proc
 <p>Launch the virtual machine by pressing the green <code>Start Machine</code> button at the top–right of this task and the AttackBox by pressing the Start AttackBox button on the upper right of this page. Use the SSH credentials below to access the VM and follow along the practical sections of the task.</p>
 
 <p align="center">
-  <img height="200px" src="https://github.com/user-attachments/assets/f6d903b4-794f-4d3f-8b41-7d29c5765bfd">
+  <img height="100px" src="https://github.com/user-attachments/assets/f6d903b4-794f-4d3f-8b41-7d29c5765bfd">
 </p>
 
 <h3>Introduction</h3>
@@ -53,7 +53,7 @@ In this epic task, we'll embark on a thrilling journey through fundamental conce
 <p>Consider the cyber threat events that have recently taken place within the Best Festival Company and AntarctiCrafts. We have identified clues and artefacts, but we're yet to piece them together to lead us to the attacker. We need a framework to profile the attacker, understand their moves, and help us strengthen our defences.</p>
 
 <p align="center">
-  <img width="100px" src="https://github.com/user-attachments/assets/d87f0e71-7b75-478a-98ef-d2df6737290b">
+  <img width="80px" src="https://github.com/user-attachments/assets/d87f0e71-7b75-478a-98ef-d2df6737290b">
 </p>
 
 <p>The DiamondModel is a security analysis framework that seasoned professionals use to unravel the mysteries of adversary operations and identify the elements used in an intrusion. It comprises four core facets, interconnected to form a well-orchestrated blueprint of the attacker's plans:</p>
@@ -65,14 +65,65 @@ In this epic task, we'll embark on a thrilling journey through fundamental conce
 <p>We'll wield the knowledge we gained from the previous days of Advent of Cyber to unlock the secrets hidden within these core features.</p>
 
 <h4>Adversary</h4>
+<p>In our exciting storyline, we have discovered a suspected insider threat causing trouble within the Best Festival Company and interfering with the proposed merger with AntarctiCrafts. This individual, who we'll call the adversary operator, is not just an ordinary troublemaker. They are the clever attackers or malicious threat actors responsible for cyberattacks or intrusions. Adversary operators can be an individual or an entire organisation aiming to disrupt the operations of another.<br>
+
+That's not the only type of adversary. The adversary customer is another intriguing player in this grand scheme. They are the one who reaps the rewards from the cyberattack and can consolidate the efforts of various adversary operators.<br>
+
+Picture this: a collection of adversaries working together to orchestrate widespread security breaches, just like the enigmatic advanced persistent threat (APT) groups.</p>
 
 <h4>Victim</h4>
+<p>This is none other than the target of the adversary's wicked intentions. It could be a single individual or domain or an entire organisation with multiple network and data assets. The Best Festival Company finds itself at the mercy of these adversaries, and we must shield them from further harm.</p>
 
 <h4>Infrastructure</h4>
+<p>Every adversary needs tools. They require software or hardware to execute their malicious objectives. Infrastructure represents the physical and logical interconnections that an adversary employs. Our story takes an interesting twist as we uncover the USB drive that Tracy McGreedy cunningly plugged in, disrupting Santa's meticulously crafted plans.<br>
+
+But beware. Adversarial infrastructure can be owned and controlled by adversaries or even intermediaries like service providers.</p>
 
 <h4>Capability</h4>
+<p>Ah, what capabilities these adversaries have; what skills, tools, and techniques they employ!<br>
+
+Here, we shine a light on the tactics, techniques, and procedures (TTPs) that shape adversaries' devious endeavours. Intruders or adversaries may employ various tactics, techniques, and procedures for malicious activities. Some examples include:</p>
+
+- Phishing: Adversaries may use deceptive emails or messages to trick individuals into revealing sensitive information or clicking on malicious links.<br>
+- Exploiting vulnerabilities: Adversaries can exploit weaknesses or vulnerabilities in software, systems, or networks to gain unauthorised access or perform malicious actions. This was very well showcased on AOC Day 10, where we covered SQL injection as one of the techniques used.<br>
+- Social engineering: This involves manipulating individuals through psychological tactics to gain unauthorised access or obtain confidential information.<br>
+- Malware attacks: Adversaries may deploy malicious software, such as viruses, worms, or ransomware, to gain control over systems or steal data.<br>
+- Insider threat: This refers to individuals within an organisation who misuse their access privileges to compromise systems, steal data, or disrupt operations.<br>
+- Denial–of–service (DoS) Attacks: Adversaries may overwhelm a target system or network with excessive traffic or requests, causing it to become unresponsive or crash.<br>
 
 <h3>Defensive Diamond Model</h3>
+<p>But fear not, for we shall not be mere observers in this cosmic battle! We will harness the power of the Diamond Model's components, particularly capability and infrastructure, for our defensive endeavours. We will forge The Best Festival Company into a formidable defender – no longer a hapless victim.</p>
+
+<h4>Defensive Capability</h4>
+<p>It is said that defence is the best offence. In the quest for protection against adversaries, the Best Festival Company must equip itself with powerful defensive capabilities. Two key elements of this are threat hunting and vulnerability management.<br>
+
+Threat hunting is a proactive and iterative process, led by skilled security professionals, to actively search for signs of malicious activities or security weaknesses within the organisation's network and systems. Organisations can detect adversaries early in their attack lifecycle by conducting regular threat hunts. Threat hunters analyse behavioural patterns, identify advanced threats, and improve incident response. Developing predefined hunting playbooks and fostering collaboration among teams ensures a systematic and efficient approach to threat hunting.<br>
+
+Vulnerability management is a structured process of identifying, assessing, prioritising, mitigating, and monitoring vulnerabilities in an organisation's systems and applications. Regular vulnerability scanning helps identify weaknesses that adversaries could exploit. Prioritising vulnerabilities based on their severity and potential impact, promptly patching or remediating vulnerabilities, and maintaining an up–to–date asset inventory is essential. Continuous monitoring, integration with threat intelligence feeds, and periodic penetration testing further strengthen the organisation's security posture. Meanwhile, reporting and accountability provide visibility into security efforts.<br>
+
+By integrating threat hunting and vulnerability management, organisations can proactively defend against adversaries, detect threats early, and reduce the attack surface. These defensive capabilities form a solid foundation for incident response and ensure the best possible defence for the Best Festival Company.</p>
+
+<h4>Defensive Infrastructure</h4>
+<p>The Best Festival Company will construct their bastion of defence, fortified with tools and infrastructure to repel cyber-attacks. Layer upon layer of hardware and software will be deployed, ranging from intrusion defence and prevention systems to robust anti-malware solutions. The objective is to impede attackers by limiting their options to predetermined paths and disrupting their malicious actions with increased noise.<br>
+
+This strategy serves as a deterrent to the attacker, making it more difficult for them to carry out their intended activities and providing an opportunity for detection and response. By implementing this approach, organisations can strengthen their cyber security posture and reduce the risk of successful attacks.<br>
+
+In this section, we'll guide Van Twinkle on her quest to understand two essential components of defence infrastructure: mighty firewalls and cunning honeypots.</p>
+
+<h4>Firewall</h4>
+<p>The mighty firewall is a guardian of networks and a sentinel of cyber security! This network security device stands vigilant, monitoring and controlling the ebb and flow of incoming and outgoing network traffic. With its predetermined security rules, a firewall can repel a wide range of threats, from unauthorised access to malicious traffic and even attempts to breach sensitive data.<br>
+
+Firewalls come in many forms, including hardware, software, or a combination. Their presence is vital, a cornerstone of any cyber security defence strategy. The following are the common types of firewalls that exist:</p>
+- Stateless/packet-filtering: This firewall provides the most straightforward functionality by inspecting and filtering individual network packets based on a set of rules that would point to a source or destination IP address, ports and protocols. The firewall doesn’t consider any context of each connection when making decisions and effectively blocks denial–of–service attacks and port scans.<br>
+- Stateful inspection: This firewall is more sophisticated. It is used to track the state of network connections and use this information to make filtering decisions. For example, if a packet being channelled to the network is part of an established connection, the stateful firewall will let it pass through. However, the packet will be blocked if it is not part of an established connection.
+- Proxy service: This firewall protects the network by filtering messages at the application layer, providing deep packet inspection and more granular control over traffic content. The firewall can block access to certain websites or block the transmission of specific types of files.<br>
+- Web application firewall (WAF): This firewall is designed to protect web applications. WAFs block common web attacks such as SQL injection, cross-site scripting, and denial-of-service attacks.<br>
+- Next-generation firewall: This firewall combines the functionalities of the stateless, stateful, and proxy firewalls with features such as intrusion detection and prevention and content filtering.<br>
+
+<p>For the remainder of the task, we shall focus on one application of a stateful inspection firewall in the form of the uncomplicated firewall (ufw).</p>
+
+<h4>Configuring Firewalls to Block Traffic</h4>
+<p>Van Twinkle knows that the uncomplicated firewall is the default firewall configuration tool available on Ubuntu hosts, and she decides to use it for this experiment. Initially, it's turned off by default, so we can check the status by running the command below:</p>
 
 <h3>Van Twinkle´s Challenge</h3>
 
