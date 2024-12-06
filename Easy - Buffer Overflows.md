@@ -77,6 +77,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h2>Overwriting Function Pointers</h2>
 
+<h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/b923dfff-3a44-455f-aa01-cfbc604940f0"> </h3>
+
 ![image](https://github.com/user-attachments/assets/fc36d53e-4ae3-43f5-813e-764e35f688d2)
 
 <br>
