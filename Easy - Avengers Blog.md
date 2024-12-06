@@ -2,7 +2,7 @@
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{214}}$$-day-streak in  <a href="https://tryhackme">TryHackMe</a>.</p>
 
-<p align="center"> <img width="300px" src="https://github.com/user-attachments/assets/f89568a0-f6a1-4b0a-bc4c-efe105fbe539"></p>
+<p align="center"> <img width="150px" src="https://github.com/user-attachments/assets/f89568a0-f6a1-4b0a-bc4c-efe105fbe539"></p>
 
 
 <h1 align="center">
