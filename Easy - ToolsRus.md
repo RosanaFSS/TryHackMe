@@ -189,9 +189,6 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 <br>
 
 
-![image](https://github.com/user-attachments/assets/b3d7fa2f-e09a-4fdf-af5b-7d8c2cdae079)
-
-<br>
 
 ![image](https://github.com/user-attachments/assets/d2e79e8b-edee-4bae-bc23-299f5b69a43a)
 
