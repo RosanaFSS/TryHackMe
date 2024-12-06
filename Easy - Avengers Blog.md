@@ -286,19 +286,20 @@ Finished
 
 <br>
 
-
+<h2>Room Completed</h2>
 
 ![image](https://github.com/user-attachments/assets/08356a0d-b769-4e43-a2cd-0b6a0c710744)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/b561da95-324e-4edf-b47c-d0522d8c54b9)
+
+<br>
+
+<h2>My Journey</h2>
 
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/a00b53de-a49f-44d9-afb3-e3a21699ff13)
 
 
 
