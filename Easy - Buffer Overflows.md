@@ -69,11 +69,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h2>Overwriting Variables</h2>
 
-![image](https://github.com/user-attachments/assets/76edadac-3d99-45ad-aeed-a01ccee1638e)
-
-
 <h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/76edadac-3d99-45ad-aeed-a01ccee1638e"> <br>
-<img width="750px" src="https://github.com/user-attachments/assets/76edadac-3d99-45ad-aeed-a01ccee1638e"> </h3>
+<img width="750px" src="https://github.com/user-attachments/assets/c01bb5d7-11ac-4214-a8a2-23095a73c0e3"> </h3>
 
 ![image](https://github.com/user-attachments/assets/edbbdd54-b261-4538-8dd4-b88a83ad1a28)
 
