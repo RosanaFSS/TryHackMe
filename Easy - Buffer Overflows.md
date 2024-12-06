@@ -77,15 +77,12 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h2>Overwriting Function Pointers</h2>
 
-<h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/428b3924-b490-45f4-a7d4-40389519e487"> </h3>
+<h3 align="center"> <img width="750px" src="https://github.com/user-attachments/assets/aeb7f970-344b-4690-9b56-aedfda67c7ba"> </h3>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/31b156b1-4db4-4eb2-9f0f-92810e8b9579)
+![image](https://github.com/user-attachments/assets/e661e13b-e67f-4167-9243-443e1d7d9088)
 
-<br>
-
-<p>omgyoudidthissocool!!</p>
 
 <br>
 <h2>Buffer Overflows</h2>
@@ -170,6 +167,15 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 
 ![image](https://github.com/user-attachments/assets/8090fa54-b464-40bf-9bd4-10c05f9ece77)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/31b156b1-4db4-4eb2-9f0f-92810e8b9579)
+
+<br>
+
+<p>omgyoudidthissocool!!</p>
+
 
 
 <br>
