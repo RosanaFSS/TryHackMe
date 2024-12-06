@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
   $$\textcolor{#3bd62d}{\textnormal{ToolsRus}}$$
 </h1>
 <p align="center">Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit</p>
-<p align="center">Access this TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/toolsrus">Lookup</a>.</p>
+<p align="center">Access this TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/toolsrus">ToolsRus</a>.</p>
 <p align="center">Note tat only subscribers can deploy virtual machines in this room.</p>
 
                                                               
