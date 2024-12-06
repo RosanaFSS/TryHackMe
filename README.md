@@ -1,5 +1,5 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<h4 align="center">December 5, 2024. Clicking <a href="https://tryhackme.com/p/Rosana">here</a> you can access my THM profile.<br></h4>
+<h4 align="center">December 6, 2024. Clicking <a href="https://tryhackme.com/p/Rosana">here</a> you can access my THM profile.<br></h4>
 <h2 align="center"> $$\textcolor{white}{\textnormal{My accomplishments in my THM account, active since December 2023.}}$$ </h2>
 
 <div align="center">
@@ -18,8 +18,8 @@
 
 <br>
 
-<p align="center">December 5, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/bb4cc2c3-398a-436b-ab5a-50c065694be4"> </p>
+<p align="center">December 6, 2024 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/7d82042d-e6c8-4c83-bcd0-a301ce577144"> </p>
 
 <br>
 <p align="center">Highlights </p>
@@ -47,6 +47,7 @@
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
+| December 6, 2024  | 214      |      1,022ⁿᵈ |         22ⁿᵈ |      7,992ⁿᵈ |         98ᵗʰ | 59,444   |       456 |
 | December 5, 2024  | 213      |      1,029ᵗʰ |         22ⁿᵈ |      7,452ⁿᵈ |         92ⁿᵈ | 59,356   |       455 |
 | December 4, 2024  | 212      |      1,049ᵗʰ |         22ⁿᵈ |      2,852ⁿᵈ |         39ᵗʰ | 58,986   |       453 |
 | December 3, 2024  | 211      |      1,051ˢᵗ |         22ⁿᵈ |      2,953ʳᵈ |         44ᵗʰ | 58,938   |       453 |
