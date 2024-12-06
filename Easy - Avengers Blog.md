@@ -15,7 +15,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{214}}$$-day-streak in  <a href="h
                                                               
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/20325c1e-980c-4c24-a215-f61c8cd38a37">
-  <img width="700px" src="https://github.com/user-attachments/assets/46ca8a1a-efc4-40a1-a8a9-e63fc2b0fcaa">
+  <img width="700px" src="https://github.com/user-attachments/assets/273e11ef-23da-45da-9624-8de051162431">
 </p>
 
 <br>
@@ -179,7 +179,7 @@ ftp> exit
 
 <h2>Task 5. Gobuster</h2>
 
-<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/13590ec6-2a6b-4f02-983b-c138b566e006"></p>
+<p align="center"> <img width="100px" src="https://github.com/user-attachments/assets/13590ec6-2a6b-4f02-983b-c138b566e006"></p>
 
 <p>Lets use a fast directory discovery tool called GoBuster. This program will locate a directory that you can use to login to Mr. Starks Tarvis portal!<br>
 
@@ -194,11 +194,104 @@ Lets run GoBuster with a wordlist (on Kali they're located under /usr/share/word
 
 <code>/portal</code>
 
-
+<pre><code>oot@[THM AttackBox]:~/AvengersBlog# gobuster dir -u http://[Target] -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://[Target]
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/home                 (Status: 302) [Size: 23] [--> /]
+/img                  (Status: 301) [Size: 173] [--> /img/]
+/Home                 (Status: 302) [Size: 23] [--> /]
+/assets               (Status: 301) [Size: 179] [--> /assets/]
+/portal               (Status: 200) [Size: 1409]
+/css                  (Status: 301) [Size: 173] [--> /css/]
+/js                   (Status: 301) [Size: 171] [--> /js/]
+/logout               (Status: 302) [Size: 29] [--> /portal]
+/Portal               (Status: 200) [Size: 1409]
+/HOME                 (Status: 302) [Size: 23] [--> /]
+/Logout               (Status: 302) [Size: 29] [--> /portal]
+/stones               (Status: 301) [Size: 179] [--> /stones/]
+/PORTAL               (Status: 200) [Size: 1409]
+Progress: 87664 / 87665 (100.00%)
+===============================================================
+Finished
+===============================================================
+</code></pre>
 
 <br>
 
 <p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/9fcf87fb-11c4-4c75-9a78-51625b069d1c"></p>
+
+<br>
+
+<h2>Task 6. SQL Injection</h2>
+
+<p>I used <code>' or 1=1--</code>.</p>
+
+![image](https://github.com/user-attachments/assets/6a01e289-aa62-466b-a111-427689405b33)
+
+
+<p>And got access to the following ...</p>
+
+![image](https://github.com/user-attachments/assets/9eae9461-2b40-464b-82ff-6d7531bebb7d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b56a2588-dc28-41c4-99ce-ef1c43b2ae31)
+
+<br>
+
+<code>223</code>
+
+
+<br>
+
+
+
+<h2>Task 7. Remote Code Execution and Linux</h2>
+
+
+<br>
+
+<p>I used the command <code>ls</code>.</p>
+
+![image](https://github.com/user-attachments/assets/cbad90d6-fc63-4409-a27d-ea7a44778529)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3c6cbd4f-5bd1-4ca7-9070-9e050d46a92a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6c5c3dfe-271c-452d-bb29-20ecbc90d135)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/e78a4122-c8a6-49ed-a0d3-64ff9d83e3fc)
+
+<br>
+
+<code>d335e2d13f36558ba1e67969a1718af7</code>
+
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/08356a0d-b769-4e43-a2cd-0b6a0c710744)
+
+
+
 
 
 
