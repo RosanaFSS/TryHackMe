@@ -216,7 +216,7 @@ Intrusion Detection<br>
 
 <br>
 
-<p>Access a comprehensive <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2015%2C%20Machine%20Learning.md">Walkthrough Here</a>.</p>
+<p>Access a comprehensive <a href="https://github.com/RosanaFSS/TryHackMe/blob/CTFs-%26-Infos/Easy%20-%20Advent%20of%20Cyber%202023%2C%20Day%2013%2C%20Intrusion%20Detection.md">Walkthrough Here</a>.</p>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
