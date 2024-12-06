@@ -10,10 +10,11 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <p align="center">Get started with Cyber Security in 24 Days - Learn the basics by doing a new, beginner friendly security challenge every day leading up to Christmas.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/adventofcyber2023">Advent of Cyber 2023</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077">
-  <img height="150px" src="https://github.com/user-attachments/assets/7ac61c46-f39b-40f6-8315-30ae61a8a8e9">
+  <img height="100px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077">
+  <img height="700px" src="https://github.com/user-attachments/assets/8fc535bc-3f81-4cc2-819a-cd3e17713a22">
 
 </p>
+
 
 <h2>[Day 13] Intrusion Detection, To the Pots, Through the Walls<a id='1'></a></h2>
 
@@ -156,7 +157,7 @@ Firewalls come in many forms, including hardware, software, or a combination. Th
 <br>
 
 > 1.6. <em>There is a flag in one of the stories. Can you find it?</em><br><a id='1.6'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>THM{P0T$_W@11S_4_S@N7@}</strong></code>
 
 <br>
 
@@ -274,29 +275,130 @@ Backing up 'after6.rules' to '/etc/ufw/after6.rules.[Redacted]'
 
 ![image](https://github.com/user-attachments/assets/4aab3ce9-38be-4930-964e-da5800019250)
 
+<br>
+
+<pre><code>vantwinkle@[Target]:/home/vantwinkle/pentbox/pentbox-1.8# ufw status
+Status: inactive
+root@ip-10-10-23-150:/home/vantwinkle/pentbox/pentbox-1.8# cd ..
+root@ip-10-10-23-150:/home/vantwinkle/pentbox# cd ..
+root@ip-10-10-23-150:/home/vantwinkle# ls
+Van_Twinkle_rules.sh  pentbox  sudo
+root@ip-10-10-23-150:/home/vantwinkle# cat Van_Twinkle_rules.sh 
+#!/bin/bash
+sudo ufw --force reset
+sudo ufw default allow incoming
+sudo ufw allow http 
+sudo ufw allow ssh
+sudo ufw deny 21/tcp
+sudo ufw deny from any to any port 8088
+sudo ufw deny 8090/tcp
+sudo ufw enable 
+root@ip-10-10-23-150:/home/vantwinkle#
+</code></pre>
+
+<br>
+
+<pre><code>root@[THM AttackBox]:~/Day13# nmap [Target]
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-12-06 02:51 GMT
+Nmap scan report for ip-[Target].eu-west-1.compute.internal ([Target])
+Host is up (0.00026s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+8090/tcp open  opsmessaging
+MAC Address: 02:4F:10:2A:DB:95 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.30 seconds
+</code></pre>
 
 
+<br>
+
+<pre><code>vantwinkle@[Target]:/home/vantwinkle/# ./Van_Twinkle_rules.sh
+Backing up 'user.rules' to '/etc/ufw/user.rules.20241206_025354'
+Backing up 'before.rules' to '/etc/ufw/before.rules.20241206_025354'
+Backing up 'after.rules' to '/etc/ufw/after.rules.20241206_025354'
+Backing up 'user6.rules' to '/etc/ufw/user6.rules.20241206_025354'
+Backing up 'before6.rules' to '/etc/ufw/before6.rules.20241206_025354'
+Backing up 'after6.rules' to '/etc/ufw/after6.rules.20241206_025354'
+
+Default incoming policy changed to 'allow'
+(be sure to update your rules accordingly)
+Rules updated
+Rules updated (v6)
+Rules updated
+Rules updated (v6)
+Rules updated
+Rules updated (v6)
+Rules updated
+Rules updated (v6)
+Rules updated
+Rules updated (v6)
+Command may disrupt existing ssh connections. Proceed with operation (y|n)? y
+Firewall is active and enabled on system startup
+</code></pre>
 
 
+<br>
+
+<pre><code>vantwinkle@[Target]:/home/vantwinkle/# ufw status verbose
+Status: active
+Logging: on (low)
+Default: allow (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+80/tcp                     ALLOW IN    Anywhere                  
+22/tcp                     ALLOW IN    Anywhere                  
+21/tcp                     DENY IN     Anywhere                  
+8088                       DENY IN     Anywhere                  
+8090/tcp                   DENY IN     Anywhere                  
+80/tcp (v6)                ALLOW IN    Anywhere (v6)             
+22/tcp (v6)                ALLOW IN    Anywhere (v6)             
+21/tcp (v6)                DENY IN     Anywhere (v6)             
+8088 (v6)                  DENY IN     Anywhere (v6)             
+8090/tcp (v6)              DENY IN     Anywhere (v6)       
+</code></pre>
+
+<br>
+
+<pre><code>vantwinkle@[Target]:/home/vantwinkle/# ufw allow 8090/tcp
+Rule updated
+Rule updated (v6)
+root@ip-10-10-23-150:/home/vantwinkle# ufw status verbose
+Status: active
+Logging: on (low)
+Default: allow (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+80/tcp                     ALLOW IN    Anywhere                  
+22/tcp                     ALLOW IN    Anywhere                  
+21/tcp                     DENY IN     Anywhere                  
+8088                       DENY IN     Anywhere                  
+8090/tcp                   ALLOW IN    Anywhere                  
+80/tcp (v6)                ALLOW IN    Anywhere (v6)             
+22/tcp (v6)                ALLOW IN    Anywhere (v6)             
+21/tcp (v6)                DENY IN     Anywhere (v6)             
+8088 (v6)                  DENY IN     Anywhere (v6)             
+8090/tcp (v6)              ALLOW IN    Anywhere (v6)
+</code></pre>
 
 
-<pre><code>vantwinkle@[Target]:/home/vantwinkle# </code></pre>
+![image](https://github.com/user-attachments/assets/482108e3-7519-48a8-96b6-96c3c8508195)
 
+<br>
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/1b2a6145-1c97-4de1-a892-ce073f486fd2)
 
 
 
 <h2>Task Complete<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/3121d8ac-e625-4879-abef-a212688796bc"> </h3>
 
 
 <h2>My Journey<a id='3'></a></h2>
