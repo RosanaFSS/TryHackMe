@@ -28,7 +28,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 
 <h3><strong>Gobuster</strong></h3>
 
-<pre><code>oot@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+<pre><code>root@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
 ===============================================================
 Gobuster v3.6
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
@@ -70,7 +70,7 @@ Finished
 
 <h3><strong>Gobuster</strong></h3>
 
-<pre><code>oot@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+<pre><code>root@ip-[THM AttackBox]:~/ToolsRus# gobuster dir -u http://[Target]/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
 ===============================================================
 Gobuster v3.6
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
@@ -136,7 +136,7 @@ Finished
 
 <h3><strong>Nmap</strong></h3>
 
-<pre><code>oot@[THM AttackBox]:~/ToolsRus# nmap -Pn --script vuln [Target]
+<pre><code>root@[THM AttackBox]:~/ToolsRus# nmap -Pn --script vuln [Target]
 Starting Nmap 7.80 ( https://nmap.org ) at 2024-12-05 04:24 GMT
 Pre-scan script results:
 | broadcast-avahi-dos: 
@@ -207,24 +207,74 @@ Nmap done: 1 IP address (1 host up) scanned in 346.53 seconds
 
 <br>
 
-> 1.8. <em>What is the server version?</em><br><a id='1.7'></a>
+> 1.8. <em>What is the server version?</em><br><a id='1.8'></a>
 >> <strong>Apache/2.4.18</strong><br>
 <p><br></p>
 
 ![image](https://github.com/user-attachments/assets/d52eb656-c078-473a-a948-56732ff21309)
 
 
-> 1.8. <em>What version of Apache-Coyote is this service using?</em><br><a id='1.7'></a>
+> 1.9. <em>What version of Apache-Coyote is this service using?</em><br><a id='1.9'></a>
 >> <strong>1.1</strong><br>
 <p><br></p>
 
 
 ![image](https://github.com/user-attachments/assets/54108b8c-fc88-4bf6-af13-e95dfc607684)
 
-<p>....to be continued ....</p>
+> 1.10. <em>Use Metasploit to exploit the service and get a shell on the system. What user did you get a shell as?</em><br><a id='1.10'></a>
+>> <strong>root</strong><br>
+<p><br></p>
+
+<br>
+
+<pre><code>root@[THM AttackBox]:~/ToolsRus# msfconsole
+Metasploit tip: Use sessions -1 to interact with the last opened session
+                                                  
+     ,           ,
+    /             \
+   ((__---,,,---__))
+      (_) O O (_)_________
+         \ _ /            |\
+          o_o \   M S F   | \
+               \   _____  |  *
+                |||   WW|||
+                |||     |||
 
 
-<h2>Room almos Completed<a id='4'></a></h2>
+       =[ metasploit v6.4.38-dev-                         ]
++ -- --=[ 2460 exploits - 1266 auxiliary - 430 post       ]
++ -- --=[ 1468 payloads - 49 encoders - 11 nops           ]
++ -- --=[ 9 evasion                                       ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+
+msf6 >
+</code></pre>
+
+<br>
+
+<pre><code>
+msf6 > search tomcat
+  
+Matching Modules
+================
+
+   #   Name                                                                       Disclosure Date  Rank       Check  Description
+   -   ----                                                                       ---------------  ----       -----  -----------
+   0   auxiliary/dos/http/apache_commons_fileupload_dos                           2014-02-06       normal     No     Apache Commons FileUpload and Apache Tomcat DoS
+...
+  
+</code></pre>
+
+> 1.11. <em>What flag is found in the root directory?</em><br><a id='1.11'></a>
+>> <strong>root</strong><br>
+<p><br></p>
+
+
+
+
+
+<h2>Room Completed<a id='4'></a></h2>
 <p>Keep learning, keep growing!<br>
 
 ![image](https://github.com/user-attachments/assets/34b60717-7eb8-4df8-aa36-7aae437ddd46)
