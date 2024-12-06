@@ -15,7 +15,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 </p>
 
 
-<h2>[Day 13] Intrusion Detection, To the Pots, Through the Walls<a id='1'></a></h2>
+<h2>[Day 13] Intrusion Detection - To the Pots, Through the Walls<a id='1'></a></h2>
 
 <p align="center">
   <img width="700px" src="https://github.com/user-attachments/assets/ecce579a-b7b9-40ab-9e86-57dd5dfb57fe">
