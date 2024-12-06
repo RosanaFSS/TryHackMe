@@ -15,7 +15,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
                                                               
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/dac4e4d6-5e6f-4a31-af37-ce5e784700f4">
-  <img width="700px" src="https://github.com/user-attachments/assets/5927c511-20c2-4006-84ea-8034eb8d3173">
+  <img width="700px" src="https://github.com/user-attachments/assets/a1847fb3-6e55-47b2-9355-32e047453a74">
 </p>
 
 <br>
@@ -291,6 +291,16 @@ msf6 exploit(multi/http/tomcat_mgr_upload) ></code></pre>
 >> <strong>_____</strong><br>
 <p><br></p>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/0c8f0122-7f33-4212-94e8-bdefa684081c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/485f8352-9437-4067-83a4-20b1314af7f5)
+
+
+
 
 
 
@@ -298,7 +308,7 @@ msf6 exploit(multi/http/tomcat_mgr_upload) ></code></pre>
 <h2>Room Completed<a id='4'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-![image](https://github.com/user-attachments/assets/34b60717-7eb8-4df8-aa36-7aae437ddd46)
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/29d77da0-1347-4b00-a6f2-6ffaa543676c"></p>
 
 
 <h2>My Journey<a id='5'></a></h2>
@@ -307,10 +317,10 @@ msf6 exploit(multi/http/tomcat_mgr_upload) ></code></pre>
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 5, 2024  | 213      |     1,032 nd |        22 nd |    2,610 th |      35 th | 59,272   |       453 |
+| December 5, 2024  | 213      |     1,029 th |        22 nd |    7,452 nd |      92 nd | 59,356   |       455 |
 
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
 
-![image](https://github.com/user-attachments/assets/18b1b189-b852-40f1-b7a8-18b4d73392d6)
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/bb4cc2c3-398a-436b-ab5a-50c065694be4"></p>
