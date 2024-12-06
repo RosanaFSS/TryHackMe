@@ -125,6 +125,34 @@ Finished
 
 <br>
 
+<p>I also tried the following command line to discover the name and version of the service running ...</p>
+
+<pre><code>root@ip-[THM AttackBox]:~/ToolsRus# curl -s http://[Target_IP]:[Target_Port] | grep Tomcat
+       <title>Apache Tomcat/7.0.88</title>
+                <h1>Apache Tomcat/7.0.88</h1>
+                    <h2>If you're seeing this, you've successfully installed Tomcat. Congratulations!</h2>
+                        <p><a href="/docs/setup.html">Tomcat Setup</a></p>
+                        <p><a href="http://wiki.apache.org/tomcat/TomcatVersions">Tomcat Versions</a></p>
+                        <h3>Managing Tomcat</h3>
+                        <p>In Tomcat 7.0 access to the manager application is split between
+                        <h4><a href="/docs/">Tomcat 7.0 Documentation</a></h4>
+                        <h4><a href="/docs/config/">Tomcat 7.0 Configuration</a></h4>
+                        <h4><a href="http://wiki.apache.org/tomcat/FrontPage">Tomcat Wiki</a></h4>
+                            <li><a href="http://tomcat.apache.org/bugreport.html">Tomcat 7.0 Bug Database</a></li>
+                            <li><a href="/docs/api/index.html">Tomcat 7.0 JavaDocs</a></li>
+                            <li><a href="http://svn.apache.org/repos/asf/tomcat/tc7.0.x/">Tomcat 7.0 SVN Repository</a></li>
+                            <li><a href="http://tomcat.apache.org/download-connectors.cgi">Tomcat Connectors</a></li>
+                            <li><a href="http://tomcat.apache.org/download-native.cgi">Tomcat Native</a></li>
+                            <li><a href="http://tomcat.apache.org/connectors-doc/">Tomcat Connectors</a></li>
+                            <li><a href="http://tomcat.apache.org/native-doc/">Tomcat Native</a></li>
+</code></pre>
+
+
+<p>and I got ...</p>
+
+<pre><code></code></pre>
+
+
 > 1.7. <em>Use Nikto with the credentials you have found and scan the /manager/html directory on the port found above. How many documentation files did Nikto identify?</em><br><a id='1.7'></a>
 >> <strong>5</strong><br>
 <p><br></p>
