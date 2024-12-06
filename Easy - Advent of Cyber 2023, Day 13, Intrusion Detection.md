@@ -18,7 +18,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <h2>[Day 13] Intrusion Detection, To the Pots, Through the Walls<a id='1'></a></h2>
 
 <p align="center">
-  <img width="600px" src="https://github.com/user-attachments/assets/ecce579a-b7b9-40ab-9e86-57dd5dfb57fe">
+  <img width="700px" src="https://github.com/user-attachments/assets/ecce579a-b7b9-40ab-9e86-57dd5dfb57fe">
 </p>
 
 <p>The proposed merger and suspicious activities have kept all teams busy and engaged. So that the Best Festival Company's systems are safeguarded in the future against malicious attacks, McSkidy assigns The B Team, led by McHoneyBell, to research and investigate mitigation and proactive security.<br>
@@ -53,7 +53,7 @@ In this epic task, we'll embark on a thrilling journey through fundamental conce
 <p>Consider the cyber threat events that have recently taken place within the Best Festival Company and AntarctiCrafts. We have identified clues and artefacts, but we're yet to piece them together to lead us to the attacker. We need a framework to profile the attacker, understand their moves, and help us strengthen our defences.</p>
 
 <p align="center">
-  <img width="200px" src="https://github.com/user-attachments/assets/d87f0e71-7b75-478a-98ef-d2df6737290b">
+  <img width="100px" src="https://github.com/user-attachments/assets/d87f0e71-7b75-478a-98ef-d2df6737290b">
 </p>
 
 <p>The DiamondModel is a security analysis framework that seasoned professionals use to unravel the mysteries of adversary operations and identify the elements used in an intrusion. It comprises four core facets, interconnected to form a well-orchestrated blueprint of the attacker's plans:</p>
