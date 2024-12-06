@@ -259,6 +259,24 @@ Backing up 'after6.rules' to '/etc/ufw/after6.rules.[Redacted]'
 
 ![image](https://github.com/user-attachments/assets/98c3a8b3-4626-4a63-88e9-19cef7de54fb)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/fb3a47ed-a96d-4680-ab4d-221c52511d52)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0f1d9f53-2052-4bb0-9727-06a748132538)
+
+<br>
+
+
+<p>And see what we got ... <code>INTRUSION ATTEMPt DETECTED!</code></p>
+
+![image](https://github.com/user-attachments/assets/4aab3ce9-38be-4930-964e-da5800019250)
+
+
+
+
 
 
 
