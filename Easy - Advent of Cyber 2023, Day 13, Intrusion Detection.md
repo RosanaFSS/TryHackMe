@@ -12,7 +12,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{213}}$$-day-streak in  <a href="h
 <p align="center">
   <img height="100px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077">
   <img width="700px" src="https://github.com/user-attachments/assets/8fc535bc-3f81-4cc2-819a-cd3e17713a22">
-
 </p>
 
 
@@ -404,4 +403,5 @@ To                         Action      From
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/59d1b17c-70aa-40eb-b666-b834a7b47056"> </h3>
+
