@@ -278,18 +278,17 @@ msf6 exploit(multi/http/tomcat_mgr_upload) ></code></pre>
 
 <p><strong>Note</strong>: I you are running <code>THM AttackBox</code>, LHOST will be its IP.</p>
 
+<p>I set LHOST, RHOSTS, RPORT, HttpUsername and HttpPassword.</p>
+
 <p>After updating the <code>options</code>, I used <code>exploit</code> command.</p>
 
-
-
+![image](https://github.com/user-attachments/assets/56423d1b-32ed-4759-afeb-022d0d40c09e)
 
 <br>
 
-<p>I set LHOST, RHOSTS, RPORT, HttpUsername and HttpPassword.</p>
-
 
 > 1.11. <em>What flag is found in the root directory?</em><br><a id='1.11'></a>
->> <strong>root</strong><br>
+>> <strong>_____</strong><br>
 <p><br></p>
 
 
