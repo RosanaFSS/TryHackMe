@@ -52,7 +52,9 @@ In this epic task, we'll embark on a thrilling journey through fundamental conce
 <h3>Incident Analysis</h3>
 <p>Consider the cyber threat events that have recently taken place within the Best Festival Company and AntarctiCrafts. We have identified clues and artefacts, but we're yet to piece them together to lead us to the attacker. We need a framework to profile the attacker, understand their moves, and help us strengthen our defences.</p>
 
-![image](https://github.com/user-attachments/assets/d87f0e71-7b75-478a-98ef-d2df6737290b)
+<p align="center">
+  <img width="200px" src="https://github.com/user-attachments/assets/d87f0e71-7b75-478a-98ef-d2df6737290b">
+</p>
 
 <p>The DiamondModel is a security analysis framework that seasoned professionals use to unravel the mysteries of adversary operations and identify the elements used in an intrusion. It comprises four core facets, interconnected to form a well-orchestrated blueprint of the attacker's plans:</p>
 - Adversary<br>
