@@ -179,7 +179,7 @@ ftp> exit
 
 <h2>Task 5. Gobuster</h2>
 
-![image](https://github.com/user-attachments/assets/af3cfa61-4759-484d-b849-4a1b4f102044)
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/af3cfa61-4759-484d-b849-4a1b4f102044)"></p>
 
 <p>Lets use a fast directory discovery tool called GoBuster. This program will locate a directory that you can use to login to Mr. Starks Tarvis portal!<br>
 
@@ -198,7 +198,8 @@ Lets run GoBuster with a wordlist (on Kali they're located under /usr/share/word
 
 <br>
 
-![image](https://github.com/user-attachments/assets/9fcf87fb-11c4-4c75-9a78-51625b069d1c)
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/9fcf87fb-11c4-4c75-9a78-51625b069d1c"></p>
+
 
 
 
