@@ -14,7 +14,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{214}}$$-day-streak in  <a href="h
 
                                                               
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/9a2749de-b0b3-467b-a751-a3d9ea4aa56">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/20325c1e-980c-4c24-a215-f61c8cd38a37">
   <img width="700px" src="https://github.com/user-attachments/assets/46ca8a1a-efc4-40a1-a8a9-e63fc2b0fcaa">
 </p>
 
