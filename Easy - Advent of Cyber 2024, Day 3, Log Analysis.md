@@ -373,7 +373,7 @@ Below are some examples of weak/default credentials that attackers might try:</p
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 3, 2024  | 211      |     1,056 th |        22 nd |    2,938 th |      44 th | 58,802   |       450 |
+| December 3, 2024  | 211      |     1,056 th |        22 nd |    2,938 th |      44 th | 58,802   |       450 |
 
 </div>
 
