@@ -298,11 +298,11 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 7, 2024  | 215      |     1,019 th |        21 st |    9,694 th |     113 rd | 59,548   |       457 |
+| December 7, 2024  | 215      |     1,015 th |        21 st |    2,751 th |      32 nd | 59,692   |       457 |
 
 </div>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/0fedc4db-ccbd-4c1a-b35c-df71f5376263"> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
