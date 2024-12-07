@@ -175,6 +175,10 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
+<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+
+<br>
+
 <p align="center"><img width="800px" src="https://github.com/user-attachments/assets/b5794d46-9eca-4a46-9bfa-cb2797975c63"></p>
 
 <br>
@@ -185,8 +189,24 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
+<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+
+<br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/dc5d22a3-5b94-4300-8717-03c87dd7f1e9"></p>
+
+<br>
+
 > 1.4. <em>When did the anomalous user trigger the ConsoleLogin event?</em><br><a id='1.4'></a>
 >> <code><strong>2024-11-28T15:21:54Z</strong></code>
+
+<br>
+
+<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+
+<br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/58a7a798-8487-44c6-a8f9-551bf336d3be"></p>
 
 <br>
 
