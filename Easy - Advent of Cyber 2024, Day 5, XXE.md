@@ -201,7 +201,36 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 
 <p align="center"><img height="150px" src="https://github.com/user-attachments/assets/64288112-0c55-4e49-89e3-8dd991a4cbf0"></p>
 
-![image](https://github.com/user-attachments/assets/64288112-0c55-4e49-89e3-8dd991a4cbf0)
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 1.1. <em>What is the flag discovered after navigating through the wishes?</em><br><a id='1.1'></a>
+>> <code><strong>THM{Brut3f0rc1n6_mY_w4y}</strong></code>
+
+<br>
+
+> 1.2. <em>What is the flag discovered after navigating through the wishes?</em><br><a id='1.2'></a>
+>> <code><strong>THM{m4y0r_m4lw4r3_b4ckd00rs}</strong></code>
+
+<br>
+
+> 1.3. <em>If you want to learn more about the XXE injection attack, check out the XXE room! </em><br><a id='1.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 1.4. <em>Following McSkidy's advice, Software recently hardened the server. It used to have many unneeded open ports, but not anymore. Not that this matters in any way.</em><br><a id='1.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+
+
+
+
 
 
 
