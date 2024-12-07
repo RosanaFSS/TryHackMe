@@ -116,10 +116,11 @@ But for now, he would wait. Watching. Planning. And he was perfecting his craft 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 6, 2024  | 214      |     1,019 th |        21 st |    9,677 th |     113 rd | 59,548   |       457 |
+| December 6, 2024  | 214      |     1,019 th |        21 st |    9,694 th |     113 rd | 59,548   |       457 |
 
 </div>
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/2b8abec6-fa71-4aaf-82fd-82d84e1f53bd"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/43a11396-0973-48a7-ba34-81cc6dd535bc"> </h3>
+
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
