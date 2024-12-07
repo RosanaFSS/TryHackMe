@@ -37,13 +37,6 @@ To find the donations, they just weren’t there!</em></h5>
 
 <p align="center"><img width="300px" src="https://github.com/user-attachments/assets/8da3dc9a-1afd-4994-a07a-2e98ed1423a9"></p>
 
-
-
-<h3><strong>Learning Objectives</strong></h3>
-<p>Mayor Malware slammed his hand on the table, his eyes narrowing as the report flashed on his screen. Glitch and McSkidy had uncovered his trail. He took a deep breath, calming himself. "No matter," he muttered, a sinister grin forming. "They may have found me but haven't stopped me." His confidence stemmed from the malware he had crafted—so devious and advanced that it would easily evade detection.<br>
-
-But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was one final step. He needed to test it in a sandbox.</p>
-
 <h2><strong>Monitoring in an AWS Environment</strong></h2>
 <p>Care4Wares' infrastructure runs in the cloud, so they chose AWS as their Cloud Service Provider (CSP). Instead of their workloads running on physical machines on-premises, they run on virtualised instances in the cloud. These instances are (in AWS) called EC2 instances (Amazon Elastic Compute Cloud). A few members of the Wareville SOC aren't used to log analysis on the cloud, and with a change of environment comes a change of tools and services needed to perform their duties. Their duties this time are to help Care4Wares figure out what has happened to the charity's funds; to do so, they will need to learn about an AWS service called CloudWatch.</p>
 
