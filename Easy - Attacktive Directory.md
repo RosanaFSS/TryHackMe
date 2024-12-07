@@ -1,13 +1,55 @@
-<h1>Attacktive Directory</h1>
+<p align="center">July 10, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{65}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
+ 
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Attacktive Directory}}$$
+</h1>
+<p align="center">Exploit a Windows machine in this beginner level challenge.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/attacktivedirectory">Attacktive Directory</a>.</p><br>
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/939dfd3d-1a3c-4fc1-8325-9b89d90dadb6">
+  <img height="150px" src="https://github.com/user-attachments/assets/9ad4ab65-d29a-440e-9305-6729f59f036a">
+</p>
 
-
-![image](https://github.com/user-attachments/assets/939dfd3d-1a3c-4fc1-8325-9b89d90dadb6)
-
-
-![image](https://github.com/user-attachments/assets/9ad4ab65-d29a-440e-9305-6729f59f036a)
+<br>
+<h2>Task 1. [ Intro ] Deploy the Machine</h2>
+<br>
 
 
 <br>
+<h2>Task 2. [ Intro ] Setup</h2>
+<br>
+
+<br>
+<h2>Task 3. [ Enumeration ] Welcome to Attacktive Directory</h2>
+<br>
+
+<br>
+<h2>Task 4. [Enumeration ] Enumerating Users via Kerberos</h2>
+<br>
+
+<br>
+<h2>Task 5. [ Exploitation ] Abusing Kerberos</h2>
+<br>
+
+<br>
+<h2>Task 6. [ Enumeration ] Back to the Basics</h2>
+<br>
+
+<br>
+<h2>Task 7. [ Domain Privilege Escalation ]Elevating Privileges withinh the Domain</h2>
+<br>
+
+<br>
+<h2>Task 8. [ Flag Submission ] Flag Submission Panel</h2>
+<br>
+
+
+
+
+
+
 
 ![Julho-10 - TryHackMe - Attacktive Directory room - Image 1 - nmap](https://github.com/user-attachments/assets/d72ecf3a-23db-4cda-8ec8-6edb65a4620d)
 
