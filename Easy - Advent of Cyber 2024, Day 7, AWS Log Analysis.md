@@ -250,7 +250,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 <br>
 
 > 1.8. <em>What is McSkidy's actual IP address?</em><br><a id='1.8'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>31.210.15.79</strong></code>
 
 <br>
 
@@ -264,7 +264,16 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 
 > 1.9. <em>What is the bank account number owned by Mayor Malware?</em><br><a id='1.9'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>2394 6912 7723 1294</strong></code>
+
+<br>
+
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ grep Mayor rds.log</code></pre>
+
+
+<br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/897b2780-a426-473d-90ab-5299b4ccb225"></p>
 
 <br>
 
