@@ -240,7 +240,7 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/59d1b17c-70aa-40eb-b666-b834a7b47056"> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
