@@ -28,3 +28,33 @@ By uncovering secrets that exposed the man!.</em></h5>
 But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was one final step. He needed to test it in a sandbox.</p>
 
 
+
+<br>
+<br>
+
+> 1.4. <em>If you liked today's task, you can learn how to harness the power of advanced ELK queries.</em><br><a id='1.4'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+<br>
+
+<h2>Task Completed<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/5c03b970-fdde-43e7-a778-33915fee48d2"> </h3>
+
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 6, 2024  | 214      |     1,019 th |        21 st |    9,677 th |     113 rd | 59,548   |       457 |
+
+</div>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/2b8abec6-fa71-4aaf-82fd-82d84e1f53bd"> </h3>
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
