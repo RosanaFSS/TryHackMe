@@ -276,7 +276,7 @@ McSkidy knows that Encoded PowerShell commands are generally Base64 Encoded and 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 2, 2024  | 210      |     1,057 th |        22 nd |    2,976 th |      46 th | 58,730   |       448 |
+| December 2, 2024  | 210      |     1,057 th |        22 nd |    2,976 th |      46 th | 58,730   |       448 |
 
 </div>
 
