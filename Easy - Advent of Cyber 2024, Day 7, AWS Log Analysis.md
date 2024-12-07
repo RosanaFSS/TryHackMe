@@ -9,7 +9,7 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 
 <p align="center">
 <img height="90px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
-<img width="500px" src="https://github.com/user-attachments/assets/403e6266-0d27-4943-b2f3-1bab17d0a8e7"></p>
+<img width="500px" src="https://github.com/user-attachments/assets/854e55ce-0938-42c1-aec9-d39e1c046530"></p>
 
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p>
 
@@ -278,18 +278,17 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 <br>
 
 > 1.10. <em>Want to learn more about log analysis and how to interpret logs from different sources? Check out the Log Universe room!</em><br><a id='1.10'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
-
-
 
 <br>
 
 <h2>Task Completed<a id='2'></a></h2>
 <p>Keep learning, keep growing!<br>
 
-<h3 align="center"> <img width="900px" src=""> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/91acddd7-b141-41a5-8446-8b10cec0d627"> </h3>
+
 
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
