@@ -209,10 +209,26 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 
 
+<br>
+
+<h2>Task Completed<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+<h3 align="center"> <img width="900px" src=""> </h3>
+
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 7, 2024  | 215      |     1,019 th |        21 st |    9,694 th |     113 rd | 59,548   |       457 |
+
+</div>
+
+<h3 align="center"> <img width="900px" src=""> </h3>
 
 
-
-
-
-
-
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
