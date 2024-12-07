@@ -9,7 +9,7 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 
 <p align="center">
 <img height="90px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
-<img width="500px" src="https://github.com/user-attachments/assets/57999429-f784-46a1-81ab-4d68041f470f"></p>
+<img width="500px" src="https://github.com/user-attachments/assets/403e6266-0d27-4943-b2f3-1bab17d0a8e7"></p>
 
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p>
 
@@ -27,15 +27,80 @@ By uncovering secrets that exposed the man!.</em></h5>
 
 But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was one final step. He needed to test it in a sandbox.</p>
 
+<h3><strong>Learning Objectives</strong></h3>
+<p>While it might seem like using the SOC superpower makes things super easy, that is not always the case. There are cases which can act as Kryptonite to the SOC superpower
+    
+<ul style="list-style-type:square">
+    <li>Analyze malware behaviour using sandbox tools.</li>
+    <li>Explore how to use YARA rules to detect malicious patterns.</li>
+    <li>Learn about various malware evasion techniques.</li>
+    <li>Implement an evasion technique to bypass YARA rule detection.</li>
+</ul></p>
 
+<h3><strong>Connecting to the Machine</strong></h3>
+
+<p>Before moving forward, review the questions in the connection card below:</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/39e067a9-c185-4eac-af1d-478e7f57e94c"></p>
+
+<p>Click on the green <code>Start Machine</code> button  to start the virtual machine in split-screen view.</p>
+
+<p><code>Start Machine</code></p>
+
+<p>If the VM is not visible, use the blue <code>SShow Split View</code> button  at the top of the page. Alternatively, you can connect to the VM via Remote Desktop (RDP) using the credentials below:</p>
+
+<p>......</p>
+
+<br>
+<br>
+<h2><strong>Detecting Sanboxes</strong></h2>
 
 <br>
 <br>
 
-> 1.4. <em>If you liked today's task, you can learn how to harness the power of advanced ELK queries.</em><br><a id='1.4'></a>
->> <code><strong>No answer needed</strong></code>
+<h2><strong>Adding More Evasion Techniques</strong></h2>
 
 <br>
+<br>
+
+<h2><strong>Can YARA Do It?</strong></h2>
+
+<br>
+<br>
+
+<h2><strong>Beware of Floss</strong></h2>
+
+<br>
+<br>
+
+<h2><strong>Using YARA Rules on Sysmon Logs</strong></h2>
+
+<br>
+<br<
+
+<h2><strong>Never Gonna Give Up</strong></h2>
+
+<br>
+<br>
+
+<p>He clenched his fist, a determined glint in his eye. "Just a little more fine-tuning," he murmured. He would study, adapt, and evolve his malware until it was truly undetectable. When the time was right, he would unleash it upon the unsuspecting SOC teams, striking when they least expected it.
+
+But for now, he would wait. Watching. Planning. And he was perfecting his craft in the shadows.</p>
+
+> 1.1. <em>What is the flag displayed in the popup window after the EDR detects the malware?</em><br><a id='1.1'></a>
+>> <code><strong>THM{GlitchWasHere}</strong></code>
+
+<br>
+
+> 1.2. <em>What is the flag found in the malstrings.txt document after running floss.exe, and opening the file in a text editor?</em><br><a id='1.2'></a>
+>> <code><strong>THM{HiddenClue}</strong></code>
+
+<br>
+
+> 1.3. <em>If you want to more about sandboxes, have a look at the room FlareVM: Arsenal of Tools.</em><br><a id='1.2'></a>
+>> <code><strong>NO answer needed</strong></code>
+
+
 <br>
 
 <h2>Task Completed<a id='2'></a></h2>
