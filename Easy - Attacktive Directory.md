@@ -5,7 +5,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{65}}$$-day-streak in  <a href="ht
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Attacktive Directory}}$$
 </h1>
-<p align="center">Exploit a Windows machine in this beginner level challenge.</p>
+<p align="center">99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/attacktivedirectory">Attacktive Directory</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/939dfd3d-1a3c-4fc1-8325-9b89d90dadb6">
