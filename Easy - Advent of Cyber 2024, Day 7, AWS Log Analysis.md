@@ -18,7 +18,7 @@ $$\textcolor{yellow}{\textnormal{Oh, no. I'M SPEAKING IN CLOUDTRAIL!}}$$</h2>
 
 <p align="center"><img width="700px" src="https://github.com/user-attachments/assets/1b251b72-ef5a-4565-ad02-93a78ca644fe"></p>
 
-<h5 aling="center"><em>As SOC-mas approached, so did the need,<br>
+<h5 align="center"> <em>As SOC-mas approached, so did the need,<br>
 To provide those without, with something to read.<br>
 Care4Wares tried, they made it their mission,<br>
 A gift for all wares, a SOC-mas tradition.<br>
