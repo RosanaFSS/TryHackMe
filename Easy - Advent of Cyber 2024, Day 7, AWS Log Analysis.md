@@ -119,8 +119,16 @@ A key feature of CloudWatch logs that will help the Warevile SOC squad and us ma
 
 
 <h2><strong>Connection Details</strong></h2>
+<p>Now that we have enough information, let's start the attached Virtual Machine in this task by clicking the Start Machine button below. Note that the machine may take 3-5 minutes to initialise. </p>
 
+<p><code>Start Machine</code></p>
 
+<p>The machine will start in a split-screen view. If the VM is not visible, use the blue Show Split View button at the top right of the page. </p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/b30e463b-38e1-448d-8bf3-80c6ca3ee932"></p>
+
+<h2><strong>Glitch Did It</strong></h2>
+<p>Let’s examine the Cloudtrail logs related to the wareville-care4wares S3 bucket. For a quick example, a typical S3 log entry looks like this:</p>
 
 
 
