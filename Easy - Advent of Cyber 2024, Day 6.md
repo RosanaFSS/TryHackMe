@@ -18,3 +18,13 @@ $$\textcolor{yellow}{\textnormal{ If I can't find a nice malware to use, I'm not
 
 <p align="center"><img width="700px" src="https://github.com/user-attachments/assets/f7851ea5-1a9e-407a-9ad4-7db78aaccea4"></p>
 
+<h5 align="center"><em>Mayor Malware was scheming, quite full of delight,<br>
+To ruin SOC-mas and frighten SOC teams.<br>
+But Glitch and McSkidy had spoiled his plan,<br>
+By uncovering secrets that exposed the man!.</em></h5>
+
+<p>Mayor Malware slammed his hand on the table, his eyes narrowing as the report flashed on his screen. Glitch and McSkidy had uncovered his trail. He took a deep breath, calming himself. "No matter," he muttered, a sinister grin forming. "They may have found me but haven't stopped me." His confidence stemmed from the malware he had crafted—so devious and advanced that it would easily evade detection.<br>
+
+But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was one final step. He needed to test it in a sandbox.</p>
+
+
