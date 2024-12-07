@@ -83,9 +83,16 @@ But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was
 <br>
 <br>
 
-<p>He clenched his fist, a determined glint in his eye. "Just a little more fine-tuning," he murmured. He would study, adapt, and evolve his malware until it was truly undetectable. When the time was right, he would unleash it upon the unsuspecting SOC teams, striking when they least expected it.
+<p>He clenched his fist, a determined glint in his eye. "Just a little more fine-tuning," he murmured. He would study, adapt, and evolve his malware until it was truly undetectable. When the time was right, he would unleash it upon the unsuspecting SOC teams, striking when they least expected it.<br>
 
 But for now, he would wait. Watching. Planning. And he was perfecting his craft in the shadows.</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
 
 > 1.1. <em>What is the flag displayed in the popup window after the EDR detects the malware?</em><br><a id='1.1'></a>
 >> <code><strong>THM{GlitchWasHere}</strong></code>
