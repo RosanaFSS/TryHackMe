@@ -228,6 +228,39 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 <br>
 <br>
 
+<h2>My hands-on</h2>
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 1](https://github.com/user-attachments/assets/099e3dfe-0299-4b5d-8edd-8c6bd9d00b95)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 2](https://github.com/user-attachments/assets/d67b13de-0790-47e6-a12c-c8758d1da5f5)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 3](https://github.com/user-attachments/assets/20659d36-e55d-40cd-83cf-25595ed3ef53)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 4](https://github.com/user-attachments/assets/ad347f0c-f704-448a-ae2b-6edc1853e485)
+
+<br>
+
+![5December 5, 2024  - TryHackMe - Day 5 - Image 4](https://github.com/user-attachments/assets/cd351c9f-03c7-474c-b48f-89b20c03231b)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 5](https://github.com/user-attachments/assets/198a67e4-679a-4a86-b7c0-58b194b5e8df)
+
+
+
+
+
+
+
+
+
 <br>
 
 <h2>Task Completed<a id='2'></a></h2>
