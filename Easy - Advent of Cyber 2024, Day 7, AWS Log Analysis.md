@@ -162,7 +162,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/4734b0ab-606b-47dc-afcf-e38f55aa433d></p>
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/4734b0ab-606b-47dc-afcf-e38f55aa433d"></p>
 
 <br>
 
