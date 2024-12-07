@@ -322,7 +322,7 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 </div>
 
 
-<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/59d1b17c-70aa-40eb-b666-b834a7b47056"> </h3>
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/fd80f7e4-a7af-4540-9211-d12c6c57eaab"> </h3>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
