@@ -53,7 +53,7 @@ But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was
 
 <br>
 <br>
-<h2><strong>Detecting Sanboxes</strong></h2>
+<h2><strong>Detecting Sandboxes</strong></h2>
 
 <br>
 <br>
