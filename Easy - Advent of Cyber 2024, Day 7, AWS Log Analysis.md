@@ -224,7 +224,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 <br>
 
 > 1.6. <em>What type of access was assigned to the anomalous user?</em><br><a id='1.6'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>AdministratorAccess</strong></code>
 
 <br>
 
@@ -237,7 +237,15 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 <br>
 
 > 1.7. <em>Which IP does Mayor Malware typically use to log into AWS?</em><br><a id='1.7'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>53.94.201.69</strong></code>
+
+<br>
+
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq '.Records[] | select(.eventSource=="iam.amazonaws.com" and .eventName== "AttachUserPolicy")' cloudtrail_log.json</code></pre>
+
+<br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/3ae9e9a8-101d-4dbb-82cf-dfb6baff5ca7"></p>
 
 <br>
 
@@ -245,6 +253,15 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 >> <code><strong>___________________</strong></code>
 
 <br>
+
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq -r '["Event_Time","Event_Source","Event_Name", "User_Name","User_Agent","Source_IP"],(.Records[] | select(.userIdentity.userName=="mcskidy") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A",.userAgent // "N/A",.sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+
+<br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/a79f47a2-90e1-4d69-a0cd-b80a5236f50c"></p>
+
+<br>
+
 
 > 1.9. <em>What is the bank account number owned by Mayor Malware?</em><br><a id='1.9'></a>
 >> <code><strong>___________________</strong></code>
