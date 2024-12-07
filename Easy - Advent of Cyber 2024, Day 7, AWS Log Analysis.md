@@ -35,7 +35,7 @@ How could this be? An attack? An intrusion?<br>
 And when they logged on, the ware got a scare,<br>
 To find the donations, they just weren’t there!</em></h5>
 
-<p align="center"><img width="700px" src="https://github.com/user-attachments/assets/8da3dc9a-1afd-4994-a07a-2e98ed1423a9"></p>
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/8da3dc9a-1afd-4994-a07a-2e98ed1423a9"></p>
 
 
 
