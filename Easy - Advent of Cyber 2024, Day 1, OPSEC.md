@@ -461,7 +461,7 @@ Machine ID                      : win-base-2019
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 1, 2024  | 209      |      1,061st |         23rd |     3,144th |       46th | 58,514   |       448 |
+| December 1, 2024  | 209      |      1,061st |         23rd |     3,144th |       46th | 58,514   |       448 |
 
 </div>
 
