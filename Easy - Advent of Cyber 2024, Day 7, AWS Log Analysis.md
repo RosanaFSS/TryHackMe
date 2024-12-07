@@ -140,9 +140,8 @@ A key feature of CloudWatch logs that will help the Warevile SOC squad and us ma
 
 <ul style="list-style-type:square">
     <li>The IAM user, <code>wareville_collector</code>, listed all objects (ListObjects event) of the S3 bucket named <code>aoc-cloudtrail-wareville</code>.</li>
-    <li><code>JSON-formatted:</code>: All event types captured by CloudTrail will be in the CloudTrail JSON format</li>
-    <li><code>The IP address from which this request originated is <code>4.247.218.56</code>.</li>
-    <li><code>The user agent indicates that the request was made using the <code>AWS SDK tool for Go</code>.</li>
+    <li>The IP address from which this request originated is <code>4.247.218.56</code>.</li>
+    <li>The user agent indicates that the request was made using the <code>AWS SDK tool for Go</code>.</li>
 </ul></p>
 
 
