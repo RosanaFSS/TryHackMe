@@ -130,17 +130,28 @@ A key feature of CloudWatch logs that will help the Warevile SOC squad and us ma
 <h2><strong>Glitch Did It</strong></h2>
 <p>Let’s examine the Cloudtrail logs related to the wareville-care4wares S3 bucket. For a quick example, a typical S3 log entry looks like this:</p>
 
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/8353374b-aae1-4277-9c3d-12649901bb04"></p>
+
+<p>It might be overwhelming to see the sheer amount of information in one event, but there are some elements that we can focus on for our investigation:</p>
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/e0501001-c92a-444d-ba2b-9241c860c38c"></p>
+
+<p>By using the guide above, we can read the example log entry as follows: </p>
+
+<ul style="list-style-type:square">
+    <li>The IAM user, <code>wareville_collector</code>, listed all objects (ListObjects event) of the S3 bucket named <code>aoc-cloudtrail-wareville</code>.</li>
+    <li><code>JSON-formatted:</code>: All event types captured by CloudTrail will be in the CloudTrail JSON format</li>
+    <li><code>The IP address from which this request originated is <code>4.247.218.56</code>.</li>
+    <li><code>The user agent indicates that the request was made using the <code>AWS SDK tool for Go</code>.</li>
+</ul></p>
 
 
-<p>Before moving forward, review the questions in the connection card below:</p>
+<p>Now that we know where to look, let’s use JQ to filter the log for events related to the <code>wareville-bank-account-qr.png</code> S3 object. The goal is to use the same elements to filter the log file using JQ and format the results into a table to make it more readable. According to McSkidy, the logs are stored in the <code>>~/wareville_logs</code> directory.
 
-<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/39e067a9-c185-4eac-af1d-478e7f57e94c"></p>
+To start, click the <code>Terminal</code> icon on the Desktop and enter the two commands below:
 
-<p>Click on the green <code>Start Machine</code> button  to start the virtual machine in split-screen view.</p>
 
-<p><code>Start Machine</code></p>
+<p>...................................</p>
 
-<p>If the VM is not visible, use the blue <code>Show Split View</code> button  at the top of the page. Alternatively, you can connect to the VM via Remote Desktop (RDP) using the credentials below:</p>
 
-<p>......</p>
 
