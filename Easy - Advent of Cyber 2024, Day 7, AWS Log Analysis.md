@@ -162,7 +162,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
 
 <br>
 
@@ -175,7 +175,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
 
 <br>
 
@@ -189,7 +189,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
 
 <br>
 
@@ -202,7 +202,7 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
 
 <br>
 
@@ -215,17 +215,24 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
 
 <br>
 
 <p align="center"><img width="800px" src="https://github.com/user-attachments/assets/23b40953-725e-4736-9af4-977cf8fa9f79"></p>
 
-
 <br>
 
 > 1.6. <em>What type of access was assigned to the anomalous user?</em><br><a id='1.6'></a>
 >> <code><strong>___________________</strong></code>
+
+<br>
+
+<pre><code>ubuntu@tryhackme:~/wareville_logs$ jq '.Records[] | select(.eventSource=="iam.amazonaws.com" and .eventName== "AttachUserPolicy")' cloudtrail_log.json</code></pre>
+
+<br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/0797b4b4-2501-4970-bc68-e80a9e7ceaff9"></p>
 
 <br>
 
