@@ -226,41 +226,21 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 >> <code><strong>No answer needed</strong></code>
 
 <br>
+<br>
+
+<br>
+
+<h2>Task Completed<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/e6a96032-935d-4289-8b2f-69d7ac4dbdcc"> </h3>
 
 
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
 
+<h3 align="center"> <img width="900px" src=""> </h3>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
