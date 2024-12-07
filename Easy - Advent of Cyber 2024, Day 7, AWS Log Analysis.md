@@ -162,6 +162,17 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
+![image](https://github.com/user-attachments/assets/4734b0ab-606b-47dc-afcf-e38f55aa433d)
+
+<br>
+
+<pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
+
+
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/444f5b05-eb26-4cb9-b48e-bb620ab865ad"></p>
+
+<br>
+
 > 1.2. <em>What is the source IP related to the S3 bucket activities of the user glitch?</em><br><a id='1.2'></a>
 >> <code><strong>53.94.201.69</strong></code>
 
