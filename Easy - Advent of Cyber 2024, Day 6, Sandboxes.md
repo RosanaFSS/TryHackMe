@@ -47,7 +47,7 @@ But before unleashing it to wreak havoc on SOC teams and ruin SOC-mas, there was
 
 <p><code>Start Machine</code></p>
 
-<p>If the VM is not visible, use the blue <code>SShow Split View</code> button  at the top of the page. Alternatively, you can connect to the VM via Remote Desktop (RDP) using the credentials below:</p>
+<p>If the VM is not visible, use the blue <code>Show Split View</code> button  at the top of the page. Alternatively, you can connect to the VM via Remote Desktop (RDP) using the credentials below:</p>
 
 <p>......</p>
 
