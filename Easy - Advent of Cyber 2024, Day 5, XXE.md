@@ -9,7 +9,8 @@ in festive beginner-friendly exercises every day in the lead-up to Christmas!</h
 
 <p align="center">
 <img height="90px" hspace="20" src="https://github.com/user-attachments/assets/0d8d7f29-525a-49ad-85ba-9223bdec089b">
-<img width="500px" src="https://github.com/user-attachments/assets/57999429-f784-46a1-81ab-4d68041f470f"></p>
+<img width="500px" src="https://github.com/user-attachments/assets/6ecf2478-64f0-4403-8a05-ceaa81611fee"></p>
+
 
 <p align="center">Access this 🆓 TryHackMe CTF challenge clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024</a>.</p>
 
@@ -251,16 +252,55 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 
 <br>
 
-![December 5, 2024  - TryHackMe - Day 5 - Image 5](https://github.com/user-attachments/assets/198a67e4-679a-4a86-b7c0-58b194b5e8df)
+![December 5, 2024  - TryHackMe - Day 5 - Image 6](https://github.com/user-attachments/assets/bd993f41-f25f-4cf4-a81a-203d2e70ea13)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 7](https://github.com/user-attachments/assets/df9c51da-a9cf-4a6a-8026-450bd227c7ba)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 8](https://github.com/user-attachments/assets/15b070ba-c9a4-485f-891a-3569c5497ca8)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 9](https://github.com/user-attachments/assets/9fbf6816-e7b4-46da-b5f2-b6e0e3fc1b51)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 10](https://github.com/user-attachments/assets/8de829b6-c079-49a7-8874-340a4e35cc2c)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 11](https://github.com/user-attachments/assets/267dfbff-93fb-4077-8b1a-6d2127f3659a)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 12](https://github.com/user-attachments/assets/83abe69d-83e4-4f4d-aaa3-1433add391d0)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 13](https://github.com/user-attachments/assets/64b90e15-d96d-4fc3-ad5e-66875b2d02c7)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 14](https://github.com/user-attachments/assets/d998cab6-b41f-46b2-bed9-64fab11935b0)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 15](https://github.com/user-attachments/assets/5fe2ff53-bc39-4d89-8af6-043b46a177d7)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 16](https://github.com/user-attachments/assets/f509408c-51dc-41fe-9513-72fe05ff6459)
+
+<br>
+
+![December 5, 2024  - TryHackMe - Day 5 - Image 17](https://github.com/user-attachments/assets/daa1bf1e-1510-4178-ae51-e2d203465de8)
 
 
 
-
-
-
-
-
-
+<br>
 <br>
 
 <h2>Task Completed<a id='2'></a></h2>
