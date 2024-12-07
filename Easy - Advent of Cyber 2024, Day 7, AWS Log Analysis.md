@@ -162,12 +162,9 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 
 <br>
 
-<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/4734b0ab-606b-47dc-afcf-e38f55aa433d"></p>
-
-<br>
-
 <pre><code>jq -r '["Event_Time", "Event_Source", "Event_Name", "User_Name", "Source_IP"],(.Records[] | select(.userIdentity.userName == "glitch") | [.eventTime, .eventSource, .eventName, .userIdentity.userName // "N/A", .sourceIPAddress // "N/A"]) | @tsv' cloudtrail_log.json | column -t -s $'\t'</code></pre>
 
+<br>
 
 <p align="center"><img width="800px" src="https://github.com/user-attachments/assets/444f5b05-eb26-4cb9-b48e-bb620ab865ad"></p>
 
@@ -177,6 +174,11 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 >> <code><strong>53.94.201.69</strong></code>
 
 <br>
+
+<p align="center"><img width="800px" src="https://github.com/user-attachments/assets/b5794d46-9eca-4a46-9bfa-cb2797975c63"></p>
+
+<br>
+
 
 > 1.3. <em>Based on the eventSource field, what AWS service generates the ConsoleLogin event?</em><br><a id='1.3'></a>
 >> <code><strong>signin.amazonaws.com</strong></code>
