@@ -1,5 +1,12 @@
 <h1>Attacktive Directory</h1>
 
+
+![image](https://github.com/user-attachments/assets/939dfd3d-1a3c-4fc1-8325-9b89d90dadb6)
+
+
+![image](https://github.com/user-attachments/assets/9ad4ab65-d29a-440e-9305-6729f59f036a)
+
+
 <br>
 
 ![Julho-10 - TryHackMe - Attacktive Directory room - Image 1 - nmap](https://github.com/user-attachments/assets/d72ecf3a-23db-4cda-8ec8-6edb65a4620d)
