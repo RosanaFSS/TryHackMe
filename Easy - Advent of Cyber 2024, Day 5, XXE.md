@@ -312,6 +312,15 @@ As soon as the vulnerability was discovered, McSkidy promptly coordinated with t
 <h2>My Journey<a id='3'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 5, 2024  | 213      |     1,032 nd |        22 nd |    7,799 th |      71 st | 59,288   |       453 |
+
+</div>
+
 
 <h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/59d1b17c-70aa-40eb-b666-b834a7b47056"> </h3>
 
