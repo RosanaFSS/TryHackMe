@@ -153,4 +153,66 @@ To start, click the <code>Terminal</code> icon on the Desktop and enter the two 
 <p>...................................</p>
 
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 1.1. <em>What is the other activity made by the user glitch aside from the ListObject action?</em><br><a id='1.1'></a>
+>> <code><strong>PutObject</strong></code>
+
+<br>
+
+> 1.2. <em>What is the source IP related to the S3 bucket activities of the user glitch?</em><br><a id='1.2'></a>
+>> <code><strong>53.94.201.69</strong></code>
+
+<br>
+
+> 1.3. <em>Based on the eventSource field, what AWS service generates the ConsoleLogin event?</em><br><a id='1.3'></a>
+>> <code><strong>signin.amazonaws.com</strong></code>
+
+<br>
+
+> 1.4. <em>When did the anomalous user trigger the ConsoleLogin event?</em><br><a id='1.4'></a>
+>> <code><strong>2024-11-28T15:21:54Z</strong></code>
+
+<br>
+
+> 1.5. <em>What was the name of the user that was created by the mcskidy user?</em><br><a id='1.5'></a>
+>> <code><strong>glitch</strong></code>
+
+<br>
+
+> 1.6. <em>What type of access was assigned to the anomalous user?</em><br><a id='1.6'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+> 1.7. <em>Which IP does Mayor Malware typically use to log into AWS?</em><br><a id='1.7'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+> 1.8. <em>What is McSkidy's actual IP address?</em><br><a id='1.8'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+> 1.9. <em>What is the bank account number owned by Mayor Malware?</em><br><a id='1.9'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+> 1.10. <em>Want to learn more about log analysis and how to interpret logs from different sources? Check out the Log Universe room!</em><br><a id='1.10'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+
+
+
+
+
+
+
+
 
