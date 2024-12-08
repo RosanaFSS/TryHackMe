@@ -453,10 +453,71 @@ Mentioned within this question is the term 'living in' a process. Often when we 
 <br>
 
 
+<br>
+<br>
+<h2>Task 6. Post-Exploitation<a id='6'></a></h2>
+<p align="center">Explore post-exploitation actions we can take on Windows.</p>
+
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/3778db03-267d-48b4-ad48-0c0b6ce61ea4"> </p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 6.1. <em>Before we start our post-exploitation, let's revisit the help menu one last time in the meterpreter shell. We'll answer the following questions using that menu.</em><br><a id='6.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 6.2. <em>What command allows us to dump all of the password hashes stored on the system? We won't crack the Administrative password in this case as it's pretty strong (this is intentional to avoid password spraying attempts). </em><br><a id='6.2'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 6.3. <em>While more useful when interacting with a machine being used, what command allows us to watch the remote user's desktop in real time?</em><br><a id='6.3'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 6.4. <em>How about if we wanted to record from a microphone attached to the system?</em><br><a id='6.4'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 6.5. <em>To complicate forensics efforts we can modify timestamps of files on the system. What command allows us to do this? Don't ever do this on a pentest unless you're explicitly allowed to do so! This is not beneficial to the defending team as they try to breakdown the events of the pentest after the fact.</em><br><a id='6.5'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 6.6. <em>Mimikatz allows us to create what's called a `golden ticket`, allowing us to authenticate anywhere with ease. What command allows us to do this?<br>
+
+Golden ticket attacks are a function within Mimikatz which abuses a component to Kerberos (the authentication system in Windows domains), the ticket-granting ticket. In short, golden ticket attacks allow us to maintain persistence and authenticate as any user on the domain. </em><br><a id='6.6'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 6.7. <em>One last thing to note. As we have the password for the user 'Dark' we can now authenticate to the machine and access it via remote desktop (MSRDP). As this is a workstation, we'd likely kick whatever user is signed onto it off if we connect to it, however, it's always interesting to remote into machines and view them as their users do. If this hasn't already been enabled, we can enable it via the following Metasploit module: `run post/windows/manage/enable_rdp`</em><br><a id='6.7'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+<br>
+<h2>Task 7. Extra Credit<a id='7'></a></h2>
+<p align="center">Explore manual exploitation via exploit code found on exploit-db.<br>
+Exploit link: https://www.exploit-db.com/exploits/568</p>
+
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/23bc0cc8-22ce-4cd9-9a3c-87e3f937a696"> </p>
+
+<p align="center">To learn more about alternative exploitation methods, check out the sequel to this room Blaster!</p>
 
 
+<br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+> 7.1. <em>As you advance in your pentesting skills, you will be faced eventually with exploitation without the usage of Metasploit. Provided above is the link to one of the exploits found on Exploit DB for hijacking Icecast for remote code execution. While not required by the room, it's recommended to attempt exploitation via the provided code or via another similar exploit to further hone your skills.</em><br><a id='7.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
 
 
 
