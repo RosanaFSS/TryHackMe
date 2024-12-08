@@ -131,6 +131,12 @@ You should see a green tick next to Connected. It will also show you your intern
 
 <br>
 
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/78a1b2c9-4666-4d6b-a201-44c021e76114"> </p>
+
+
+<br>
+
+
 > 3.2. <em>What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000</em><br><a id='3.2'></a>
 >> <code><strong>________</strong></code>
 
