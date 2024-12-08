@@ -2,8 +2,7 @@
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="https://tryhackme">TryHackMe</a>.</p>
 
-<p align="center"> <img width="150px" src="https://github.com/user-attachments/assets/f89568a0-f6a1-4b0a-bc4c-efe105fbe539"></p>
-
+<p align="center"> <img width="150px" src="https://github.com/user-attachments/assets/d2fc1f3d-09f0-47f0-8191-d8dfa7d89e92"></p>
 
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Geolocating Images}}$$
@@ -63,6 +62,92 @@ Try Yandex Reverse Image search. Look at the differences!</p>
 
 ![image](https://github.com/user-attachments/assets/9c51bee7-037d-45e5-9174-fac20e88dd05)
 
+
+<br>
+<h2>Task 3. Geolocating Images 101?</h2>
+<p>Okay, now we know what reverse image searching program to use. Let's try to actually look at the picture now to figure out where it is!<br>
+
+Let's say we have a webcam we found on Shodan.io:<br>
+
+https://padcam.liverpool.ac.uk/cgi-bin/guestimage.html</p>
+
+<p>Where is this camera?<br>
+
+The first thing we notice is the weird crest & title with a black bar (and possibly text) underneath it.<br>
+
+Second thing is the logo, "Kaplan".<br>
+
+The third thing is that there is a glass building next to a concrete building.<br>
+
+And finally, we have what appears to be a highway next to the glass building. Because it's a webcam, we can see cars moving quickly!<br>
+
+Putting this into a reverse image search program shows nothing.<br>
+
+Now, something important to note is the name of the webcam. The URL points to Liverpool.ac.uk, which is a university in Liverpool.<br>
+
+If we just had an IP address, we could try to geolocate it using an online tool, checking the ASN number or finding it on Shodan.<br>
+
+
+Googling "Kaplan University of Liverpool" leads us to a news article about a new building. If we take a look at the image, it looks approximately similar to the one we saw.</p>
+
+![image](https://github.com/user-attachments/assets/63b130c3-3bde-44e6-b9ec-8445c7cd607b)
+
+<p>Rows of long glasses with a little bit of overhang.<br>
+
+Luckily for us, Liverpool have captioned the image.<br>
+
+"The proposed new Liverpool International College facility"<br>
+
+If we google Liverpool International College we get:<br>
+
+
+https://www.google.com/maps/place/University+of+Liverpool+International+College/@53.4062447,-2.9625347,17z/data=!4m5!3m4!1s0x487b211eda1b2f5f:0xc226c2ccfb209504!8m2!3d53.4060784!4d-2.9605928</p>
+
+![image](https://github.com/user-attachments/assets/ad933fe0-0bd3-422f-9234-c7a0285a92bd)
+
+
+<p>Which is our building! But it's not built yet... What gives?<br>
+
+
+In the bottom right hand corner, Google tells us the image was captured in June 2019.</p>
+
+![image](https://github.com/user-attachments/assets/3e72906b-c862-4831-8ed0-52e85632cff1)
+
+<p>So Google maps hasn't updated yet.<br>
+
+
+If we turn the camera around on Google maps, we can see where the live webcam should be.</p>
+
+![image](https://github.com/user-attachments/assets/b16a40bc-d3bf-4a12-a663-ab78bdcf7644)
+
+<p>Somewhere on this building!
+
+
+When geolocating an image, we want to point out big landmarks we can easily find on a map. Road layouts, business names, The Empire States Building.</p>
+
+
+<br>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 3.1. <em></em><br><a id='2.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+<h2>Task 4. Now your turn</h2>
+<p>Where was image 2 taken? Specifically, I'm looking for the name of the place that has likely set up the webcam. You'll know it when you see it!<br>
+
+Please do not use reverse image searches for this!</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 4.1. <em>Where was image 2 taken?</em><br><a id='4.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<p>I used the same method.</p>
+
+<br>
 
 
 
