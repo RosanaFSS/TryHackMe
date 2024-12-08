@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="h
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/attacktivedirectory">Cryptography for Dummies</a>.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/9a2b79bc-88db-475a-9818-52a0b141bfdb"> <br>
-  <img width="800px" src="https://github.com/user-attachments/assets/c92fa531-90b6-4e12-9369-965ddecb96ae">
+  <img width="800px" src="https://github.com/user-attachments/assets/1a7130c9-e1a9-4339-8829-e4d086bc3af7">
 </p>
 
 
@@ -119,17 +119,69 @@ There are plenty of other hashing algorithms out there, but this room is intende
 <br>
 
 <br>
-<h2>Task 4. Decoding/enconding</h2>
+<h2>Task 4. Decoding/encoding</h2>
 <br>
+
+<p>There's difference between encoding and encrypting. Let's say you have an encrypted file, the only way to decrypt it is using key. While encoded data can be decoded immediately, without keys. It's <code>NOT</code> a form of encryption, it just a way of representing data.<br>
+
+A very popular encoding is Base64. Here's how "hi there" looks with Base64 encoding : <code>aGkgdGhlcmU=</code></p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+<br>
+
+> 4.1. <em>Encode the string "cryptographyisuseful" with Base64.</em><br><a id='4.1'></a>
+>> <code><strong>Y3J5cHRvZ3JhcGh5aXN1c2VmdWw=</strong></code>
+
+<br>
+
+<p>I used <code>CyberChef</code> available in <code>THM AttackBox</code></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2d4425cd-754e-41cb-a238-56f0aa4bc63e)
+
+<br>
+
+
+> 4.2. <em>Decode the string "dGhlIHNlY3JldCB3b3JkIGlzIDogd2F0ZXJtZWxvbg==". What's the secret word?</em><br><a id='4.2'></a>
+>> <code><strong>watermelon</strong></code>
+
+<br>
+
+<p>I used <code>CyberChef</code> again.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3d77dc0e-bc6c-44b0-ab70-8e9a61e210f5)
 
 <br>
 <h2>Task 5. Thanks for Reading</h2>
+<p>Thanks for completing my room, if you are interested in cryptography and want to learn more I suggest you to complete the Cryptography rooms from TryHackMe. They cover more topics in cryptography.</p>
+
 <br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+<br>
+
+> 5.1. <em>Thanks for reading!</em><br><a id='4.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
 
 <br>
 <h2>Room Completed</h2>
 <br>
+
+![image](https://github.com/user-attachments/assets/95cb4a14-f603-4f1c-bb3f-3c87ad290107)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1affe25a-1fb2-4b3c-8680-19b8fc107a87)
+
 
 <br>
 <h2>My Journey</h2>
