@@ -35,7 +35,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="h
 
 Go to your access page and download your configuration file.</p>
 
-<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/9429b290-c5f4-4ef9-9d9a-2d8ad6963347"> </p>
+<p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/9429b290-c5f4-4ef9-9d9a-2d8ad6963347"> </p>
 
 >> <code><strong>No answer needed</strong></code>
 
