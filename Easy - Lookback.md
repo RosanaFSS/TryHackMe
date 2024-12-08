@@ -294,6 +294,36 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 
 <br>
 
+![image](https://github.com/user-attachments/assets/56535057-0334-4819-9d93-dc7912030d92)
+
+<br>
+
+<pre><code>msfupdate
+...
+...
+msfconsole
+...
+...
+msf6> search exchange
+...
+</code></pre>
+
+
+![image](https://github.com/user-attachments/assets/35517dad-c7d0-4fca-8860-afbecaf58986)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/99493d6e-2e0d-4260-a84c-e1c62d4c44e7)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c2c82ba6-24e5-4944-a52a-70398804abb2)
+
+
+
+
+
+
 
 
 
