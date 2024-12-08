@@ -180,6 +180,10 @@ You should see a green tick next to Connected. It will also show you your intern
 
 <br>
 
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/043ded45-c9d2-4e77-a86a-c923457b0301"> </p>
+
+<br>
+
 > 3.6. <em>Following selecting our module, we now have to check what options we have to set. Run the command `show options`. What is the only required setting which currently is blank?</em><br><a id='3.6'></a>
 >> <code><strong>________</strong></code>
 
