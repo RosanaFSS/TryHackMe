@@ -174,20 +174,30 @@ A very popular encoding is Base64. Here's how "hi there" looks with Base64 encod
 
 <br>
 <h2>Room Completed</h2>
-<br>
-
-![image](https://github.com/user-attachments/assets/95cb4a14-f603-4f1c-bb3f-3c87ad290107)
+<p>Keep learning, keep growing!</p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/1affe25a-1fb2-4b3c-8680-19b8fc107a87)
-
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/95cb4a14-f603-4f1c-bb3f-3c87ad290107"></p>
 
 <br>
-<h2>My Journey</h2>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/1affe25a-1fb2-4b3c-8680-19b8fc107a87"></p>
+
 <br>
+<h2>My Journey<a id='5'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 7, 2024  | 215      |     1,011 st |        21 st |    2,926 th |      34 th | 59,780   |       458 |
+
+</div>
 
 
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/5b8c8a70-de49-4972-b9a7-f060363c10fa"></p>
 
-
-
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
