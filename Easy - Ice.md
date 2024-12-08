@@ -15,9 +15,17 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="h
 <br>
 <h2>Task 1. Connect<a id='1'></a></h2>
 
-<p>Connect to the TryHackMe network! Please note that this machine does not respond to ping (ICMP) and may take a few minutes to boot up.</p>
+<p align="center">Connect to the TryHackMe network! Please note that this machine does not respond to ping (ICMP) and may take a few minutes to boot up.</p>
 
-<p>The virtual machine used in this room (Ice) can be downloaded for offline usage from https://darkstar7471.com/resources.html. The sequel to this room, Blaster, can be found here.</p>
+<br>
+
+<p align="center">-----------------------------------------</p>
+
+
+<br>
+
+<p align="center">The virtual machine used in this room (Ice) can be downloaded for offline usage from https://darkstar7471.com/resources.html. The sequel to this room, Blaster, can be found here.</p>
+
 
 <br>
 
