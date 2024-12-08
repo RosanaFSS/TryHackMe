@@ -39,6 +39,8 @@ Go to your access page and download your configuration file.</p>
 
 <p>When you run this you see lots of text, at the end it will say Initialization Sequence Completed</p>
 
+>> <code><strong>No answer needed</strong></code>
+
 <p>You can verify you are connected by looking on your access page. Refresh the page.<br>
 
 You should see a green tick next to Connected. It will also show you your internal IP address.</p>
