@@ -43,7 +43,7 @@ Go to your access page and download your configuration file.</p>
 
 <p>Use an OpenVPN client to connect. In my example I am on Linux, on the access page we have a windows tutorial.</p>
 
-<p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/d2f7f13e-e2b9-49d7-8a57-b24e2625d4dd"> </p>
+<p align="center"> <img width="600px" src="https://github.com/user-attachments/assets/d2f7f13e-e2b9-49d7-8a57-b24e2625d4dd"> </p>
 
 <p>When you run this you see lots of text, at the end it will say Initialization Sequence Completed</p>
 
