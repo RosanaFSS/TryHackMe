@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">December 8, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/afebf61c-b0c2-4702-8fd9-49aaa8c08728"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/f54957fc-83f5-4290-93e4-5c4509b8d107"> </p>
 
 <br>
 <p align="center">Highlights </p>
@@ -47,6 +47,7 @@
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
+| December 8, 2024  | 216      |      1,005ᵗʰ |         21ˢᵗ |      5,372ⁿᵈ |         55ᵗʰ | 59,964   |       459 |
 | December 8, 2024  | 216      |      1,010ᵗʰ |         21ˢᵗ |      3,095ᵗʰ |         41ˢᵗ | 59,804   |       458 |
 | December 7, 2024  | 215      |      1,015ᵗʰ |         21ˢᵗ |      2,751ˢᵗ |         32ⁿᵈ | 59,692   |       457 |
 | December 6, 2024  | 214      |      1,022ⁿᵈ |         22ⁿᵈ |      7,992ⁿᵈ |         98ᵗʰ | 59,444   |       456 |
