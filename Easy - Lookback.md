@@ -29,6 +29,29 @@ The VM takes about 5/10 minutes to fully boot up.</p>
 <p><em>Sometimes to move forward, we have to go backward.<br>
 So if you get stuck, try to look back!</em></p>
 
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+<br>
+
+> 1.1. <em>What is the service user flag?</em><br><a id='1.1'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+> 1.2. <em>What is the user flag?</em><br><a id='1.2'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+> 1.3. <em>What is the root flag?</em><br><a id='1.3'></a>
+>> <code><strong>___________________</strong></code>
+
+<br>
+
+
+
 
 <br>
 <h2>Room Completed</h2>
