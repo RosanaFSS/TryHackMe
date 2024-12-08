@@ -41,7 +41,7 @@ So if you get stuck, try to look back!</em></p>
 <br>
 
 > 1.2. <em>What is the user flag?</em><br><a id='1.2'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>THM{Stop_Reading_Start_Doing}</strong></code>
 
 <br>
 
@@ -207,6 +207,64 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 <p>Tried next <code>BitlockerActiveMonitoringLogs'</code>, and receiveed some intresting output.</p>
 
 ![image](https://github.com/user-attachments/assets/7281ddbe-dc49-44d5-9ac9-1f40b9b52f04)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/04fa1e7b-0300-4625-b7ef-b8b5e7e8f2b6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0efe16f7-515c-4586-af43-46a84b47cafc)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5b08689b-110a-4a3f-84e9-e54a5fa5c9ce)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ee251655-b7cf-4055-856c-83ef1ea66c0b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/aa0e42de-4934-4d3d-93c0-ca1cd145e0ab)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6f3c8764-faa8-4de7-bac9-3d7627e8db60)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e246e7b7-1f6b-43c8-a81d-4e4a2ea9a68f)
+
+<br>
+
+<p>Tried many options before the following.</p>
+
+![image](https://github.com/user-attachments/assets/d114c435-a0b6-403e-a33e-14bc61ad3a91)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/049e4808-9d79-47be-996b-3e5a480282d9)
+
+<br>
+
+<p>Now I know that I could have done totally different and in a easier way.</p>
+
+<pre><code>BitlockerActiveMonitoringLogs'); type C:\Users\dev\Desktop\user.txt #('</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4a2fc094-7a1b-42f1-a89d-a4f11f0c7120)
+
+
+
+
+
+
+
+
 
 
 <br>
