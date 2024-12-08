@@ -1,6 +1,6 @@
 <p align="center">December 7, 2024</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="https://tryhackme">TryHackMe</a>.</p>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="https://tryhackme">TryHackMe</a>.</p>
 
 <p align="center"> <img width="150px" src="https://github.com/user-attachments/assets/d2fc1f3d-09f0-47f0-8191-d8dfa7d89e92"></p>
 
@@ -143,11 +143,60 @@ Please do not use reverse image searches for this!</p>
 <br>
 
 > 4.1. <em>Where was image 2 taken?</em><br><a id='4.1'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>Wrigleyville Sports</strong></code>
 
 <p>I used the same method.</p>
 
 <br>
+<br>
+<h2>Task 5. Helpful tips for geolocating</h2>
+<p>Wow, congrats! I found a webcam on Shodan.io and took this screenshot, you just geolocated your first image 😎<br>
+
+It's important to know what is and isn't likely to be in a country. For example, it is unlikely for a regular Catholic church to appear in places where Budhism / islam is the most popular religeion.<br>
+
+The language used on the shops and vehicles matter too. We can use Google translate to predict what language it could be.<br>
+
+Which side of the road the cars are on, the license plates (you normally can find out what country or state the license plate is from), the markings on the road (different countries have different markings), the style of traffic lights, the clothing choices of those walking around.<br>
+
+To be good at geolocation, we've got to open our eyes to all that could be. In your country, for example, it may be common to wear coats during the winter periods. However, in other countries it may not be (think Australia).<br>
+
+Even the smallest of things that we wouldn't normally think twice about can reveal to us the possible location.<br>
+
+One of the more obvious ways we can geolocate an image is to look at the image details. Does it contain EXIF data?<br>
+
+
+What about where it was posted - is there a location tagged on social media?</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 5.1. <em>Read the above material</em><br><a id='5.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<p>I used the same method.</p>
+
+
+<br>
+<br>
+<h2>Task 6. Your tunr again!</h2>
+
+
+<p>Please do not try to use reverse image searches for this one! Pay close attention to what is in the image.<br>
+
+I want you to answer with the name of the place the webcam is facing.<br>
+
+Note: the name of this location on Google Maps is not the right answer. If you take that location name and paste it back into search, you'll find out there's about a million of them. To make this harder, I'm looking for the name that specifically identifies this location. When you enter this name, it'll be the only one that turns up on Google Maps.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 6.1. <em>RWhere was image 3 taken?</em><br><a id='6.1'></a>
+>> <code><strong>Meudon Observatory</strong></code>
+
+<p>......</p>
+
+
+
 
 
 
