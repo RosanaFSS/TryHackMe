@@ -20,3 +20,59 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="h
 <br>
 
 <h2>Task 1. Getting Started</h2>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 1.1. <em>Download the zip file.</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+<h2>Task 2. Getting our feet wet - where is this?</h2>
+<p>Where is image 1?<br>
+
+(Use Google Reverse Search and revel in all the airplanes it shows you, which by the way, isn't the right answer).<br>
+
+Try Yandex Reverse Image search. Look at the differences!</p>
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 2.1. <em>Where in the world is image 1? The answer is the country name.</em><br><a id='2.1'></a>
+>> <code><strong>China</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/83de5a21-4f06-4866-a8c2-cfffebab0e82)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/69ae2721-3894-4d45-9da6-da8f3ba7c96f)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c20f824c-59ba-49dd-8422-f034089c9c7a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8ea23026-ab70-43ae-863e-c2ec75aadc8f)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9c51bee7-037d-45e5-9174-fac20e88dd05)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
