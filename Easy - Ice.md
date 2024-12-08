@@ -415,12 +415,27 @@ msf6 exploit(windows/local/bypassuac_eventvwr) >
 
 <br>
 
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/8bdc8f18-f5c8-4810-8cc4-7a3e5daa23f4"> </p>
+
+<br>
+
 > 5.2. <em>In order to interact with lsass we need to be 'living in' a process that is the same architecture as the lsass service (x64 in the case of this machine) and a process that has the same permissions as lsass. The printer spool service happens to meet our needs perfectly for this and it'll restart if we crash it! What's the name of the printer service?<br>
 
 Mentioned within this question is the term 'living in' a process. Often when we take over a running program we ultimately load another shared library into the program (a dll) which includes our malicious code. From this, we can spawn a new thread that hosts our shell. . </em><br><a id='5.2'></a>
 >> <code><strong>____________________</strong></code>
 
 <br>
+
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/ca261de2-a52a-423c-a361-c6c8b4ae43d5"> </p>
+
+<br>
+
+
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/ca261de2-a52a-423c-a361-c6c8b4ae43d5"> </p>
+
+
+<br>
+
 
 > 5.3. <em>Migrate to this process now with the command `migrate -N PROCESS_NAME` </em><br><a id='5.3'></a>
 >> <code><strong>No answer needed</strong></code>
