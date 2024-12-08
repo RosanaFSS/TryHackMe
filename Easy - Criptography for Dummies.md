@@ -21,6 +21,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="h
 <h2>Task 2. Types of cryptography</h2>
 <br>
 
+
+
+
 <br>
 <h2>Task 3. What is a hash?</h2>
 <br>
