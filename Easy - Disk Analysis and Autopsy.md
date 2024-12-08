@@ -13,6 +13,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{67}}$$-day-streak in  <a href="ht
 </p>
 
 <br>
+<h2>Task 1. Windows 10 Disk Image</h2>
 
 
 ![Julho-12 - TryHackMe - Incident Response and Dorensics - Disk Analysis   Autopsy -  Image 1](https://github.com/user-attachments/assets/979db9eb-d560-45d5-8234-f7a6490e884f)
@@ -100,14 +101,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{67}}$$-day-streak in  <a href="ht
 
 ![Julho-12 - TryHackMe - Incident Response and Dorensics - Disk Analysis   Autopsy -  Image 21](https://github.com/user-attachments/assets/b15edd4b-47c9-4033-808e-4e1b7cd97d2d)
 
+<h2>Room Completed</h2>
 
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img width="800px" src="https://github.com/user-attachments/assets/e4527620-fe0e-47e9-a9de-3b0ef4f969d3">
+</p>
