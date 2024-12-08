@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{67}}$$-day-streak in  <a href="ht
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/autopsy2ze0">Disk Analysis and Autopsy</a>.</p><br>
 <p align="center">
   <img height="80px" hspace="20" src="https://github.com/user-attachments/assets/2ff16dc2-d5d5-49af-bb22-52a125e6c00b">
-  <img height="80px" src="https://github.com/user-attachments/assets/e4527620-fe0e-47e9-a9de-3b0ef4f969d3">
+  <img width="500px" src="https://github.com/user-attachments/assets/e4527620-fe0e-47e9-a9de-3b0ef4f969d3">
 </p>
 
 <br>
