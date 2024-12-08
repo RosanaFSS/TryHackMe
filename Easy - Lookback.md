@@ -266,12 +266,6 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 <br>
 
 
-<pre><code>cd /usr/share/nmap/scripts/
-
-git clone https://github.com/vulnersCom/nmap-vulners.git
-
-</code></pre>
-
 
 
 
