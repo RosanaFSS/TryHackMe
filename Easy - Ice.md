@@ -552,7 +552,7 @@ Exploit link: https://www.exploit-db.com/exploits/568</p>
 <br>
 <br>
 <h2>Room Completed<a id='8'></a></h2>
-<br>
+<p>Keep learning, keep growing!<br>
 
 
 <p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/e40b6790-d747-4381-b459-dfcee5401e2e"> </p>
@@ -563,17 +563,16 @@ Exploit link: https://www.exploit-db.com/exploits/568</p>
 
 
 
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
+<div align="center">
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 8, 2024  | 216      |     1,005 th |        21 st |    5,372 nd |      55 th |  59,964  |       459 |
 
+</div>
 
-
-
-
-
-
-
-
-
-
-
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f54957fc-83f5-4290-93e4-5c4509b8d107"> </h3>
