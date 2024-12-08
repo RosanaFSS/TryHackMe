@@ -95,6 +95,11 @@ You should see a green tick next to Connected. It will also show you your intern
 >> <code><strong>DARK-PC</strong></code>
 
 <br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/29738585-4f3a-4263-85f9-e704f42d2012"> </p>
+
+
+<br>
 <br>
 <h2>Task 3. Gain Access<a id='3'></a></h2>
 
