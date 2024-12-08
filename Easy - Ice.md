@@ -53,20 +53,89 @@ You should see a green tick next to Connected. It will also show you your intern
 
 >> <code><strong>No answer needed</strong></code>
 
-
-
-
->> <code><strong>No answer needed</strong></code>
-
-
-
-
-
-
 <br>
 <br>
+<h2>Task 2. Recon<a id='2'></a></h2>
 
-> 1.1. <em>Deploy the VM and Start the Enumeration.</em><br><a id='2'></a>
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 2.1. <em>Deploy the machine! This may take up to three minutes to start.</em><br><a id='2.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
+
+> 2.2. <em>Launch a scan against our target machine, I recommend using a SYN scan set to scan all ports on the machine. The scan command will be provided as a hint, however, it's recommended to complete the room 'Nmap' prior to this room. </em><br><a id='2.2'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 2.3. <em>Once the scan completes, we'll see a number of interesting ports open on this machine. As you might have guessed, the firewall has been disabled (with the service completely shutdown), leaving very little to protect this machine. One of the more interesting ports that is open is Microsoft Remote Desktop (MSRDP). What port is this open on?</em><br><a id='2.3'></a>
+>> <code><strong>3389</strong></code>
+
+<br>
+
+> 2.4. <em>What service did nmap identify as running on port 8000? (First word of this service)</em><br><a id='2.4'></a>
+>> <code><strong>Icecast</strong></code>
+
+<br>
+
+> 2.5. <em>What does Nmap identify as the hostname of the machine? (All caps for the answer).</em><br><a id='2.5'></a>
+>> <code><strong>DARK-PC</strong></code>
+
+<br>
+<br>
+<h2>Task 3. Gain Access<a id='3'></a></h2>
+
+
+
+<p>Exploit the target vulnerable service to gain a foothold!</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 3.1. <em>Now that we've identified some interesting services running on our target machine, let's do a little bit of research into one of the weirder services identified: Icecast. Icecast, or well at least this version running on our target, is heavily flawed and has a high level vulnerability with a score of 7.5 (7.4 depending on where you view it). What is the Impact Score for this vulnerability? Use https://www.cvedetails.com for this question and the next.</em><br><a id='3.1'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 3.2. <em>What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000</em><br><a id='3.2'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 3.3. <em>Now that we've found our vulnerability, let's find our exploit. For this section of the room, we'll use the Metasploit module associated with this exploit. Let's go ahead and start Metasploit using the command `msfconsole`</em><br><a id='3.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.4. <em>After Metasploit has started, let's search for our target exploit using the command 'search icecast'. What is the full path (starting with exploit) for the exploitation module? If you are not familiar with metasploit, take a look at the Metasploit module.`</em><br><a id='3.4'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 3.5. <em>Let's go ahead and select this module for use. Type either the command `use icecast` or `use 0` to select our search result.</em><br><a id='3.5'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.6. <em>Following selecting our module, we now have to check what options we have to set. Run the command `show options`. What is the only required setting which currently is blank?</em><br><a id='3.6'></a>
+>> <code><strong>________</strong></code>
+
+<br>
+
+> 3.7. <em>First let's check that the LHOST option is set to our tun0 IP (which can be found on the access page). With that done, let's set that last option to our target IP. Now that we have everything ready to go, let's run our exploit using the command `exploit`</em><br><a id='3.7'></a>
+>> <code><strong>No answer needed</strong></code>
+
+
+<br>
+<br>
+<h2>Task 4. Escalate<a id='3'></a></h2>
+
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/458c28bf-9d68-44d0-b420-6136ff40ea6f"> </p>
+
+<p>Enumerate the machine and find potential privilege escalation paths to gain Admin powers!</p>
+
+
+
+
