@@ -189,12 +189,7 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 
 <br>
 
-<p>Let´s try using <code>nikto</code></p>
-
-<br>
-
-<p>......</p>
-
+<p>I tried <code>admin:admin</code> as credentials.</p>
 
 <br>
 
@@ -208,31 +203,6 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 
 
 <br>
-
-<p><code>whoami</code> did ot work, but I noticed that it searches for a path like <code>C:\</code> and in the sequence what e enter: in this case happened a search for <code>C:\whoami</code>.</p>
-
-![image](https://github.com/user-attachments/assets/6f4d2271-eea0-4e5a-bc75-a0ef8633dddf)
-
-<p>I tried <code>home\</code>, <code>Home</code>, and others and it did not work.  Then I tried <code>Users\*</code> and got this pearl!!</p>
-
-![image](https://github.com/user-attachments/assets/1a801f21-c8d6-4367-b490-e594a0634fb9)
-
-<br>
-
-<p>Permission is denied for <code>C:\Users\Administrator</code>, for <code>C:\Users\.NET v4.5 Classic</code>, for <code>C:\Users\dev</code>, and also for <code>C:\Users\Public</code>.  Even so, I tried <code></code></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
