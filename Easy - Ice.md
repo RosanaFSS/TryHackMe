@@ -189,6 +189,10 @@ You should see a green tick next to Connected. It will also show you your intern
 
 <br>
 
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/ae351dd3-c4e7-488d-9684-e2396fb2a298"> </p>
+
+<br>
+
 > 3.7. <em>First let's check that the LHOST option is set to our tun0 IP (which can be found on the access page). With that done, let's set that last option to our target IP. Now that we have everything ready to go, let's run our exploit using the command `exploit`</em><br><a id='3.7'></a>
 >> <code><strong>No answer needed</strong></code>
 
