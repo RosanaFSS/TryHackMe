@@ -21,7 +21,37 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="h
 <h2>Task 2. Types of cryptography</h2>
 <br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<br>
+<br>
 
+> 2.1. <em>What type of cryptography is more secure?</em><br><a id='2.2'></a>
+>> <code><strong>asymmetric</strong></code>
+
+<br>
+
+> 2.2. <em>What type of cryptography is faster?</em><br><a id='2.2'></a>
+>> <code><strong>symmetric</strong></code>
+
+<br>
+
+> 2.3. <em>What type of cryptography will a Bank site use?</em><br><a id='2.3'></a>
+>> <code><strong>asymmetric</strong></code>
+
+<br>
+
+> 2.4. <em>What will you use to encrypt your messages in asymmetric cryptography?</em><br><a id='2.4'></a>
+>> <code><strong>public key</strong></code>
+
+<br>
+
+> 2.5. <em>What will you use to decrypt messages in asymmetric cryptography?</em><br><a id='2.5'></a>
+>> <code><strong>private key</strong></code>
+
+<br>
+
+> 2.6. <em>Does symmetric cryptography use two different keys for encryption/decryption? (aye/nay)</em><br><a id='2.6'></a>
+>> <code><strong>nay</strong></code>
 
 
 <br>
