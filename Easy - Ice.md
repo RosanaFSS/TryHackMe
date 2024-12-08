@@ -322,7 +322,7 @@ msf6 exploit(windows/local/bypassuac_eventvwr) >
 
 <br>
 
-> 4.9. <em>Local exploits require a session to be selected (something we can verify with the command `show options`), set this now using the command `set session SESSION_NUMBER`.</em><br><a id='4.8'></a>
+> 4.9. <em>Local exploits require a session to be selected (something we can verify with the command `show options`), set this now using the command `set session SESSION_NUMBER`.</em><br><a id='4.9'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
@@ -361,8 +361,8 @@ msf6 exploit(windows/local/bypassuac_eventvwr) >
 
 <br>
 
-> 4.10. <em>Now that we've set our session number, further options will be revealed in the options menu. We'll have to set one more as our listener IP isn't correct. What is the name of this option?</em><br><a id='4.8'></a>
->> <code><strong>No answer needed</strong></code>
+> 4.10. <em>Now that we've set our session number, further options will be revealed in the options menu. We'll have to set one more as our listener IP isn't correct. What is the name of this option?</em><br><a id='4.10'></a>
+>> <code><strong>LHOST</strong></code>
 
 <br>
 
@@ -371,6 +371,16 @@ msf6 exploit(windows/local/bypassuac_eventvwr) >
 <br>
 
 <p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/0f5fefb5-451e-47c2-bb2c-1123666627cb"> </p>
+
+<br>
+
+> 4.11. <em>Set this option now. You might have to check your IP on the TryHackMe network using the command `ip addr`?</em><br><a id='4.11'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 4.12. <em>After we've set this last option, we can now run our privilege escalation exploit. Run this now using the command `run`. Note, this might take a few attempts and you may need to relaunch the box and exploit the service in the case that this fails. </em><br><a id='4.12'></a>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 
