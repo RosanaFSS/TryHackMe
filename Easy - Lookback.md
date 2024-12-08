@@ -265,6 +265,42 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 
 <br>
 
+![image](https://github.com/user-attachments/assets/42610b4c-1bab-482a-a303-9050b26e80e5)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0a6622a3-fc47-455c-93f4-cb4a73685b16)
+
+<br>
+
+<p>I pasted my <code>payload</code> after <code>BitlockerActiveMonitoringLogs') ;</code> and added in the end <code>('</code>.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ef0e778b-3d52-498d-8693-6bfaa14c7e14)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d3ec3b8a-e780-455b-82b1-03b65d90ab79)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cefff290-7167-4b99-a03a-f5b6810eb4e5)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/e65adbe6-4c24-4dfc-b154-755d6fccf965)
+
+<br>
+
+
+
+
+
+
+
+
 
 
 
