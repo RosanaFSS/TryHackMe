@@ -36,7 +36,7 @@ So if you get stuck, try to look back!</em></p>
 <br>
 
 > 1.1. <em>What is the service user flag?</em><br><a id='1.1'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>THM{Security_Through_Obscurity_Is_Not_A_Defense}</strong></code>
 
 <br>
 
@@ -49,6 +49,189 @@ So if you get stuck, try to look back!</em></p>
 >> <code><strong>___________________</strong></code>
 
 <br>
+
+<br>
+
+<pre><code>oot@[THM AttackBox]:~/Lookback# nmap -sC -sV lookback.thm
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-12-08 20:43 GMT
+Nmap scan report for lookback.thm ([Target])
+Host is up (0.029s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE        VERSION
+80/tcp   open  http           Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-IIS/10.0
+|_http-title: Site doesn't have a title.
+135/tcp  open  msrpc          Microsoft Windows RPC
+139/tcp  open  netbios-ssn    Microsoft Windows netbios-ssn
+443/tcp  open  ssl/https
+| ssl-cert: Subject: commonName=WIN-12OUO7A66M7
+| Subject Alternative Name: DNS:WIN-12OUO7A66M7, DNS:WIN-12OUO7A66M7.thm.local
+| Not valid before: 2023-01-25T21:34:02
+|_Not valid after:  2028-01-25T21:34:02
+445/tcp  open  microsoft-ds?
+593/tcp  open  ncacn_http     Microsoft Windows RPC over HTTP 1.0
+3389/tcp open  ms-wbt-server?
+| rdp-ntlm-info: 
+|   Target_Name: THM
+|   NetBIOS_Domain_Name: THM
+|   NetBIOS_Computer_Name: WIN-12OUO7A66M7
+|   DNS_Domain_Name: thm.local
+|   DNS_Computer_Name: WIN-12OUO7A66M7.thm.local
+|   DNS_Tree_Name: thm.local
+|   Product_Version: 10.0.17763
+|_  System_Time: 2024-12-08T20:45:07+00:00
+| ssl-cert: Subject: commonName=WIN-12OUO7A66M7.thm.local
+| Not valid before: 2024-12-07T20:34:27
+|_Not valid after:  2025-06-08T20:34:27
+MAC Address: 02:66:4D:0C:02:39 (Unknown)
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_nbstat: NetBIOS name: WIN-12OUO7A66M7, NetBIOS user: <unknown>, NetBIOS MAC: 02:66:4d:0c:02:39 (unknown)
+| smb2-security-mode: 
+|   2.02: 
+|_    Message signing enabled and required
+| smb2-time: 
+|   date: 2024-12-08T20:45:07
+|_  start_date: N/A
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 226.57 seconds
+</code></pre>
+
+<br>
+
+<p>From <code>nmap</code> we learned the <code>DNS Computer Namee</code>, which is <code>WIN-12OUO7A66M7.thm.local</code></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/76f1cfba-ddd3-46c5-975a-5d7a52263df1)
+
+<br>
+
+<p>Then I visited <code>WIN-12OUO7A66M7.thm.local:80</code>, and got this ...</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5524551b-2227-443e-8b5e-5eeb841e0b37)
+
+<br>
+<p>And nothing also <code>viewing source</code> ...</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ac819f92-6a6a-4dbf-ba56-c1ea7059c6a0)
+
+<br>
+
+<p>Visiting it on port 443 ...</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/83fdb747-ba6c-43e8-a429-52256dc6c581)
+
+<br>
+
+<p>I accepeted the Risk and Continued, and got an <code>Outlook</code> webpage.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/95f2a0c6-db0a-41fc-8a8f-32b7085bd486)
+
+<br>
+
+<p>Proceeded then using <code>ffuf</code></p>
+
+<br>
+
+<pre><code>root@[THM AttackBox:~/Lookback# ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://win-12ouo7a66m7.thm.local/FUZZ -fw 1
+
+        /'___\  /'___\           /'___\       
+       /\ \__/ /\ \__/  __  __  /\ \__/       
+       \ \ ,__\\ \ ,__\/\ \/\ \ \ \ ,__\      
+        \ \ \_/ \ \ \_/\ \ \_\ \ \ \ \_/      
+         \ \_\   \ \_\  \ \____/  \ \_\       
+          \/_/    \/_/   \/___/    \/_/       
+
+       v1.3.1
+________________________________________________
+
+ :: Method           : GET
+ :: URL              : https://win-12ouo7a66m7.thm.local/FUZZ
+ :: Wordlist         : FUZZ: /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+ :: Follow redirects : false
+ :: Calibration      : false
+ :: Timeout          : 10
+ :: Threads          : 40
+ :: Matcher          : Response status: 200,204,301,302,307,401,403,405
+ :: Filter           : Response words: 1
+________________________________________________
+
+test                    [Status: 401, Size: 1293, Words: 81, Lines: 30]
+Test                    [Status: 401, Size: 1293, Words: 81, Lines: 30]
+owa                     [Status: 302, Size: 233, Words: 6, Lines: 4]
+ecp                     [Status: 302, Size: 233, Words: 6, Lines: 4]
+27079%5Fclassicpeople2%2Ejpg [Status: 302, Size: 146, Words: 6, Lines: 4]
+tiki%2Epng              [Status: 302, Size: 130, Words: 6, Lines: 4]
+squishdot_rss10%2Etxt   [Status: 302, Size: 141, Words: 6, Lines: 4]
+b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
+:: Progress: [220560/220560] :: Job [1/1] :: 763 req/sec :: Duration: [0:08:51] :: Errors: 0 ::
+</code></pre>
+
+
+<br>
+
+<p>To pass through <code>/test</code> we need some credentials.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/45468de5-21b2-43e9-83dd-0c73aa941ea8)
+
+<br>
+
+<p>Let´s try using <code>nikto</code></p>
+
+<br>
+
+<p>......</p>
+
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/690b314d-6b0a-4412-b1ca-ce6cf2c403c1)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/7c9837e6-3738-4ed5-abff-7357b05160b8)
+
+
+<br>
+
+<p><code>whoami</code> did ot work, but I noticed that it searches for a path like <code>C:\</code> and in the sequence what e enter: in this case happened a search for <code>C:\whoami</code>.</p>
+
+![image](https://github.com/user-attachments/assets/6f4d2271-eea0-4e5a-bc75-a0ef8633dddf)
+
+<p>I tried <code>home\</code>, <code>Home</code>, and others and it did not work.  Then I tried <code>Users\*</code> and got this pearl!!</p>
+
+![image](https://github.com/user-attachments/assets/1a801f21-c8d6-4367-b490-e594a0634fb9)
+
+<br>
+
+<p>Permission is denied for <code>C:\Users\Administrator</code>, for <code>C:\Users\.NET v4.5 Classic</code>, for <code>C:\Users\dev</code>, and also for <code>C:\Users\Public</code>.  Even so, I tried <code></code></p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
