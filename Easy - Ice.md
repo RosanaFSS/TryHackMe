@@ -165,15 +165,15 @@ You should see a green tick next to Connected. It will also show you your intern
 
 <br>
 
+> 3.4. <em>After Metasploit has started, let's search for our target exploit using the command 'search icecast'. What is the full path (starting with exploit) for the exploitation module? If you are not familiar with metasploit, take a look at the Metasploit module.`</em><br><a id='3.4'></a>
+>> <code><strong>exploit/windows/http/icecast_header</strong></code>
+
+<br>
+
 <p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/f89325d5-d5a2-49a6-9ac4-ba20ffe3b0b2"> </p>
 
 <br>
 
-
-> 3.4. <em>After Metasploit has started, let's search for our target exploit using the command 'search icecast'. What is the full path (starting with exploit) for the exploitation module? If you are not familiar with metasploit, take a look at the Metasploit module.`</em><br><a id='3.4'></a>
->> <code><strong>________</strong></code>
-
-<br>
 
 > 3.5. <em>Let's go ahead and select this module for use. Type either the command `use icecast` or `use 0` to select our search result.</em><br><a id='3.5'></a>
 >> <code><strong>No answer needed</strong></code>
