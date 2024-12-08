@@ -1,5 +1,16 @@
+<p align="center">July 12, 2024</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{67}}$$-day-streak in  <a href="https://tryhackme.com/s">TryHackMe</a>.</p>
 
-![Julho-12 - TryHackMe - Incident Response and Dorensics - Disk Analysis   Autopsy -  Image 22](https://github.com/user-attachments/assets/e4527620-fe0e-47e9-a9de-3b0ef4f969d3)
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{Disk Analysis and Autopsy}}$$
+</h1>
+<p align="center">Ready for a challenge? Use Autopsy to investigate artifacts from a disk image.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/autopsy2ze0">Disk Analysis and Autopsy</a>.</p><br>
+<p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/2ff16dc2-d5d5-49af-bb22-52a125e6c00b">
+  <img height="150px" src="https://github.com/user-attachments/assets/e4527620-fe0e-47e9-a9de-3b0ef4f969d3">
+</p>
 
 <br>
 
