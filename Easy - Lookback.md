@@ -204,6 +204,9 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 
 <br>
 
+<p>Tried next <code>BitlockerActiveMonitoringLogs'</code>, and receiveed some intresting output.</p>
+
+![image](https://github.com/user-attachments/assets/7281ddbe-dc49-44d5-9ac9-1f40b9b52f04)
 
 
 <br>
