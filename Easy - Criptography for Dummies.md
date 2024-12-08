@@ -17,11 +17,20 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{215}}$$-day-streak in  <a href="h
 <h2>Task 1. Intro</h2>
 <br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+<br>
+
+> 1.1. <em>I understand why cryptography is important!</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
 <br>
 <h2>Task 2. Types of cryptography</h2>
 <br>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 <br>
 <br>
 
