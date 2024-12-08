@@ -24,6 +24,11 @@ Start the Virtual Machine by pressing the Start Machine button at the top of thi
 Can you find all the flags?<br>
 The VM takes about 5/10 minutes to fully boot up.</p>
 
+<br>
+
+<p><em>Sometimes to move forward, we have to go backward.<br>
+So if you get stuck, try to look back!</em></p>
+
 
 <br>
 <h2>Room Completed</h2>
