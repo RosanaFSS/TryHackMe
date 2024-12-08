@@ -113,7 +113,7 @@ You should see a green tick next to Connected. It will also show you your intern
 <br>
 <h2>Task 3. Gain Access<a id='3'></a></h2>
 
-<p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/45b69899-8f2a-453e-ab2b-d2565b9ca0e9"> </p>
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/45b69899-8f2a-453e-ab2b-d2565b9ca0e9"> </p>
 
 <p align="center">Exploit the target vulnerable service to gain a foothold!</p>
 
@@ -123,7 +123,11 @@ You should see a green tick next to Connected. It will also show you your intern
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 > 3.1. <em>Now that we've identified some interesting services running on our target machine, let's do a little bit of research into one of the weirder services identified: Icecast. Icecast, or well at least this version running on our target, is heavily flawed and has a high level vulnerability with a score of 7.5 (7.4 depending on where you view it). What is the Impact Score for this vulnerability? Use https://www.cvedetails.com for this question and the next.</em><br><a id='3.1'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>6.4</strong></code>
+
+<br>
+
+<p align="center"> <img width="300px" src="https://github.com/user-attachments/assets/5149dc21-65fe-4477-8c2f-6d1176f81f49"> </p>
 
 <br>
 
