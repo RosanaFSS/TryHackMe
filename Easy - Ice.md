@@ -91,6 +91,11 @@ You should see a green tick next to Connected. It will also show you your intern
 
 <br>
 
+![image](https://github.com/user-attachments/assets/e5de7b0f-6ff4-4632-84f7-3eedde43a1ab)
+
+
+<br>
+
 > 2.5. <em>What does Nmap identify as the hostname of the machine? (All caps for the answer).</em><br><a id='2.5'></a>
 >> <code><strong>DARK-PC</strong></code>
 
