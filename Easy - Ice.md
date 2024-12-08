@@ -86,12 +86,17 @@ You should see a green tick next to Connected. It will also show you your intern
 
 <br>
 
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/3671268a-fbe9-4a01-a7d7-5f140af830b9"> </p>
+
+<br>
+
+
 > 2.4. <em>What service did nmap identify as running on port 8000? (First word of this service)</em><br><a id='2.4'></a>
 >> <code><strong>Icecast</strong></code>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/e5de7b0f-6ff4-4632-84f7-3eedde43a1ab)
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/e5de7b0f-6ff4-4632-84f7-3eedde43a1ab"> </p>
 
 
 <br>
