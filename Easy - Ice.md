@@ -67,6 +67,12 @@ You should see a green tick next to Connected. It will also show you your intern
 <br>
 <h2>Task 2. Recon<a id='2'></a></h2>
 
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/9951bf17-6de4-4cc5-8d42-ca1f16156129> </p>
+
+<p align="center">Scan and enumerate our victim!.</p>
+
+
+
 <br>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
