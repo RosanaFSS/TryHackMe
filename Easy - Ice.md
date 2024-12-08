@@ -148,7 +148,7 @@ You should see a green tick next to Connected. It will also show you your intern
 
 
 > 3.2. <em>What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000</em><br><a id='3.2'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>CVE-2004-1561</strong></code>
 
 <br>
 
@@ -156,6 +156,19 @@ You should see a green tick next to Connected. It will also show you your intern
 >> <code><strong>No answer needed</strong></code>
 
 <br>
+
+<p>Before running <code>msfconsole</code>, I run <code>msfupdate</code>.</p>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/89a6b84d-a8a7-4cf6-ad90-194695bfd3eb"> </p>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/f89325d5-d5a2-49a6-9ac4-ba20ffe3b0b2"> </p>
+
+<br>
+
 
 > 3.4. <em>After Metasploit has started, let's search for our target exploit using the command 'search icecast'. What is the full path (starting with exploit) for the exploitation module? If you are not familiar with metasploit, take a look at the Metasploit module.`</em><br><a id='3.4'></a>
 >> <code><strong>________</strong></code>
