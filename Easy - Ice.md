@@ -98,9 +98,12 @@ You should see a green tick next to Connected. It will also show you your intern
 <br>
 <h2>Task 3. Gain Access<a id='3'></a></h2>
 
+<p align="center"> <img width="400px" src="https://github.com/user-attachments/assets/45b69899-8f2a-453e-ab2b-d2565b9ca0e9"> </p>
 
+<p align="center">Exploit the target vulnerable service to gain a foothold!</p>
 
-<p>Exploit the target vulnerable service to gain a foothold!</p>
+<br>
+
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
