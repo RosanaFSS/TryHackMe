@@ -1,6 +1,6 @@
-<p align="center">November 8, 2024</p>
+<p align="center">December 8, 2024</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
 
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Ice}}$$
