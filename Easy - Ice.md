@@ -270,7 +270,7 @@ meterpreter ></code></pre>
 <br>
 
 > 4.5. <em>Now that we know the architecture of the process, let's perform some further recon. While this doesn't work the best on x64 machines, let's now run the following command `run post/multi/recon/local_exploit_suggester`. *This can appear to hang as it tests exploits and might take several minutes to complete*</em><br><a id='4.5'></a>
->> <code><strong>x64</strong></code>
+>> <code><strong>No answer needed</strong></code>
 
 <br>
 
@@ -278,6 +278,17 @@ meterpreter ></code></pre>
 
 
 <br>
+
+> 4.6. <em>Running the local exploit suggester will return quite a few results for potential escalation exploits. What is the full path (starting with exploit/) for the first returned exploit?</em><br><a id='4.6'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/06704539-bfe8-473e-b88d-86fc77c9dbdc"> </p>
+
+
+<br>
+
 
 
 
