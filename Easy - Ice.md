@@ -185,7 +185,7 @@ You should see a green tick next to Connected. It will also show you your intern
 <br>
 
 > 3.6. <em>Following selecting our module, we now have to check what options we have to set. Run the command `show options`. What is the only required setting which currently is blank?</em><br><a id='3.6'></a>
->> <code><strong>________</strong></code>
+>> <code><strong>rhosts</strong></code>
 
 <br>
 
