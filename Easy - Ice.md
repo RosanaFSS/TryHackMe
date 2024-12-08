@@ -8,8 +8,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="h
 <p align="center">Deploy & hack into a Windows machine, exploiting a very poorly secured media server.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ice">Ice</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/26afa9d5-2b53-4897-aa55-b9d2a89958d6">
-  <img height="150px" src="https://github.com/user-attachments/assets/b1ea024d-c327-42a8-a048-90019761d1b3">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/26afa9d5-2b53-4897-aa55-b9d2a89958d6"><br>
+  <img width="800px" src="https://github.com/user-attachments/assets/d617512b-d5c9-41e9-b943-db84a17abf19">
 </p>
 
 <br>
@@ -422,7 +422,7 @@ msf6 exploit(windows/local/bypassuac_eventvwr) >
 > 5.2. <em>In order to interact with lsass we need to be 'living in' a process that is the same architecture as the lsass service (x64 in the case of this machine) and a process that has the same permissions as lsass. The printer spool service happens to meet our needs perfectly for this and it'll restart if we crash it! What's the name of the printer service?<br>
 
 Mentioned within this question is the term 'living in' a process. Often when we take over a running program we ultimately load another shared library into the program (a dll) which includes our malicious code. From this, we can spawn a new thread that hosts our shell. . </em><br><a id='5.2'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>spoolsv.exe</strong></code>
 
 <br>
 
@@ -431,7 +431,7 @@ Mentioned within this question is the term 'living in' a process. Often when we 
 <br>
 
 
-<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/ca261de2-a52a-423c-a361-c6c8b4ae43d5"> </p>
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/8f69832b-1419-424b-a6a7-dfa08f62ee05"> </p>
 
 
 <br>
@@ -442,8 +442,18 @@ Mentioned within this question is the term 'living in' a process. Often when we 
 
 <br>
 
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/61ddd2de-47bc-4cb9-9b67-3e55eee24a035"> </p>
+
+<br>
+
+
 > 5.4. <em>Let's check what user we are now with the command `getuid`. What user is listed? </em><br><a id='5.4'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>NT AUTHORITY\SYSTEM</strong></code>
+
+<br>
+
+<pre><code>meterpreter> getuid
+Server username: NT AUTHORITY\SYSTEM</code></pre>
 
 <br>
 
@@ -452,18 +462,22 @@ Mentioned within this question is the term 'living in' a process. Often when we 
 
 <br>
 
+<pre><code>meterpreter> load kiwi
+</code></pre>
+
+<br>
 > 5.6. <em>Loading kiwi into our meterpreter session will expand our help menu, take a look at the newly added section of the help menu now via the command `help`. </em><br><a id='5.6'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
 
 > 5.7. <em>Which command allows up to retrieve all credentials?</em><br><a id='5.7'></a>
->> <code><strong>__________________</strong></code>
+>> <code><strong>creds_all</strong></code>
 
 <br>
 
 > 5.8. <em>Run this command now. What is Dark's password? Mimikatz allows us to steal this password out of memory even without the user 'Dark' logged in as there is a scheduled task that runs the Icecast as the user 'Dark'. It also helps that Windows Defender isn't running on the box ;) (Take a look again at the ps list, this box isn't in the best shape with both the firewall and defender disabled)</em><br><a id='5.8'></a>
->> <code><strong>__________________</strong></code>
+>> <code><strong>Password01</strong></code>
 
 <br>
 
@@ -485,29 +499,29 @@ Mentioned within this question is the term 'living in' a process. Often when we 
 <br>
 
 > 6.2. <em>What command allows us to dump all of the password hashes stored on the system? We won't crack the Administrative password in this case as it's pretty strong (this is intentional to avoid password spraying attempts). </em><br><a id='6.2'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>hashdump</strong></code>
 
 <br>
 
 > 6.3. <em>While more useful when interacting with a machine being used, what command allows us to watch the remote user's desktop in real time?</em><br><a id='6.3'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>screenshare</strong></code>
 
 <br>
 
 > 6.4. <em>How about if we wanted to record from a microphone attached to the system?</em><br><a id='6.4'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>record_mic</strong></code>
 
 <br>
 
 > 6.5. <em>To complicate forensics efforts we can modify timestamps of files on the system. What command allows us to do this? Don't ever do this on a pentest unless you're explicitly allowed to do so! This is not beneficial to the defending team as they try to breakdown the events of the pentest after the fact.</em><br><a id='6.5'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>timestomp</strong></code>
 
 <br>
 
 > 6.6. <em>Mimikatz allows us to create what's called a `golden ticket`, allowing us to authenticate anywhere with ease. What command allows us to do this?<br>
 
 Golden ticket attacks are a function within Mimikatz which abuses a component to Kerberos (the authentication system in Windows domains), the ticket-granting ticket. In short, golden ticket attacks allow us to maintain persistence and authenticate as any user on the domain. </em><br><a id='6.6'></a>
->> <code><strong>____________________</strong></code>
+>> <code><strong>golden_ticket_create</strong></code>
 
 <br>
 
@@ -533,6 +547,19 @@ Exploit link: https://www.exploit-db.com/exploits/568</p>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
+
+
+<br>
+<br>
+<h2>Room Completed<a id='8'></a></h2>
+<br>
+
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/e40b6790-d747-4381-b459-dfcee5401e2e"> </p>
+
+<br>
+
+
 
 
 
