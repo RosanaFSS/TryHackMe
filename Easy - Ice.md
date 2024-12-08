@@ -6,18 +6,12 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{185}}$$-day-streak in  <a href="h
   $$\textcolor{#3bd62d}{\textnormal{Ice}}$$
 </h1>
 <p align="center">Deploy & hack into a Windows machine, exploiting a very poorly secured media server.</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href=">Ice</a>.</p><br>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/ice">Ice</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/ec7bc62a-da66-408c-b6ad-bfd417ebec6a">
-  <img height="150px" src="https://github.com/user-attachments/assets/0861e55f-d736-40f0-a9df-2512c2b0924e">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/26afa9d5-2b53-4897-aa55-b9d2a89958d6">
+  <img height="150px" src="https://github.com/user-attachments/assets/b1ea024d-c327-42a8-a048-90019761d1b3">
 </p>
 
-<p align="center">Summary</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Find the Flags](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Web Directory](#3) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [File Name](#4) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [FTP Password](#5) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp;[File Name with SSH Password](#6) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [User Flag](#7) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Root Flag](#8)  &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room Complete](#9) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My Journey](#10)
-
-<br>
-<br>
 <br>
 <h2>Task 1. Find the Flags<a id='1'></a></h2>
 
