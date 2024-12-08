@@ -207,11 +207,9 @@ msf6 exploit(windows/http/icecast_header) >
 
 <br>
 <br>
-<h2>Task 4. Escalate<a id='3'></a></h2>
+<h2>Task 4. Escalate<a id='4'></a></h2>
 
 <p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/458c28bf-9d68-44d0-b420-6136ff40ea6f"> </p>
-
-<p>Enumerate the machine and find potential privilege escalation paths to gain Admin powers!</p>
 
 <p align="center">Enumerate the machine and find potential privilege escalation paths to gain Admin powers!</p>
 
@@ -383,6 +381,81 @@ msf6 exploit(windows/local/bypassuac_eventvwr) >
 >> <code><strong>No answer needed</strong></code>
 
 <br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/41879708-38bb-4da0-8dbb-5143a4ba59a3"> </p>
+
+<br>
+
+> 4.13. <em>Following completion of the privilege escalation a new session will be opened. Interact with it now using the command `sessions SESSION_NUMBER` </em><br><a id='4.13'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 4.14. <em>We can now verify that we have expanded permissions using the command `getprivs`. What permission listed allows us to take ownership of files?</em><br><a id='4.14'></a>
+>> <code><strong>SeTakeOwnershipPrivilege</strong></code>
+
+<br>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/1c03d0eb-9d6f-4830-a599-44e40c49735d"> </p>
+
+<br>
+<br>
+<h2>Task 5. Looting<a id='5'></a></h2>
+
+<p align="center"> <img width="200px" src="https://github.com/user-attachments/assets/b56b8bbe-e891-4c67-86df-ef0d29c2de40"> </p>
+
+<p align="center">Learn how to gather additional credentials and crack the saved hashes on the machine</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+> 5.1. <em>Prior to further action, we need to move to a process that actually has the permissions that we need to interact with the lsass service, the service responsible for authentication within Windows. First, let's list the processes using the command `ps`. Note, we can see processes being run by NT AUTHORITY\SYSTEM as we have escalated permissions (even though our process doesn't). </em><br><a id='5.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 5.2. <em>In order to interact with lsass we need to be 'living in' a process that is the same architecture as the lsass service (x64 in the case of this machine) and a process that has the same permissions as lsass. The printer spool service happens to meet our needs perfectly for this and it'll restart if we crash it! What's the name of the printer service?<br>
+
+Mentioned within this question is the term 'living in' a process. Often when we take over a running program we ultimately load another shared library into the program (a dll) which includes our malicious code. From this, we can spawn a new thread that hosts our shell. . </em><br><a id='5.2'></a>
+>> <code><strong>____________________</strong></code>
+
+<br>
+
+> 5.3. <em>Migrate to this process now with the command `migrate -N PROCESS_NAME` </em><br><a id='5.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 5.4. <em>Let's check what user we are now with the command `getuid`. What user is listed? </em><br><a id='5.4'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 5.5. <em>Now that we've made our way to full administrator permissions we'll set our sights on looting. Mimikatz is a rather infamous password dumping tool that is incredibly useful. Load it now using the command `load kiwi` (Kiwi is the updated version of Mimikatz)</em><br><a id='5.5'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 5.6. <em>Loading kiwi into our meterpreter session will expand our help menu, take a look at the newly added section of the help menu now via the command `help`. </em><br><a id='5.6'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 5.7. <em>Which command allows up to retrieve all credentials?</em><br><a id='5.7'></a>
+>> <code><strong>__________________</strong></code>
+
+<br>
+
+> 5.8. <em>Run this command now. What is Dark's password? Mimikatz allows us to steal this password out of memory even without the user 'Dark' logged in as there is a scheduled task that runs the Icecast as the user 'Dark'. It also helps that Windows Defender isn't running on the box ;) (Take a look again at the ps list, this box isn't in the best shape with both the firewall and defender disabled)</em><br><a id='5.8'></a>
+>> <code><strong>__________________</strong></code>
+
+<br>
+
+
+
+
+
 
 
 
