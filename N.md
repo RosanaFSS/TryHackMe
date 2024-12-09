@@ -12,4 +12,12 @@
 - The <code>core of WPA2</code> authentication is the <code>4 way handshake</code>.<br>
 - Most home WiFi networks, and many others, use <code>WPA2 personal</code>.<br>
 - If you have to <code>log in with a password</code> and it's not WEP, then it's <code>WPA2 personal</code> = <code>WPA2-EAP</code>.<br>
-- <code>WPA2-EAPM/code> uses RADIUS servers to authenticate, so if you have to enter a username and password in order to connect then it's probably that.<br>
+- <code>WPA2-EAP</code> uses RADIUS servers to authenticate, so if you have to enter a username and password in order to connect then it's probably that.<br>
+- The minimum lenght of <code>WPA2-EAP</code> OR  <code>WPA2 Personal Password</code> is 8.<br>
+- You can perform <code>brute force</code>attack on the encryption on <code>WPA2 personal</code>.<br>
+- <code>Brute force</code> can not be used to attack <code>WPA2-EAP</code> handshakes. <br><br>
+
+<br>
+<h2>WPA2-PSK</h2>
+- <code>WPA2-PSK</code> refer to Wifis network that you connect to by providing a password that's the same for everyone.
+- It refers to the <em>wifi code/ password/ passphrase</em><br>.
