@@ -224,8 +224,22 @@ https://geoguessr.com/</p>
 <br>
 <br>
 <h2>Room Complete</h2>
+<p>Keep learning, keep growing!<br>
 
-![image](https://github.com/user-attachments/assets/3017011f-a0fd-40b6-9d59-b899f63ce810)
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/3017011f-a0fd-40b6-9d59-b899f63ce810"> </h3>
 
 
-![image](https://github.com/user-attachments/assets/1450993d-7f47-4ec7-bb38-03db236a2650)
+
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 8, 2024  | 216      |     1,001 st |        21 st |    4,980 th |      51 st |  60,040  |       460 |
+
+</div>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/1450993d-7f47-4ec7-bb38-03db236a2650"> </h3>
