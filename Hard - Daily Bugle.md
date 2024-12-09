@@ -103,6 +103,20 @@ path : http://[Target]/robots.txt
 
 <br>
 
+<p>I learned aftwerwards that we can go to <code>http://[Target]/administrator/manifests/files/joomla.xml</code> we can find out Joomla´s version.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a7b6dcdc-c19a-4df7-a60c-eb80b34ac9df)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ee470c35-026f-4256-9592-af1ef1646074)
+
+
+
+<br>
+
 <pre><code>https://github.com/XiphosResearch/exploits/tree/master/Joomblah
 https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 ...
@@ -117,8 +131,10 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 
 <br>
 
+![image](https://github.com/user-attachments/assets/4b598160-0961-4e53-a8c8-e244c07fd52b)
 
-![image](https://github.com/user-attachments/assets/29f0cc0c-7630-4436-b86a-74ba3358cbfc)
+
+
 
 <br>
 
@@ -127,6 +143,10 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 ...
   
 </code></pre>
+
+<br>
+
+
 
 
 
