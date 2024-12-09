@@ -350,15 +350,6 @@ msf6 exploit(windows/http/exchange_proxyshell_rce) > show options</code></pre>
 
 
 
-
-
-
-
-
-
-
-
-
 <br>
-<h2>Room Completed</h2>
+<h2>------------------------- To be continued -------------------------</h2>
 <br>
