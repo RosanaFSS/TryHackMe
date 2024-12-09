@@ -10,6 +10,6 @@
 <br>
 <h2>WPA2</h2>
 - The <code>core of WPA2</code> authentication is the <code>4 way handshake</code>.<br>
-- Most home WiFi networks, and many others, use WPA2 personal.<br>
-- If you have to <code>log in with a password</code>code> and it's not WEP, then it's <code>WPA2 personal</code> = <code>WPA2-EAP</code>.<br>
+- Most home WiFi networks, and many others, use <code>WPA2 personal</code>.<br>
+- If you have to <code>log in with a password</code> and it's not WEP, then it's <code>WPA2 personal</code> = <code>WPA2-EAP</code>.<br>
 - <code>WPA2-EAPM/code> uses RADIUS servers to authenticate, so if you have to enter a username and password in order to connect then it's probably that.<br>
