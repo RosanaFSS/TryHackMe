@@ -173,8 +173,6 @@ What about where it was posted - is there a location tagged on social media?</p>
 > 5.1. <em>Read the above material</em><br><a id='5.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
-<p>I used the same method.</p>
-
 
 <br>
 <br>
