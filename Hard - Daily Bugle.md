@@ -1,4 +1,4 @@
-<h1>Daily Bugle</h1>
+<h1>Hard - Daily Bugle</h1>
 
 Day 217
 
