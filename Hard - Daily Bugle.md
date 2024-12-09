@@ -120,6 +120,14 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 
 ![image](https://github.com/user-attachments/assets/29f0cc0c-7630-4436-b86a-74ba3358cbfc)
 
+<br>
+
+<pre><code>apt install sqlmap
+...
+...
+  
+</code></pre>
+
 
 
 
