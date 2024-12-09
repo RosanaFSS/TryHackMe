@@ -3,10 +3,11 @@
 - <code>WPA</code> stands for <code>W</code>i-Fi <code>P</code>rotected <code>A</code>ccess.<br>
 - It is a security standard for computing devices equipped with wireless internet connections.<br>
 
-- <code>WEP</code>, <code>WPA</code>, <code>WPA2</code>, and the latest <code>WPA3</code> are the four types of wireless network security protocols, each with increasing levels of security.<br>
+
 - The Wi-Fi Alliance intended <code>WPA</code> as an intermediate measure to take the place of <code>WEP</code>.<br>
 - <code>WEP</code> = <code>W</code>ierd <code>E</code>quivalent <code>P</code>rivacy was shown to be insecure and can be broken by capturing enough packets to guess the key via statistical methods.<br>
 - <code>WPA2</code> replaced<code> WPA</code>.<br>
+- <code>WEP</code>, <code>WPA</code>, <code>WPA2</code>, and the latest <code>WPA3</code> are the four types of wireless network security protocols, each with increasing levels of security.<br>
 
 <br>
 <h2>WPA2</h2>
