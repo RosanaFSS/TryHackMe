@@ -208,7 +208,7 @@ Note: the name of this location on Google Maps is not the right answer. If you t
 
 <br>
 <br>
-<h2>RTask 8. You´re done!</h2>
+<h2>Task 8. You´re done!</h2>
 
 <p>And that's it!<br>
 
