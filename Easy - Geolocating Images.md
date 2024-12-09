@@ -1,4 +1,4 @@
-<p align="center">December 7, 2024</p>
+<p align="center">December 8, 2024</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="https://tryhackme">TryHackMe</a>.</p>
 
@@ -10,10 +10,10 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{216}}$$-day-streak in  <a href="h
 <p align="center">Room to understand how to geolocate images</p>
 <p align="center">Access this FREE TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/geolocatingimages">Geolocating Images</a>.</p>
 
-                                                              
+                                                           
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/fbcf7a83-5f58-4b5a-ad94-7cd5e95f7014"> <br>
-  <img width="700px" src="hhttps://github.com/user-attachments/assets/56c16c58-e7e2-42e9-9a98-1f6716614892">
+  <img width="700px" src="https://github.com/user-attachments/assets/49ef1d15-88cf-4e30-b480-d1498f486b62">
 </p>
 
 <br>
@@ -190,23 +190,44 @@ Note: the name of this location on Google Maps is not the right answer. If you t
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 <br>
 
-> 6.1. <em>RWhere was image 3 taken?</em><br><a id='6.1'></a>
+> 6.1. <em>Where was image 3 taken?</em><br><a id='6.1'></a>
 >> <code><strong>Meudon Observatory</strong></code>
 
-<p>......</p>
+
+<br>
+<br>
+<h2>Task 7. Your turn, what can you see?</h2>
+<p>Look at image 4. What do you see? What can you observe? </p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<br>
+
+> 7.1. <em>Where is image 4 taken?</em><br><a id='7.1'></a>
+>> <code><strong>Abbey Road</strong></code>
 
 
+<br>
+
+<br>
+<br>
+<h2>RTask 8. You´re done!</h2>
+
+<p>And that's it!<br>
+
+Check out Bellingcat for more on geolocation:<br>
+
+https://www.bellingcat.com/news/2020/01/21/geolocating-venezuelan-lawmakers-in-europe<br>
+
+Alternatively, play a lot of Geoguesser!<br>
 
 
+https://geoguessr.com/</p>
+
+<br>
+<br>
+<h2>Room Complete</h2>
+
+![image](https://github.com/user-attachments/assets/3017011f-a0fd-40b6-9d59-b899f63ce810)
 
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/1450993d-7f47-4ec7-bb38-03db236a2650)
