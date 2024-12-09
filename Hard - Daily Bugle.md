@@ -1,5 +1,12 @@
 <h1>Daily Bugle</h1>
 
+Day 217
+
+![image](https://github.com/user-attachments/assets/c89a86f9-3bf3-45cc-b1ae-fea227eb52e0)
+
+
+![image](https://github.com/user-attachments/assets/3da0f533-7440-4670-abd6-6c85b8a0e88f)
+
 
 <br>
 
