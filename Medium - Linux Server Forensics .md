@@ -55,7 +55,7 @@
 <br>
 
 > 3.1. <em>What page allows users to upload files?</em><br><a id='3.1'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>contact.php</strong></code>
 
 <br>
 
@@ -109,7 +109,7 @@
 <br>
 
 > 4.1. <em>What command and option did the attacker use to establish a backdoor?</em><br><a id='4.1'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>sh -i</strong></code>
 
 <br>
 
