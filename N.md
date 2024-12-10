@@ -1,4 +1,10 @@
 
+
+<h2>Gobuster</h2>
+<pre><code>gobuster dir -u http:/[Target IP] -w /usr/share/dirb/wordlists/common.txt</code></pre>
+
+
+
 <h2>WPA</h2>
 - <code>WPA</code> stands for <code>W</code>i-Fi <code>P</code>rotected <code>A</code>ccess.<br>
 - <code>WPA</code> is a security standard for computing devices equipped with wireless internet connections.<br>
@@ -20,4 +26,4 @@
 <br>
 <h2>WPA2-PSK</h2>
 - <code>WPA2-PSK</code> refer to Wifis network that you connect to by providing a password that's the same for everyone.
-- It refers to the <em>wifi code/ password/ passphrase</em><br>.
+- It refers to the <em>wifi code/ password/ passphrase</em>.<br>
