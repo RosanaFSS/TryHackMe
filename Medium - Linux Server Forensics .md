@@ -140,13 +140,40 @@ There are a couple of locations where account information is stored on Linux dis
 <br>
 
 > 5.1. <em>What is the password of the second root account?</em><br><a id='5.1'></a>
->> <code><strong>sh -i</strong></code>
+>> <code><strong>mrcake</strong></code>
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/1d0c37aa-09bc-4720-8000-79dcdab44c75)
 
 <p>If there is a x after the first colon, then it means that the password hash is stored in the /etc/shadow file</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/74693f33-76d8-42b0-8820-6e4625b034fe)
+
+<br>
+
+<pre><code>root2:WVLY0mgH0RtUI:0:0:root:/root:/bin/bash</code></pre>
+
+<br>
+
+<pre><code>WVLY0mgH0RtUI</code></pre>
+
+<br>
+
+<pre><code>$ nano root2.txt
+$ john root2.txt
+</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7ea5f634-dcf2-4d2c-a133-761777151122)
+
+<br>
+
+
+
 
 
 
