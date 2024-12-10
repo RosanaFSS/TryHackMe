@@ -567,33 +567,16 @@ INFO!:  NODE GRAPH OUT OF DATE REBUILDING
 
 <br>
 <h2>My Journey</h2>
-
-
-<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/34bef538-d21f-4334-94b4-b692ce6b47e4"></p>
-
-
-
-
-
-
-<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/29d77da0-1347-4b00-a6f2-6ffaa543676c"></p>
-
-
-<h2>My Journey<a id='5'></a></h2>
 <p></p>Following I share the status of my journey in TryHackMe.</p>
 
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 5, 2024  | 213      |     1,029 th |        22 nd |    7,452 nd |      92 nd | 59,356   |       455 |
+| December 10, 2024 | 218      |       977 th |        20 th |    2,369 th |      27 th | 60,430   |       463 |
 
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
 
-<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/bb4cc2c3-398a-436b-ab5a-50c065694be4"></p>
-
-
-
-
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/4696ffdd-1f8f-4c72-928a-d3ddfe4013f8"></p>
 
