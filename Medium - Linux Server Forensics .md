@@ -88,7 +88,12 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/1a26ca11-aabb-4279-bc3a-f2d67e92057b)
+![image](https://github.com/user-attachments/assets/dfd6be77-e61b-4bea-b716-66bb07de8a4a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b6ce7ddf-4334-4ce4-ab75-24158709f95c)
+
 
 <br>
 
@@ -114,6 +119,41 @@
 <br>
 
 ![image](https://github.com/user-attachments/assets/71db52e9-b41a-460b-87d1-2c561f68bbaf)
+
+<br>
+
+<br>
+<h2>Task 5. User Accounts</h2>
+<p>It looks like the command from the previous task was set up to run under the root2 account. This account doesn't make any sense as there should only be one root account. Wonder how it got there?<br>
+
+There are a couple of locations where account information is stored on Linux distributions, including:</p>
+
+<br>
+
+<p>1. /etc/passwd  - contains the names of most of the accounts on the system.  Should have open read permissions and should not contain password hashes. <br>
+2. /etc/shadow -  contains names but should also contain password hashes.  Should have strict permissions.</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 5.1. <em>What is the password of the second root account?</em><br><a id='5.1'></a>
+>> <code><strong>sh -i</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1d0c37aa-09bc-4720-8000-79dcdab44c75)
+
+<p>If there is a x after the first colon, then it means that the password hash is stored in the /etc/shadow file</p>
+
+
+
+
+
+
+
 
 
 
