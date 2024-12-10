@@ -1,7 +1,7 @@
 <h1>Linux Server Forensics</h1>
 
 <br>
-<h1>Task 1. Deploy the first VM</h1>
+<h2>Task 1. Deploy the first VM</h2>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
@@ -13,7 +13,7 @@
 <br>
 
 <br>
-<h1>Task 2. Apache Log Analysis I </h1>
+<h2>Task 2. Apache Log Analysis I </h2>
 
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
@@ -46,7 +46,7 @@
 
 
 <br>
-<h1>Task 3. Web Server Analysis</h1>
+<h2>Task 3. Web Server Analysis</h2>
 
 <br>
 
@@ -94,7 +94,7 @@
 
 
 <br>
-<h1>Task 4. Persistence Mechanisms I</h1>
+<h2>Task 4. Persistence Mechanisms I</h2>
 <p>﻿It looks like our attacker got in via Remote File Inclusion (RFI). It's best to look around the system itself now for any evidence of persistence.</p>
 - cron<vr></vr>
 - Services/systemd<br>
