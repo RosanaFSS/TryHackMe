@@ -235,31 +235,291 @@ A poorly designed site may also freely grant valuable information without the ne
 
 <br>
 
-> 7.2. <em>What username and hostname combination can be found in one of the authorized_keys files? (format: username@hostname)</em><br><a id='8.1'></a>
+> 8.1. <em>What username and hostname combination can be found in one of the authorized_keys files? (format: username@hostname)</em><br><a id='8.1'></a>
 >> <code><strong>GXWR</strong></code>
 
 <br>
 
+![image](https://github.com/user-attachments/assets/a0ba386d-cbbe-464a-9c6c-8e3a50b11120)
+
+<br>
+
+
 ![image](https://github.com/user-attachments/assets/704f89e0-99a9-4726-83d3-8565e1e98704)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/03bb3330-4a25-478c-982a-f823cabf134b)
+
+<br>
+<h2>Task 9. Program Execution History</h2>
+<p>Of course, adding a public key to root's authorized_keys requires root-level privileges so, it may be best to look for more evidence of privilege escalation. In general, Linux stores a tiny amount of programme execution history when compared to Windows but, there are still a few valuable sources, including:</p>
+
+<p>1. bash_history - Contains a history of commands run in bash; this file is well known, easy to edit and sometimes disabled by default.<br>
+2. auth.log - Contains a history of all commands run using sudo.<br>
+3. history.log (apt) - Contains a history of all tasks performed using apt - is useful for tracking programme installation and removal.</p>
+
+<p>systemd services also keep logs in the journald system; these logs are kept in a binary format and have to be read by a utility like journalctl. This binary format comes with some advantages; however, each journal is capable of validating itself and is harder to modify.</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 9.1. <em>What is the first command present in root's bash_history file?</em><br><a id='9.1'></a>
+>> <code><strong>nano /etc/passwd</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3d2f6f4d-c260-4bc9-9d13-5e43a2a52dbb)
+
+<br>
+
+<br>
+<h2>Task 10. Deploy Teh Final VM</h2>
+<p>This is getting a little annoying now. The credentials are still the same:</p>
+
+<p>1. [Target IP<br>
+2. 'fred'<br>
+3. 'FredRules!'</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 10.1. <em>Deploy the final machine and log in to the VM using the provided credentials.</em><br><a id='10.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+<h2>Task 11. Persistance Mechanisms III</h2>
+<p>Malware can also maintain persistence using systemd as scripts run under systemd can run in the background and restart whenever the system is booted or whenever the script crashes. It is also relatively easy to conceal malicious scripts as they can blend in with other services. systemd services are defined in .service files which can contain:</p>
+
+<p>1. The command that runs whenever the service starts<br>
+2. The user the service runs as<br>
+3. An optional description <br></p>
+
+<p>In this case, the malware is pretty obvious as it seems to be printing errors to the screen so, there is no way that it is dormant. Running systemctl will list all of the services loaded into the system. And much like Windows, there's usually a lot of them. It might be worth adding --type=service --state=active to the command as it will reduce the list to services that are running. Once the name of a suspicious service is found, more information can then be extracted by running systemctl status <code>service name</code> . </p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 11.1. <em>Deploy the final machine and log in to the VM using the provided credentials.</em><br><a id='11.1'></a>
+>> <code><strong>gh0st_1n_the_machine</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/98ab1e68-f703-4897-b5a0-15b8c93e02ea)
+
+<pre><code>rt /etc/cron.monthly )                                                         
+#                                                                              
+                                                                               
+                                                                               
+Hmm nothing here either
+                                                                               
+fred@acmeweb:~$                                                                                
+Seems to be running all the time, so it could be a broken service.
+                                                                               
+                                                                               
+It might be worth running systemctl -l and, looking for things out of the ordinary
+                                                                               
+                                                                               
+Oh by they way your computer isn't sentient, it's just haunted so there's nothing to worry about
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+INFO!:  RETICULATING SPLINES
+                                                                               
+                                                                               
+INFO!:  RETICULATING SPLINES
+                                                                               
+                                                                               
+\u8abf\u8a66!: \u5982\u679c\u767c\u751f\u5806\u68e7\u885d\u7a81\uff0c\u5247\u7121\u6cd5\u555f\u7528\u5806\u68e7!!!
+                                                                               
+
+fred@acmeweb:~$ ps aux
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  1.6  0.8 159512  8764 ?        Ss   04:57   0:05 /sbin/init maybe-ubiquity
+root         2  0.0  0.0      0     0 ?        S    04:57   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        I<   04:57   0:00 [kworker/0:0H]
+root         5  0.0  0.0      0     0 ?        I    04:57   0:00 [kworker/u30:0]
+root         6  0.0  0.0      0     0 ?        I<   04:57   0:00 [mm_percpu_wq]
+root         7  0.0  0.0      0     0 ?        S    04:57   0:00 [ksoftirqd/0]
+root         8  0.0  0.0      0     0 ?        I    04:57   0:00 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        I    04:57   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    04:57   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    04:57   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    04:57   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    04:57   0:00 [kdevtmpfs]
+root        14  0.0  0.0      0     0 ?        I<   04:57   0:00 [netns]
+root        15  0.0  0.0      0     0 ?        S    04:57   0:00 [rcu_tasks_kthre]
+root        16  0.0  0.0      0     0 ?        S    04:57   0:00 [kauditd]
+root        17  0.0  0.0      0     0 ?        S    04:57   0:00 [khungtaskd]
+root        18  0.0  0.0      0     0 ?        S    04:57   0:00 [oom_reaper]
+root        19  0.0  0.0      0     0 ?        I<   04:57   0:00 [writeback]
+root        20  0.0  0.0      0     0 ?        S    04:57   0:00 [kcompactd0]
+root        21  0.0  0.0      0     0 ?        SN   04:57   0:00 [ksmd]
+root        22  0.0  0.0      0     0 ?        SN   04:57   0:00 [khugepaged]
+root        23  0.0  0.0      0     0 ?        I<   04:57   0:00 [crypto]
+root        24  0.0  0.0      0     0 ?        I<   04:57   0:00 [kintegrityd]
+root        25  0.0  0.0      0     0 ?        I<   04:57   0:00 [kblockd]
+root        26  0.0  0.0      0     0 ?        I<   04:57   0:00 [ata_sff]
+root        27  0.0  0.0      0     0 ?        I<   04:57   0:00 [md]
+root        28  0.0  0.0      0     0 ?        I<   04:57   0:00 [edac-poller]
+root        29  0.0  0.0      0     0 ?        I<   04:57   0:00 [devfreq_wq]
+root        30  0.0  0.0      0     0 ?        I<   04:57   0:00 [watchdogd]
+root        31  0.0  0.0      0     0 ?        I    04:57   0:00 [kworker/0:1]
+root        32  0.0  0.0      0     0 ?        I    04:57   0:00 [kworker/u30:1]
+root        34  0.0  0.0      0     0 ?        S    04:57   0:00 [kswapd0]
+root        35  0.0  0.0      0     0 ?        I<   04:57   0:00 [kworker/u31:0]
+root        36  0.0  0.0      0     0 ?        S    04:57   0:00 [ecryptfs-kthrea]
+root        78  0.0  0.0      0     0 ?        I<   04:57   0:00 [kthrotld]
+root        79  0.0  0.0      0     0 ?        I<   04:57   0:00 [acpi_thermal_pm]
+root        80  0.0  0.0      0     0 ?        S    04:57   0:00 [xenbus]
+root        81  0.0  0.0      0     0 ?        S    04:57   0:00 [xenwatch]
+root        82  0.0  0.0      0     0 ?        S    04:57   0:00 [scsi_eh_0]
+root        83  0.0  0.0      0     0 ?        I<   04:57   0:00 [scsi_tmf_0]
+root        84  0.0  0.0      0     0 ?        S    04:57   0:00 [scsi_eh_1]
+root        85  0.0  0.0      0     0 ?        I<   04:57   0:00 [scsi_tmf_1]
+root        86  0.0  0.0      0     0 ?        I    04:57   0:00 [kworker/u30:2]
+root        87  0.0  0.0      0     0 ?        I    04:57   0:00 [kworker/u30:3]
+root        91  0.0  0.0      0     0 ?        I<   04:57   0:00 [ipv6_addrconf]
+root       100  0.0  0.0      0     0 ?        I<   04:57   0:00 [kstrp]
+root       117  0.0  0.0      0     0 ?        I<   04:57   0:00 [charger_manager]
+root       170  0.0  0.0      0     0 ?        I    04:57   0:00 [kworker/0:2]
+root       198  0.0  0.0      0     0 ?        I<   04:57   0:00 [ttm_swap]
+root       212  0.0  0.0      0     0 ?        I<   04:57   0:00 [kdmflush]
+root       214  0.0  0.0      0     0 ?        I<   04:57   0:00 [bioset]
+root       299  0.0  0.0      0     0 ?        I<   04:57   0:00 [raid5wq]
+root       353  0.0  0.0      0     0 ?        S    04:57   0:00 [jbd2/dm-0-8]
+root       354  0.0  0.0      0     0 ?        I<   04:57   0:00 [ext4-rsv-conver]
+root       407  0.0  0.0      0     0 ?        I<   04:57   0:00 [kworker/0:1H]
+root       424  0.2  1.2  94728 12452 ?        S<s  04:57   0:00 /lib/systemd/systemd-journald
+root       441  0.0  0.0      0     0 ?        I<   04:57   0:00 [iscsi_eh]
+root       443  0.0  0.1 105912  1928 ?        Ss   04:57   0:00 /sbin/lvmetad -f
+root       448  0.0  0.0      0     0 ?        I<   04:57   0:00 [ib-comp-wq]
+root       449  0.0  0.0      0     0 ?        I<   04:57   0:00 [ib-comp-unb-wq]
+root       450  0.0  0.0      0     0 ?        I<   04:57   0:00 [ib_mcast]
+root       451  0.0  0.0      0     0 ?        I<   04:57   0:00 [ib_nl_sa_wq]
+root       452  0.0  0.0      0     0 ?        I<   04:57   0:00 [rdma_cm]
+root       453  0.4  0.4  45492  4384 ?        Ss   04:57   0:01 /lib/systemd/systemd-udevd
+root       595  0.0  0.0      0     0 ?        S    04:57   0:00 [jbd2/xvda2-8]
+root       596  0.0  0.0      0     0 ?        I<   04:57   0:00 [ext4-rsv-conver]
+systemd+   621  0.0  0.2 141788  2972 ?        Ssl  04:57   0:00 /lib/systemd/systemd-timesyncd
+systemd+   727  0.0  0.5  79916  5040 ?        Ss   04:57   0:00 /lib/systemd/systemd-networkd
+systemd+   741  0.0  0.5  70496  5048 ?        Ss   04:57   0:00 /lib/systemd/systemd-resolved
+root       827  0.0  0.1  95548  1620 ?        Ssl  04:58   0:00 /usr/bin/lxcfs /var/lib/lxcfs/
+root       840  0.2  1.6 169104 17084 ?        Ssl  04:58   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       848  0.0  0.5  70452  5828 ?        Ss   04:58   0:00 /lib/systemd/systemd-logind
+root       849  0.0  0.6 286260  6744 ?        Ssl  04:58   0:00 /usr/lib/accountsservice/accounts-daemon
+root       854  0.0  1.4 1236728 14952 ?       Ssl  04:58   0:00 /usr/bin/amazon-ssm-agent
+daemon     855  0.0  0.2  28340  2476 ?        Ss   04:58   0:00 /usr/sbin/atd -f
+message+   856  0.0  0.4  50064  4568 ?        Ss   04:58   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+syslog     878  0.0  0.4 263044  4056 ?        Ssl  04:58   0:00 /usr/sbin/rsyslogd -n
+root       885  0.0  0.3  30036  3188 ?        Ss   04:58   0:00 /usr/sbin/cron -f
+root       895  0.2  1.9 185952 19984 ?        Ssl  04:58   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root       908  0.0  0.2  14672  2364 ttyS0    Ss+  04:58   0:00 /sbin/agetty -o -p -- \u --keep-baud 115200,38400,9600 ttyS0 vt220
+root       914  0.0  0.1  14896  2000 tty1     Ss+  04:58   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root       928  0.0  0.7 291452  7208 ?        Ssl  04:58   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root       935  0.0  0.5  72308  5568 ?        Ss   04:58   0:00 /usr/sbin/sshd -D
+root       942  0.3  2.8 1177752 28768 ?       Sl   04:58   0:01 /usr/bin/ssm-agent-worker
+root       964  0.0  1.7 333728 17232 ?        Ss   04:58   0:00 /usr/sbin/apache2 -k start
+www-data   971  0.0  0.9 338128  9280 ?        S    04:58   0:00 /usr/sbin/apache2 -k start
+www-data   975  0.0  0.9 338128  9280 ?        S    04:58   0:00 /usr/sbin/apache2 -k start
+www-data   976  0.0  0.9 338128  9280 ?        S    04:58   0:00 /usr/sbin/apache2 -k start
+www-data   977  0.0  0.9 338128  9280 ?        S    04:58   0:00 /usr/sbin/apache2 -k start
+www-data   978  0.0  0.9 338128  9280 ?        S    04:58   0:00 /usr/sbin/apache2 -k start
+root      1302  0.0  0.7 105696  7120 ?        Ss   05:01   0:00 sshd: fred [priv]
+fred      1314  0.0  0.7  76516  7388 ?        Ss   05:01   0:00 /lib/systemd/systemd --user
+fred      1320  0.0  0.2 193492  2272 ?        S    05:01   0:00 (sd-pam)
+fred      1448  0.0  0.5 107992  5532 ?        S    05:01   0:00 sshd: fred@pts/0
+fred      1449  0.0  0.5  21464  5044 pts/0    Ss   05:01   0:00 -bash
+root      1465  0.0  0.5  13496  5152 ?        Ss   05:01   0:00 /bin/bash /etc/network/ZGtsam5hZG1ua2Fu.sh
+root      1672  0.0  0.0   6184   788 ?        S    05:03   0:00 sleep 10
+fred      1673  0.0  0.3  38380  3592 pts/0    R+   05:03   0:00 ps aux
+</code></pre>
+
+<br>
+
+<pre><code>/bin/bash /etc/network/ZGtsam5hZG1ua2Fu.sh</code></pre>
+
+<br>
+
+<pre><code>fred@acmeweb:~$ cat /etc/network/ZGtsam5hZG1ua2Fu.sh
+##[gh0st_1n_the_machine]
+## 
+declare -a error_messages
+error_messages[1]='ATTENTION!: THE BITBUCKET IS ALMOST FULL'
+error_messages[2]='ACHTUNG!: DAS KOMPUTERMASCHINE IS NICHT GUD'
+error_messages[3]='WARNING!: THE RAM FLANGES ARE IN THE OFF POSITION SAFE OPERATION OF RAM DRIVER IS NOT GUARANTEED!'
+error_messages[4]='ERROR!: THE STACK ARRANGER IS NOT ENABLED BEWARE OF STACK COLLISIONS'
+error_messages[5]='\u8abf\u8a66!: \u5982\u679c\u767c\u751f\u5806\u68e7\u885d\u7a81\uff0c\u5247\u7121\u6cd5\u555f\u7528\u5806\u68e7!!!'
+error_messages[6]='INFO!:  PURGING RAM BITS'
+error_messages[7]='INFO!:  NODE GRAPH OUT OF DATE REBUILDING'
+error_messages[8]='INFO!:  RETICULATING SPLINES'
+error_messages[9]='WARNING!: DIHYDROGEN MONOXIDE DETECTED IN ATMOSPHERE'
+error_messages[10]='INFO!: VENTING OXYGEN'
+error_messages[11]='WARNING!: /dev/null IS 95% UTILIZED'
+error_messages[12]='METTERE IN GUARDIA!: LE FLANGE DEL RAM SONO IN POSIZIONE OFF IL FUNZIONAMENTO SICURO DEL RAM DRIVER NON È GARANTITO!'
 
 
+print_errors(){
+    for i in {1..10000}; do
+    tput setaf 1; wall -n "${error_messages[RANDOM%11]}" ; tput setaf  7;
+    sleep 10
+    if [[ $i -eq 3 ]]; then
+        introduce_self
+    fi
+    done
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+introduce_self(){
+    wall -n "Wow this system is really broken huh?"
+    sleep 4
+    wall -n "Wonder if I can fix it"
+    sleep 4
+    wall -n "Gonna borrow your shell for a second"
+    sleep 4
+    wall -n "root@acmeweb:~# ls"
+    ls -al ~ | wall -n
+    sleep 4
+    wall -n "Hmm"
+    sleep 4
+    wall -n "Nothing suspicious here"
+    wall -n "root@acmeweb:~# ps"
+    ps
+    wall -n "Nothing strange here either."
+    sleep 4
+    wall -n "root@acmeweb:~# cd /etc"
+    sleep 2
+    wall -n "root@acmeweb:/etc/# ls -al"
+    ls -al /etc/ | wall -n
+    sleep 4
+    wall -n "Wonder if theres anyting in the crontab"
+    sleep 4
+    wall -n "root@acmweb:/etc/ cat crontab"
+    cat /etc/crontab | wall -n
+    sleep 4
+    wall -n "Hmm nothing here either"
+    sleep 4 
+    wall -n "Seems to be running all the time, so it could be a broken service."
+    sleep 4
+    wall -n "It might be worth running systemctl -l and, looking for things out of the ordinary"
+    sleep 4
+    wall -n "Oh by they way your computer isn't sentient, it's just haunted so there's nothing to worry about"
+    sleep 4
+    cowsay -f ghostbusters "Just don't call these guys" | wall -n
+}
+print_errors
+fred@acmeweb:~$                                                                                
+INFO!:  NODE GRAPH OUT OF DATE REBUILDING
+</code></pre>
 
 
 
