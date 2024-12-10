@@ -30,9 +30,22 @@
 
 
 > 2.2. <em>How many different tools made requests to the server?</em><br><a id='2.2'></a>
->> <code><strong>______________</strong></code>
+>> <code><strong>2</strong></code>
 
 <br>
+
+<pre><code>$ cat access.log | more</code></pre>
+
+<br>
+
+<pre><code>$ cat access.log | more</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ebca6d80-9300-4cf3-8bd5-a70f7c9a402d)
+
+<br>
+
 
 > 2.3. <em>Name a path requested by Nmap.</em><br><a id='2.3'></a>
 >> <code><strong>/nmaplowercheck1618912425</strong></code>
@@ -521,6 +534,11 @@ fred@acmeweb:~$
 INFO!:  NODE GRAPH OUT OF DATE REBUILDING
 </code></pre>
 
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/846af7ae-e0d2-4c29-bb55-fef9f05eb39d)
 
 
 
