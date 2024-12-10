@@ -555,22 +555,43 @@ INFO!:  NODE GRAPH OUT OF DATE REBUILDING
 
 <br>
 <h2>Room Completed</h2>
+<p>Keep learning, keep growing!<br>
 
-![image](https://github.com/user-attachments/assets/846af7ae-e0d2-4c29-bb55-fef9f05eb39d)
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/846af7ae-e0d2-4c29-bb55-fef9f05eb39d"></p>
+
 
 <br>
 
-![image](https://github.com/user-attachments/assets/0e260d01-ea16-45bc-b289-156a46b0c819)
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/0e260d01-ea16-45bc-b289-156a46b0c819"></p>
+
 
 <br>
 <h2>My Journey</h2>
 
 
-![image](https://github.com/user-attachments/assets/34bef538-d21f-4334-94b4-b692ce6b47e4)
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/34bef538-d21f-4334-94b4-b692ce6b47e4"></p>
 
 
 
 
+
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/29d77da0-1347-4b00-a6f2-6ffaa543676c"></p>
+
+
+<h2>My Journey<a id='5'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 5, 2024  | 213      |     1,029 th |        22 nd |    7,452 nd |      92 nd | 59,356   |       455 |
+
+
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/bb4cc2c3-398a-436b-ab5a-50c065694be4"></p>
 
 
 
