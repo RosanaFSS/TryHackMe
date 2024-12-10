@@ -19,7 +19,7 @@
 
 <br>
 
-> 2.1. <em>Navigate to /var/log/apache2</em><br><a id='2.1'></a>
+> 2.1. <em>Navigate to <code>/var/log/apache2</code></em><br><a id='2.1'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 
-> 2.2. <em>Navigate to /var/log/apache2</em><br><a id='2.2'></a>
+> 2.2. <em>How many different tools made requests to the server?</em><br><a id='2.2'></a>
 >> <code><strong>______________</strong></code>
 
 <br>
