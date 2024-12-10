@@ -566,6 +566,12 @@ INFO!:  NODE GRAPH OUT OF DATE REBUILDING
 <h2>My Journey</h2>
 
 
+![image](https://github.com/user-attachments/assets/34bef538-d21f-4334-94b4-b692ce6b47e4)
+
+
+
+
+
 
 
 
