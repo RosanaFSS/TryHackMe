@@ -85,17 +85,99 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{217}}$$-day-streak in  <a href="h
 
 ![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 18 - msf6](https://github.com/user-attachments/assets/d33e976d-1a93-48ac-85b3-26ed3761f265)
 
+<br>
+
+
+
 ![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 17 - Crackstation](https://github.com/user-attachments/assets/66c6ef9f-5564-40a3-8a77-11f3760919f6)
 
 
 
 
+<br>
 
 
 
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 19 - pass txt](https://github.com/user-attachments/assets/cae33106-8850-4fee-b382-1ddc2032b9ea)
+
+
+<br>
+
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 20 - user txt](https://github.com/user-attachments/assets/67f30166-de6b-4dde-8327-8e6c0c27b1b4)
+
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 21 - hydra -  login is seina   and   password is scoobydoo2](https://github.com/user-attachments/assets/636a99bd-60f6-4294-9747-1277d0dcdb05)
+
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 22 - telenet](https://github.com/user-attachments/assets/d76fb74c-42dd-40dc-9743-6c7b6469ae7e)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 23 - telnet](https://github.com/user-attachments/assets/8922dc58-efd4-45f1-ab13-2cc8bfb366e6)
+
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 24 - Password found did not work with stone](https://github.com/user-attachments/assets/06c8c7cd-3a4f-4e2c-add0-5ad500cf90a9)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 25 - Password worked with    baksteen](https://github.com/user-attachments/assets/e00887b5-673b-4481-8332-300ef0f7e697)
+
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 27 - conitnuing](https://github.com/user-attachments/assets/4fd9090b-8b0b-4ac1-8a9a-ed049db94df1)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 28](https://github.com/user-attachments/assets/6c7bbb80-b718-4e7c-8d5c-cd0b10325668)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 29](https://github.com/user-attachments/assets/4dc35d22-f3bf-4268-9096-b05221986ccb)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 31GitHub](https://github.com/user-attachments/assets/c3d48d38-11cd-4996-b226-f2d734b92b2f)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 32](https://github.com/user-attachments/assets/cd6f6f04-c206-452e-9db2-624cacf72f91)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 33](https://github.com/user-attachments/assets/42cc3675-4260-4e89-842a-623734a38652)
+
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 34](https://github.com/user-attachments/assets/bd3a0848-5701-44aa-9a34-e0950b6d3700)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 35](https://github.com/user-attachments/assets/703c2d03-1434-4333-941e-f5e8d15abca4)
+
+<br>
 
 
 
+<h2>Room Completed</h2>
+
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 26 - Room Completed](https://github.com/user-attachments/assets/2d270144-46c4-44ac-95c9-a1cb251d926c)
+
+<br>
+
+![December 9, 2024  - TryHackMe - Easy - Fowsniff CTF - Image 36 - Room Completed - another view](https://github.com/user-attachments/assets/b0d7b9b4-8369-4c44-9900-4f717c86a90f)
+
+
+<h2>My JOurney</h2>
 
 
 
