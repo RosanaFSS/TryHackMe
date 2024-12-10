@@ -1,4 +1,10 @@
-<h1>Linux Server Forensics</h1>
+
+
+![image](https://github.com/user-attachments/assets/3851418f-e786-4491-a101-372a873735ef)
+
+
+![image](https://github.com/user-attachments/assets/52026e78-4de5-4691-a9ff-5c8d96bb1ac0)
+
 
 <br>
 <h2>Task 1. Deploy the first VM</h2>
@@ -536,9 +542,19 @@ INFO!:  NODE GRAPH OUT OF DATE REBUILDING
 
 <br>
 
-
+<br>
+<h2>Room Completed</h2>
 
 ![image](https://github.com/user-attachments/assets/846af7ae-e0d2-4c29-bb55-fef9f05eb39d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0e260d01-ea16-45bc-b289-156a46b0c819)
+
+<br>
+<h2>My Journey</h2>
+
+
 
 
 
