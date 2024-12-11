@@ -217,18 +217,14 @@ https://www.kali.org/docs/tools/tor/</p>
 
 <br>
 
-
-![image](https://github.com/user-attachments/assets/f404f3e5-290f-4825-b859-b75f9ab358cc)
-
-
-
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/97ff49a0-8b6b-4267-aa65-18246972163f"></p>
 
 
 <br>
 <h2>Room Complete<a id='4'></a></h2>
 <p>Keep learning, keep growing!</p>
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/49354b7e-e6b3-48c2-a09a-1bf9ee0df058"></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/f404f3e5-290f-4825-b859-b75f9ab358cc"></p>
 
 <br>
 
