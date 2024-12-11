@@ -240,30 +240,11 @@ https://www.kali.org/docs/tools/tor/</p>
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| November 11, 2024 | 189      |       1,237ª |          25ª |      4,023ª |        54ª | 54,878   |       416 |
+| December 11, 2024 | 219      |       953 rd |        19 th |      643 rd |       8 th | 601,006  |       465 |
 
 </div>
 
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/cd6b7bcc-1bbe-4576-a12d-3591bd10d6ac"></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/f2ce191a-4ee5-454c-9611-9aa92905a5ed"></p>
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
