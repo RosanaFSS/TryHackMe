@@ -283,9 +283,6 @@ robots.txt
 templates
 tmp
 web.config.txt
-sh-4.2$ at configuration.php
-at configuration.php
-sh: at: command not found
 sh-4.2$ cat configuration.php
 cat configuration.php
 <?php
@@ -392,18 +389,11 @@ cat user.txt
 
 <br>
 
-
-
-<p>----------- To be continued ----------------------</p>
-
-<br>
-
-<br>
-
-<br>
+![image](https://github.com/user-attachments/assets/3004f741-cc48-4adf-ad04-52af650f0a10)
 
 
 
+![image](https://github.com/user-attachments/assets/71baf2e7-90f2-46ae-abc0-c2a1dd85b51d)
 
 
 
