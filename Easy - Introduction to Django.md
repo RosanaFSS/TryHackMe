@@ -8,7 +8,8 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/92f03208-68bb-4466-891b-c0f5d02cc0b6)
+![image](https://github.com/user-attachments/assets/5b484184-b338-4cac-8782-942aff9c82dd)
+
 
 <br>
 
@@ -191,6 +192,26 @@ python3 manage.py startapp {app_name}</p>
 
 <br>
 
+
+
+
+
+
+<br>
+<br>
+
+
+![image](https://github.com/user-attachments/assets/a50e5ccc-2fee-4d07-9aed-5000738b5424)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/41d3915b-7087-4395-b7d7-39d84c163c74)
+
+<br>
+<br>
+
+
+
 ![image](https://github.com/user-attachments/assets/c6f6a011-8f82-418d-ab67-23b6add054fa)
 
 <br>
@@ -230,9 +251,27 @@ python3 manage.py startapp {app_name}</p>
 
 ![image](https://github.com/user-attachments/assets/81bd26e2-5d26-4c51-a792-e22a188dbb3e)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/4eaa8cf9-05ed-4a90-b41c-829503829f80)
+
+<br>
 
 
 
+
+![image](https://github.com/user-attachments/assets/c4c1141c-6306-42e1-8f9d-bc7881b53503)
+
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/49013ba8-0f12-4420-bcfa-5d1b3bcde19f)
+
+
+
+
+![image](https://github.com/user-attachments/assets/77ae6d98-ca6f-4cac-9ed1-eae09dd19d59)
 
 
 
