@@ -446,25 +446,34 @@ Found another way to compromise the machine or want to assist others in rooting 
 ![image](https://github.com/user-attachments/assets/92241c17-e662-4f00-84cf-a2690b71bb57)
 
 
+<br>
+<h2>Room Complete<a id='4'></a></h2>
+<p>Keep learning, keep growing!</p>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/a06c4b1c-ada7-4d3c-a0d3-c471afcb1ce9"></p>
 
 <br>
 
-<h2>Room Completed</h2>
-
-
-![image](https://github.com/user-attachments/assets/a06c4b1c-ada7-4d3c-a0d3-c471afcb1ce9)
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/6b7d1484-ce36-4316-a9c0-eeabe64f8061"></p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/6b7d1484-ce36-4316-a9c0-eeabe64f8061)
+<h2>My Journey<a id='5'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
 
-<br>
+<div align="center">
 
-<h2>My Journey</h2>
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 11, 2024 | 219      |       950 th |        19 th |      653 rd |       8 th |  61,084  |       467 |
 
-<br>
+</div>
 
 
+![image](https://github.com/user-attachments/assets/5adef702-9b14-4141-a04c-8b6acc7ceaf1)
 
 
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/5adef702-9b14-4141-a04c-8b6acc7ceaf1"></p>
 
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
