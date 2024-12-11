@@ -1,11 +1,12 @@
 <h1>Hard - Daily Bugle</h1>
 
-Day 217
+Day 219
 
 ![image](https://github.com/user-attachments/assets/c89a86f9-3bf3-45cc-b1ae-fea227eb52e0)
 
 
-![image](https://github.com/user-attachments/assets/3da0f533-7440-4670-abd6-6c85b8a0e88f)
+![image](https://github.com/user-attachments/assets/3bf3c4a6-67a1-49ea-b098-bcfb371bab11)
+
 
 
 <br>
@@ -434,15 +435,35 @@ cat user.txt
 <code>eec3d53292b1821868266858d7fa6f79</code>
 
 
-<p></p>
+<br>
+
+<h2>Task 3. Credits</h2>
+<br>
+
+
+Found another way to compromise the machine or want to assist others in rooting it? Keep an eye on the forum post located here.
+
+![image](https://github.com/user-attachments/assets/92241c17-e662-4f00-84cf-a2690b71bb57)
 
 
 
+<br>
 
-
+<h2>Room Completed</h2>
 
 
 ![image](https://github.com/user-attachments/assets/a06c4b1c-ada7-4d3c-a0d3-c471afcb1ce9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6b7d1484-ce36-4316-a9c0-eeabe64f8061)
+
+<br>
+
+<h2>My Journey</h2>
+
+<br>
+
 
 
 
