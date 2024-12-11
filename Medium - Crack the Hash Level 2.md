@@ -64,6 +64,11 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 
 <br>
 
+
+![image](https://github.com/user-attachments/assets/e3fa018d-bcab-4602-85c2-5174708608a6)
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/04068217-eb77-492a-a274-9e705000298c)
 
 <br>
@@ -72,8 +77,22 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 >> <code><strong>raw-keccak-256</strong></code>
 
 
+<p>Reference the hands-on related to the previous challenge</p>
+
 <br>
 <h2>Task 3. Wordlists</h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 3.1 <em>RockYou is a famous wordlist contains a large set of commonly used password sorted by frequency.<br>
+To search for this wordlist with wordlistclt run:<br>
+<code>wordlistctl search rockyou</code></em><br><a id='3.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
 
 <br>
 <h2>Task 4. Cracking tools, models & rules</h2>
