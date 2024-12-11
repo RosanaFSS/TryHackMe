@@ -45,6 +45,10 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 
 <br>
 
+<pre><code> haiti 741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853</code></pre>
+
+<br>
+
 > 2.3. <em>Launch Haiti on this hash:</em><br><a id='2.3'></a>
 > <code>1aec7a56aa08b25b596057e1ccbcb6d768b770eaa0f355ccbd56aee5040e02ee</code><br>
 >> <code><strong>No answer needed</strong></code>
