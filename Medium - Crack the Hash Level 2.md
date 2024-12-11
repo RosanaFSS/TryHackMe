@@ -33,7 +33,7 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 > 2.2. <em>Launch Haiti on this hash:</em><br><a id='2.2'></a>
 > <code>741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853</code><br>
 > What kind of hash it is?
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>RIPEMD-320</strong></code>
 
 <br>
 
@@ -43,7 +43,15 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 
 <pre><code>gem install haiti-hash</code></pre>
 
-<p></p>
+<br>
+
+
+<pre><code> haiti 741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853
+RIPEMD-320 [JtR: dynamic_150]
+IPMI 2.0 RAKP HMAC-SHA1 [HC: 7300]
+Umbraco HMAC-SHA1 [HC: 24800]
+</code></pre>
+
 
 <br>
 <h2>Task 3. Wordlists</h2>
