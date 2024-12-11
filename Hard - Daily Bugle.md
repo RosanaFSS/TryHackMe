@@ -471,9 +471,6 @@ Found another way to compromise the machine or want to assist others in rooting 
 </div>
 
 
-![image](https://github.com/user-attachments/assets/5adef702-9b14-4141-a04c-8b6acc7ceaf1)
-
-
 <p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/5adef702-9b14-4141-a04c-8b6acc7ceaf1"></p>
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
