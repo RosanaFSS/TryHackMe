@@ -261,14 +261,39 @@ python3 manage.py startapp {app_name}</p>
 
 
 
-<br>
-
-![image](https://github.com/user-attachments/assets/49013ba8-0f12-4420-bcfa-5d1b3bcde19f)
 
 
 
 
 ![image](https://github.com/user-attachments/assets/77ae6d98-ca6f-4cac-9ed1-eae09dd19d59)
+
+
+<br>
+<h2>Room Complete<a id='4'></a></h2>
+<p>Keep learning, keep growing!</p>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/49013ba8-0f12-4420-bcfa-5d1b3bcde19f)></p>
+
+<br>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/f653da5c-6f67-4665-b906-d49bc46bb691"></p>
+
+<br>
+
+<h2>My Journey<a id='5'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 11, 2024 | 219      |       951 st |        19 th |      678 th |       8 th |  61,054  |       466 |
+
+<br>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/77ae6d98-ca6f-4cac-9ed1-eae09dd19d59"></p>
+
 
 
 
