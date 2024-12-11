@@ -62,12 +62,7 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 > 2.4. <em>What is Keccak-256 Hashcat code?</em><br><a id='2.4'></a>
 >> <code><strong>17800</strong></code>
 
-<br>
-
-
 ![image](https://github.com/user-attachments/assets/e3fa018d-bcab-4602-85c2-5174708608a6)
-
-<br>
 
 ![image](https://github.com/user-attachments/assets/04068217-eb77-492a-a274-9e705000298c)
 
