@@ -1,11 +1,42 @@
 
 
-<h2>Gobuster</h2>
+<h2>Tor<a id='1'></a></h2>
+<p><code>Tor</code>  is a free and open-source software for enabling anonymous communication.<br>
+<code>Tor</code> directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. <br>
+Using <code>Tor</code>code> makes it more difficult to trace Internet activity to the user: this includes "visits to Web sites, online posts, instant messages, and other communication forms".<br>
+<code>Tor</code>code>'s intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities unmonitored.<br><br>
+In penetration testing, there might be a need to conduct a full-fledged black-box test. This is a form of testing in which security professionals have to deal with such things as firewalls and other mechanisms of restriction on the customer’s side. In this case, the Tor network can be used in order to constantly change IP and DNS addresses and therefore successfully overcome any restrictions.
+</p>
+
+<p>Intall <code>Tor</code></p>
+<pre><code>apt-get install tor</code></pre>
+
+<br>
+
+<p>Start <code>Tor</code></p>
+<pre><code>service tor start</code></pre>
+
+<br>
+
+<p>Check <code>Tor</code>´s availability</p>
+<pre><code>service tor statu</code></pre>
+
+<br>
+
+<p>Stop <code>Tor</code> service</p>
+<pre><code>service tor stop</code></pre>
+
+<br>
+
+<br>
+
+
+
+<h2>Gobuster<a id='2'></a></h2>
 <pre><code>gobuster dir -u http:/[Target IP] -w /usr/share/dirb/wordlists/common.txt</code></pre>
 
 
-
-<h2>WPA</h2>
+<h2>WPA<a id='3'></a></h2>
 - <code>WPA</code> stands for <code>W</code>i-Fi <code>P</code>rotected <code>A</code>ccess.<br>
 - <code>WPA</code> is a security standard for computing devices equipped with wireless internet connections.<br>
 - The Wi-Fi Alliance intended <code>WPA</code> as an intermediate measure to take the place of <code>WEP</code>.<br>
