@@ -167,7 +167,7 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 
 
 
-<p>Jonah’s password is <code>spideran123</code>.</p>
+<p>Jonah’s password is <code>spider123</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/66cedcbc-fa8c-4349-8175-bed6f3dd0e78)
 
