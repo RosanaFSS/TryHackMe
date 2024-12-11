@@ -8,7 +8,7 @@
 - In penetration testing, there might be a need to conduct a full-fledged black-box test. This is a form of testing in which security professionals have to deal with such things as firewalls and other mechanisms of restriction on the customer’s side. In this case, the Tor network can be used in order to constantly change IP and DNS addresses and therefore successfully overcome any restrictions.
 </p>
 
-<p>Intall <code>Tor</code></p>
+Install <code>Tor</code><br>
 <pre><code>apt-get install tor</code></pre>
 
 <br>
