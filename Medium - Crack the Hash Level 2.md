@@ -1,9 +1,12 @@
+<h1>Crack The Hash Level 2</h1>
 
+<h3>218</h3>
 
 ![image](https://github.com/user-attachments/assets/dc74112a-6edf-45cb-83f5-ad991dec30b1)
 
 
-![image](https://github.com/user-attachments/assets/99c13be2-c47c-4398-93b5-a24ebee639dd)
+![image](https://github.com/user-attachments/assets/23fe6619-e219-4089-8983-568953eedc62)
+
 
 <br>
 <h2>Task 1. Introduction</h2>
@@ -136,7 +139,7 @@ If you run  <code>wordlistctl search -l rockyou</code>  one more time, what is t
 
 > 3.5. <em>You can search for a wordlist about a specific subject (eg. facebook) <code>wordlistctl search facebook</code> or list all wordlists from a category (eg. fuzzing) <code>wordlistctl list -g fuzzing</code>.<br>
 What is the name of the first wordlist in the usernames category?</em><br><a id='3.3'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>CommonAdminBase64/strong></code>
 
 
 
@@ -144,17 +147,51 @@ What is the name of the first wordlist in the usernames category?</em><br><a id=
 
 
 <br>
+<h2>Task 4. Cracking tools, models & rules</h2>
 
+<br>
 
+<br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+<br>
 
-
-
+> 4.1. <em>Depending of your distribution, the John configuration may be located at /etc/john/john.conf and/or /usr/share/john/john.conf. To locate the JtR install directory run locate john.conf, then create john-local.conf in the same directory (in my case/usr/share/john/john-local.conf) and create our rules in here.</em><a id='4.1.'></a>
+>> <code><strong>No answer needed</strong></code>
 
 
 <br>
-<h2>Task 4. Cracking tools, models & rules</h2>
+
+> 4.2. <em>Let's use the top 10 000 most used password list from SecLists (/usr/share/seclists/Passwords/Common-Credentials/10k-most-common.txt) and generate a simple border mutation by appending all 2 digits combinations at the end of each password.<br>
+Let's edit /usr/share/john/john-local.conf and add a new rule:<br>
+[List.Rules:THM01]<br>
+$[0-9]$[0-9]</em><a id='4.2.'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 4.3. <em>Now let's crack the SHA1 hash 2d5c517a4f7a14dcb38329d228a7d18a3b78ce83, we just have to write the hash in a text file and to specify the hash type, the wordlist and our rule name. john hash.txt --format=raw-sha1 --wordlist=/usr/share/seclists/Passwords/Common-Credentials/10k-most-common.txt --rules=THM01<br>
+
+What was the password?</em><a id='4.1.'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<pre><code># echo '2d5c517a4f7a14dcb38329d228a7d18a3b78ce83' > hash.txx
+...
+# locate john-local.conf
+...
+# cp /opt/john/john.conf /opt/john/john-local.conf
+...
+# nano /opt/john/john-local.conf
+...
+[List.Rules:THM01]
+$[0-9]$[0-9]
+...
+
+[ it is not complete ]
+</code></pre>
+
+
 
 <br>
 <h2>Task 5. Custom wordlist generation</h2>
