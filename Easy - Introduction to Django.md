@@ -211,6 +211,15 @@ python3 manage.py startapp {app_name}</p>
 
 <br>
 
+![image](https://github.com/user-attachments/assets/08175b51-687a-4479-8bd8-ba7a7975ab4a)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/f8dfe079-3304-477b-9b84-90444dc8664c)
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/a50e5ccc-2fee-4d07-9aed-5000738b5424)
 
 <br>
