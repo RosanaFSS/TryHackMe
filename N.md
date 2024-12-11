@@ -10,8 +10,7 @@
 
 <br>
 
-<p>Install <code>Tor</code></p>
-<pre><code>apt-get install tor</code></pre>
+<p>Install <code>Tor</code> <pre><code>apt-get install tor</code></pre></p>
 
 <br>
 
