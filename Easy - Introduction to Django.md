@@ -256,27 +256,15 @@ python3 manage.py startapp {app_name}</p>
 
 
 
-
-![image](https://github.com/user-attachments/assets/c4c1141c-6306-42e1-8f9d-bc7881b53503)
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/77ae6d98-ca6f-4cac-9ed1-eae09dd19d59)
-
-
 <br>
 <h2>Room Complete<a id='4'></a></h2>
 <p>Keep learning, keep growing!</p>
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/49013ba8-0f12-4420-bcfa-5d1b3bcde19f)></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/c4c1141c-6306-42e1-8f9d-bc7881b53503"></p>
 
 <br>
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/f653da5c-6f67-4665-b906-d49bc46bb691"></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/77ae6d98-ca6f-4cac-9ed1-eae09dd19d59"></p>
 
 <br>
 
@@ -292,10 +280,4 @@ python3 manage.py startapp {app_name}</p>
 
 <br>
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/77ae6d98-ca6f-4cac-9ed1-eae09dd19d59"></p>
-
-
-
-
-
-
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/46f02db4-0cc4-429f-bfb8-ef1371577635"></p>
