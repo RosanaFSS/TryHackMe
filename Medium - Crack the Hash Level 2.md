@@ -45,12 +45,27 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 
 <br>
 
+> 2.3. <em>Launch Haiti on this hash:</em><br><a id='2.3'></a>
+> <code>1aec7a56aa08b25b596057e1ccbcb6d768b770eaa0f355ccbd56aee5040e02ee</code><br>
+>> <code><strong>No answer needed</strong></code>
 
-<pre><code> haiti 741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853
-RIPEMD-320 [JtR: dynamic_150]
-IPMI 2.0 RAKP HMAC-SHA1 [HC: 7300]
-Umbraco HMAC-SHA1 [HC: 24800]
-</code></pre>
+<br>
+
+<pre><code> haiti 1aec7a56aa08b25b596057e1ccbcb6d768b770eaa0f355ccbd56aee5040e02ee </code></pre>
+
+<br>
+
+> 2.4. <em>What is Keccak-256 Hashcat code?</em><br><a id='2.4'></a>
+>> <code><strong>17800</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/04068217-eb77-492a-a274-9e705000298c)
+
+<br>
+
+> 2.5. <em>What is Keccak-256 John the Ripper code?</em><br><a id='2.5'></a>
+>> <code><strong>raw-keccak-256</strong></code>
 
 
 <br>
