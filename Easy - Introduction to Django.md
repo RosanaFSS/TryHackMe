@@ -125,6 +125,42 @@ python3 manage.py startapp {app_name}</p>
 
 <h2>Task 3. Unit 3: Creating a website</h2>
 
+<p>......</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 3.1. <em>Read the above.</em><br><a id='3.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+
 <h2>Task 4. Unit 4: Concluding</h2>
 
-<h2>Task 4. Unit 5: CTF</h2>
+<p>.....</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 4.1. <em>Flag from GitHub page</em><br><a id='4.1'></a>
+>> <code><strong>THM{g1t_djang0_hUb}</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ae1d4903-98cd-4806-be23-47f01e57091c)
+
+<br>
+
+
+
+
+<h2>Task 5. Unit 5: CTF</h2>
+
+
