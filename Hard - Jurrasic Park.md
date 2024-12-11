@@ -37,5 +37,57 @@ Please connect to our network before deploying the machine.</p>
 >> <code><strong>____</strong></code>
 
 
+<br>
+
+![image](https://github.com/user-attachments/assets/cb6a330a-2a15-4fea-843b-d97535e0037e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a8d4c1a8-7956-4507-8048-12cf4b9b47a9)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/81ccef22-78fa-42f1-b504-e3e99f79a0aa)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1764a424-d928-4aad-9384-6dd91769012e)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e334d7ce-26a2-4eca-9141-f1ea031600e7)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/246732de-e61c-4e51-aabd-65f365846c04)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b8a10fb8-91be-4198-8a89-b0d294cec868)
+
+<br>
+
+<p>Dennis is mentinoned in <code>?id=5</code></p>
+
+![image](https://github.com/user-attachments/assets/8c346ec3-ce19-484a-9635-ee398e48dc4f)
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
