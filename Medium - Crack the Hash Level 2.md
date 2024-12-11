@@ -64,10 +64,6 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 
 <br>
 
-![image](https://github.com/user-attachments/assets/e3fa018d-bcab-4602-85c2-5174708608a6)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/04068217-eb77-492a-a274-9e705000298c)
 
 <br>
