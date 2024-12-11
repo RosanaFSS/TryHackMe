@@ -124,10 +124,10 @@ To search for this wordlist with wordlistclt run:<br>
 <br>
 
 
-> 3.4. <em>Now search again for rockyou on your local archive with <code>wordlistctl search -l rockyou</code></em><br>
-You should see that the wordlist is deployed at <code></usr/share/wordlists/passwords/rockyou.txt.tar.gz/code><br>
+> 3.4. <em>Now search again for rockyou on your local archive with <code>wordlistctl search -l rockyou</code><br>
+You should see that the wordlist is deployed at <code></usr/share/wordlists/passwords/rockyou.txt.tar.gz</code><br>
 But the wordlist is compressed in a tar.gz archive, to decompress it run <code>wordlistctl fetch -l rockyou -d</code>.<br>
-If you run  <code>wordlistctl search -l rockyou</code>  one more time, what is the path where is stored the wordlist?<a id='3.4'></a>
+If you run  <code>wordlistctl search -l rockyou</code>  one more time, what is the path where is stored the wordlist?</em><a id='3.4'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
