@@ -2,8 +2,6 @@
 
 <h3>218</h3>
 
-![image](https://github.com/user-attachments/assets/dc74112a-6edf-45cb-83f5-ad991dec30b1)
-
 
 ![image](https://github.com/user-attachments/assets/23fe6619-e219-4089-8983-568953eedc62)
 
