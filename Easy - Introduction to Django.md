@@ -163,4 +163,78 @@ python3 manage.py startapp {app_name}</p>
 
 <h2>Task 5. Unit 5: CTF</h2>
 
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 5.1. <em>Flag from GitHub page</em><br><a id='5.1'></a>
+>> <code><strong>THM{g1t_djang0_hUb}</strong></code>
+
+<br>
+
+> 5.2. <em>User flag?</em><br><a id='5.2'></a>
+>> <code><strong>THM{SSH_gUy_101}</strong></code>
+
+<br>
+
+> 5.3. <em>Hidden flag?</em><br><a id='5.3'></a>
+>> <code><strong></strTHM{django_w1zzard}ong></code>
+
+<br>
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d0231776-85ca-4bfc-84ee-c5ddd14b737d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c6f6a011-8f82-418d-ab67-23b6add054fa)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/83f63ead-7456-410c-972d-a72f228ff2d1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ae1a5a8c-e478-4db8-a63f-654126aa834b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2020a809-7973-4ee1-a73f-f18549b87cac)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/08175b51-687a-4479-8bd8-ba7a7975ab4a)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/f8dfe079-3304-477b-9b84-90444dc8664c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/40e0a445-d6c5-4a95-abe3-7eb135d51f79)
+
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/7626c97a-eff2-418a-9b62-8c1ae6516668)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/81bd26e2-5d26-4c51-a792-e22a188dbb3e)
+
+
+
+
+
+
+
+
 
