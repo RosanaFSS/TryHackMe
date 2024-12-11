@@ -107,14 +107,69 @@ To search for this wordlist with wordlistclt run:<br>
 
 <pre><code>wordlistctl search -l rockyou</code></pre>
 
+<br>
 
-<p>I am used to search wordlists as following.</p>
+
+<p>I am used to search wordlists as following ...</p>
 
 <pre><code># locate rockyou.txt
 /usr/share/wordlists/rockyou.txt
 </code></pre>
 
 <br>
+
+> 3.3. <em>Download and install rockyou wordlist by running this command: <code>wordlistctl fetch -l rockyou</code></em><br><a id='3.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+
+> 3.4. <em>Now search again for rockyou on your local archive with <code>wordlistctl search -l rockyou</code></em><br>
+You should see that the wordlist is deployed at <code></usr/share/wordlists/passwords/rockyou.txt.tar.gz/code><br>
+But the wordlist is compressed in a tar.gz archive, to decompress it run <code>wordlistctl fetch -l rockyou -d</code>.<br>
+If you run  <code>wordlistctl search -l rockyou</code>  one more time, what is the path where is stored the wordlist?<a id='3.4'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre><code>git clone https://github.com/BlackArch/wordlistctl.git</code></pre>
+
+<br>
+
+<pre><code># ls
+bash-completion  Dockerfile  LICENSE  man  README.md  repo.json  requirements.txt  wordlistctl.py
+...
+...
+cat wordlistctl.py | grep local
+...
+...
+python3 wordlistctl.py search -l rockyou
+</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7b8425b4-7466-4c19-b5f0-6ac615f807d2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/77584e8a-4b49-4afa-b4ff-f4a148d87c5a)
+
+<br>
+
+
+<br>
+
+> 3.5. <em>You can search for a wordlist about a specific subject (eg. facebook) <code>wordlistctl search facebook</code> or list all wordlists from a category (eg. fuzzing) <code>wordlistctl list -g fuzzing</code>.<br>
+What is the name of the first wordlist in the usernames category?</em><br><a id='3.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+
+
+![image](https://github.com/user-attachments/assets/72673c1a-a0f2-4166-a6a7-23e902de238d)
+
+
+
+
 
 
 
