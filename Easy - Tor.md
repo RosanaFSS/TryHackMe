@@ -13,7 +13,8 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/243be5c2-1b05-4959-b370-ceb78337481e)
+![image](https://github.com/user-attachments/assets/b86b7dc4-b2cc-4e62-afcb-23804f12e990)
+
 
 <br>
 
@@ -202,19 +203,33 @@ https://www.kali.org/docs/tools/tor/</p>
 
 <br>
 
+
+![image](https://github.com/user-attachments/assets/4cb37c18-1e1f-4a67-a65c-ae2c0380e330)
+
+
 > 3.2. <em>Launch the Tor Browser and set your privacy settings to Level 2 (Safer).</em><br><a id='3.2'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
 
 > 3.3. <em>What is the search engine at the following onion address: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/</em><br><a id='3.2'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>DuckDuckGo</strong></code>
 
 <br>
 
 
+![image](https://github.com/user-attachments/assets/f404f3e5-290f-4825-b859-b75f9ab358cc)
 
 
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/49354b7e-e6b3-48c2-a09a-1bf9ee0df058)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/97ff49a0-8b6b-4267-aa65-18246972163f)
 
 
 
