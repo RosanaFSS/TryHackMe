@@ -89,6 +89,133 @@ In this unit, we are going to install the Tor service and learn basic commands.<
 <br>
 
 
+<h2>Task 2. Unit 2 - Proxychains</h2>
+
+![image](https://github.com/user-attachments/assets/f3f6b7bc-06ec-409c-896b-5703e871a7e7)
+
+<p>https://github.com/haad/proxychains</p>
+
+
+<p>Proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.<br>
+
+Proxychains is widely used by pentesters during the reconnaissance stage (For example with nmap).</p>
+
+<br>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 2.1. <em>Let's start running <code>apt install proxychains</code> to install/update proxychains tool.</em><br><a id='2.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre>code>apt install proxychains</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/18d351eb-b1ff-4197-9f65-77acb75460a0)
+
+
+<br>
+
+<p>Now it's time to configure proxychains to work properly.</p>
+
+<br>
+
+> 2.2. <em>Run <code>nano /etc/proxychains.conf</code> to edit the settings. (Note: You can use any text editing tool instead of nano.).</em><br><a id='2.2'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<pre>code>nano /etc/proxychains.conf</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8c9858c1-d26d-40ab-9922-3be8de1d73ee)
+
+<br>
+
+<p>We can now see, that most of the methods are under comment mark. You can read their description and decide on using one of them in the future. For this lesson let's uncomment <code>dynamic_chain</code> and comment others (simply put <coded>#</coded> to the left). Additionally, it is useful to uncomment <code>proxy_dns</code> in order to prevent DNS leak. Scroll through the document and see whenever you want to add some additional proxies at the bottom of the page (which is not required at this point).</p>
+
+<br>
+
+> 2.3. <em>Apply all the settings.</em><br><a id='2.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+![image](https://github.com/user-attachments/assets/37a746c9-3f48-434b-9a03-bfca41e8bbb0)
+
+<br>
+
+<p>Now let's check our settings.</p>
+
+<br>
+
+> 2.4. <em>Start the TOR service and run <code>proxychains firefox</code>. Usually, you are required to put <code>proxychains</code> command before anything in order to force it to transfer data through Tor.</em><br><a id='2.4'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre>code>proxychains firefox</code></pre>
+
+![image](https://github.com/user-attachments/assets/8bc8d591-add9-4ef5-b2bb-d9aabfd42149)
+
+<br>
+
+> 2.5. After the Firefox has loaded, check if your IP address has changed with any website that provides such information. Also, try running a test on <code>dnsleaktest.com</code> and see if your DNS address changed too.<br>
+NOTE: All other web browser windows should be closed before opening Firefox through proxychains!</em><br><a id='2.5'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cf106454-c25a-46b8-91d6-86a0d7acd4e6)
+
+<br>
+
+
+<h2>Task 3. Unit 3 - Tor Browser</h2>
+<p>Tor browser, as seen from its name, is a browser that transfers all its traffic through TOR and by using firefox headers makes all Tor users look the same.<br>
+
+On a daily basis, Tor browser is useful for anyone who wants to keep their internet activities out of the hands of advertisers, ISPs, and web sites. That includes people getting around censorship restrictions in their country, police officers looking to hide their IP address or anyone else who doesn't want their browsing habits linked to them.<br>
+
+Install Tor browser on your system (It is not necessarily to do this on your Kali Machine).<br>
+
+Windows, Mac OS installation<br>
+
+Kali Linux guide</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 3.1. <em>Finish the installation..</em><br><a id='3.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.2. <em>Launch the Tor Browser and set your privacy settings to Level 2 (Safer).</em><br><a id='3.2'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.3. <em>What is the search engine at the following onion address: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/</em><br><a id='3.2'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
