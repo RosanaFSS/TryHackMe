@@ -162,6 +162,10 @@ Proxychains is widely used by pentesters during the reconnaissance stage (For ex
 
 <br>
 
+![image](https://github.com/user-attachments/assets/791bfff6-112a-4be0-b8e8-fc5db77155dd)
+
+<br>
+
 > 2.5. After the Firefox has loaded, check if your IP address has changed with any website that provides such information. Also, try running a test on <code>dnsleaktest.com</code> and see if your DNS address changed too.<br>
 NOTE: All other web browser windows should be closed before opening Firefox through proxychains!</em><br><a id='2.5'></a>
 >> <code><strong>No answer needed</strong></code>
@@ -169,6 +173,7 @@ NOTE: All other web browser windows should be closed before opening Firefox thro
 <br>
 
 ![image](https://github.com/user-attachments/assets/cf106454-c25a-46b8-91d6-86a0d7acd4e6)
+
 
 <br>
 
@@ -181,8 +186,10 @@ On a daily basis, Tor browser is useful for anyone who wants to keep their inter
 Install Tor browser on your system (It is not necessarily to do this on your Kali Machine).<br>
 
 Windows, Mac OS installation<br>
+https://www.torproject.org/<br>
 
-Kali Linux guide</p>
+Kali Linux guide<br>
+https://www.kali.org/docs/tools/tor/</p>
 
 <br>
 
