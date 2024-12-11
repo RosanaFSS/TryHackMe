@@ -62,6 +62,8 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 > 2.4. <em>What is Keccak-256 Hashcat code?</em><br><a id='2.4'></a>
 >> <code><strong>17800</strong></code>
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/e3fa018d-bcab-4602-85c2-5174708608a6)
 
 <br>
@@ -128,34 +130,11 @@ To search for this wordlist with wordlistclt run:<br>
 You should see that the wordlist is deployed at <code></usr/share/wordlists/passwords/rockyou.txt.tar.gz</code><br>
 But the wordlist is compressed in a tar.gz archive, to decompress it run <code>wordlistctl fetch -l rockyou -d</code>.<br>
 If you run  <code>wordlistctl search -l rockyou</code>  one more time, what is the path where is stored the wordlist?</em><a id='3.4'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>/usr/share/wordlists/passwords/rockyou.txt</strong></code>
 
 <br>
 
 <pre><code>git clone https://github.com/BlackArch/wordlistctl.git</code></pre>
-
-<br>
-
-<pre><code># ls
-bash-completion  Dockerfile  LICENSE  man  README.md  repo.json  requirements.txt  wordlistctl.py
-...
-...
-cat wordlistctl.py | grep local
-...
-...
-python3 wordlistctl.py search -l rockyou
-</code></pre>
-
-<br>
-
-![image](https://github.com/user-attachments/assets/7b8425b4-7466-4c19-b5f0-6ac615f807d2)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/77584e8a-4b49-4afa-b4ff-f4a148d87c5a)
-
-<br>
-
 
 <br>
 
@@ -167,6 +146,8 @@ What is the name of the first wordlist in the usernames category?</em><br><a id=
 
 ![image](https://github.com/user-attachments/assets/72673c1a-a0f2-4166-a6a7-23e902de238d)
 
+
+<br>
 
 
 
