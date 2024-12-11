@@ -8,8 +8,42 @@
 <br>
 <h2>Task 1. Introduction</h2>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
 <br>
 <h2>Task 2. Hash Identification</h2>
+<p>Often the first thing you will need when you encounter a hash, is trying to identify which kind of hash it is.
+There are a lot of hash types, some are very famous like MD5 or SHA1 but other are less and there are several hash types possible for a given character set and length.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 2.1. <em>Haiti is a CLI tool to identify the hash type of a given hash. Install it.</em><br><a id='2.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 2.2. <em>Launch Haiti on this hash:</em><br><a id='2.2'></a>
+> <code>741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853</code>
+> What kind of hash it is?
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<pre><code>sudo apt-get install rubygems</code></pre>
+
+<br>
+
+<pre><code>gem install haiti-hash</code></pre>
+
+<p></p>
 
 <br>
 <h2>Task 3. Wordlists</h2>
