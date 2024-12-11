@@ -240,7 +240,7 @@ https://www.kali.org/docs/tools/tor/</p>
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 11, 2024 | 219      |       953 rd |        19 th |      643 rd |       8 th | 601,006  |       465 |
+| December 11, 2024 | 219      |       953 rd |        19 th |      643 rd |       8 th |  61,006  |       465 |
 
 </div>
 
