@@ -155,13 +155,12 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 
 <br>
 
-<pre><code>root@[THM AttackBox]:~/DailyBugle# john --format=bcrypt hash --wordlist=/usr/share/wordlists/rockyou.txt
-
-
-
+<pre><code>root@[THM AttackBox]:~/DailyBugle# john --format=bcrypt --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 </code></pre>
 
+<br>
 
+![image](https://github.com/user-attachments/assets/ba854302-fc68-4389-b688-4d7d426af7f0)
 
 <br>
 
@@ -391,9 +390,6 @@ cat user.txt
 
 ![image](https://github.com/user-attachments/assets/3004f741-cc48-4adf-ad04-52af650f0a10)
 
-
-
-![image](https://github.com/user-attachments/assets/71baf2e7-90f2-46ae-abc0-c2a1dd85b51d)
 
 
 <br>
