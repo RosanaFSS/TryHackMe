@@ -26,5 +26,16 @@ Please connect to our network before deploying the machine.</p>
 <br>
 
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+> 1.1. <em>What is the name of the SQL database serving the shop information?</em><br><a id='1.1'></a>
+>> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 1.2. <em>How many columns does the table have?</em><br><a id='1.2'></a>
+>> <code><strong>____</strong></code>
+
+
 
 
