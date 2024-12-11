@@ -75,7 +75,7 @@ In this unit, we are going to install the Tor service and learn basic commands.<
 
 <br>
 
-> 1.4. <em>Run <code> service tor stop</code> to stop the Tor service../em><br><a id='1.4'></a>
+> 1.4. <em>Run <code> service tor stop</code> to stop the Tor service.</em><br><a id='1.4'></a>
 >> <code><strong>No answer needed</strong></code>
 
 <br>
