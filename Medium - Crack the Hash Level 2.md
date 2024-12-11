@@ -85,10 +85,40 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 
 <br>
 
-> 3.1 <em>RockYou is a famous wordlist contains a large set of commonly used password sorted by frequency.<br>
+> 3.1. <em>RockYou is a famous wordlist contains a large set of commonly used password sorted by frequency.<br>
 To search for this wordlist with wordlistclt run:<br>
 <code>wordlistctl search rockyou</code></em><br><a id='3.1'></a>
 >> <code><strong>No answer needed</strong></code>
+
+<br>
+
+> 3.2. <em>Which option do you need to add to the previous command to search into local archives instead of remote ones?</code></em><br><a id='3.2'></a>
+>> <code><strong>-l</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a69defe0-18d1-4748-86d2-a55ce07ce3f1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8e03d26c-01b6-4895-a34f-be36c05ed8d4)
+
+<br>
+
+<pre><code>wordlistctl search -l rockyou</code></pre>
+
+
+<p>I am used to search wordlists as following.</p>
+
+<pre><code># locate rockyou.txt
+/usr/share/wordlists/rockyou.txt
+</code></pre>
+
+<br>
+
+
+
+
 
 
 <br>
