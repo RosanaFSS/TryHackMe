@@ -166,7 +166,7 @@ https://github.com/XiphosResearch/exploits/blob/master/Joomblah/joomblah.py
 
 
 
-<p>Jonah’s password is <code>spider123</code>.</p>
+<p>Jonah’s password is <code>spiderman123</code>.</p>
 
 ![image](https://github.com/user-attachments/assets/66cedcbc-fa8c-4349-8175-bed6f3dd0e78)
 
@@ -399,6 +399,39 @@ cat user.txt
 
 
 
+<br>
+
+![image](https://github.com/user-attachments/assets/e684a93a-5e2f-4b3d-b0c4-6384e3027f25)
+
+<br>
+
+<p>code>jjameson</code> can run <code>yum</code> for <code>ALL</code></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/af8ba7ca-5799-492b-96cb-eeb2a8a23fa6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9ca45715-468d-4076-a265-f5c9f293fda6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a1391d9b-d59e-40b8-9544-4088b6e78a38)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/46565fc7-1bf9-4d26-899e-19fe21ea7a0f)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9fee7638-01fd-469a-9363-3f7e014d99dc)
+
+
+
+
+
+<p></p>
 
 
 
