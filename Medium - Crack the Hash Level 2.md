@@ -31,7 +31,7 @@ There are a lot of hash types, some are very famous like MD5 or SHA1 but other a
 <br>
 
 > 2.2. <em>Launch Haiti on this hash:</em><br><a id='2.2'></a>
-> <code>741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853</code>
+> <code>741ebf5166b9ece4cca88a3868c44871e8370707cf19af3ceaa4a6fba006f224ae03f39153492853</code><br>
 > What kind of hash it is?
 >> <code><strong>No answer needed</strong></code>
 
