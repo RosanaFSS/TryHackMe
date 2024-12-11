@@ -223,16 +223,35 @@ https://www.kali.org/docs/tools/tor/</p>
 
 
 
-<br>
-
-![image](https://github.com/user-attachments/assets/49354b7e-e6b3-48c2-a09a-1bf9ee0df058)
 
 <br>
+<h2>Room Complete<a id='4'></a></h2>
+<p>Keep learning, keep growing!</p>
 
-![image](https://github.com/user-attachments/assets/97ff49a0-8b6b-4267-aa65-18246972163f)
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/49354b7e-e6b3-48c2-a09a-1bf9ee0df058"></p>
+
+<br>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/97ff49a0-8b6b-4267-aa65-18246972163f"></p>
+
+<br>
+
+<h2>My Journey<a id='5'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| November 11, 2024 | 189      |       1,237ª |          25ª |      4,023ª |        54ª | 54,878   |       416 |
+
+</div>
 
 
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/cd6b7bcc-1bbe-4576-a12d-3591bd10d6ac"></p>
 
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
 
 
 
