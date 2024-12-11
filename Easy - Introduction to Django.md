@@ -194,24 +194,6 @@ python3 manage.py startapp {app_name}</p>
 
 
 
-
-
-
-<br>
-<br>
-
-
-![image](https://github.com/user-attachments/assets/a50e5ccc-2fee-4d07-9aed-5000738b5424)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/41d3915b-7087-4395-b7d7-39d84c163c74)
-
-<br>
-<br>
-
-
-
 ![image](https://github.com/user-attachments/assets/c6f6a011-8f82-418d-ab67-23b6add054fa)
 
 <br>
@@ -226,6 +208,15 @@ python3 manage.py startapp {app_name}</p>
 <br>
 
 ![image](https://github.com/user-attachments/assets/2020a809-7973-4ee1-a73f-f18549b87cac)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a50e5ccc-2fee-4d07-9aed-5000738b5424)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/41d3915b-7087-4395-b7d7-39d84c163c74)
+
 
 <br>
 
