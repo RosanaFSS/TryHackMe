@@ -421,12 +421,13 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 <h2>Room Complete</h2>
 <p>Keep learning, keep growing!</p>
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/0e0f0692-5a22-48c1-9cc2-e6d6d8fb04bb"></p>
 
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/0af43efe-308f-420f-8986-b9f85b2df244"></p>
 
 <br>
 
-<p align="center"> <img width="750px" src=""></p>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/0e0f0692-5a22-48c1-9cc2-e6d6d8fb04bb"></p>
 
 
 <br>
@@ -442,16 +443,16 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
 | :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
 |                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
-| December 12, 2024 | 220      |       940 th |        19 th |      392 nd |       2 nd | 61,356   |       468 |
+| December 12, 2024 | 220      |       937 th |        19 th |      402 nd |       2 nd | 61,495   |       469 |
 
 </div>
 
 
-<p align="center"> <img width="750px" src=""></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/aa86b6a0-661d-4ab2-8c00-ccd792b3b130"></p>
 
 <br>
 
-<p align="center"> <img width="750px" src=""></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/ffa2a833-501e-4956-bc3c-cfb4495a4541"></p>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
