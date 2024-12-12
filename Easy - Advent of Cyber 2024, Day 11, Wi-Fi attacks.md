@@ -160,20 +160,43 @@ This means that in the file where we captured that output somewhere in this file
 
 
 
-<h2>Room Completed</h2>
 
+<br>
+<h2>Room Complete</h2>
+<p>Keep learning, keep growing!</p>
 
-![image](https://github.com/user-attachments/assets/a70777d5-a011-4193-89cd-3683b8afde67)
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/a70777d5-a011-4193-89cd-3683b8afde67"></p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/c5b646cf-4bb4-4f82-bc0d-c740d7add5ae)
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/c5b646cf-4bb4-4f82-bc0d-c740d7add5ae7"></p>
 
 
-<h2>My Journey</h2>
+<br>
+
+<br>
 
 
+<h2>My Journey<a id='7'></a></h2>
+<p>Following I share the status of my journey in TryHackMe.</p>
 
-![image](https://github.com/user-attachments/assets/7fe44db6-822f-4780-8953-54b8da6b45cc)
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 12, 2024 | 220      |       940 th |        19 th |      392 nd |       2 nd | 61,356   |       468 |
+
+</div>
+
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/7fe44db6-822f-4780-8953-54b8da6b45cc"></p>
+
+<br>
+
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/566f1796-b1b3-4886-9622-6f7de2885ebd"></p>
+
+
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
 
 
