@@ -102,7 +102,7 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 <h3><code>/retro/wp-content</code></h3>
 
 
-<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</wp-content</code></pre>
+<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro/wp-content</code></pre>
 
 <br>
 
@@ -112,7 +112,7 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <h3><code>/retro/wp-includes</code></h3>
 
-<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</wp-content</code></pre>
+<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro/wp-content</code></pre>
 
 <br>
 
