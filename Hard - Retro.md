@@ -88,6 +88,8 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <br>
 
+<h3><code>/retro</code></h3>
+
 <pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</code></pre>
 
 <br>
@@ -97,7 +99,10 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <br>
 
-<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</wp-contentcode></pre>
+<h3><code>/retro</wp-content</code>code></h3>
+
+
+<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</wp-content</code></pre>
 
 <br>
 
@@ -105,7 +110,16 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <br>
 
-<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</wp-contentcode></pre>
+<h3><code>/retro</wp-includes</code></h3>
+
+<pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</wp-content</code>code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/25d853dd-49f5-47ba-99f1-39df4ccb844e)
+
+
+
 
 
 
