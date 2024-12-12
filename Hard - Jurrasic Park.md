@@ -190,40 +190,6 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 <br>
 
 
-![image](https://github.com/user-attachments/assets/e7667ec7-a0c5-46c4-9856-dd9f70352bd4)
-
-<br>
-
-
-![image](https://github.com/user-attachments/assets/82dd10a7-e756-45a5-ac9f-342fadde1b3e)
-
-
-<br>
-
-
-![image](https://github.com/user-attachments/assets/5044d057-f05b-4d50-a87a-ebef6b452b37)
-
-<br>
-
-
-![image](https://github.com/user-attachments/assets/f0e9dd99-d447-4584-a839-46b3f4c44869)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/cb110942-750b-44f7-bf5c-c310e85c0140)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/64d497ac-7529-44bc-82e7-1f3d62a6ac16)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/034d65da-6d2f-4617-af8d-b7ead1f4070d)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/c1a61a07-6074-41c1-9b5c-78025bc16fed)
-
 <br>
 
 ![image](https://github.com/user-attachments/assets/a00f90b9-e7d3-46ca-b5b7-62db9bb18fc0)
@@ -365,6 +331,44 @@ dennis@ip-10-10-215-56:~$
 <br>
 
 ![image](https://github.com/user-attachments/assets/aa911ceb-52cf-498b-9628-a85c637c4d68)
+
+<nr>
+<br>
+
+
+![image](https://github.com/user-attachments/assets/e7667ec7-a0c5-46c4-9856-dd9f70352bd4)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/82dd10a7-e756-45a5-ac9f-342fadde1b3e)
+
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/5044d057-f05b-4d50-a87a-ebef6b452b37)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/f0e9dd99-d447-4584-a839-46b3f4c44869)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cb110942-750b-44f7-bf5c-c310e85c0140)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/64d497ac-7529-44bc-82e7-1f3d62a6ac16)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/034d65da-6d2f-4617-af8d-b7ead1f4070d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c1a61a07-6074-41c1-9b5c-78025bc16fed)
 
 
 
