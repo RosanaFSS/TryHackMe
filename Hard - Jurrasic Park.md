@@ -378,6 +378,13 @@ dennis@ip-10-10-215-56:~$
 ![image](https://github.com/user-attachments/assets/c1a61a07-6074-41c1-9b5c-78025bc16fed)
 
 
+<br>
+
+
+<h2>Room Completed</h2>
+
+
+![image](https://github.com/user-attachments/assets/cfd2349e-8600-40cf-b804-a8332245dc62)
 
 
 
