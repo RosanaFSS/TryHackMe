@@ -198,44 +198,23 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 ![image](https://github.com/user-attachments/assets/82dd10a7-e756-45a5-ac9f-342fadde1b3e)
 
 
+<br>
 
 
+![image](https://github.com/user-attachments/assets/5044d057-f05b-4d50-a87a-ebef6b452b37)
+
+<br>
 
 
+![image](https://github.com/user-attachments/assets/f0e9dd99-d447-4584-a839-46b3f4c44869)
 
+<br>
 
+![image](https://github.com/user-attachments/assets/cb110942-750b-44f7-bf5c-c310e85c0140)
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/64d497ac-7529-44bc-82e7-1f3d62a6ac16)
 
 
 
