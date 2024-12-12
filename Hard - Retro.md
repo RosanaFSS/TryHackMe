@@ -18,7 +18,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{220}}$$-day-streak in  <a href="h
 <h2>Task 1. Pwn</h2>
 
 <p align="center">
-  <img width="150px" src="https://github.com/user-attachments/assets/ff4479da-7861-4e41-be75-a56e6f7e57b8">
+  <img width="150px" src="https://github.com/user-attachments/assets/a89030d4-3184-425d-8ae9-bf2a78830054">
 </p>
 
 <p align="center">Can you time travel? If not, you might want to think about the next best thing.<br>
