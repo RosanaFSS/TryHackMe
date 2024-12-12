@@ -42,7 +42,7 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 <br>
 
 > 1.2. <em>user.txt</em><br><a id='1.2'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>3b99fbdc6d430bfb51c72c651a261927</strong></code>
 
 <br>
 
@@ -156,6 +156,28 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 ![image](https://github.com/user-attachments/assets/1850328b-53de-4076-962e-50f5e26c6032)
 
 <br>
+
+
+<h2>Microsoft 2016  IIS 10.0</h2>
+
+![image](https://github.com/user-attachments/assets/fe31359f-6d0d-4353-a5f2-70016747506a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bc40a0fd-7ac3-4fd1-8275-fd80333144c8)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/71e0448c-dd21-4f93-9de3-1b29b4e96376)
+
+<br>
+
+
+
+
+
+
 
 
 
