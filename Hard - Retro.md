@@ -190,6 +190,27 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 ![image](https://github.com/user-attachments/assets/e22edca8-8ba0-4a19-9334-d958868ceeba)
 
 
+<br>
+
+![image](https://github.com/user-attachments/assets/19bdcd7b-9788-468f-821b-b8c35aac4b74)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4c9ff2fc-6bd6-4fa9-9540-0a9399eb6637)
+
+
+<br>
+
+<br>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2d19f831-72fe-4631-acfe-fec90e512d7e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4f269aea-b943-476b-b743-0d7a7e3b21db)
 
 
 
