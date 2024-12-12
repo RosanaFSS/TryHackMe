@@ -37,7 +37,7 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 <br>
 
 > 1.1. <em>A web server is running on the target. What is the hidden directory which the website lives on??</em><br><a id='1.1'></a>
->> <code><strong>___________________</strong></code>
+>> <code><strong>/retro</strong></code>
 
 <br>
 
@@ -88,6 +88,12 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <br>
 
+![image](https://github.com/user-attachments/assets/0f8f69c4-64ce-41d2-b692-9d0788986310)
+
+
+<br>
+
+
 <h3>/retro</h3>
 
 <pre><code>gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http:/[Target]/retro</code></pre>
@@ -98,6 +104,27 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 
 <br>
+
+![image](https://github.com/user-attachments/assets/9aaa8053-8fa5-4637-8a77-f38baed5a935)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b675d6e4-265d-4952-a19b-ec4e3388a723)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f098fbfd-a640-4a0e-9954-1ef5ec122fa6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8dccaa91-4360-4165-b6b2-becc1dbe292c)
+
+
+<br>
+
+
+
 
 <h3>/retro/wp-content</h3>
 
