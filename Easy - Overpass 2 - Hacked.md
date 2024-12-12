@@ -256,10 +256,66 @@ func passwordHandler(_ ssh.Context, password string) bool {
 
 
 > 2.3. <em>What was the hash that the attacker used? - go back to the PCAP for this!</em><br><a id='2.3'></a>
->> <code><strong>_______</strong></code>
+>> <code><strong>6d05358f090eea56a238af02e47d44ee5489d234810ef6240280857ec69712a3e5e370b8a41899d0196ade16c0d54327c5654019292cbfe0b5e98ad1fec71bed</strong></code>
 
 
 <br>
+
+![image](https://github.com/user-attachments/assets/b6d29e61-efa3-463c-9ac7-dd64bcfee7ac)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f2e907b2-897f-4dd1-975d-eb26a162c9e5)
+
+
+<br>
+
+> 2.4. <em>Crack the hash using rockyou and a cracking tool of your choice. What's the password?</em><br><a id='2.4'></a>
+>> <code><strong>___</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c93fbd08-7fc5-4f2f-a6d3-9ac1c5f0eb91)
+
+<br>
+
+<p>I used this: https://www.tunnelsup.com/hash-analyzer/</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a3b59301-bf7f-4762-a9ce-3f1bae9cff69)
+
+<br>
+
+<p>Let´s go to: https://hashcat.net/wiki/doku.php?id=example_hashes</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/070dfb18-de57-421e-ba92-966aa12d62e9)
+
+<br>
+
+<pre><code>sha512($pass.$salt) </code></pre>
+
+<br>
+
+<pre><code>bdd04d9bb7621687f5df9001f5098eb22bf19eac4c2c30b6f23efed4d24807277d0f8bfccb9e77659103d78c56e66d2d7d8391dfc885d0e9b68acd01fc2170e3:1c362db832f3f864c8c2fe05f2002a05</code></pre>
+
+<br>
+
+<pre><code>hashcat -m 1710 -a 0 -o hash.txt /home/kali/Downloads/rockyou.txt</code></pre>
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/0e3baae5-77b5-4f8d-ba7f-4ecf1fdb9899)
+
+<br>
+
+
+
+
+
 
 
 
