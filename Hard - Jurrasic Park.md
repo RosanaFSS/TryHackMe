@@ -387,4 +387,13 @@ dennis@ip-10-10-215-56:~$
 ![image](https://github.com/user-attachments/assets/cfd2349e-8600-40cf-b804-a8332245dc62)
 
 
+![image](https://github.com/user-attachments/assets/79bd2ed0-353d-45f9-b603-9154e0609546)
+
+
+<h2>My Journey</h2>
+
+
+
+![image](https://github.com/user-attachments/assets/302fdc31-50f6-4cd4-ae45-46f79d8964d8)
+
 
