@@ -216,6 +216,20 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 
 ![image](https://github.com/user-attachments/assets/64d497ac-7529-44bc-82e7-1f3d62a6ac16)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/034d65da-6d2f-4617-af8d-b7ead1f4070d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c1a61a07-6074-41c1-9b5c-78025bc16fed)
+
+<br>
+
+
+
+
+
 
 
 
