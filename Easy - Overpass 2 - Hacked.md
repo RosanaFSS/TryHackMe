@@ -312,9 +312,77 @@ func passwordHandler(_ ssh.Context, password string) bool {
 
 <br>
 
+<p>november16</p>
+
+<br>
+
+<h2>Task 3. Attack - Get back in!</h2>
+<p>Now that the incident is investigated, Paradox needs someone to take control of the Overpass production server again.<br>
+
+There's flags on the box that Overpass can't afford to lose by formatting the server!</p>
 
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
+<br>
+
+> 3.1. <em>The attacker defaced the website. What message did they leave as a heading?</em><br><a id='2.1'></a>
+>> <code><strong>H4ck3d by CooctusClan</strong></code>
+
+
+<br>
+
+
+<pre><code>~/Overpass2# nmap -A [Target]
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-12-12 21:03 GMT
+Nmap scan report for [Target].eu-west-1.compute.internal ([Target])
+Host is up (0.00046s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+...
+80/tcp   open  http    Apache httpd 2.4.29 ((Ubuntu))
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: LOL Hacked
+2222/tcp open  ssh     OpenSSH 8.2p1 Debian 4 (protocol 2.0)
+| ssh-hostkey: 
+...
+MAC Address: 02:56:F4:0E:8C:19 (Unknown)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+...
+Network Distance: 1 hop
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   0.46 ms [Target].eu-west-1.compute.internal ([Target])
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
+</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9194b486-5431-4255-8236-acd5fd3e4115)
+
+<br>
+
+
+<br>
+
+> 3.2. <em>Using the information you've found previously, hack your way back in!</em><br><a id='3.2'></a>
+>> <code><strong>No answer needed</strong></code>
+
+
+<br>
+
+> 3.3. <em>What's the user flag?</em><br><a id='3.3'></a>
+>> <code><strong>No answer needed</strong></code>
+
+
+<br>
 
 
 
