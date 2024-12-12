@@ -415,16 +415,12 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 <br>
 
 
-![image](https://github.com/user-attachments/assets/0e0f0692-5a22-48c1-9cc2-e6d6d8fb04bb)
-
-
-
 <br>
 <h2>Room Complete</h2>
 <p>Keep learning, keep growing!</p>
 
 <p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/0e0f0692-5a22-48c1-9cc2-e6d6d8fb04bb"></p>
-"></p>
+
 
 <br>
 
