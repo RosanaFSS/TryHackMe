@@ -77,6 +77,8 @@ Please connect to our network before deploying the machine.</p>
 
 <p>Dennis is mentinoned in <code>?id=5</code>.  Maybe it is a username?!</p>
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/8c346ec3-ce19-484a-9635-ee398e48dc4f)
 
 <br>
@@ -179,14 +181,21 @@ But guess what?  .... with <code>' or 1=1 ORDER BY 1,2,3,4,5,6</code> the output
 
 <pre><code>?id=5%20union%20select%201,password,3,4,5%20from%20users</code></pre>
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/669a0148-a62f-48b6-a26d-84550fdcba17)
 
+<br>
+<br>
 <br>
 
 
 ![image](https://github.com/user-attachments/assets/e7667ec7-a0c5-46c4-9856-dd9f70352bd4)
 
+<br>
 
+
+![image](https://github.com/user-attachments/assets/82dd10a7-e756-45a5-ac9f-342fadde1b3e)
 
 
 
