@@ -13,7 +13,7 @@
 <br>
 
 > 1.1. <em>What is the flag value after transferring over $2000 from Glitch's account?</em><br><a id='1.1'></a>
->> <code><strong>______</strong></code>
+>> <code><strong>THM{WON_THE_RACE_007}</strong></code>
 
 <br>
 
@@ -173,11 +173,27 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/fdcbab54-a909-4ad7-aa79-211d5d0242e7)
+![image](https://github.com/user-attachments/assets/e1136178-a39d-478d-8f91-fe77f38349b2)
+
+
 
 <br>
 
-![image](https://github.com/user-attachments/assets/f95eacdd-09b7-4add-904e-b8d7b3dab18e)
+
+![image](https://github.com/user-attachments/assets/61c8e025-a5d1-49be-833d-9beb5c1bb7ed)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/ab2cae2e-29a9-4f4c-a401-346aa05a571f)
+
+<br>
+
+
+
+
+
+
 
 
 
