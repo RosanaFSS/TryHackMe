@@ -379,13 +379,9 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 
 <br>
 
-<p>Remember this?</p>
+<pre><code>ssh [Target IP] -p [Target Port]</code></pre>
 
-![image](https://github.com/user-attachments/assets/de5baa8c-6804-4370-acff-9e0f6e4b1e27)
-
-<p>Now it is time to used it.</p>
-
-<br>
+<p>Let´s used the password we cracked in previous task.</p>
 
 ![image](https://github.com/user-attachments/assets/ee98472f-1a59-4c33-ac58-afa6d337b2ed)
 
