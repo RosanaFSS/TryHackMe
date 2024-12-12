@@ -1,5 +1,11 @@
 
 
+![image](https://github.com/user-attachments/assets/a2998cb3-0fed-4afd-ae1e-a8d0f633aae8)
+
+
+
+
+
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 <br>
@@ -35,7 +41,11 @@
 
 
 > 1.4. <em>WWhat is the PSK after performing the WPA cracking attack?</em><br><a id='1.4'></a>
->> <code><strong>02:00:00:00:01:00</strong></code>
+>> <code><strong>fluffy/champ24</strong></code>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/81a80d1b-4c45-4536-a985-7a33aef8ca78)
 
 <br>
 
@@ -150,10 +160,20 @@ This means that in the file where we captured that output somewhere in this file
 
 
 
+<h2>Room Completed</h2>
+
+
+![image](https://github.com/user-attachments/assets/a70777d5-a011-4193-89cd-3683b8afde67)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c5b646cf-4bb4-4f82-bc0d-c740d7add5ae)
+
+
+<h2>My Journey</h2>
 
 
 
-
-
+![image](https://github.com/user-attachments/assets/7fe44db6-822f-4780-8953-54b8da6b45cc)
 
 
