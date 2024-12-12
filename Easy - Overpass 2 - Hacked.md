@@ -85,7 +85,7 @@
 
 <br>
 
-<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/566f1796-b1b3-4886-9622-6f7de2885ebd"></p>
+<p align="center"> <img width="750px" src=""></p>
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
