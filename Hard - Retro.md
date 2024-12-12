@@ -118,6 +118,8 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <br>
 
+<pre><code>http://retro.thm/retro/index.php/2019/12/09/ready-player-one/#comment-2</code></pre>
+
 ![image](https://github.com/user-attachments/assets/8dccaa91-4360-4165-b6b2-becc1dbe292c)
 
 
@@ -172,6 +174,25 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 ![image](https://github.com/user-attachments/assets/71e0448c-dd21-4f93-9de3-1b29b4e96376)
 
 <br>
+
+<pre><code>http://[Target]/retro/index.php/2019/12/09/ready-player-one/#comment-2</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6278e361-7327-4c47-9bc8-e2c89ff7fa80)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9c883def-d310-4ee4-b9a5-c0a7a832296d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e22edca8-8ba0-4a19-9334-d958868ceeba)
+
+
+
+
+
 
 
 
