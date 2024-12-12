@@ -17,9 +17,6 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/a2ffc4ec-0831-4042-b321-99470085ea4b)
-
-
 <br>
 
 > 1.2. <em>If you enjoyed this task, feel free to check out the Race Conditions room! D</em><br><a id='1.2'></a>
@@ -29,4 +26,10 @@
 
 > 1.3. <em>Where balances shift and numbers soar, look for an entry - an open door!</em><br><a id='1.3'></a>
 >> <code><strong>No answer needed</strong></code>
+
+<br>
+
+<br>
+
+
 
