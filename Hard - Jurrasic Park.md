@@ -379,21 +379,35 @@ dennis@ip-10-10-215-56:~$
 
 
 <br>
+<br>
+<br>
+
+<h2>Room Completed<a id='8'></a></h2>
+<p>Keep learning, keep growing!<br>
 
 
-<h2>Room Completed</h2>
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/cfd2349e-8600-40cf-b804-a8332245dc62"> </p>
 
+<br>
 
-![image](https://github.com/user-attachments/assets/cfd2349e-8600-40cf-b804-a8332245dc62)
-
-
-![image](https://github.com/user-attachments/assets/79bd2ed0-353d-45f9-b603-9154e0609546)
-
-
-<h2>My Journey</h2>
+<p align="center"> <img width="800px" src="https://github.com/user-attachments/assets/79bd2ed0-353d-45f9-b603-9154e0609546"> </p>
 
 
 
-![image](https://github.com/user-attachments/assets/302fdc31-50f6-4cd4-ae45-46f79d8964d8)
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
 
+<div align="center">
 
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 11, 2024 | 219      |       940 th |        19 th |      424 th |       4 th |  61,324  |       468 |
+
+</div>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/302fdc31-50f6-4cd4-ae45-46f79d8964d8"> </h3>
+
+<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/5bf83dd6-bac9-4aab-ace2-cb31a8a3253d"> </h3>
