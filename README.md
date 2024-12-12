@@ -18,8 +18,9 @@
 
 <br>
 
+
 <p align="center">December 11, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/f2ce191a-4ee5-454c-9611-9aa92905a5ed"> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/302fdc31-50f6-4cd4-ae45-46f79d8964d8"> </p>
 
 
 <h2>My Journey<a id='5'></a></h2>
@@ -53,10 +54,14 @@
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
 
 
+
+</div>
+
+
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
-| December 11, 2024 | 219      |        953ʳᵈ |         19ᵗʰ |        643ʳᵈ |          8ᵗʰ | 61,006   |       465 |
+| December 11, 2024 | 219      |        940ᵗʰ |         19ᵗʰ |        424ᵗʰ |          4ᵗʰ | 61,324   |       468 |
 | December 10, 2024 | 218      |        953ʳᵈ |         19ᵗʰ |        508ᵗʰ |          5ᵗʰ | 60,998   |       464 |
 | December 9, 2024  | 217      |        996ᵗʰ |         20ᵗʰ |      2,364ᵗʰ |         27ᵗʰ | 60,160   |       460 |
 | December 8, 2024  | 216      |      1,005ᵗʰ |         21ˢᵗ |      5,372ⁿᵈ |         55ᵗʰ | 59,964   |       459 |
