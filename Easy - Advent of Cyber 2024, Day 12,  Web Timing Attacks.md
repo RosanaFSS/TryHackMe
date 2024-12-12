@@ -218,59 +218,31 @@
 
 
 
-![image](https://github.com/user-attachments/assets/ebc960e6-cf59-4dea-b5ef-b09c68980e4c)
+<br>
+
+<h2>Task Complete<a id='2'></a></h2>
+<p>Keep learning, keep growing!<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/ebc960e6-cf59-4dea-b5ef-b09c68980e4c"> </h3>
+
+<h2>My Journey<a id='3'></a></h2>
+<p></p>Following I share the status of my journey in TryHackMe.</p>
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     |
+| :---------------: | :------- | :----------- | :----------- | :---------- | :--------- | :------  | :-------- |
+|                   |          | WorldWide    | Brazil       | WorldWide   | Brazil     |          | Completed |
+| December 12, 2024 | 220      |       940 th |        19 th |      394 th |       2 nd | 61,364   |       468 |
+
+</div>
 
 
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/a477e256-2bae-4400-b6ec-5ff5485e6a50"> </h3>
+
+<br>
+
+<h3 align="center"> <img width="900px" src="https://github.com/user-attachments/assets/ef77cdbb-daab-4506-8c6f-ff1c6df274d5"> </h3>
 
 
-
-![image](https://github.com/user-attachments/assets/a477e256-2bae-4400-b6ec-5ff5485e6a50)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
