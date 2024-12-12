@@ -3,7 +3,8 @@
 ![image](https://github.com/user-attachments/assets/56181f76-e131-4cd7-9986-6523c7062a51)
 
 
-![image](https://github.com/user-attachments/assets/d17d2a70-268c-435b-b5c0-1ecea5595ff3)
+![image](https://github.com/user-attachments/assets/7cb4b346-c93f-4c87-a04e-89f4f615bbe6)
+
 
 
 
@@ -403,6 +404,8 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 
 
 <br>
+
+![image](https://github.com/user-attachments/assets/fcc4ab75-ba8f-46d9-bdb5-7a47c1f916ef)
 
 
 
