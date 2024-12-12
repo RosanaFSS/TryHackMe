@@ -407,6 +407,9 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 
 ![image](https://github.com/user-attachments/assets/fcc4ab75-ba8f-46d9-bdb5-7a47c1f916ef)
 
+<br>
+
+<pre><code>$ ./.suid_bash -p</code></pre>
 
 
 ![image](https://github.com/user-attachments/assets/ccaad47a-8895-4be5-81af-faa49ed2f87a)
