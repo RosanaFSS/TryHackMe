@@ -391,13 +391,18 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 
 <br>
 
+> 3.3. <em>What's the user flag?</em><br><a id='3.3'></a>
+>> <code><strong>thm{d119b4fa8c497ddb0525f7ad200e6567}</strong></code>
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/ca0c5ca1-fb1a-461e-a64e-f5993ca9a4f2)
 
 
 <br>
 
 
-> 3.3. <em>What's the user flag?</em><br><a id='3.3'></a>
+> 3.4. <em>What's the root flag?</em><br><a id='3.3'></a>
 >> <code><strong>No answer needed</strong></code>
 
 
@@ -405,6 +410,12 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 
 
 
+![image](https://github.com/user-attachments/assets/ccaad47a-8895-4be5-81af-faa49ed2f87a)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/0e0f0692-5a22-48c1-9cc2-e6d6d8fb04bb)
 
 
 
@@ -412,7 +423,8 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 <h2>Room Complete</h2>
 <p>Keep learning, keep growing!</p>
 
-<p align="center"> <img width="750px" src=""></p>
+<p align="center"> <img width="750px" src="https://github.com/user-attachments/assets/0e0f0692-5a22-48c1-9cc2-e6d6d8fb04bb"></p>
+"></p>
 
 <br>
 
