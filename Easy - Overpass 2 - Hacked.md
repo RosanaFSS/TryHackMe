@@ -370,6 +370,7 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 <br>
 
 
+
 <br>
 
 > 3.2. <em>Using the information you've found previously, hack your way back in!</em><br><a id='3.2'></a>
@@ -377,6 +378,24 @@ Nmap done: 1 IP address (1 host up) scanned in 49.47 seconds
 
 
 <br>
+
+<p>Remember this?</p>
+
+![image](https://github.com/user-attachments/assets/de5baa8c-6804-4370-acff-9e0f6e4b1e27)
+
+<p>Now it is time to used it.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ee98472f-1a59-4c33-ac58-afa6d337b2ed)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ca0c5ca1-fb1a-461e-a64e-f5993ca9a4f2)
+
+
+<br>
+
 
 > 3.3. <em>What's the user flag?</em><br><a id='3.3'></a>
 >> <code><strong>No answer needed</strong></code>
