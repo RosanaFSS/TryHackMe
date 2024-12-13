@@ -264,7 +264,8 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 
 <br>
 
-![image](https://github.com/user-attachments/assets/703c5057-68e8-42ee-afb2-7335a35d59ab)
+![image](https://github.com/user-attachments/assets/237eba3e-f5fe-49ae-92cd-336785198b0b)
+
 
 <br>
 
@@ -287,6 +288,9 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 <br>
 
 ![image](https://github.com/user-attachments/assets/dfb595b6-9a85-45f3-9d25-1309fb166bb8)
+
+
+<p>  ....   Need to learn moren to be able to complete this room.  .....</p>
 
 
 
