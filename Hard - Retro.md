@@ -1,4 +1,8 @@
-<p align="center">December 12, 2024</p>
+<p>66%</p>
+
+<br>
+
+align="center">December 12, 2024</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{220}}$$-day-streak in  <a href="https://tryhackme.com/">TryHackMe</a>.</p>
 
@@ -211,6 +215,89 @@ Please note that this machine does not respond to ping (ICMP) and may take a few
 <br>
 
 ![image](https://github.com/user-attachments/assets/4f269aea-b943-476b-b743-0d7a7e3b21db)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f0918613-7fff-4751-87b4-9b3a95da52be)
+
+<br>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e44a4b6f-5ac5-44a2-88cf-3835add5598a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f5666a7f-49a2-439f-a84c-7e0f7b85c21e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0d23fe29-e3d8-40e8-96ed-609b1b996745)
+
+<br>
+
+<p>I restored the file.</p>
+
+
+![image](https://github.com/user-attachments/assets/66327a5d-53be-4efb-8328-fbd571f8f314)
+
+
+<p>I run it as Administrator.  Selected Show More Details. Then Show Inofrmation about the publisher´s certificate.  And I got this.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ac6c7ec4-0ae9-4b3e-b7da-0dd501be17a6)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/28cafa6b-9a6e-4d3f-bceb-d0f7cb6d8ae0)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/df40315c-ad9e-46d1-9338-d94321ae3265)
+
+<br>
+
+
+<pre><code>https://www.verisign.com/repository/CPS</code></pre>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/703c5057-68e8-42ee-afb2-7335a35d59ab)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e4a03410-86e1-48b6-a16b-5db38a289cc3)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d05bced2-0c9e-4933-8649-4d404ef1060e)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/85b0e210-0d32-4b31-b7a8-0f8494a34644)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4f250caf-7a62-4531-82b0-73bf7ca0a41e)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/dfb595b6-9a85-45f3-9d25-1309fb166bb8)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
