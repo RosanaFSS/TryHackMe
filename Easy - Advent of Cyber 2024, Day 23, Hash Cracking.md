@@ -23,6 +23,16 @@ https://medium.com/@rosana.viaja/tryhackme-advent-of-cyber-2024-day-23-hash-crac
 <br>
 <br>
 
+![image](https://github.com/user-attachments/assets/644e18e8-5bf4-4814-afe4-abcf1c207bc2)
 
-![image](https://github.com/user-attachments/assets/c7b89995-7771-44a6-afe4-025e57ec7c1f)
+<br>
+
+<p>My 231-day-streak on TryHackMe<br>
+231 days streak 🎉 ▪ 64,819 points ▪ 489 rooms completed ▪ 54 badges🎖️<br>
+Global ranking:   831ˢᵗ all time ▪ 124ᵗʰ monthly<br>
+Brazil ranking:    18ᵗʰ all time ▪   2ⁿᵈ monthly</p>
+
+
+
+
 
