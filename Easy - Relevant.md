@@ -52,10 +52,6 @@ Bob - !P@$$W0rD!123r<br><br>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/718792f2-5f40-4c0e-8f59-938317aa67db)
-
-<br>
-
 ![image](https://github.com/user-attachments/assets/ee2c2983-cae9-4730-98c3-2e061847e683)
 
 <br>
