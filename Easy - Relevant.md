@@ -138,3 +138,8 @@ THM{1fk5kf469devly1gl320zafgl345pv}
 
 ![image](https://github.com/user-attachments/assets/ecde9507-0634-482e-b550-c755ef856d0c)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/80cad7b6-02e1-43ca-9b18-d0776a1bbee8)
+
+
