@@ -50,8 +50,6 @@ QmlsbCAtIEp1dzRubmFNNG40MjA2OTY5NjkhJCQk<br>
 echo Qm9iIC0gIVBAJCRXMHJEITEyMw== | base64 -d<br>
 Bob - !P@$$W0rD!123r<br><br>
 
-![image](https://github.com/user-attachments/assets/fe142f7d-3f9b-41ce-8dc0-51e10d487f71)
-
 <br>
 
 ![image](https://github.com/user-attachments/assets/718792f2-5f40-4c0e-8f59-938317aa67db)
