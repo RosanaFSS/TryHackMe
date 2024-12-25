@@ -12,7 +12,8 @@ https://tryhackme.com/r/room/relevant
 <br>
 nmap -sC -sV -sS -Pn -p- -T4 [Target_IP]<br>
 
-![image](https://github.com/user-attachments/assets/2a462d84-3c4e-4fd6-8a67-156264f5c260)
+![image](https://github.com/user-attachments/assets/2b1695db-fe46-428b-bd11-a76d6644e989)
+
 
 <br>
 
