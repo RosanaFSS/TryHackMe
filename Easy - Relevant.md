@@ -10,7 +10,7 @@ https://tryhackme.com/r/room/relevant
 <br>
 
 <br>
-nmap -sV relevant.thm<br>
+nmap -sC -sV -sS -Pn -p- -T4 [Target_IP]<br>
 
 ![image](https://github.com/user-attachments/assets/2a462d84-3c4e-4fd6-8a67-156264f5c260)
 
@@ -47,9 +47,22 @@ QmlsbCAtIEp1dzRubmFNNG40MjA2OTY5NjkhJCQk<br>
 <br>
 
 echo Qm9iIC0gIVBAJCRXMHJEITEyMw== | base64 -d<br>
-Bob - !P@$$W0rD!123r<br>
+Bob - !P@$$W0rD!123r<br><br>
 
 ![image](https://github.com/user-attachments/assets/fe142f7d-3f9b-41ce-8dc0-51e10d487f71)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/718792f2-5f40-4c0e-8f59-938317aa67db)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ee2c2983-cae9-4730-98c3-2e061847e683)
+
+<br>
+
+
+
 
 
 
