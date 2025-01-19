@@ -18,7 +18,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{258}}$$-day-streak in  <a href="h
 <h2>Read my complete walkthrough in Medium.</h2>
 <br>
 
-https://github.com/user-attachments/assets/ec904982-c569-42dc-bb8d-5948142c5699
+https://medium.com/@RosanaFS/tryhackme-walkthrough-wonderland-62c664019489
 
 <br>
 <br>
