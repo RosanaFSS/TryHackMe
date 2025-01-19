@@ -21,7 +21,3 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{221}}$$-day-streak in  <a href="h
 https://medium.com/@RosanaFS/tryhackme-advent-of-cyber-2024-websockets-day-13-54e717cf9b50
 
 
-<br>
-<br>
-
-![image](https://github.com/user-attachments/assets/99994375-6694-44a4-b9e8-c9387294f18e)
