@@ -8,9 +8,8 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{221}}$$-day-streak in  <a href="h
 <p align="center">Exploring WebSocket vulnerabilities with Insider.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/adventofcyber2024">Advent of Cyber 2024, Day 13</a>.</p><br>
 <p align="center">
-  <img width="900px" src="(https://github.com/user-attachments/assets/85b5a9ce-5371-4108-bb96-8c4e902efeda">
+  <img width="900px" src="https://github.com/user-attachments/assets/d73f82e7-fa47-43ef-b4e1-9658df375a47">
 </p>
-
 
 <br>
 
@@ -19,5 +18,3 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{221}}$$-day-streak in  <a href="h
 
 
 https://medium.com/@RosanaFS/tryhackme-advent-of-cyber-2024-websockets-day-13-54e717cf9b50
-
-
