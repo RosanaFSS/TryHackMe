@@ -22,9 +22,3 @@ https://medium.com/@RosanaFS/security-operations-incident-response-with-splunk-c
 
 <br>
 <br>
-
-![image](https://github.com/user-attachments/assets/6c725caf-29f1-40e4-9df8-325815dc6835)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/44d027e3-31b6-46a4-96a7-2d545a537d1b)
