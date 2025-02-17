@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">February 17, 2025 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/7b58123d-2985-4586-8153-ef0eba459a9f> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/31913272-1551-4c2e-a67f-8b629064f034"/> </p>
 
 <h2>My Journey<a id='5'></a></h2>
 <p>Following I share the status of my journey in TryHackMe.</p>
