@@ -6,7 +6,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{271}}$$-day-streak in  <a href="h
   $$\textcolor{#3bd62d}{\textnormal{Dunkle Materie}}$$
 </h1>
 <p align="center">Investigate a ransomware attack using a .pcap file and a .csv file.</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/room/dunklematerieptxc9">Dunkle Materir</a>.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/room/dunklematerieptxc9">Dunkle Materie</a>.</p>
                                                               
 <p align="center">
   <img width="900px" src="https://github.com/user-attachments/assets/1e574e08-a96c-4fad-9182-136d64e383f4">
