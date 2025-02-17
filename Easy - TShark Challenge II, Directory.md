@@ -1,6 +1,4 @@
-<h2>TShark Challenge II: Directory</h2>h2>
-  
-</h2>
+<h2>TShark Challenge II: Directory</h2>
 July 25, 2024 <br>
 Day 81<br>
 
