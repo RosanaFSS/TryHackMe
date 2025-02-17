@@ -6,6 +6,9 @@ Day 287<br>
 
 
 <br>
+Read my complete walkthrough in Medium.
+
+https://medium.com/@RosanaFS/read-team-obfuscation-principles-tryhackme-walkthrough-90b2cee7a4f7
 
 <br>
 
