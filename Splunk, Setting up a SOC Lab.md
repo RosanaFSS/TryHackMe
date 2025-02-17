@@ -1,0 +1,8 @@
+<h2> SOC Level 2 > Advanced Splunk > Splunk: Setting up a SOC Lab</h2>
+
+Jun6 11, 2024 <br>
+Day 36 <br>
+
+<br>
+
+![Captura de tela 2024-06-11 194714](https://github.com/user-attachments/assets/76811d60-05a2-437b-badd-c1e722d7daf8)
