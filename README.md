@@ -35,8 +35,8 @@
 |Year Month      |Monthly         |All Time        |Achievement                                                                                        |
 |:---------------|---------------:|---------------:|:-------------------------------------------------------------------------------------------------:| 
 |                |Brazil          |Global          |                                                                                                   |
-|2025 February   |1ˢᵗ          |412 nd | <img src="https://github.com/user-attachments/assets/0a9884c6-57df-404f-b8a0-83e5a2ff99b1" style="width:300px;"/> |
-|2025 January    |          |        | <img src="" style="width:300px;"/> |
+|2025 February   |1ˢᵗ             |412ⁿᵈ | <img src="https://github.com/user-attachments/assets/0a9884c6-57df-404f-b8a0-83e5a2ff99b1" style="width:300px;"/> |
+|2025 January    |2ⁿᵈ             |496ᵗʰ   | <img src="https://github.com/user-attachments/assets/00e64e74-4d33-4820-9064-67f67fa00614" style="width:300px;"/> |
 |2024 December   |            |         | <img src="" style="width:300px;"/> |
 |2024 November   |49ᵗʰ            |1,063ʳᵈ         | <img src="https://github.com/user-attachments/assets/be48d3d1-f69c-4bfd-9863-903f76db0b84" style="width:300px;"/> |
 |2024 October    |2ⁿᵈ             |1,451ˢᵗ         | <img src="https://github.com/user-attachments/assets/498119ec-879e-483d-9706-753552478006" style="width:300px;"/> |
@@ -46,6 +46,7 @@
 |2024 June       |-               |17,817ᵗʰ        |- | 
 
 </div>
+
 
 <br>
 
