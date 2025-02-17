@@ -19,9 +19,8 @@
 
 <br>
 
-
-<p align="center">December 11, 2024 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/f3487229-00ef-492b-ab33-c5c882d6d530"> </p>
+<p align="center">February 17, 2025 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/7b58123d-2985-4586-8153-ef0eba459a9f> </p>
 
 <h2>My Journey<a id='5'></a></h2>
 <p>Following I share the status of my journey in TryHackMe.</p>
