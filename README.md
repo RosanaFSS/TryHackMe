@@ -34,6 +34,7 @@
 |Year Month      |Monthly         |All Time        |Achievement                                                                                        |
 |:---------------|---------------:|---------------:|:-------------------------------------------------------------------------------------------------:| 
 |                |Brazil          |Global          |                                                                                                   |
+|2025 February   |1ˢᵗ          |412 nd | <img src="" style="width:300px;"/> |
 |2025 January    |          |        | <img src="" style="width:300px;"/> |
 |2024 December   |            |         | <img src="" style="width:300px;"/> |
 |2024 November   |49ᵗʰ            |1,063ʳᵈ         | <img src="https://github.com/user-attachments/assets/be48d3d1-f69c-4bfd-9863-903f76db0b84" style="width:300px;"/> |
