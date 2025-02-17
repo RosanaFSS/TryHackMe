@@ -12,7 +12,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{82}}$$-day-streak in  <a href="ht
 
 ![Julho-26-2024 - TryHackMe  Day 81 - LINUX Live Analysis - Image 58 - Room Completed](https://github.com/user-attachments/assets/97d1f6ac-ccd7-44b0-8236-7116de17db14)
 
-
+<p>There is much much more to share ...</p>
 
 ![Julho-26-2024 - TryHackMe  Day 81 - LINUX Live Analysis - Image 52 Recent modified Binaries](https://github.com/user-attachments/assets/f9fc4383-2467-49ba-b264-74b8f994d54e)
 
