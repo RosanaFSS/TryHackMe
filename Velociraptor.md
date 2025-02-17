@@ -9,21 +9,9 @@ Day 33<br>
 
 <br>
 
-![Captura de tela 2024-06-08 164001](https://github.com/user-attachments/assets/dc812475-c01e-43f0-b63c-07a3defb3300)
-
-<br>
+![Captura de tela 2024-06-08 171413](https://github.com/user-attachments/assets/aeb67072-2b4d-4c1e-bdc9-eea7836361c6)
 
 
-![Captura de tela 2024-06-08 161204](https://github.com/user-attachments/assets/39ba725e-741b-44f7-9925-d6f8c8de1685)
-
-<br>
-
-![Captura de tela 2024-06-08 161830](https://github.com/user-attachments/assets/f11e33f6-fbfb-4642-ae4a-db2385bdee00)
-
-
-<br>
-
-![Captura de tela 2024-06-08 163633](https://github.com/user-attachments/assets/1c78e8a4-39f2-452b-8ec5-601162177b6c)
 
 
 
