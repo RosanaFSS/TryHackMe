@@ -6,7 +6,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{269}}$$-day-streak in  <a href="h
   $$\textcolor{#3bd62d}{\textnormal{Warzone 2}}$$
 </h1>
 <p align="center">Practice Brim, VirusTotal and CyberChef. You received another IDS/IPS alert. Time to triage the alert to determine if its a true positive.</p>
-<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/room/warzoneone">Warzone 2</a>.</p>
+<p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/room/warzonetwo">Warzone 2</a>.</p>
                                                               
 <p align="center">
   <img width="900px" src="https://github.com/user-attachments/assets/40b5b11f-190d-4a0d-88e0-5c34ea154d8c">
