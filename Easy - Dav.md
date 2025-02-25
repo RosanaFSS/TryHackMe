@@ -99,6 +99,8 @@ DOWNLOADED: 4612 - FOUND: 3
 
 ![image](https://github.com/user-attachments/assets/cb7bc450-34ee-466e-be50-bdea7c84cf4c)
 
+<p> The default credentials are generally jigsaw:jigsaw(failed) adm1n:p@s$word(failed) wampp:xampp(success).</p>
+
 ![image](https://github.com/user-attachments/assets/76e929c1-d571-46d3-9730-8a09e635915c)
 
 ![image](https://github.com/user-attachments/assets/e064eb40-ffb6-483f-ac83-7a8c4c61830a)
