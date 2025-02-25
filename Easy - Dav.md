@@ -145,11 +145,11 @@ dav:/webdav/>
 <title>201 Created</title>
 </head><body>
 <h1>Created</h1>
-<p>Resource /webdav/shell.php has been created.</p>
+<p>Resource /webdav/revhsell has been created.</p>
 <hr />
-<address>Apache/2.4.18 (Ubuntu) Server at [Target] Port 80</address>
+<address>Apache/2.4.18 (Ubuntu) Server at 10.10.180.121 Port 80</address>
 </body></html>
-</code></pre><br>
+
 
 ![image](https://github.com/user-attachments/assets/82f2ddb8-173c-4368-862e-8cec0c691b70)
 
