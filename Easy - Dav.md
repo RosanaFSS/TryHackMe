@@ -97,9 +97,10 @@ DOWNLOADED: 4612 - FOUND: 3
 
 </code></pre><br>
 
+<p> The default credentials are generally jigsaw:jigsaw(failed) adm1n:p@s$word(failed) wampp:xampp(success).</p>
+
 ![image](https://github.com/user-attachments/assets/cb7bc450-34ee-466e-be50-bdea7c84cf4c)
 
-<p> The default credentials are generally jigsaw:jigsaw(failed) adm1n:p@s$word(failed) wampp:xampp(success).</p>
 
 ![image](https://github.com/user-attachments/assets/76e929c1-d571-46d3-9730-8a09e635915c)
 
@@ -111,6 +112,9 @@ DOWNLOADED: 4612 - FOUND: 3
 wampp:$apr1$Wm2VTkFL$PVNRQv7kzqXQIHe14qKA91
 
 ![image](https://github.com/user-attachments/assets/92332b17-317d-47b5-9878-490fe63849cf)
+
+![image](https://github.com/user-attachments/assets/eca0ec04-bdbb-4574-9399-291b9359f4b5)
+
 
 
 <pre><code># root@ip-[Attack]:~# apt install cadaver
