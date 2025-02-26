@@ -8,8 +8,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{295}}$$-day-streak in  <a href="h
 <p align="center">boot2root machine for FIT and bsides guatemala CTF</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/bsidesgtdav">DAV</a>.</p><br>
 <p align="center">
-  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/101db08a-b506-4e4a-9de8-f4569bfaca85">
-  <img height="150px" src="https://github.com/user-attachments/assets/7ce0c59b-c286-4719-94f5-85168145d75f">
+  <img height="150px" src="https://github.com/user-attachments/assets/7ce0c59b-c286-4719-94f5-85168145d75f](https://github.com/user-attachments/assets/c7c29e86-8aff-4b0d-bdd6-2bc51a8c89c7">
 </p>
 
 <p align="center">Summary</p>
@@ -189,4 +188,7 @@ Listening on [0.0.0.0] (family 0, port 8080)
 
 
 <p style="text-align: center;">Thank you for coming. Hope to learn together again!!</p>
+
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Room Completed Header and Tasks](https://github.com/user-attachments/assets/1a923028-8e26-467c-b2b3-0cf7e20ebb06)
+
 
