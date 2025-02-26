@@ -8,8 +8,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{295}}$$-day-streak in  <a href="h
 <p align="center">boot2root machine for FIT and bsides guatemala CTF</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/bsidesgtdav">DAV</a>.</p><br>
 <p align="center">
-  <img height="150px" src="https://github.com/user-attachments/assets/7ce0c59b-c286-4719-94f5-85168145d75f](https://github.com/user-attachments/assets/c7c29e86-8aff-4b0d-bdd6-2bc51a8c89c7">
+  <img height="150px" src="https://github.com/user-attachments/assets/a4338ad0-fc95-45ab-aec5-5f894685f4ff">
 </p>
+
 
 <p align="center">Summary</p>
 
