@@ -12,11 +12,6 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{295}}$$-day-streak in  <a href="h
 </p>
 
 
-<p align="center">Summary</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Walkthrough](#1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Super Secret Password](#1.1) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [Room complete](#2) &nbsp;&nbsp;&nbsp;&nbsp;▪️&nbsp;&nbsp;&nbsp;&nbsp; [My journey](#3)
-
-
 <h2>Task 1. Dav<a id='1'></a></h2>
 
 <p>Read user.txt and root.txt</p>
@@ -160,19 +155,33 @@ $
 Listening on [0.0.0.0] (family 0, port 8080)
 </code></pre><br>
 
+<br>
 
-<h1>................... to be continued .....................</h1>
-
-
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
-
-> 1.1. <em>user.txt</em><br><a id='1.1'></a>
->> <code><strong>_____</strong></code>
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Image -2, install cadaver](https://github.com/user-attachments/assets/0e422828-5d4e-4832-a410-ace00fc04eae)
 
 <br>
 
-> 1.2. <em>root.txt</em><br><a id='1.2'></a>
->> <code><strong>_____</strong></code>
+
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Image -1, install cadaver](https://github.com/user-attachments/assets/337ebd44-4420-43d7-9a71-5be15b60b95e)
+
+
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Image 0, pentestmonkey](https://github.com/user-attachments/assets/b9b939c2-8089-4263-b89e-0c5712803f98)
+
+<br>
+
+
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Image 1](https://github.com/user-attachments/assets/0cdac5da-e373-4d54-8e7f-8849e35141b0)
+
+<br>
+
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Image 2](https://github.com/user-attachments/assets/029cc126-cf99-44fc-8911-082611cceb6e)
+
+<br>
+
+![Fevereiro, 24, 2025,   TryHackMe,  Day 295, DAV, Image 3](https://github.com/user-attachments/assets/9754fd47-1d0f-47a7-ab7c-19292ffe7610)
+
+
+
 
 <br>
 
