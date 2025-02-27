@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/4fc7a41b-a128-4704-9e6f-ecb827ac3360)
+
 
 
 https://medium.com/@RosanaFS/node-deserialization-attack-web-exploitation-glitch-tryhackme-walkthrough-90-points-9fc303c898ab
