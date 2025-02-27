@@ -6,7 +6,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{297}}$$-day-streak in  <a href="h
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{GLITCH}}$$
 </h1>
-<p align="center">Explore unsafe comsumption of API´s, practicing Node Deserialization Attack. Challenge showcasing a web app and simple privilege escalation. Can you find the glitch? <a href="https://tryhackme.com/room/glitc">GLITCH</a></p>
+<p align="center">Explore unsafe comsumption of API´s, practicing Node Deserialization Attack. Challenge showcasing a web app and simple privilege escalation. Can you find the glitch? <a href="https://tryhackme.com/room/glitch">GLITCH</a></p>
                                                               
 <p align="center">
   <img width="900px" src="https://github.com/user-attachments/assets/4fc7a41b-a128-4704-9e6f-ecb827ac3360">
