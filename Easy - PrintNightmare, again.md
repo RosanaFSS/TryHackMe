@@ -4,7 +4,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{289}}$$-day-streak in  <a href="h
 
 
 <h1 align="center">
-  $$\textcolor{#3bd62d}{\textnormal{GLITCH}}$$
+  $$\textcolor{#3bd62d}{\textnormal{PrintNightmare, again!}}$$
 </h1>
 <p align="center">Search the artifacts on the endpoint to determine if the employee used any of the Windows Printer Spooler vulnerabilities to elevate their privileges. <a href="https://tryhackme.com/room/printnightmarec2bn7l">PrintNightmare, again!</a></p>
                                                               
