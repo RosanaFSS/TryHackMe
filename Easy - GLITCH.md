@@ -1,7 +1,19 @@
+<p align="center">February 27, 2025</p>
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{297}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.</p>
 
-![image](https://github.com/user-attachments/assets/4fc7a41b-a128-4704-9e6f-ecb827ac3360)
+<h1 align="center">
+  $$\textcolor{#3bd62d}{\textnormal{GLITCH}}$$
+</h1>
+<p align="center"> <a href="https://tryhackme.com/room/glitch">GLITCH</a>.</p>
+                                                              
+<p align="center">
+  <img width="900px" src="https://github.com/user-attachments/assets/4fc7a41b-a128-4704-9e6f-ecb827ac3360">
+</p>
 
+<br>
 
+<h2>Read my complete walkthrough in Medium.</h2>
 
 https://medium.com/@RosanaFS/node-deserialization-attack-web-exploitation-glitch-tryhackme-walkthrough-90-points-9fc303c898ab
 
