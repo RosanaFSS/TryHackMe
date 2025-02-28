@@ -60,6 +60,10 @@ ssh-keygen
 
 <br
 
+> 1.4. <em>What are the last 10 digits of n? (where 'n' is the modulus for the public-private key pair)</em><br><a id='1.4'></a>
+>> <strong><code>________</code></strong><br>
+<p><br></p>
+
 ![image](https://github.com/user-attachments/assets/fd762c99-254b-4676-aa57-c798c147cc98)
 
 <br>
@@ -73,6 +77,16 @@ pip install gmpy2
 
 
 <br>
+
+> 1.5. <em>Factorize n into prime numbers p and q</em><br><a id='1.5'></a>
+>> <strong><code>____</code></strong><br>
+<p><br></p>
+
+
+> 1.6. <em>What is the numerical difference between p and q?</em><br><a id='1.6'></a>
+>> <strong><code>____</code></strong><br>
+<p><br></p>
+
 
 
 
