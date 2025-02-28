@@ -1,16 +1,32 @@
 
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 1.1. <em>How many services are running on the box?</em><br><a id='1.1'></a>
+>> <strong><code>2</code></strong><br>
+<p><br></p>
+
 nmap<br>
 
 ![image](https://github.com/user-attachments/assets/5cd475ae-11f8-419b-b46c-04722928757f)
 
 <br>
 
+> 1.2. <em>What is the name of the hidden directory on the web server? (without leading '/')</em><br><a id='1.2'></a>
+>> <strong><code>development</code></strong><br>
+<p><br></p>
+
 gobuster<br>
 
 ![image](https://github.com/user-attachments/assets/fec7eb17-88bd-4157-908d-4e5e0c8c246d)
 
 <br>
+
+> 1.3. <em>What is the length of the discovered RSA key? (in bits)</em><br><a id='1.3'></a>
+>> <strong><code>4096</code></strong><br>
+<p><br></p>
 
 http://breaking<br>
 
@@ -30,7 +46,7 @@ http://breaking/development/log.txt<br>
 <br>
 
 <br>
-http://breaking/development/td_rsa.pub<br>
+http://breaking/development/id_rsa.pub<br>
 
 
 ![image](https://github.com/user-attachments/assets/f7149fd3-b707-40f5-94d6-38ed6de615aa)
