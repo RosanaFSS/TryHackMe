@@ -58,9 +58,9 @@ ssh-keygen
 
 ![image](https://github.com/user-attachments/assets/c36ee36e-021b-4c97-8384-ad9ff2c4f868)
 
-<br
+<br>
 
-> 1.4. <em>What are the last 10 digits of n? (where 'n' is the modulus for the public-private key pair)</em><br><a id='1.4'></a>
+ 1.4. <em>What are the last 10 digits of n? (where 'n' is the modulus for the public-private key pair)</em><br><a id='1.4'></a>
 >> <strong><code>________</code></strong><br>
 <p><br></p>
 
@@ -79,13 +79,34 @@ pip install gmpy2
 <br>
 
 > 1.5. <em>Factorize n into prime numbers p and q</em><br><a id='1.5'></a>
+>> <strong><code>No answer needed</code></strong><br>
+<p><br></p>
+
+<br>
+
+1.6. <em>What is the numerical difference between p and q?</em><br><a id='1.6'></a>
 >> <strong><code>____</code></strong><br>
 <p><br></p>
 
+<br>
 
-> 1.6. <em>What is the numerical difference between p and q?</em><br><a id='1.6'></a>
->> <strong><code>____</code></strong><br>
+1.7. <em>Generate the private key using p and q (take e = 65537)</em><br><a id='1.7'></a>
+>> <strong><code>_______</code></strong><br>
 <p><br></p>
+
+<br>
+
+1.8. <em>Generate the private key using p and q (take e = 65537)</em><br><a id='1.7'></a>
+>> <strong><code>No answer needed</code></strong><br>
+<p><br></p>
+
+
+<br>
+
+1.9. <em>What is the flag?</em><br><a id='1.7'></a>
+>> <strong><code>________</code></strong><br>
+<p><br></p>
+
 
 
 
