@@ -16,6 +16,24 @@ http://breaking<br>
 
 ![image](https://github.com/user-attachments/assets/6185f1bf-7dab-4c1c-8591-f75c3cd46461)
 
+<br>
+
+http://breaking/development<br>
+
+![image](https://github.com/user-attachments/assets/791aeed1-2f8c-4c56-a877-76d58ce27154)
+
+<br>
+http://breaking/development/log.txt<br>
+
+![image](https://github.com/user-attachments/assets/213f6c52-923c-45cf-9fbc-8faa4bb48023)
+
+<br>
+
+
+
+
+
+
 
 
 
