@@ -61,7 +61,7 @@ ssh-keygen
 <br>
 
  1.4. <em>What are the last 10 digits of n? (where 'n' is the modulus for the public-private key pair)</em><br><a id='1.4'></a>
->> <strong><code>________</code></strong><br>
+>> <strong><code>1225222383</code></strong><br>
 <p><br></p>
 
 ![image](https://github.com/user-attachments/assets/fd762c99-254b-4676-aa57-c798c147cc98)
@@ -73,6 +73,37 @@ pycryptodome
 
 pip install pycryptodome<br>
 pip install gmpy2
+
+
+<br>
+
+este.py
+
+<br>
+
+from Crypto.PublicKey import RSA
+
+f = open("id_rsa.pub", "r")
+
+key = RSA.importKey(f.read())
+
+n = key.n
+e = key.e
+
+last = str(n)[-10:]
+
+print(f"----------- Analyzing the Public-Private Key Pair\n\n")
+
+print(f"n =  {n}\n\n")
+
+print(f"the last 10 digits of n =    {last}\n\n")
+
+print(f"e =  {e}\n\n") 
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3a419da0-e15c-4c44-ad02-d7247e4722c5)
 
 
 
