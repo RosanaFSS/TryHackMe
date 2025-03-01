@@ -64,16 +64,6 @@ ssh-keygen
 >> <strong><code>1225222383</code></strong><br>
 <p><br></p>
 
-![image](https://github.com/user-attachments/assets/fd762c99-254b-4676-aa57-c798c147cc98)
-
-<br>
-pycryptodome
-
-<br>
-
-pip install pycryptodome<br>
-pip install gmpy2
-
 
 <br>
 
