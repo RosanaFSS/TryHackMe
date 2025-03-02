@@ -47,9 +47,9 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  Network Security Protocols
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  Virtualization and Containers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Virtualization and Containers](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.7.%20Virtualization%20and%20Containers.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  Intro to Cloud Security
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Intro to Cloud Security](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.8.%20Introduction%20to%20Cloud%20Security.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  Auditing and Monitoring
 <br>
@@ -59,17 +59,17 @@ This path is composed by 5 modules.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  OWASP Top 10-2021
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  OWASP API Security Top 10 - 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 1](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.02.%20OWASP%20API%20Security%20Top%2010-1.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  OWASP API Security Top 10 - 2
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  SSDLC
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  [SSDLC](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.04.%20SSDLC.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  SAST
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  DAST
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  Weaponizing Vulnerabilities
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Weaponizing Vulnerabilities](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.07.%20Weaponizing%20Vulnerabilities.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Introduction to DevSecOps
 <br>
