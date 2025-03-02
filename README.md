@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="center">March 1, 2025 - My yearly activity<br>
+<p align="center">March 2, 2025 - My yearly activity<br>
                  <img width="1000px" src="https://github.com/user-attachments/assets/efaafe90-9f08-4904-8e73-7f1bd9107c22"/> </p>
 
 
