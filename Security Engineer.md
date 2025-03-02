@@ -67,7 +67,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  SAST
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  DAST
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  [DAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.06.%20DAST.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Weaponizing Vulnerabilities](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.07.%20Weaponizing%20Vulnerabilities.md)
 <br>
