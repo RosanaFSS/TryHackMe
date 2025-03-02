@@ -51,7 +51,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Intro to Cloud Security](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.8.%20Introduction%20to%20Cloud%20Security.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  Auditing and Monitoring
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  [Auditing and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.9.%20Auditing%20and%20Monitoring.md)
 <br>
 
 <h2>4.  Software Security</h2>
