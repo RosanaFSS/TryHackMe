@@ -45,7 +45,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Network Device Hardening](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.5.%20Network%20Device%20Hardening.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  Network Security Protocols
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Network Security Protocols](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.06.%20Network%20Security%20Protocols.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Virtualization and Containers](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.7.%20Virtualization%20and%20Containers.md)
 <br>
