@@ -39,7 +39,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Linux System Hardening
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Microsoft Windows Hardening
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-115 &nbsp;&nbsp;&nbsp;  [Microsoft Windows Hardening](https://github.com/RosanaFSS/TryHackMe/tree/Security-Engineer-learning-path)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Active Directory Hardening
 <br>
