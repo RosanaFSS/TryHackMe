@@ -43,7 +43,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Active Directory Hardening
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  Network Device Hardening
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Network Device Hardening](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.5.%20Network%20Device%20Hardening.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  Network Security Protocols
 <br>
