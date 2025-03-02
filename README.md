@@ -19,8 +19,8 @@
 
 <br>
 
-<p align="center">February 27, 2025 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/ec697819-cb39-44c2-a70b-db4c9f340a7a"/> </p>
+<p align="center">March 1, 2025 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/efaafe90-9f08-4904-8e73-7f1bd9107c22"/> </p>
 
 
 <h2>My Journey<a id='5'></a></h2>
@@ -67,6 +67,7 @@
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
+| March 2, 2025     | 300      |        381ˢᵗ |          8ᵗʰ |        760ᵗʰ |          8ᵗʰ | 84,809   |       598 |
 | February 27, 2025 | 297      |        385ᵗʰ |          8ᵗʰ |         72ⁿᵈ |          1ˢᵗ | 84,409   |       593 |
 | February 23, 2025 | 293      |        396ᵗʰ |          8ᵗʰ |         70ᵗʰ |          1ˢᵗ | 83,561   |       584 |
 | February 17, 2025 | 287      |        412ⁿᵈ |          8ᵗʰ |         57ᵗʰ |          1ˢᵗ | 82,267   |       574 |
