@@ -82,13 +82,13 @@ This path is composed by 5 modules.</p>
 <h2>5.  Managing Incidents</h2>
 <p>Understand how security engineers help their organisations during an incident to reduce the impact of the incident.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  Intro to IR and IM
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Intro to IR and IM](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.1.%20Intro%20to%20IR%20and%20IM.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  Logging for Accountability
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Logging for Accountability](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.2.%20Logging%20for%20Accountability.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  Becoming a First Responder
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Becoming a First Responder](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.3.%20Becoming%20a%20First%20Responder.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  Cyber Crisis Management
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-122 &nbsp;&nbsp;&nbsp;  [Cyber Crisis Management](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.4.%20Cyber%20Crisis%20Management.md)
 <br>
 
 
