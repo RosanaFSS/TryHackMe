@@ -1,6 +1,6 @@
-<p align="center">December 1, 2024</p>
+<p align="center">December 2, 2024</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="https://tryhackme.com/r/p/Rosana">TryHackMe</a>.</p>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{210}}$$-day-streak in  <a href="https://tryhackme.com/r/p/Rosana">TryHackMe</a>.</p>
 
 <h1 align="center">
   $$\textcolor{#3bd62d}{\textnormal{Windows User Account Forensics}}$$
@@ -9,7 +9,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 <p align="center">Access this TryHackMe Room clicking <a href="https://tryhackme.com/r/room/windowsuseraccountforensics">Windows User Account Forensics</a>. Note that only subscribers can deploy virtual machines in this room.</p><br>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/3773d729-f20d-4e8b-8c6f-fbd982d22bed">
-  <img height="150px" src="">
+  <img height="150px" src="https://github.com/user-attachments/assets/fa4c8493-b891-4974-b82d-8417129a9e05">
 </p>
 
 
@@ -120,6 +120,9 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{209}}$$-day-streak in  <a href="h
 ![image](https://github.com/user-attachments/assets/3620d3a3-b732-4970-9fc8-3aaaf6817967)
 
 
+<br>
+
+![December 2, 2024  - TryHackMe - Windows User Account Forensics - Room Complete 2](https://github.com/user-attachments/assets/341cd4f9-3409-4b02-9492-17de2ca33fc8)
 
 
 
