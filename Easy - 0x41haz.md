@@ -8,6 +8,8 @@ Day 301<br>
 
 <br>
 
+https://medium.com/@RosanaFS/binary-reverse-engineering-0x41haz-tryhackme-walkthrough-30-points-11c4dbcf61cb
+
 ![image](https://github.com/user-attachments/assets/d6d30b8c-2a94-4f5b-ae52-de61cf104aa1)
 
 <br>
