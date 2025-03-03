@@ -7,6 +7,8 @@ Day <strong>300</strong><br>
 
 <br>
 
+https://medium.com/@RosanaFS/escaping-a-python-jail-pyjail-tokyo-ghoul-tryhackme-walkthrough-270-points-a1a08bc0d7cd
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/448a04b3-b62a-460a-9c2c-5bd5276f05ce)
