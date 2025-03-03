@@ -1,13 +1,13 @@
-<p align="center">November 12, 2024</p>
+<p align="center">December 17, 2024</p>
 <p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{190}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{225}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
 
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{ Expediting Registry Analysis }}$$ </h1>
 <p align="center">This room explores different tools used to expedite analysis of registry data during investigation.</p>
 <p align="center">Access this 🆓 TryHackMe CTF Room clicking <a href="https://tryhackme.com/r/room/expregistryforensics">Expediting Registry Analysis</a>.</p>
 <p align="center">
   <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/0a679284-0798-4f74-9098-92a98c6336e0"><br>
-  <img width="800px" src="https://github.com/user-attachments/assets/54e2868b-89d6-4eeb-9689-c1579cddcf74">
+  <img width="800px" src="https://github.com/user-attachments/assets/5e6d554d-52b4-4702-bb04-1e3c78f25f6e">
 </p>
 
 <p align="center">Summary</p>
@@ -145,3 +145,15 @@ First, we can start with the <code>gkape.exe</code> executable, which we can fin
 
 > 3.2. <em>What will be the contents of a _kape.cli file if we want to collect data from the C drive and save it to the D drive using the target RegistryHives?.</em><br><a id='3.2'></a>
 >> <code><strong>____</strong></code>
+
+
+
+
+<br>
+
+![December 17, 2024  - TryHackMe - 225-day-streak,  Expediting Registry Analysis - Room Completed White Background](https://github.com/user-attachments/assets/4f5fd570-bb62-4aaf-ba72-7ff55e466f88)
+
+<br>
+
+![December 17, 2024  - TryHackMe - 225-day-streak,  Expediting Registry Analysis - Header and Tasks](https://github.com/user-attachments/assets/ec10a85f-5357-44c0-a269-8042b1808d3d)
+
