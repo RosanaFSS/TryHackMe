@@ -5,6 +5,12 @@ Day 246<br>
 
 ![image](https://github.com/user-attachments/assets/46be1573-2451-4b8c-9d0f-c161afb92d84)
 
+<br>
+
+<br>
+
+<h2>Read my complete walkthrough in Medium.</h2>
+
 
 https://medium.com/@RosanaFS/tryhackme-walkthrough-analysing-volatile-memory-9d834e1f9238
 
