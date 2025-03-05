@@ -75,7 +75,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Mother´s Secret
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-118 &nbsp;&nbsp;&nbsp;  [Traverse]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-118 &nbsp;&nbsp;&nbsp;  [Traverse](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.10.%20Traverse.md)
 <br>
 
 
