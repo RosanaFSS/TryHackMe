@@ -8,7 +8,6 @@ Day 302<br>
 <br>
 
 
-<h2>Read my complete walkthrough in Medium.</h2>
 
 <br>
 
