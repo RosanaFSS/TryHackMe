@@ -1,11 +1,11 @@
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{TryHackMe}}$$ </h1>
-<h4 align="center">March 2, 2025. Clicking <a href="https://tryhackme.com/p/Rosana">here</a> you can access my THM profile.<br></h4>
+<h4 align="center">March 5, 2025. Clicking <a href="https://tryhackme.com/p/Rosana">here</a> you can access my THM profile.<br></h4>
 <h2 align="center"> $$\textcolor{white}{\textnormal{My accomplishments in my THM account, active since December 2023.}}$$ </h2>
 
 <div align="center">
 
   
-|<h5>Penetration Tester<br>CompTIA Pentest+<br><br>✅<br>Nov, 2024</h5> |<h5>Penetration Tester<br>Jr Penetration Tester<br><br>✅<br>Oct, 2024</h5>|<h5>Penetration Tester<br>Web Fundamentals<br><br>✅<br>Sep, 2024</h5>|<h5>Penetration Tester<br>Web App Pentesting<br><br>✅<br>Dec, 2024</h5>|<h5>Penetration Tester<br>Red Teaming<br><br>📈<br>86%</h5>|<h5>Penetration Tester<br>Offensive Pentesting<br><br>📈<br>86%</h5>|
+|<h5>Penetration Tester<br>CompTIA Pentest+<br><br>✅<br>Nov, 2024</h5> |<h5>Penetration Tester<br>Jr Penetration Tester<br><br>✅<br>Oct, 2024</h5>|<h5>Penetration Tester<br>Web Fundamentals<br><br>✅<br>Sep, 2024</h5>|<h5>Penetration Tester<br>Web App Pentesting<br><br>✅<br>Dec, 2024</h5>|<h5>Penetration Tester<br>Red Teaming<br><br>📈<br>87%</h5>|<h5>Penetration Tester<br>Offensive Pentesting<br><br>📈<br>86%</h5>|
 |:-------------------------------:|:-------------------------------:|:-------------------------------:|:------------------------------:|:-------------------------------:|:-------------------------------:|
 |<img src="https://github.com/user-attachments/assets/69eed818-9e56-4d21-aa93-adcc1406e1a7" style="height:130px;"/> <h6>THM-FMJZ8PNTQ8</h6><img src="https://github.com/user-attachments/assets/69077967-4b7c-412e-95dd-1fe21e0eae00" style="height:100px;"/> <br> [26 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/6.1.%20Penetration%20Tester%20-%20Easy%20-%20CompTIA%20Pentest%2B.md)|<img src="https://github.com/user-attachments/assets/8c32aead-8771-4378-9ce7-8007f407b9b2" style="height:130px;"/> <h6>THM-FNRB2IJUKM</h6> <img src="https://github.com/user-attachments/assets/837ad18d-31c0-40ab-a17e-93f7c50728c6" style="height:100px;"/> <br> [38 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/6.2.%20Penetration%20Tester%20-%20Intermediate%20-%20Jr%20Penetration%20Tester.md)|<img src="https://github.com/user-attachments/assets/463f4e3b-d052-4613-bd09-c0df03778cb7" style="height:130px;"/> <h6>THM-F2XVPYJI7T</h6> <img src="https://github.com/user-attachments/assets/6cc2aff0-0e43-4a55-980f-1a5d8901fa76" style="height:100px;"/> <br> [26 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/6.3.%20Penetration%20Tester%20-%20Easy%20-%20Web%20Fundamentals.md)|<img src="https://github.com/user-attachments/assets/683d338b-8039-44c7-922b-44065dbd9a57" style="height:130px;"/> <h6>THM-EEGPSW0BUV</h6>  <img src="https://github.com/user-attachments/assets/15738e4b-2457-4fd0-9c39-d9a6a3b285f5" style="height:100px;"/> <br> [29 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/6.4.%20Penetration%20Tester%20-%20Intermediate%20-%20Web%20Application%20Pentesting.md)|<img src="https://github.com/user-attachments/assets/edc3d48f-c6e6-4cc9-bf73-a89f4f98fe67" style="height:130px;"/> <h6>THM-__________</h6> <img src="https://github.com/user-attachments/assets/2617bb99-c794-4129-92cc-bdf5f32506fb" style="height:100px;"/> <br> [36 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/6.5.%20Penetration%20Tester%20-%20Hard%20-%20Red%20Teaming.md)|<img src="https://github.com/user-attachments/assets/f77dfcd9-0091-465c-ae63-87d5e652921a" style="height:130px;"/> <h6>THM-__________</h6> <img src="https://github.com/user-attachments/assets/2617bb99-c794-4129-92cc-bdf5f32506fb" style="height:100px;"/> <br> [28 hands-on](https://github.com/RosanaFSS/TryHackMe/blob/main/6.6.%20Penetration%20Tester%20-%20Intermediate%20%20-%20%20Offensive_Pentesting.md) |
 | | | | | | |
@@ -19,8 +19,8 @@
 
 <br>
 
-<p align="center">March 2, 2025 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/efaafe90-9f08-4904-8e73-7f1bd9107c22"/> </p>
+<p align="center">March 5, 2025 - My yearly activity<br>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/fc2e9a96-ccb1-41c7-a09d-549f7e467b59"/> </p>
 
 
 <h2>My Journey<a id='5'></a></h2>
@@ -67,6 +67,7 @@
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
 |:------------------|---------:|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                   |          |Global        |Brazil        |Global        | Brazil       |          | Completed |
+| March 5, 2025     | 303      |        372ⁿᵈ |          8ᵗʰ |        473ʳᵈ |          8ᵗʰ | 84,809   |       603 |
 | March 2, 2025     | 300      |        381ˢᵗ |          8ᵗʰ |        760ᵗʰ |          8ᵗʰ | 84,809   |       598 |
 | February 27, 2025 | 297      |        385ᵗʰ |          8ᵗʰ |         72ⁿᵈ |          1ˢᵗ | 84,409   |       593 |
 | February 23, 2025 | 293      |        396ᵗʰ |          8ᵗʰ |         70ᵗʰ |          1ˢᵗ | 83,561   |       584 |
