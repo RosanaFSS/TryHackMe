@@ -8,6 +8,8 @@ Day 303<br>
 
 
 
+https://medium.com/@RosanaFS/red-team-runtime-detection-evasion-tryhackme-walkthrough-b94764db09e0
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/ec847b77-83a5-4ede-b291-3b998043a022)
