@@ -2,6 +2,7 @@ March 4, 2025<br>
 Day 302<br>
 
 <h2>Clocky</h2>
+<p>180 points</p>
 
 ![image](https://github.com/user-attachments/assets/94efb9c3-399f-4f55-9eee-ac8fa9e44b81)
 
