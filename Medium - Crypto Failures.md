@@ -2,6 +2,7 @@ March 4, 2025<br>
 Day 303<br>
 
 <h2>Crypto Failures</h2>
+<p>60 points</p>
 
 ![image](https://github.com/user-attachments/assets/7388b400-2f0b-49a7-a507-f524212d9335)
 
