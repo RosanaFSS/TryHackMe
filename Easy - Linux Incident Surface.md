@@ -6,9 +6,14 @@ Day 135<br>
 
 <br><br>
 
-![September-18-2024 - TryHackMe -  Linux Incident Surface - Image 4](https://github.com/user-attachments/assets/c18db227-1102-47c7-afac-76e804d64d0b)
+![image](https://github.com/user-attachments/assets/ea282efd-822b-4d0d-a216-343e6ceeb24e)
 
 <br>
+<br>
+
+
+![September-18-2024 - TryHackMe -  Linux Incident Surface - Image 4](https://github.com/user-attachments/assets/c18db227-1102-47c7-afac-76e804d64d0b)
+
 <br>
 
 ![September-18-2024 - TryHackMe -  Linux Incident Surface - Image 1](https://github.com/user-attachments/assets/b2c95f1c-7f0d-4e86-be5b-32d2c45274ff)
