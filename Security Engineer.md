@@ -61,7 +61,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 1](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.02.%20OWASP%20API%20Security%20Top%2010-1.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  OWASP API Security Top 10 - 2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 2](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.03.%20OWASP%20API%20Security%20Top%2010-2.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  [SSDLC](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.04.%20SSDLC.md)
 <br>
