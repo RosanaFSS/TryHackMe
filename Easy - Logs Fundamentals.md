@@ -1,4 +1,4 @@
-October 27, 2024<nr>
+October 27, 2024<br>
 Day 174<br>
 
 <h2>Logs Fundamentals</h2>
