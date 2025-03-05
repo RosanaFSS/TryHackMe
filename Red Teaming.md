@@ -61,7 +61,7 @@ This path is composed by 6 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-283 &nbsp;&nbsp;&nbsp; [Abusing Windows Internals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.03.%20Abusing%20Windows%20Internals.md)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Introduction to Antivirus
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-221  &nbsp;&nbsp;&nbsp;&nbsp; [Introduction to Antivirus]()
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; AV Evasion: Shellcode
 <br>
