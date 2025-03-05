@@ -11,11 +11,11 @@ This path is composed by 5 modules.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Engineer Intro
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Security Principles
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Principles
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Introduction to Cryptography
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Introduction to Cryptography
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Identity and Access Management
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Identity and Access Management
 
 <br>
 
@@ -24,24 +24,24 @@ This path is composed by 5 modules.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Governance & Regulation
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Threat Modelling
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Threat Modelling
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Risk Management
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Risk Management
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Vulnerability Management
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Vulnerability Management
 
 <br>
 
 <h2>3.  Network and System Security</h2>
 <p>Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Secure Network Architecture
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Secure Network Architecture
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Linux System Hardening
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Linux System Hardening
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-115 &nbsp;&nbsp;&nbsp;  [Microsoft Windows Hardening](https://github.com/RosanaFSS/TryHackMe/tree/Security-Engineer-learning-path)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXXX &nbsp;&nbsp;&nbsp;  Active Directory Hardening
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Active Directory Hardening
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Network Device Hardening](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.5.%20Network%20Device%20Hardening.md)
 <br>
@@ -75,7 +75,7 @@ This path is composed by 5 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Mother´s Secret
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Traverse
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-118 &nbsp;&nbsp;&nbsp;  [Traverse]()
 <br>
 
 
