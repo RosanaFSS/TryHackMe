@@ -63,7 +63,7 @@ This path is composed by 6 modules.</p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-221  &nbsp;&nbsp;&nbsp;&nbsp; [Introduction to Antivirus]()
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; AV Evasion: Shellcode
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-304 &nbsp;&nbsp;&nbsp; [AV Evasion: Shellcode](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.05.%20AV%20Evasion:%20Shellcode.md)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-287 &nbsp;&nbsp;&nbsp; [Obfuscation Principles](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.06.%20Obfuscation%20Principles.md)
 <br>
