@@ -70,11 +70,9 @@ This path is composed by 6 modules.</p>
 <h2>5.  Network Security Evasion</h2>
 <p>Learn how to bypass and evade different security solutions used in the industry, such as firewalls and IDS/IPS.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-156 &nbsp;&nbsp;&nbsp; [Network Security Solutions](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.1.%20Network%20Security%20Solutions.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-260 &nbsp;&nbsp;&nbsp; [Firewalls](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.2.%20Firewalls.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; Sandbox Evasion
+✅ &nbsp;&nbsp; day-156, Walkthrough, Medium, &nbsp; [Network Security Solutions](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.1.%20Network%20Security%20Solutions.md)<br>
+✅ &nbsp;&nbsp; day-260, Walkthrough, Medium, &nbsp; [Firewalls](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.2.%20Firewalls.md)<br>
+⬛ &nbsp;&nbsp; day-XXX, Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sandbox Evasion<br>
 
 
 <h2>6.  Compromising Active Directory</h2>
