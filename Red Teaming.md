@@ -55,27 +55,17 @@ This path is composed by 6 modules.</p>
 <h2>4.  Host Evasions</h2>
 <p>Understand the techniques behind host-based security and bypass the most common security products in Windows operating systems.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Windows Internals
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Introduction to Windows API
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-283 &nbsp;&nbsp;&nbsp; [Abusing Windows Internals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.03.%20Abusing%20Windows%20Internals.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-221  &nbsp;&nbsp;&nbsp;&nbsp; [Introduction to Antivirus]()
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-304 &nbsp;&nbsp;&nbsp; [AV Evasion: Shellcode](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.05.%20AV%20Evasion:%20Shellcode.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-287 &nbsp;&nbsp;&nbsp; [Obfuscation Principles](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.06.%20Obfuscation%20Principles.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-291 &nbsp;&nbsp;&nbsp; [Signature Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.07.%20Signature%20Evasion.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-293 &nbsp;&nbsp;&nbsp; [Bypassing UAC](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.08.%20Bypassing%20UAC.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; Runtime Detection Evasion
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-297 &nbsp;&nbsp;&nbsp; [Evading Logging and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.10.%20Evading%20Logging%20and%20Monitoring.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-300 &nbsp;&nbsp;&nbsp; [Living Off the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.11.%20Living%20Off%20the%20Land.md)
+✅ &nbsp;&nbsp; day-OK, &nbsp;&nbsp;&nbsp; Walkthrough, Medium, &nbsp; Windows Internals<br>
+✅ &nbsp;&nbsp; day-OK, &nbsp;&nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction to Windows API<br>
+✅ &nbsp;&nbsp; day-283, &nbsp;&nbsp; Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Abusing Windows Internals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.03.%20Abusing%20Windows%20Internals.md)<br>
+✅ &nbsp;&nbsp; day-221, &nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Introduction to Antivirus](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.04.%20Introduction%20to%20Antivirus.md)<br>
+✅ &nbsp;&nbsp; day-304, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [AV Evasion: Shellcode](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.05.%20AV%20Evasion:%20Shellcode.md)<br>
+✅ &nbsp;&nbsp; day-287, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Obfuscation Principles](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.06.%20Obfuscation%20Principles.md)<br>
+✅ &nbsp;&nbsp; day-291,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Signature Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.07.%20Signature%20Evasion.md)<br>
+✅ &nbsp;&nbsp; day-293,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Bypassing UAC](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.08.%20Bypassing%20UAC.md)<br>
+✅ &nbsp;&nbsp; day-303, &nbsp;&nbsp; Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Runtime Detection Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.09.%20Runtime%20Detection%20Evasion.md)<br>
+✅ &nbsp;&nbsp; day-297,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Evading Logging and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.10.%20Evading%20Logging%20and%20Monitoring.md)<br>
+✅ &nbsp;&nbsp; day-300,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Living Off the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.11.%20Living%20Off%20the%20Land.md)<br>
 
 <h2>5.  Network Security Evasion</h2>
 <p>Learn how to bypass and evade different security solutions used in the industry, such as firewalls and IDS/IPS.</p>
