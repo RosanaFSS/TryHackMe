@@ -72,7 +72,7 @@ This path is composed by 6 modules.</p>
 
 ✅ &nbsp;&nbsp; day-156, Walkthrough, Medium, &nbsp; [Network Security Solutions](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.1.%20Network%20Security%20Solutions.md)<br>
 ✅ &nbsp;&nbsp; day-260, Walkthrough, Medium, &nbsp; [Firewalls](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.2.%20Firewalls.md)<br>
-✅ &nbsp;&nbsp; day-304, Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sandbox Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.3.%20Sandbox%20Evasions.md)<br>
+✅ &nbsp;&nbsp; day-304, Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sandbox Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.3.%20Sandbox%20Evasions.md)<br>
 
 
 <h2>6.  Compromising Active Directory</h2>
