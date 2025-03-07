@@ -9,7 +9,7 @@ This path is composed by 6 modules.</p>
 <p>Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.</p>
 
 ✅  &nbsp;&nbsp;  day-131, &nbsp;&nbsp;       Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Red Team Fundamentals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.1.%20Red%20Team%20Fundamentals.md)<br>
-✅  &nbsp;&nbsp;  day-OK, &nbsp;&nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Red Team Engagements<br>
+✅  &nbsp;&nbsp;  day-OK, &nbsp;&nbsp;&nbsp;  Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Red Team Engagements<br>
 ✅  &nbsp;&nbsp;  day-157, &nbsp;&nbsp;       Walkthrough, Medium, &nbsp; [Red Team Threat Intel](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.3.%20Red%20Team%20Threat%20Intel.md)<br>
 ✅  &nbsp;&nbsp;  day-158, &nbsp;&nbsp;       Walkthrough, Medium, &nbsp; [Red Team OPSEC](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.4.%20Red%20Team%20OPSEC.md)<br>
 ✅  &nbsp;&nbsp;  day-162, &nbsp;&nbsp;       Walkthrough, Medium, &nbsp; [Intro to C2](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.5.%20Intro%20to%20C2.md)<br>
@@ -17,10 +17,10 @@ This path is composed by 6 modules.</p>
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{2.  Initial Access}}$$ </h2>
 <p>Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.</p>
 
-✅  &nbsp;&nbsp;  day-148 &nbsp;&nbsp;&nbsp; [Red Team Recon](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.1.%20Read%20Team%20Recon.md)<br>
-✅  &nbsp;&nbsp;  day-159 &nbsp;&nbsp;&nbsp; [Weaponization](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.2.%20Weaponization.md)<br>
-✅  &nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp; [Password Attacks](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.3.%20Password%20Attacks.md)<br>
-✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Phishing<br>
+✅  &nbsp;&nbsp;  day-148, &nbsp;&nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Red Team Recon](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.1.%20Read%20Team%20Recon.md)<br>
+✅  &nbsp;&nbsp;  day-159,  &nbsp;&nbsp;      Walkthrough, Medium, &nbsp; [Weaponization](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.2.%20Weaponization.md)<br>
+✅  &nbsp;&nbsp;  day-162,  &nbsp;&nbsp;      Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Password Attacks](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.3.%20Password%20Attacks.md)<br>
+✅  &nbsp;&nbsp;  day-OK, &nbsp; &nbsp;&nbsp; Walkthrough, Medium, &nbsp;  Phishing<br>
 
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{3.  Post Compromise}}$$ </h2>
 <p>Learn about the steps taken by an attacker right after gaining an initial foothold on a network.</p>
