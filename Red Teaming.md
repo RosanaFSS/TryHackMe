@@ -57,17 +57,11 @@ This path is composed by 6 modules.</p>
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{6.  Compromising Active Directory}}$$ </h2>
 <p>Learn and exploit Active Directory networks through core security issues stemming from misconfigurations.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-156 &nbsp;&nbsp;&nbsp; Active Directory Basics
+✅  &nbsp;&nbsp;  day-156, &nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active Directory Basics<br>
+✅  &nbsp;&nbsp;  day-194, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Breaching Active Directory](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.2.%20Breaching%20Active%20Directory.md)<br>
+⬛  &nbsp;&nbsp;  day-XXX, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; Enumerating Active Directory
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-194 &nbsp;&nbsp;&nbsp; [Breaching Active Directory](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.2.%20Breaching%20Active%20Directory.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; Enumerating Active Directory
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-195 &nbsp;&nbsp;&nbsp; [Lateral Movement and Pivoting](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.4.%20Lateral%20Movement%20and%20Pivoting.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; Exploiting Active Directory
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-195 &nbsp;&nbsp;&nbsp; [Persisting Active Directory](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.6.%20Persisting%20Active%20Directory.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-126 &nbsp;&nbsp;&nbsp; [Credentials Harvesting](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.7.%20Credentials%20Harvesting.md)
-
+✅  &nbsp;&nbsp;  day-195, &nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Lateral Movement and Pivoting](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.4.%20Lateral%20Movement%20and%20Pivoting.md)<br>
+⬛  &nbsp;&nbsp;  day-XXX, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; Exploiting Active Directory<br>
+✅  &nbsp;&nbsp;  day-195, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Persisting Active Directory](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.6.%20Persisting%20Active%20Directory.md)<br>
+✅  &nbsp;&nbsp;  day-126, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Credentials Harvesting](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/6.7.%20Credentials%20Harvesting.md)
