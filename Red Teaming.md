@@ -8,11 +8,11 @@ This path is composed by 6 modules.</p>
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{1. Red Team Fundamentals}}$$ </h2>
 <p>Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.</p>
 
-✅  &nbsp;&nbsp;  day-131 &nbsp;&nbsp;&nbsp; [Red Team Fundamentals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.1.%20Red%20Team%20Fundamentals.md)<br>
-✅  &nbsp;&nbsp;  day-OK, &nbsp;&nbsp;&nbsp;&nbsp; Red Team Engagements<br>
-✅  &nbsp;&nbsp;  day-157 &nbsp;&nbsp;&nbsp; [Red Team Threat Intel](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.3.%20Red%20Team%20Threat%20Intel.md)<br>
-✅  &nbsp;&nbsp;  day-158 &nbsp;&nbsp;&nbsp; [Red Team OPSEC](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.4.%20Red%20Team%20OPSEC.md)<br>
-✅  &nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp; [Intro to C2](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.5.%20Intro%20to%20C2.md)<br>
+✅  &nbsp;&nbsp;  day-131, &nbsp;&nbsp;       Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Red Team Fundamentals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.1.%20Red%20Team%20Fundamentals.md)<br>
+✅  &nbsp;&nbsp;  day-OK, &nbsp;&nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Red Team Engagements<br>
+✅  &nbsp;&nbsp;  day-157, &nbsp;&nbsp;       Walkthrough, Medium, &nbsp; [Red Team Threat Intel](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.3.%20Red%20Team%20Threat%20Intel.md)<br>
+✅  &nbsp;&nbsp;  day-158, &nbsp;&nbsp;       Walkthrough, Medium, &nbsp; [Red Team OPSEC](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.4.%20Red%20Team%20OPSEC.md)<br>
+✅  &nbsp;&nbsp;  day-162, &nbsp;&nbsp;       Walkthrough, Medium, &nbsp; [Intro to C2](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.5.%20Intro%20to%20C2.md)<br>
 
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{2.  Initial Access}}$$ </h2>
 <p>Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.</p>
