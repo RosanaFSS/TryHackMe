@@ -25,6 +25,9 @@ This path is composed by 5 modules.</p>
 <h2>3.  Network and System Security</h2>
 <p>Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.</p>
 
+<p align="left"> <img height="100px" src="https://github.com/user-attachments/assets/a39acac3-e782-4a08-8a78-e39e97470961"> </p>
+
+
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Secure Network Architecture<br>
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Linux System Hardening<br>
 ✅  &nbsp;&nbsp;  day-115 &nbsp;&nbsp;&nbsp;  [Microsoft Windows Hardening](https://github.com/RosanaFSS/TryHackMe/tree/Security-Engineer-learning-path)<br>
