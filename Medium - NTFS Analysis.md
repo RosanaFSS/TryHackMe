@@ -10,7 +10,7 @@ Day 305<br>
 
 <h3>Read my complete walkthrough in Medium.</h3>
 
-<p>...</p>
+https://medium.com/@RosanaFS/ntfs-analysis-tryhackme-walkthrough-b6ba1fc5bbf9
 
 <br>
 
