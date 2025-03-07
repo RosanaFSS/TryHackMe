@@ -52,7 +52,7 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-118 &nbsp;&nbsp;&nbsp;  [Traverse](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.10.%20Traverse.md)<br>
 
 
-<h2>5.  Managing Incidents</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{5. Managing Incidents}}$$ </h2>
 <p>Understand how security engineers help their organisations during an incident to reduce the impact of the incident.</p>
 
 ✅  &nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Intro to IR and IM](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.1.%20Intro%20to%20IR%20and%20IM.md)<br>
