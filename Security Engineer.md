@@ -9,73 +9,73 @@ This path is composed by 5 modules.</p>
 <h2>1.  Introduction to Security Engineering</h2>
 <p>Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.</p>
 
-✅  &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Engineer Intro
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Security Engineer Intro
 <br>
-✅  &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Principles
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Security Principles
 <br>
-✅  &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Introduction to Cryptography
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Introduction to Cryptography
 <br>
-✅  &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Identity and Access Management
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Identity and Access Management
 
 <br>
 
 <h2>2. Threats and Risks</h2>
 <p>Understand how security engineers help their organisations to identify threats and risks to better manage them.</p>
 
-✅  &nbsp;&nbsp;  day-XXX  day-XXX &nbsp;&nbsp;&nbsp;  Governance & Regulation
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Governance & Regulation
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-XXX &nbsp;&nbsp;&nbsp;  Threat Modelling
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Threat Modelling
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-XXX &nbsp;&nbsp;&nbsp;  Risk Management
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Risk Management
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-XXX &nbsp;&nbsp;&nbsp;  Vulnerability Management
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Vulnerability Management
 
 <br>
 
 <h2>3.  Network and System Security</h2>
 <p>Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.</p>
 
-✅  &nbsp;&nbsp;  day-XXX   day-XXX &nbsp;&nbsp;&nbsp;  Secure Network Architecture
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Secure Network Architecture
 <br>
-✅  &nbsp;&nbsp;  day-XXX ;  day-XXX &nbsp;&nbsp;&nbsp;  Linux System Hardening
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Linux System Hardening
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-115 &nbsp;&nbsp;&nbsp;  [Microsoft Windows Hardening](https://github.com/RosanaFSS/TryHackMe/tree/Security-Engineer-learning-path)
+✅  &nbsp;&nbsp;  day-115 &nbsp;&nbsp;&nbsp;  [Microsoft Windows Hardening](https://github.com/RosanaFSS/TryHackMe/tree/Security-Engineer-learning-path)
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-XXX &nbsp;&nbsp;&nbsp;  Active Directory Hardening
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Active Directory Hardening
 <br>
-✅  &nbsp;&nbsp;  day-XXX  day-120 &nbsp;&nbsp;&nbsp;  [Network Device Hardening](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.5.%20Network%20Device%20Hardening.md)
+✅ &nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Network Device Hardening](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.5.%20Network%20Device%20Hardening.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-120 &nbsp;&nbsp;&nbsp;  [Network Security Protocols](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.6.%20Network%20Security%20Protocols.md)
+✅  &nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Network Security Protocols](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.6.%20Network%20Security%20Protocols.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX  day-120 &nbsp;&nbsp;&nbsp;  [Virtualization and Containers](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.7.%20Virtualization%20and%20Containers.md)
+✅  &nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Virtualization and Containers](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.7.%20Virtualization%20and%20Containers.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX  day-120 &nbsp;&nbsp;&nbsp;  [Intro to Cloud Security](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.8.%20Introduction%20to%20Cloud%20Security.md)
+✅  &nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Intro to Cloud Security](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.8.%20Introduction%20to%20Cloud%20Security.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX  day-119 &nbsp;&nbsp;&nbsp;  [Auditing and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.9.%20Auditing%20and%20Monitoring.md)
+✅  &nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  [Auditing and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.9.%20Auditing%20and%20Monitoring.md)
 <br>
 
 <h2>4.  Software Security</h2>
 <p>Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.</p>
 
-✅  &nbsp;&nbsp;  day-XXX   day-121 &nbsp;&nbsp;&nbsp;  OWASP Top 10-2021
+✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;   OWASP Top 10-2021
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-121 &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 1](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.02.%20OWASP%20API%20Security%20Top%2010-1.md)
+✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 1](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.02.%20OWASP%20API%20Security%20Top%2010-1.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-121 &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 2](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.03.%20OWASP%20API%20Security%20Top%2010-2.md)
+✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 2](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.03.%20OWASP%20API%20Security%20Top%2010-2.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-119 &nbsp;&nbsp;&nbsp;  [SSDLC](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.04.%20SSDLC.md)
+✅  &nbsp;&nbsp;  day-119  &nbsp;&nbsp;&nbsp;  [SSDLC](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.04.%20SSDLC.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-119 &nbsp;&nbsp;&nbsp;  [SAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.05.%20SAST.md)
+✅  &nbsp;&nbsp;  day-119  &nbsp;&nbsp;&nbsp;  [SAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.05.%20SAST.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-119 &nbsp;&nbsp;&nbsp;  [DAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.06.%20DAST.md)
+✅  &nbsp;&nbsp;  day-119  &nbsp;&nbsp;&nbsp;  [DAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.06.%20DAST.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX  day-121 &nbsp;&nbsp;&nbsp;  [Weaponizing Vulnerabilities](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.07.%20Weaponizing%20Vulnerabilities.md)
+✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  [Weaponizing Vulnerabilities](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.07.%20Weaponizing%20Vulnerabilities.md)
 <br>
-✅  &nbsp;&nbsp;  day-XXX  day-XXX &nbsp;&nbsp;&nbsp;  Introduction to DevSecOps
+✅  &nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Introduction to DevSecOps
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-XXX &nbsp;&nbsp;&nbsp;  Mother´s Secret
+✅  &nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp;  Mother´s Secret
 <br>
-✅  &nbsp;&nbsp;  day-XXX   day-118 &nbsp;&nbsp;&nbsp;  [Traverse](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.10.%20Traverse.md)
+✅  &nbsp;&nbsp;  day-118 m&nbsp;&nbsp;&nbsp;  [Traverse](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.10.%20Traverse.md)
 <br>
 
 
