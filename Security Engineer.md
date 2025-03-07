@@ -48,7 +48,7 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-119  &nbsp;&nbsp;&nbsp;  [DAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.06.%20DAST.md)<br>
 ✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  [Weaponizing Vulnerabilities](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.07.%20Weaponizing%20Vulnerabilities.md)<br>
 ✅  &nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Introduction to DevSecOps<br>
-✅  &nbsp;&nbsp;  day-103 &nbsp;&nbsp;&nbsp; [Mother´s Secret]()<br>
+✅  &nbsp;&nbsp;  day-103 &nbsp;&nbsp;&nbsp; [Mother´s Secret](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.09.%20Mother%C2%B4s%20Secret.md)<br>
 ✅  &nbsp;&nbsp;  day-118 &nbsp;&nbsp;&nbsp;  [Traverse](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.10.%20Traverse.md)<br>
 
 
