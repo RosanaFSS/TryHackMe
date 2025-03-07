@@ -18,8 +18,8 @@ This path is composed by 6 modules.</p>
 <p>Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.</p>
 
 ✅  &nbsp;&nbsp;  day-148, &nbsp;&nbsp;&nbsp; Walkthrough, Easy, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Red Team Recon](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.1.%20Read%20Team%20Recon.md)<br>
-✅  &nbsp;&nbsp;  day-159,  &nbsp;&nbsp;      Walkthrough, Medium, &nbsp; [Weaponization](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.2.%20Weaponization.md)<br>
-✅  &nbsp;&nbsp;  day-162,  &nbsp;&nbsp;      Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Password Attacks](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.3.%20Password%20Attacks.md)<br>
+✅  &nbsp;&nbsp;  day-159, &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Weaponization](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.2.%20Weaponization.md)<br>
+✅  &nbsp;&nbsp;  day-162, &nbsp;&nbsp; Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Password Attacks](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.3.%20Password%20Attacks.md)<br>
 ✅  &nbsp;&nbsp;  day-OK, &nbsp; &nbsp;&nbsp; Walkthrough, Medium, &nbsp;  Phishing<br>
 
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{3.  Post Compromise}}$$ </h2>
