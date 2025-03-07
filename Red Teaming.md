@@ -17,30 +17,20 @@ This path is composed by 6 modules.</p>
 <h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{2.  Initial Access}}$$ </h2>
 <p>Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-148 &nbsp;&nbsp;&nbsp;  [Red Team Recon](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.1.%20Read%20Team%20Recon.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-159 &nbsp;&nbsp;&nbsp;  [Weaponization](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.2.%20Weaponization.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp;  [Password Attacks](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.3.%20Password%20Attacks.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Phishing
-<br>
+✅  &nbsp;&nbsp;  day-148 &nbsp;&nbsp;&nbsp;   [Red Team Recon](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.1.%20Read%20Team%20Recon.md)<br>
+✅  &nbsp;&nbsp;  day-159 &nbsp;&nbsp;&nbsp;   [Weaponization](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.2.%20Weaponization.md)<br>
+✅  &nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp;   [Password Attacks](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.3.%20Password%20Attacks.md)<br>
+✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Phishing<br>
 
-<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{3.  Post Compromise}$$ </h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{3.  Post Compromise}}$$ </h2>
 <p>Learn about the steps taken by an attacker right after gaining an initial foothold on a network.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp;  [The Lay of the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.1.%20The%20Lay%20of%20the%20Land.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-150 &nbsp;&nbsp;&nbsp;  [Enumeration](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.2.%20Enumeration.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-124 &nbsp;&nbsp;&nbsp;  [Windows Privilege Escalation](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.3.%20Windows%20Privilege%20Escalation.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-126 &nbsp;&nbsp;&nbsp; [Windows Local Persistence](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.4.%20Windows%20Local%20Persistance.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-195 &nbsp;&nbsp;&nbsp; [Lateral Movement and Pivoting](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.5.%20Lateral%20Movement%20and%20Pivoting.md)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; Data Exfiltration, in progress
-<br>
+✅  &nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp;   [The Lay of the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.1.%20The%20Lay%20of%20the%20Land.md)<br>
+✅  &nbsp;&nbsp;  day-150 &nbsp;&nbsp;&nbsp;  [Enumeration](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.2.%20Enumeration.md)<br>
+✅  &nbsp;&nbsp;  day-124 &nbsp;&nbsp;&nbsp;   [Windows Privilege Escalation](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.3.%20Windows%20Privilege%20Escalation.md)<br>
+✅  &nbsp;&nbsp;  day-126 &nbsp;&nbsp;&nbsp;  [Windows Local Persistence](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.4.%20Windows%20Local%20Persistance.md)<br>
+✅  &nbsp;&nbsp;  day-195 &nbsp;&nbsp;&nbsp;  [Lateral Movement and Pivoting](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.5.%20Lateral%20Movement%20and%20Pivoting.md)<br>
+⬛  &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp; Data Exfiltration, in progress<br>
 
 
 
