@@ -6,7 +6,7 @@
 This path is composed by 5 modules.</p>
 
 
-<h2>1.  Introduction to Security Engineering</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{1. Introduction to Security Engineering}}$$ </h2>
 <p>Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.</p>
 
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Security Engineer Intro<br>
@@ -14,7 +14,7 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Introduction to Cryptography<br>
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Identity and Access Management<br>
 
-<h2>2. Threats and Risks</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{2. Threats and Risks}}$$ </h2>
 <p>Understand how security engineers help their organisations to identify threats and risks to better manage them.</p>
 
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Governance & Regulation<br>
@@ -22,7 +22,7 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Risk Managemen<br>
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Vulnerability Management<br>
 
-<h2>3.  Network and System Security</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{3. Network and System Security}}$$ </h2>
 <p>Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.</p>
 
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Secure Network Architecture<br>
