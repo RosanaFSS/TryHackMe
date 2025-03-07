@@ -35,7 +35,7 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-120 &nbsp;&nbsp;&nbsp;  [Intro to Cloud Security](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.8.%20Introduction%20to%20Cloud%20Security.md)<br>
 ✅  &nbsp;&nbsp;  day-119 &nbsp;&nbsp;&nbsp;  [Auditing and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/3.9.%20Auditing%20and%20Monitoring.md)<br>
 
-<h2>4.  Software Security</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{4. Software Security}}$$ </h2>
 <p>Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.</p>
 
 <p align="left"> <img height="300px" src="https://github.com/user-attachments/assets/a39acac3-e782-4a08-8a78-e39e97470961"> </p>
