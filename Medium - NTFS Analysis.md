@@ -8,7 +8,11 @@ Day 305<br>
 
 <br>
 
+<h3>Read my complete walkthrough in Medium.</h3>
 
+<p>...</p>
+
+<br>
 
 
 ![image](https://github.com/user-attachments/assets/288472b5-7284-4412-8d46-2d673e4d0796)
