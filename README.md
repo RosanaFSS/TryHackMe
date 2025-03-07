@@ -62,7 +62,7 @@
 
 
 
-</div>
+<div align="center">
 
 
 |Date               |Streak    |All Time      |All Time      |Monthly       |Monthly       |Points    | Rooms     |
