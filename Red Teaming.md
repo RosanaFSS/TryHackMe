@@ -49,14 +49,14 @@ This path is composed by 6 modules.</p>
 ✅ &nbsp;&nbsp; day-297,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Evading Logging and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.10.%20Evading%20Logging%20and%20Monitoring.md)<br>
 ✅ &nbsp;&nbsp; day-300,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Living Off the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.11.%20Living%20Off%20the%20Land.md)<br>
 
-<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{5.  Network Security Evasions}$$ </h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{5.  Network Security Evasions}}$$ </h2>
 <p>Learn how to bypass and evade different security solutions used in the industry, such as firewalls and IDS/IPS.</p>
 
 ✅ &nbsp;&nbsp; day-156, Walkthrough, Medium, &nbsp; [Network Security Solutions](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.1.%20Network%20Security%20Solutions.md)<br>
 ✅ &nbsp;&nbsp; day-260, Walkthrough, Medium, &nbsp; [Firewalls](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.2.%20Firewalls.md)<br>
 ✅ &nbsp;&nbsp; day-304, Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sandbox Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.3.%20Sandbox%20Evasions.md)<br>
 
-<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{6.  Compromising Active Directory}$$ </h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{6.  Compromising Active Directory}}$$ </h2>
 <p>Learn and exploit Active Directory networks through core security issues stemming from misconfigurations.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-156 &nbsp;&nbsp;&nbsp; Active Directory Basics
