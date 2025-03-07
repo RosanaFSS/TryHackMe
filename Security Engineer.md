@@ -48,7 +48,7 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-119  &nbsp;&nbsp;&nbsp;  [DAST](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.06.%20DAST.md)<br>
 ✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  [Weaponizing Vulnerabilities](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.07.%20Weaponizing%20Vulnerabilities.md)<br>
 ✅  &nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Introduction to DevSecOps<br>
-✅  &nbsp;&nbsp;  day-OK  &nbsp;&nbsp;&nbsp;&nbsp; Mother´s Secret<br>
+✅  &nbsp;&nbsp;  day-103 &nbsp;&nbsp;&nbsp; [Mother´s Secret]()<br>
 ✅  &nbsp;&nbsp;  day-118 &nbsp;&nbsp;&nbsp;  [Traverse](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.10.%20Traverse.md)<br>
 
 
@@ -58,4 +58,4 @@ This path is composed by 5 modules.</p>
 ✅  &nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Intro to IR and IM](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.1.%20Intro%20to%20IR%20and%20IM.md)<br>
 ✅  &nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Logging for Accountability](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.2.%20Logging%20for%20Accountability.md)<br>
 ✅  &nbsp;&nbsp;  day-121 &nbsp;&nbsp;&nbsp;  [Becoming a First Responder](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.3.%20Becoming%20a%20First%20Responder.md)<br>
-✅  & &nbsp;&nbsp;  day-122 &nbsp;&nbsp;&nbsp;  [Cyber Crisis Management](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.4.%20Cyber%20Crisis%20Management.md)<br>
+✅  &nbsp;&nbsp;  day-122 &nbsp;&nbsp;&nbsp;  [Cyber Crisis Management](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/5.4.%20Cyber%20Crisis%20Management.md)<br>
