@@ -1,7 +1,7 @@
 <body class="report" style="background-color: #E4E6EF; height: 100%;"> 
 
 <h3>Welcome to the <em>TryHackMe</em></h3>
-<h1>Security Engineer learning path</h1>
+<h1 align="cleft"> $$\textcolor{#3bd62d}{\textnormal{Security Engineer Learning Path}}$$ </h1>
 <p>Learn the skills required to jumpstart your career in security engineering: Network security engineering, System security engineering, Software security engineering, and Risk management & responding to incidents<br>
 This path is composed by 5 modules.</p>
 
