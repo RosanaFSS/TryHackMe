@@ -9,13 +9,13 @@ This path is composed by 5 modules.</p>
 <h2>1.  Introduction to Security Engineering</h2>
 <p>Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Engineer Intro
+⬛ &nbsp;&nbsp; day-XXX &nbsp;&nbsp;&nbsp;  Security Engineer Intro
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Principles
+⬛ &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Security Principles
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Introduction to Cryptography
+⬛ &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Introduction to Cryptography
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Identity and Access Management
+⬛ &nbsp;&nbsp;  day-XXX &nbsp;&nbsp;&nbsp;  Identity and Access Management
 
 <br>
 
