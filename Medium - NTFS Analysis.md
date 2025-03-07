@@ -20,3 +20,7 @@ Day 305<br>
 <br>
 
 ![image](https://github.com/user-attachments/assets/e260f3df-a8f5-4039-99e8-aa8da50ddb6c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bddd7f92-4915-4d06-b3a5-f3086635f9e9)
