@@ -1,12 +1,11 @@
 <body class="report" style="background-color: #E4E6EF; height: 100%;"> 
 
 <h3>Welcome to the <em>TryHackMe</em></h3>
-<h1>Red Teaming learning path</h1>
+<h1 align="cleft"> $$\textcolor{#3bd62d}{\textnormal{Red Teaming Learning Path}}$$ </h1>
 <p>The aim of this pathway is to show you how to emulate a potential adversary attack in complex environments. Going beyond penetration testing, you will learn to conduct successful Red Team engagements and challenge the defence capability of your clients.<br>
 This path is composed by 6 modules.</p>
 
-
-<h2>1.  Red Team Fundamentals</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{1. Red Team Fundamentals}}$$ </h2>
 <p>Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-131 &nbsp;&nbsp;&nbsp;  [Red Team Fundamentals](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.1.%20Red%20Team%20Fundamentals.md)
@@ -20,8 +19,7 @@ This path is composed by 6 modules.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp;  [Intro to C2](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/1.5.%20Intro%20to%20C2.md)
 <br>
 
-
-<h2>2.  Initial Access</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{2.  Initial Access}$$ </h2>
 <p>Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-148 &nbsp;&nbsp;&nbsp;  [Red Team Recon](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/2.1.%20Read%20Team%20Recon.md)
@@ -33,8 +31,7 @@ This path is composed by 6 modules.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Phishing
 <br>
 
-
-<h2>3.  Post Compromise</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{3.  Post Compromise}$$ </h2>
 <p>Learn about the steps taken by an attacker right after gaining an initial foothold on a network.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-162 &nbsp;&nbsp;&nbsp;  [The Lay of the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/3.1.%20The%20Lay%20of%20the%20Land.md)
@@ -52,7 +49,7 @@ This path is composed by 6 modules.</p>
 
 
 
-<h2>4.  Host Evasions</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{4.  Host Evasions}$$ </h2>
 <p>Understand the techniques behind host-based security and bypass the most common security products in Windows operating systems.</p>
 
 ✅ &nbsp;&nbsp; day-OK, &nbsp;&nbsp;&nbsp; Walkthrough, Medium, &nbsp; Windows Internals<br>
@@ -67,15 +64,14 @@ This path is composed by 6 modules.</p>
 ✅ &nbsp;&nbsp; day-297,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Evading Logging and Monitoring](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.10.%20Evading%20Logging%20and%20Monitoring.md)<br>
 ✅ &nbsp;&nbsp; day-300,  &nbsp;&nbsp; Walkthrough, Medium, &nbsp; [Living Off the Land](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/4.11.%20Living%20Off%20the%20Land.md)<br>
 
-<h2>5.  Network Security Evasion</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{5.  Network Security Evasions}$$ </h2>
 <p>Learn how to bypass and evade different security solutions used in the industry, such as firewalls and IDS/IPS.</p>
 
 ✅ &nbsp;&nbsp; day-156, Walkthrough, Medium, &nbsp; [Network Security Solutions](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.1.%20Network%20Security%20Solutions.md)<br>
 ✅ &nbsp;&nbsp; day-260, Walkthrough, Medium, &nbsp; [Firewalls](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.2.%20Firewalls.md)<br>
 ✅ &nbsp;&nbsp; day-304, Walkthrough, Hard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sandbox Evasion](https://github.com/RosanaFSS/TryHackMe/blob/Red-Teaming-learning-path/5.3.%20Sandbox%20Evasions.md)<br>
 
-
-<h2>6.  Compromising Active Directory</h2>
+<h2 align="left"> $$\textcolor{#3bd62d}{\textnormal{6.  Compromising Active Directory}$$ </h2>
 <p>Learn and exploit Active Directory networks through core security issues stemming from misconfigurations.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;  day-156 &nbsp;&nbsp;&nbsp; Active Directory Basics
