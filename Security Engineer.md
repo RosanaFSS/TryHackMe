@@ -25,9 +25,6 @@ This path is composed by 5 modules.</p>
 <h2>3.  Network and System Security</h2>
 <p>Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.</p>
 
-<p align="left"> <img height="300px" src="https://github.com/user-attachments/assets/a39acac3-e782-4a08-8a78-e39e97470961"> </p>
-
-
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Secure Network Architecture<br>
 ✅  &nbsp;&nbsp;  day-OK &nbsp;&nbsp;&nbsp;&nbsp;  Linux System Hardening<br>
 ✅  &nbsp;&nbsp;  day-115 &nbsp;&nbsp;&nbsp;  [Microsoft Windows Hardening](https://github.com/RosanaFSS/TryHackMe/tree/Security-Engineer-learning-path)<br>
@@ -40,6 +37,8 @@ This path is composed by 5 modules.</p>
 
 <h2>4.  Software Security</h2>
 <p>Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.</p>
+
+<p align="left"> <img height="300px" src="https://github.com/user-attachments/assets/a39acac3-e782-4a08-8a78-e39e97470961"> </p>
 
 ✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  OWASP Top 10-2021<br>
 ✅  &nbsp;&nbsp;  day-121  &nbsp;&nbsp;&nbsp;  [OWASP API Security Top 10 - 1](https://github.com/RosanaFSS/TryHackMe/blob/Security-Engineer-learning-path/4.02.%20OWASP%20API%20Security%20Top%2010-1.md)<br>
