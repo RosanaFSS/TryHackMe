@@ -1,5 +1,4 @@
-March 8, 2025<br>
-Day 306<br>
+March 8, 2025, Day 306<br>
 
 <p align="left"> <img width="160px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
 
