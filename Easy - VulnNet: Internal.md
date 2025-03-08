@@ -1,7 +1,7 @@
 March 8, 2025<br>
 Day 305<br>
 
-<h2>VulNet: Internal</h2>
+<h2>VulNet: Internal, In Progress (75%)</h2>
 <p>VulnNet Entertainment learns from its mistakes, and now they have something new for you...</p>
 
 <br>
