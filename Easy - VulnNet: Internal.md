@@ -8,7 +8,7 @@ March 8, 2025, Day 306<br>
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
 <ul style="list-style-type:square">
-    <li>Get <code>Services Flag</code> practicing <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code>.</li><br>
+    <li>Get  &nbsp; <code>Services Flag</code>  &nbsp; practicing &nbsp; <code>nmap</code>,  &nbsp; <code>smbclient</code>,  &nbsp; <code>mget</code>,  &nbsp; <code>cat</code>,  &nbsp; <code>ls</code>, and  &nbsp; <code>cd</code>.</li><br>
     <li>Get <code>Internal Flag</code> practicing <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>KEYS *</code>, <code>KEYS "___"</code>, code>GET "___"</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code></li><br>
     <li>Get <code>User Flag</code> practicing <code>rsync --list-only rsync://rsync-connect@[IP]:[Port]/[Path]</code>, <code>LRANGE authlist [range]</code>, <code>echo " " | base64 -d</code>, <code>cat</code>, <code>ls</code>, <code>cd</code>, <code>dir</code>.</li> 
     <li>Get <code>Root Flag</code> practicing .... <strong>in progress</strong></li>
