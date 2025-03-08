@@ -7,7 +7,8 @@ March 8, 2025, Day 306<br>
 
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
-<p>I practice <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code> to get <code>services.flag</code>.<br>
+<p>I practice <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code> to get <code>Services Flag</code>.<br>
+T get <code>Internal Flag</code> I had a hands-on experience with <code>showmount</code>
 </p>
 
 <h2>Task 1. VulnNet: Internal</h2>
@@ -24,7 +25,7 @@ Icon made by Freepik from www.flaticon.com</p>
 <h4 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h4>
 <br>
 
-> 1.1. <em>What is the services flag? (services.txt) Hint : It's stored inside one of the available services.</em><br><a id='1.1'></a>
+> 1.1. <em>What is the <code>Services Flag</code>? (services.txt) Hint : It's stored inside one of the available services.</em><br><a id='1.1'></a>
 >> <code><strong>THM{0a09d51e488f5fa105d8d866a497440a}</strong></code>
 
 <br>
@@ -193,7 +194,7 @@ If you have any questions, please text or phone us.
 
 <br>
 
-> 1.2. <em>What is the internal flag? ("internal flag") Hint : It's stored inside a database of one of the services.</em><br><a id='1.2'></a>
+> 1.2. <em>What is the <code>Internal Flag</code>? ("internal flag") Hint : It's stored inside a database of one of the services.</em><br><a id='1.2'></a>
 >> <code><strong>THM{ff8e518addbbddb74531a724236a8221}</strong></code>
 
 <p>Mounted a remote directory because in <code>nmap</code> we identified that the <code>target</code> has <code>mountd</code> open ports.</p>
