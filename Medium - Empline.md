@@ -14,8 +14,8 @@ Day 305<br>
 
 ```bash
 :~/Empline# echo 'Target_IP empline' >> /etc/hosts
-
 ___________________
+
 :~/Empline# nmap -sC -sV -sS -A -O -p- -T5 empline
 ...
 Not shown: 65532 closed ports
@@ -41,6 +41,20 @@ PORT     STATE SERVICE VERSION
 ...
 
 ___________________
+
+:~/Empline# wfuzz -u empline.thm -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -H "Host: FUZZ.empline.thm" --hc 404 --hw 914
+...
+// Discovered job --> job/.empline.thm
+
+___________________
+
+// updated /etc/hosts
+
+___________________
+
+:~/Empline# searchsploit opencats
+
+
 
 
 ```
