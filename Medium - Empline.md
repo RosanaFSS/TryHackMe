@@ -25,4 +25,11 @@ Day 305<br>
 ![image](https://github.com/user-attachments/assets/214dcfea-cae8-4abd-8fea-852efc9c0e0e)
 
 
+''''
+305 days streak 🎉 ▪ 85,597 points ▪ 606 rooms completed ▪ 59 badges🎖️
+Global ranking:    367ᵗʰ all time    ▪    392nd monthly
+Brazil ranking:      8ᵗʰ all time    ▪      7ᵗʰ monthly
+''''
+
+
 
