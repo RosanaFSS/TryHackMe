@@ -1,4 +1,4 @@
-March 8, 2025, Day 306<br>
+March 8, 2025, Day 306
 
 <p align="left"> <img width="160px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
 
@@ -7,13 +7,16 @@ March 8, 2025, Day 306<br>
 
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
+<br>
+
 <ul style="list-style-type:square">
     <li>Get  &nbsp; <code>Services Flag</code>  &nbsp; practicing &nbsp; <code>nmap</code>,  &nbsp; <code>smbclient</code>,  &nbsp; <code>mget</code>,  &nbsp; <code>cat</code>,  &nbsp; <code>ls</code>, and  &nbsp; <code>cd</code>.</li><br>
     <li>Get  &nbsp; <code>Internal Flag</code>  &nbsp; practicing  &nbsp; <code>showmount</code>,  &nbsp; <code>sudo mount -t nfs [IP]: [directory]</code>,  &nbsp; <code>sudo apt-get install redis-tools</code>,  &nbsp; <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>KEYS *</code>,  &nbsp; <code>KEYS "___"</code>,  &nbsp; <code>GET "___"</code>,  &nbsp; <code>tree</code>,  &nbsp; <code>cat [file] | more</code>,  &nbsp; <code>mkdir</code></li><br>
-    <li>Get  &nbsp; <code>User Flag</code> practicing  &nbsp; <code>rsync --list-only rsync://rsync-connect@[IP]:[Port]/[Path]</code>,  &nbsp; <code>LRANGE authlist [range]</code>,  &nbsp; <code>echo " " | base64 -d</code>,  &nbsp; <code>cat</code>,  &nbsp; <code>ls</code>,  &nbsp; <code>cd</code>,  &nbsp; <code>dir</code>.</li> 
+    <li>Get  &nbsp; <code>User Flag</code> practicing  &nbsp; <code>rsync --list-only rsync://rsync-connect@[IP]:[Port]/[Path]</code>,  &nbsp; <code>LRANGE authlist [range]</code>,  &nbsp; <code>echo " " | base64 -d</code>,  &nbsp; <code>cat</code>,  &nbsp; <code>ls</code>,  &nbsp; <code>cd</code>,  &nbsp; <code>dir</code>.</li><br>
     <li>Get  &nbsp; <code>Root Flag</code>  &nbsp; practicing .... <strong>in progress</strong></li>
 </ul></p>
 
+<br>
 
 <h2>Task 1. VulnNet: Internal</h2>
 
