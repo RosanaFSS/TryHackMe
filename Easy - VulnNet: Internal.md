@@ -6,7 +6,7 @@ Day 306<br>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90)
+<p align="center"> <img width="150px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
 
 <br>
 
