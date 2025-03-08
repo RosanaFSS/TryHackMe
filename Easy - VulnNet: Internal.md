@@ -539,7 +539,7 @@ Brazil ranking:      8ᵗʰ all time    ▪      7ᵗʰ monthly
 
 <p>Global all time ranking: 365ⁿᵈ</p>
 
-![image](https://github.com/user-attachments/assets/21bf4b51-b144-41fb-bcbe-2399270a70ee)
+https://github.com/user-attachments/assets/1fa772ca-0cab-4e6a-9d75-c77dfa8946e0
 
 <br>
 
