@@ -14,22 +14,40 @@ Day 305<br>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/3742702c-509d-465b-a7d4-f7d3a51f805f)
+<h2>My journey on TryHackMe</h2>
 
-<br>
-
-![image](https://github.com/user-attachments/assets/17963b37-2f0c-4438-9760-2012fd89e1e9)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/214dcfea-cae8-4abd-8fea-852efc9c0e0e)
-
-
-''''
-305 days streak 🎉 ▪ 85,597 points ▪ 606 rooms completed ▪ 59 badges🎖️
-Global ranking:    367ᵗʰ all time    ▪    392nd monthly
+```
+305 days streak 🎉 ▪ 85,657 points ▪ 607 rooms completed ▪ 59 badges🎖️
+Global ranking:    367ᵗʰ all time    ▪    392ⁿᵈ monthly
 Brazil ranking:      8ᵗʰ all time    ▪      7ᵗʰ monthly
-''''
+```
+
+<br>
+
+<p>Global all time ranking: 367ᵗʰ</p>
+
+![image](https://github.com/user-attachments/assets/137e16dc-6a4b-42ef-9ce8-9d5b0c701b36)
 
 
+<br>
+
+<p>Brazil all time ranking: 8ᵗʰ</p>
+
+![image](https://github.com/user-attachments/assets/e369cc11-1758-4fdd-a22b-8fd179b32df2)
+
+
+<br>
+
+<p>Global monthly ranking: 392ⁿᵈ</p>
+
+![image](https://github.com/user-attachments/assets/86acc493-5885-4e8a-86cb-e199f7eff1dc)
+
+
+
+
+<br>
+
+<p>Brazil monthly ranking: 7ᵗʰ</p>
+
+![image](https://github.com/user-attachments/assets/2d78eb92-39a9-4f1f-975b-124c71ac079a)
 
