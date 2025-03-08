@@ -12,6 +12,15 @@ Day 306<br>
 
 <h2>Task 1. VulnNet: Internal</h2>
 
+<p>VulnNet Entertainment is a company that learns from its mistakes. They quickly realized that they can't make a properly secured web application so they gave up on that idea. Instead, they decided to set up internal services for business purposes. As usual, you're tasked to perform a penetration test of their network and report your findings.
+- Difficulty: Easy/Medium<br>
+- Operating System: Linux<br><br>
+This machine was designed to be quite the opposite of the previous machines in this series and it focuses on internal services. It's supposed to show you how you can retrieve interesting information and use it to gain system access. Report your findings by submitting the correct flags.<br>
+
+Note: It might take 3-5 minutes for all the services to boot.<br>
+
+Icon made by Freepik from www.flaticon.com</p>
+
 <br>
 
 <h4 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h4>
