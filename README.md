@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">March 8, 2025 - My yearly activity<br>
-                 <img width="1000px" src="https://github.com/user-attachments/assets/21bf4b51-b144-41fb-bcbe-2399270a70ee"/> </p>
+                 <img width="1000px" src="https://github.com/user-attachments/assets/1fa772ca-0cab-4e6a-9d75-c77dfa8946e0"/> </p>
 
 
 
