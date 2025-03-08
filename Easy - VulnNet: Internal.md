@@ -7,7 +7,7 @@ March 8, 2025, Day 306<br>
 
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
-<p>Practice <code>nmap</code></p>
+<p>Practice <code>nmap</code>,  <code>smbclient</code>, </p>
 
 <h2>Task 1. VulnNet: Internal</h2>
 
