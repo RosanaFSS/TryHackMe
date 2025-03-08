@@ -14,7 +14,7 @@ Day 305<br>
 
 <br>
 
-<h4 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h4>
+<h4 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h4>
 <br>
 
 > 1.1. <em>What is the services flag? (services.txt) Hint : It's stored inside one of the available services.</em><br><a id='1.1'></a>
