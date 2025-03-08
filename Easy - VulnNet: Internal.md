@@ -14,7 +14,7 @@ Day 305<br>
 
 <p>Ran <code>nmap</code>, and discovered 13 ports open.<br>
 - 22,ssh<br>
-- 111,rpcbind<br></p>
+- 111,rpcbind<br>
 - 139, netbios-ssn  Samba smdb 3.X - 4.X<br>
 - 445, netbios-ssn  Samba smbd 4.7.6-Ubuntu<br>
 - 873, rsync<br>
@@ -26,6 +26,7 @@ Day 305<br>
 - 42601, nlockmgr<br>
 - 52497, mountd<br>
 - 57289, mountd<br>
+<br>
 
 ```bash
 ~/VulnNetInternal# nmap -sC -sV -sS -A -O -p- -T5 vulnet-internal
