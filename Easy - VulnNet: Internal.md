@@ -121,7 +121,7 @@ Host script results:
 Used <code>mget</code> to donwload <code>services.txt</code>, <code>data.txt</code>, and <code>business-req.txt</code>.</p>
 
 ```bash
-:~/VulnNetInternal# smbclient -N //10.10.86.98/shares
+:~/VulnNetInternal# smbclient -N //Target_IP/shares
 Try "help" to get a list of possible commands.
 smb: \> ls
   .                                   D        0  Tue Feb  2 09:20:09 2021
