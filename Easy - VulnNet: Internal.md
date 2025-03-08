@@ -6,8 +6,6 @@ Day 306<br>
 <h2>VulNet: Internal, In Progress (75%)</h2>
 <p>VulnNet Entertainment learns from its mistakes, and now they have something new for you...</p>
 
-<br>
-
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
 <br>
