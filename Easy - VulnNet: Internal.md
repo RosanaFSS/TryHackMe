@@ -7,6 +7,8 @@ March 8, 2025, Day 306<br>
 
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
+<p>Practice <code>nmap</code></p>
+
 <h2>Task 1. VulnNet: Internal</h2>
 
 <p>VulnNet Entertainment is a company that learns from its mistakes. They quickly realized that they can't make a properly secured web application so they gave up on that idea. Instead, they decided to set up internal services for business purposes. As usual, you're tasked to perform a penetration test of their network and report your findings.<br>
