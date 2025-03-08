@@ -10,7 +10,7 @@ March 8, 2025, Day 306<br>
 <ul style="list-style-type:square">
     <li>Get <code>Services Flag</code> practicing <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code>.</li><br>
     <li>Get <code>Internal Flag</code> practicing <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>KEYS *</code>, <code>KEYS "___"</code>, code>GET "___"</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code></li><br>
-    <li>...</li>
+    <li>Get <code>User Flag</code> practicing <code>rsync --list-only rsync://rsync-connect@[IP]:[Port]/[Path]</code>, <code>LRANGE authlist [range]</code>, <code>echo " " | base64 -d</code>.</li>
 </ul></p>
 
 
@@ -346,8 +346,7 @@ Target_IP:6379> GET "internal flag"
 > 1.3. <em>What is the user flag? (user.txt)</em><br><a id='1.3'></a>
 >> <code><strong>THM{da7c20696831f253e0afaca8b83c07ab}</strong></code>
 
-<p>Used redis´ <code>LRANGE</code> command.<br>
-<code>LRANGE</code> command returns the specified elements of the list stores at the key. The offsets start and stop are zero-based indexes, with 0 being the first element of the list (the head of the list), 1 being the next element, and so on.  These offsets can also be negative numbers indicating offsets starting at the end of the list. For example, -1 is the last element of the list, -2 the penultimate, and so on.</p>
+<p>Used redis <code>LRANGE</code> command. It is a command that returns the specified elements of the list stores at the key. The offsets start and stop are zero-based indexes, with 0 being the first element of the list (the head of the list), 1 being the next element, and so on.  These offsets can also be negative numbers indicating offsets starting at the end of the list. For example, -1 is the last element of the list, -2 the penultimate, and so on.</p>
 
 ```bash
 Target_IP:6379> LRANGE authlist 1 100
@@ -357,7 +356,7 @@ Target_IP:6379> LRANGE authlist 1 100
 Target_IP:6379> 
 ```
 
-<p>Decode it, and discovered location, and credentials.</p>
+<p>Decode it, discovered location, and credentials.</p>
 
 ```bash
 ~/VulnNetInternal# echo "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg==" | base64 -d
