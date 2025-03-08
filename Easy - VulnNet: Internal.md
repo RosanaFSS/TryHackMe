@@ -9,7 +9,7 @@ March 8, 2025, Day 306<br>
 
 <ul style="list-style-type:square">
     <li>Get <code>Services Flag</code> practicing <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code>.</li><br>
-    <li>Get <code>Internal Flag</code> practicing <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code></li><br>
+    <li>Get <code>Internal Flag</code> practicing <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>KEYS *</code>, <code>KEYS "___"</code>, code>GET "___"</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code></li><br>
     <li>...</li>
 </ul></p>
 
@@ -27,6 +27,8 @@ Icon made by Freepik from www.flaticon.com</p>
 
 <h4 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h4>
 <br>
+
+<h2>Services Flag</h2>
 
 > 1.1. <em>What is the <code>Services Flag</code>? (services.txt) Hint : It's stored inside one of the available services.</em><br><a id='1.1'></a>
 >> <code><strong>THM{0a09d51e488f5fa105d8d866a497440a}</strong></code>
@@ -195,7 +197,7 @@ If you have any questions, please text or phone us.
 :~/VulnNetInternal#
 ```
 
-<br>
+<h2>Internal Flag</h2>
 
 > 1.2. <em>What is the <code>Internal Flag</code>? ("internal flag") Hint : It's stored inside a database of one of the services.</em><br><a id='1.2'></a>
 >> <code><strong>THM{ff8e518addbbddb74531a724236a8221}</strong></code>
@@ -239,7 +241,8 @@ redis.conf
 
 ![image](https://github.com/user-attachments/assets/16f409a4-c98a-4351-9b04-cbb6396c7759)
 
-<p>Explored <code>redis</code>: port 6379.</p>
+<p>Explored <code>redis</code>: port 6379.<br>
+Discovered a password, and configuration parameters.</p>
 
 ```bash
 ~/VulnNetInternal/mount/opt/conf/redis# cat redis.conf | more
@@ -319,7 +322,7 @@ appendfilename "appendonly.aof"
 ...
 ```
 
-<p>- Discovered a password.</p>
+<p>Accessed <code>redis</code>, and discovered the second flag.</p>
 
 ```bash
 :~/VulnNetInternal# sudo apt-get install redis-tools
@@ -338,7 +341,7 @@ Target_IP:6379> GET "internal flag"
 "THM{ff8e518addbbddb74531a724236a8221}"
 ```
 
-<br>
+<h2>User Flag</h2>
 
 > 1.3. <em>What is the user flag? (user.txt)</em><br><a id='1.3'></a>
 >> <code><strong>THM{da7c20696831f253e0afaca8b83c07ab}</strong></code>
