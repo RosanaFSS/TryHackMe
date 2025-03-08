@@ -51,9 +51,7 @@ Not shown: 65522 closed ports
 PORT      STATE    SERVICE     VERSION
 22/tcp    open     ssh         OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
-|   2048 5e:27:8f:48:ae:2f:f8:89:bb:89:13:e3:9a:fd:63:40 (RSA)
-|   256 f4:fe:0b:e2:5c:88:b5:63:13:85:50:dd:d5:86:ab:bd (ECDSA)
-|_  256 82:ea:48:85:f0:2a:23:7e:0e:a9:d9:14:0a:60:2f:ad (ED25519)
+...
 111/tcp   open     rpcbind     2-4 (RPC #100000)
 | rpcinfo: 
 |   program version    port/proto  service
