@@ -8,7 +8,7 @@ March 8, 2025, Day 306<br>
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
 <p>I practice <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code> to get <code>Services Flag</code>.<br>
-T get <code>Internal Flag</code> I had a hands-on experience with <code>showmount</code>, <code>sudo mount -t nfs <IP>: <directory></code>, <code>tree</code>, <code>mkdir</code>
+To get <code>Internal Flag</code> I had a hands-on experience with <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code>
 </p>
 
 <h2>Task 1. VulnNet: Internal</h2>
@@ -211,14 +211,6 @@ Export list for vulnet-internal:
 <p>Explored <code>nfs_acl (NFS share)</code>: port 2049<br>
 Discovered <code>redis.conf</code></p>
 
-```bash
-:~/VulnNetInternal# mkdir tmp/
-:~/VulnNetInternal# sudo mount -t nfs 10.10.243.254: tmp
-```
-
-<br>
-
-![image](https://github.com/user-attachments/assets/16f409a4-c98a-4351-9b04-cbb6396c7759)
 
 <br>
 <p>Discovered <code>redis.conf</code>.</p>
@@ -238,6 +230,11 @@ hp  init  opt  profile.d  redis  vim  wildmidi
 redis.conf
 :~/VulnNetInternal/mount/opt/conf/redis# 
 ```
+
+<br>
+<p>Used <code>tree</code> command.</p>
+
+![image](https://github.com/user-attachments/assets/16f409a4-c98a-4351-9b04-cbb6396c7759)
 
 <p>Explored <code>redis</code>: port 6379.</p>
 
