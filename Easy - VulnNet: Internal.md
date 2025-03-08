@@ -8,8 +8,8 @@ March 8, 2025, Day 306<br>
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
 <ul style="list-style-type:square">
-    <li>I practice <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code> to get <code>Services Flag</code>.</li><br>
-    <li>To get <code>Internal Flag</code> I had a hands-on experience with <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code></li><br>
+    <li>Get <code>Services Flag</code> practicing <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code>, and <code>cd</code>.</li><br>
+    <li>Get <code>Internal Flag</code> practicing <code>showmount</code>, <code>sudo mount -t nfs [IP]: [directory]</code>, <code>sudo apt-get install redis-tools</code>, <code>redis-cli -h [IP]</Target_IP> -a [password]</code>, <code>tree</code>, <code>cat [file] | more</code>, <code>mkdir</code></li><br>
     <li>...</li>
 </ul></p>
 
