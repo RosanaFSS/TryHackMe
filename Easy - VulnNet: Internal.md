@@ -500,4 +500,38 @@ The key's randomart image is:
 
 <h2> To be continued ...</h2>
 
+<br>
+<br>
+
+<h2>My journey on TryHackMe</h2>
+
+```
+306 days streak 🎉 ▪ 85,747 points ▪ 607 rooms completed ▪ 59 badges🎖️
+Global ranking:    365ᵗʰ all time    ▪    391st monthly
+Brazil ranking:      8ᵗʰ all time    ▪      7ᵗʰ monthly
+```
+
+<br>
+
+<p>Global all time ranking: 365ⁿᵈ</p>
+
+![image](https://github.com/user-attachments/assets/21bf4b51-b144-41fb-bcbe-2399270a70ee)
+
+<br>
+
+<p>Brazil all time ranking: 8ᵗʰ</p>
+
+![image](https://github.com/user-attachments/assets/95ae7958-50e4-4010-b08e-acbaee957d0e)
+
+<br>
+
+<p>Global monthly ranking: 391st</p>
+
+![image](https://github.com/user-attachments/assets/cddde77c-3fc2-4de1-aca4-8e3c0a90cf73)
+
+<br>
+
+<p>Brazil monthly ranking: 7ᵗʰ</p>
+
+![image](https://github.com/user-attachments/assets/7997d7c7-d2ca-4a5c-bbff-c0e1fed77781)
 
