@@ -7,7 +7,7 @@ March 8, 2025, Day 306<br>
 
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
-<p>Practice <code>nmap</code>,  <code>smbclient</code>, </p>
+<p>Practice <code>nmap</code>,  <code>smbclient</code>, <code>mget</code>, <code>cat</code>, <code>ls</code> </p>
 
 <h2>Task 1. VulnNet: Internal</h2>
 
@@ -124,7 +124,7 @@ Host script results:
 <br>
 
 <p>Used <code>smbclient</code> to enumerate <code>Samba</code>.<br>
-Used <code>mget</code> to donwload <code>services.txt</code>, <code>data.txt</code>, and <code>business-req.txt</code>.</p>
+Used <code>mget</code> to download <code>services.txt</code>, <code>data.txt</code>, and <code>business-req.txt</code>.</p>
 
 ```bash
 :~/VulnNetInternal# smbclient -N //Target_IP/shares
@@ -168,13 +168,14 @@ getting file \data\data.txt of size 48 as data.txt (23.4 KiloBytes/sec) (average
 Get file business-req.txt? y
 getting file \data\business-req.txt of size 190 as business-req.txt (2.9 KiloBytes/sec) (average 3.9 KiloBytes/sec)
 smb: \data\> 
-
 ```
 
-<br>
+<p>Used <code>cat</code> to visualize the content of <code>services.txt</code>.</p>
 
-> 1.2. <em>What is the internal flag? ("internal flag") Hint : It's stored inside a database of one of the services.</em><br><a id='1.2'></a>
->> <code><strong>THM{ff8e518addbbddb74531a724236a8221}</strong></code>
+```bash
+:~/VulnNetInternal# cat services.txt
+THM{0a09d51e488f5fa105d8d866a497440a}
+```
 
 <br>
 
@@ -188,6 +189,11 @@ We just wanted to remind you that we\u2019re waiting for the DOCUMENT you agreed
 If you have any questions, please text or phone us.
 :~/VulnNetInternal#
 ```
+
+<br>
+
+> 1.2. <em>What is the internal flag? ("internal flag") Hint : It's stored inside a database of one of the services.</em><br><a id='1.2'></a>
+>> <code><strong>THM{ff8e518addbbddb74531a724236a8221}</strong></code>
 
 <p>Mounted a remote directory because in <code>nmap</code> we identified that the <code>target</code> has <code>mountd</code> open ports.</p>
 
