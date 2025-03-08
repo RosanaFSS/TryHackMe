@@ -1,14 +1,14 @@
 March 8, 2025<br>
 Day 306<br>
 
-<p align="left"> <img width="250px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
+<p align="left"> <img width="160px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
 
 <h2>VulNet: Internal, In Progress (75%)</h2>
 <p>VulnNet Entertainment learns from its mistakes, and now they have something new for you...</p>
 
 <br>
 
-<p align="left"> <img width="250px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
+<p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
 
 <br>
 
