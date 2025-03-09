@@ -24,11 +24,12 @@ https://medium.com/@RosanaFS/billing-tryhackme-walkthrough-60-points-652abba6f3c
 
 <h2>My journey on TryHackMe</h2>
 
-''''
+```none
 307 days streak 🎉 ▪ 85,837 points ▪ 609 rooms completed ▪ 59 badges🎖️
 Global ranking:    364ᵗʰ all time    ▪    300ᵗʰ monthly
 Brazil ranking:      8ᵗʰ all time    ▪      5ᵗʰ monthly
-''''
+```
+
 
 
 ![image](https://github.com/user-attachments/assets/518825a8-f9aa-46d8-9477-bacdf287a312)
