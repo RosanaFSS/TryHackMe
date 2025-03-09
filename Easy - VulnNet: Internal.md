@@ -2,7 +2,7 @@ March 8, 2025, Day 306
 
 <p align="left"> <img width="160px" src="https://github.com/user-attachments/assets/c1ab371a-4641-4eef-bda1-f64199f9ef90"> </p>
 
-<h1>VulNet: Internal, In Progress (75%)</h1>
+<h1>VulNet: Internal</h1>
 <p>VulnNet Entertainment learns from its mistakes, and now they have something new for you...</p>
 
 <p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/e04a5b3f-38b5-4add-a08a-198c91295052"> </p>
