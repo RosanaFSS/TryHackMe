@@ -224,10 +224,6 @@ Export list for vulnet-internal:
 <p>Explored <code>nfs_acl (NFS share)</code>: port 2049<br>
 Discovered <code>redis.conf</code></p>
 
-
-<br>
-<p>Discovered <code>redis.conf</code>.</p>
-
 ```bash
 :~/VulnNetInternal# sudo mount -t nfs Target_IP: mount
 :~/VulnNetInternal# cd mount
