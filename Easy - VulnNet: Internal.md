@@ -233,7 +233,7 @@ Export list for vulnet-internal:
 ~/VulnNetInternal# sudo mount -t nfs vulnet-internal: mount
 ```
 
-<p>Analyzed the hierarchy using <code>tree/code> command.<br>
+<p>Analyzed the hierarchy using <code>tree</code> command.<br>
 Discovered <code>redis.conf</code>.</p>
 
 ```bash
@@ -249,77 +249,204 @@ Discovered <code>redis.conf</code>.</p>
 ~/VulnNetInternal/mount/opt/conf/redis# ls
 redis.conf
 ~/VulnNetInternal/mount/opt/conf/redis# cat redis.conf | more
-...
+# Note that in order to read the configuration file, Redis must be started with the file path as first argument:
+./redis-server /path/to/redis.conf
+### Memory
 rename-command FLUSHDB ""
 rename-command FLUSHALL ""
-...
-# IF YOU ARE SURE YOU WANT YOUR INSTANCE TO LISTEN TO ALL THE INTERFACES
-# JUST COMMENT THE FOLLOWING LINE.
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## Includes: If instead you are interested in using includes to override configuration options, it is better to use include as the last line.
+# include /path/to/local.conf
+# include /path/to/other.conf
+## Modules: Load modules at startup
+# loadmodule /path/to/my_module.so
+# loadmodule /path/to/other_module.so
+## Network: By default, if no "bind" configuration directive is specified, Redis listens for connections from all the network interfaces available on the server. It is possible to listen to just one or multiple selected interfaces using the "bind" configuration directive, followed by one or more IP addresses.
+# bind 192.168.1.100 10.0.0.1
+# bind 127.0.0.1 ::1
+## Network: IF YOU ARE SURE YOU WANT YOUR INSTANCE TO LISTEN TO ALL THE INTERFACES JUST COMMENT THE FOLLOWING LINE.
 bind 127.0.0.1 ::1
-...
+## Protected mode: The server only accepts connections from clients connecting from the IPv4 and IPv6 loopback addresses 127.0.0.1 and ::1, and from Unix domain sockets.  By default protected mode is enabled. You should disable it only if you are sure you want clients from other hosts to connect to Redis even if no authentication is configured, nor a specific set of interfaces are explicitly listed using the "bind" directive.
 protected-mode yes
-...
+## Port
 port 6379
-...
+## TCP listen( ) backlog
 tcp-backlog 511
-...
-# Close the connection after a client is idle for N seconds (0 to disable)
+## Unix socket. Specify the path for the Unix socket that will be used to listen for incoming connections. There is no default, so Redis will not listen on a unix socket when not specified.
+# unixsocket /var/run/redis/redis-server.sock
+# unixsocketperm 700
+##  Close the connection after a client is idle for N seconds (0 to disable)
 timeout 0
-...
-# TCP keepalive.
-...
+## TCP keepalive
 tcp-keepalive 300
+### GENERAL
+daemonize yes
 ...
-# If a pid file is specified, Redis writes it where specified at startup
-# and removes it at exit.
-...
+supervised no
+## pid file
 pidfile /var/run/redis/redis-server.pid
-...
+## Server Verbosity Level
 loglevel notice
-...
-# Set the number of databases. The default database is DB 0, you can select
-# a different one on a per-connection basis using SELECT <dbid> where
-# dbid is a number between 0 and 'databases'-1
+## Log File Name
+logfile /var/log/redis/redis-server.log
+## Enable logging to the system logger
+# 'syslog-enabled' to yes
+## Syslog Identity
+# syslog-ident redis
+## Syslog Facility: Must be USER or between LOCAL0-LOCAL7.
+# syslog-facility local0
+## Number of databases
 databases 16
 ...
 always-show-logo yes
-...
-#   save ""
+## SNAPSHOTTING
 save 900 1
 save 300 10
 save 60 10000
 ...
 stop-writes-on-bgsave-error yes
-...
+## Compress string objects
 rdbcompression yes
-...
+## Checksum
 rdbchecksum yes
-...
-# The filename where to dump the DB
+## The filename where to dump the DB
 dbfilename dump.rdb
-...
-# Note that you must specify a directory here, not a file name.
+## The working directory. ... Note that you must specify a directory here, not a file name.
 dir /var/lib/redis
-...
+### REPLICATION
+## Master-slave replication
 slave-serve-stale-data yes
 
 requirepass "B65Hx562F@ggAZ@F"
 ...
+## Configure a slave instance
 slave-read-only yes
+...
+## Replication SYNC strategy
+repl-diskless-sync no
+## Configure delay for diskless replication when enabled
+repl-diskless-sync-delay 5
+## Configure interval that slaves send pings to server
+# repl-ping-slave-period 10
+## Configure replication timeout
+repl-timeout 60
+## Configure TCP_NODELAY
+# repl-disable-tcp-nodelay no
+## Configure replication backlog size
+# repl-backlog-size 1mb
+...
+# repl-backlog-ttl 3600
+...
+slave-priority 100
+...
+# min-slaves-to-write 3
+# min-slaves-max-lag 10
+...
+# slave-announce-ip 5.5.5.5
+# slave-announce-port 1234
+...
+### SECURITY
+# requirepass foobared
+...
+## Command renaming.
+# rename-command CONFIG b840fc02d524045429941cc15f59e41cb7be6c52
+...
+# rename-command CONFIG ""
+...
+### CLIENTS
+...
+# maxclients 10000
+### MEMORY MANAGEMENT
+...
+# maxmemory <bytes>
+## MAXMEORY POLICY
+...
+# maxmemory-policy noeviction
+...
+# maxmemory-samples 5
+### LAZY FREEING
 ...
 lazyfree-lazy-eviction no
 lazyfree-lazy-expire no
 lazyfree-lazy-server-del no
 slave-lazy-flush no
+### APPEND ONLY MODE
 ...
-# Please check http://redis.io/topics/persistence for more information.
-
 appendonly no
-
+...
 # The name of the append only file (default: "appendonly.aof")
-
 appendfilename "appendonly.aof"
+...
+# appendfsync always
+appendfsync everysec
+# appendfsync no
+...
+no-appendfsync-on-rewrite no
+...
+auto-aof-rewrite-percentage 100
+auto-aof-rewrite-min-size 64mb
+...
+aof-load-truncated yes
+...
+aof-use-rdb-preamble no
+### LUA SCRIPTING
+...
+## Set it to 0 or a negative value for unlimited execution without warnings.
+lua-time-limit 5000
+### REDIS CLUSTER
+# cluster-enabled yes
+...
+# cluster-config-file nodes-6379.conf
+...
+# cluster-node-timeout 15000
+...
+## Zero is the only value able to guarantee that when all the partitions heal # the cluster will always be able to continue.
+# cluster-slave-validity-factor 10
+...
+# cluster-migration-barrier 1
+...
+# cluster-require-full-coverage yes
+...
+# cluster-slave-no-failover no
+### CLUSTER DOCKER/NAT support
+...
+# * cluster-announce-ip
+# * cluster-announce-port
+# * cluster-announce-bus-port
+...
+# Example:
+# cluster-announce-ip 10.1.1.5
+# cluster-announce-port 6379
+# cluster-announce-bus-port 6380
+### SLOW LOG
+# slowlog-log-slower-than 10000
+...
+slowlog-max-len 128
+### LATENCY MONITOR
+latency-monitor-threshold 0
+### EVENT MODIFICATION
+notify-keyspace-events ""
+### ADVANCED CONFIG
+hash-max-ziplist-value 64
+..
+list-max-ziplist-size -2
+...
+list-compress-depth 0
+...
+set-max-intset-entries 512
+...
+zset-max-ziplist-entries 128
+zset-max-ziplist-value 64
+...
+hll-sparse-max-bytes 3000
+...
+activerehashing yes
+...
+client-output-buffer-limit normal 0 0 0
+client-output-buffer-limit slave 256mb 64mb 60
+client-output-buffer-limit pubsub 32mb 8mb 60
+...
+hz 10
+### ACTIVE DEFRAGMENTATION
 ...
 ```
 
