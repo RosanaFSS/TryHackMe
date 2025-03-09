@@ -233,34 +233,21 @@ Export list for vulnet-internal:
 ~/VulnNetInternal# sudo mount -t nfs vulnet-internal: mount
 ```
 
-Explored <code>nfs_acl (NFS share)</code>: port 2049<br>
-Discovered <code>redis.conf</code></p>
+<p>Analyzed the hierarchy using <code>tree/code> command.<br>
+Discovered <code>redis.conf</code>.</p>
 
 ```bash
-:~/VulnNetInternal# sudo mount -t nfs Target_IP: mount
-:~/VulnNetInternal# cd mount
-:~/VulnNetInternal/mount# dir
-opt
-:~/VulnNetInternal/mount# cd opt
-:~/VulnNetInternal/mount/opt# dir
-conf
-:~/VulnNetInternal/mount/opt# cd conf
-:~/VulnNetInternal/mount/opt/conf# dir
-hp  init  opt  profile.d  redis  vim  wildmidi
-~/VulnNetInternal/mount/opt/conf/redis# ls
-redis.conf
-:~/VulnNetInternal/mount/opt/conf/redis# 
+~/VulnNetInternal# tree mount
 ```
 
-<br>
-<p>Used <code>tree</code> command.</p>
+![image](https://github.com/user-attachments/assets/f85b31cb-3043-45ea-b711-34d98185c2df)
 
-![image](https://github.com/user-attachments/assets/16f409a4-c98a-4351-9b04-cbb6396c7759)
 
-<p>Explored <code>redis</code>: port 6379.<br>
-Discovered a password, and configuration parameters.</p>
+<p>Discovered a password, and configuration parameters.</p>
 
 ```bash
+~/VulnNetInternal/mount/opt/conf/redis# ls
+redis.conf
 ~/VulnNetInternal/mount/opt/conf/redis# cat redis.conf | more
 ...
 rename-command FLUSHDB ""
@@ -297,20 +284,18 @@ loglevel notice
 databases 16
 ...
 always-show-logo yes
-....
+...
 #   save ""
-
 save 900 1
 save 300 10
 save 60 10000
-
 ...
 stop-writes-on-bgsave-error yes
 ...
 rdbcompression yes
 ...
 rdbchecksum yes
-
+...
 # The filename where to dump the DB
 dbfilename dump.rdb
 ...
