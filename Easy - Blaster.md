@@ -3,19 +3,21 @@ March 9, 2025 -  Day 307<br>
 <p>It´s a challenge where you can practice bypassing Windows UAC (User Account Control) - CVE-2019–1388 - to escalate privileges, using Metasploit framework, xfreerdp , gobuster , and nmap. A blast from the past!</p>
 
 
-![image](https://github.com/user-attachments/assets/0b7f542c-dcee-402c-b213-f37b3b92765a)
+
 
 <br>
 
 <h2>Read my complete walkthrough in Medium.</h2>
 
-<p>...</p>
+https://medium.com/@RosanaFS/blaster-bypassing-windows-uac-tryhackme-walkthrough-9567b8d286cc
 
 
 
-![image](https://github.com/user-attachments/assets/e6146d15-ee07-4218-ae7d-b0e730aa1c36)
+![image](https://github.com/user-attachments/assets/919e3e27-9a35-4d1c-95b8-4a1e4634643c)
+
 
 
 <br>
 
-![image](https://github.com/user-attachments/assets/b060c2df-3aa4-449f-a40e-9c7b949e13cf)
+![image](https://github.com/user-attachments/assets/54ac9f32-dd3b-4904-91cc-6c2a9efd2149)
+
