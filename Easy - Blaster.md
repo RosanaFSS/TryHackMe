@@ -2,6 +2,7 @@ March 9, 2025 -  Day 307<br>
 <h2>Blaster</h2>
 <p>It´s a challenge where you can practice bypassing Windows UAC (User Account Control) - CVE-2019–1388 - to escalate privileges, using Metasploit framework, xfreerdp , gobuster , and nmap. A blast from the past!</p>
 
+![image](https://github.com/user-attachments/assets/80057f09-f7d7-47e0-ba93-f4406ab062b9)
 
 
 
